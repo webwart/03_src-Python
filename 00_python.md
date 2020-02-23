@@ -12,7 +12,7 @@ This is the top-directory of my python code learning area. The first 4 month of 
 ## Set-up
 
 - python system-wide , in subfolders might use different einvironements.
-- use Git
+- use Git with [remote repository](https://github.com/webwart/03_src-Python) , keepass r.w at hm.ch - N56 - Gi
 - sync between Naples-Lab and Sion-Desk.
 
 ## Getting started
