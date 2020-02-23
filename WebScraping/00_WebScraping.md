@@ -3,19 +3,32 @@
 On Friday 20-02-2020 I found on CT Plus a nice article about web-scraping. The example is for "Das Erste - Talkshows"
 
 ## Goal
+
 1. Learn the use of request and beautiful soap module.
 2. Think about business case
 
-## Reference
-https://www.heise.de/ratgeber/Scraping-Mit-Python-Daten-von-beliebigen-Websites-auslesen-4659822.html
+## Set-up
+
+- need request, beuatifulsopa module, python 8 for CT article.
+- not decided yet if I use python system or env
 
 ## Getting started after long-time absent
-- Shall I downlod the text 
-- No env has been established
-- code has been writen
+
+- Make sure all files are updated.Sync with GIT or FFileSync.
+- open directory  with VScode
+- >N: set-up  env.
+
+## Structure and procedures
+
+>SP:
+
+## Reference
+
+Article in CT about website [scaping](https://www.heise.de/ratgeber/Scraping-Mit-Python-Daten-von-beliebigen-Websites-auslesen-4659822.html)
 
 ## Journal
 
 ### FRI  20-02-2020
--1-  Start
+
+-1-  Start  
 >N: Select env

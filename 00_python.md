@@ -4,14 +4,14 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 ## Goals
 
-- Define a working environment, where I can use python code on Win10 and uberspace.
-- Experiment with Djangon and Flask framework
-- Experiment with Machine Learning , algrorithm , and data structures
-- Experiment with python modules
+1. Define a working environment, where I can use python code on Win10 and uberspace.
+2. Experiment with Djangon and Flask framework
+3. Experiment with Machine Learning, algrorithm, and data structures
+4. Experiment with python modules
 
 ## Set-up
 
-- python system-wide , in subfolders might use different einvironements.
+- python system-wide , in subfolders I might use different einvironements.
 - use Git with [remote repository](https://github.com/webwart/03_src-Python) , keepass r.w at hm.ch - N56 - Gi
 - sync between Naples-Lab and Sion-Desk.
 
@@ -26,7 +26,7 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 >SP:
 
-## Education
+## Referennce
 
 [Data Structures & Algrorithm](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) -> Data Structures and Algorithms - teaches classes , linked lists
 
