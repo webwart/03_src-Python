@@ -13,14 +13,17 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 - python system-wide , in subfolders I might use different einvironements.
 - use Git with [remote repository](https://github.com/webwart/03_src-Python) , keepass r.w at hm.ch - N56 - Gi
-- sync between Naples-Lab and Sion-Desk.
+- I FSY  between Sion-Desk and A500GbSaT3, but not with Naples-Lab
 
 ## Getting started
 
-- Make sure all files are updated.Sync with GIT or FFileSync.
+- make sure all files are updated. FSY to github. 
 - open directory with VScode.
 - select/verify python interpreter.
 - select debug environment.
+- when finished FSY with github
+- Sion-Desk: FSY to A500GbSaT3
+- Naples-Lab: Do not FSY !
 
 ## Structure and procedures
 
@@ -43,3 +46,12 @@ On github I created the repository 03_src-Python. Then I cloned this directory i
 
 -1-  Clean-out
 \pandas\ , \SphinxTest\
+
+### THU  27-02-2020
+
+-1-  Sion-Desk¦Git
+I created a new \python\ using the git pull on Sion-Desk.
+
+-2-  Naples-Desk¦FSY
+I removed \python\ from FSY with A500GbSaT3.
+
