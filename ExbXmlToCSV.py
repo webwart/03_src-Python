@@ -1,6 +1,17 @@
-
 #!/user/  .in Unix only
-#
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Read Ecb.xml file
+#      Ref: https://docs.python.org/3/library/xml.etree.elementtree.html
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: update file path
+#  ------------------------------------
+
+#  Goals Details:
 # -open Ecb.xml file
 # -get currency and value relative to EURO
 # -get date

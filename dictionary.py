@@ -1,8 +1,19 @@
-# LEARN
-# Reference: http://learnpythonthehardway.org/book/ex39.html
-# Reference: Frank from Udemy
-# NOTE: The original code is for python 2.7
-# Date: 11.04.2019
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn dictionary
+#      Ref: http://learnpythonthehardway.org/book/ex39.html
+#      Ref: Frank from Udemy
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------ 
+
+
+
 
 # create a mapping of state to abbreviation
 states = {

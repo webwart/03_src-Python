@@ -25,7 +25,7 @@ This is the top-directory of my python code learning area. The first 4 month of 
 - Sion-Desk: FSY to A500GbSaT3
 - Naples-Lab: Do not FSY !
 
->N: Clean out and actualization of files.
+>N: Add file header to .py files. Clean out and actualization of files.
 
 ## Structure and procedures
 
@@ -62,6 +62,7 @@ I removed \python\ from FSY with A500GbSaT3.
 -1-  Clean-out
 Moved files from python-NoGit to python. Removed directories and files, which were no more relevant. 
 
--2-  Reevalution
+-2-  Reevalution¦new Header
+I added my new header for code files.
 I go throught the files update them and evaluate how to organize them in the future.
->N: ConfidenceIntervall.py
+>N: ExbXmlToCSV.py

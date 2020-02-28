@@ -1,11 +1,16 @@
-#  Author: Rainer Warth
-#  Description: Programm to find CHUV numbers
-#  Learn how use Dictionaries
-#  Ref: Python Docs Tutorial 5.5
+#!/user/  .in Unix only
 
-# HOS at Chuv (End 160216)
-# pathOnHos = "C:\\Users\\rwarth\\Documents\\Pub_CodeDev\\TestData\\"
-# Amalfi
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Programm to find CHUV numbers
+#      Ref: Python Docs Tutorial 5.5
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs 
+#       >N: -- 
+#  ------------------------------------ 
+
 pathOn = "C:\\Users\\Public\\01_data\\"
 
 tableDictio = {}

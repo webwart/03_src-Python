@@ -1,4 +1,18 @@
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn to use strings.
+#      Ref: Edx course Computer Science
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------ 
+
 # String examples from the Edx course Computer Science
+
 ex01= "abcd"[2]
 print(ex01)
 print('-----')

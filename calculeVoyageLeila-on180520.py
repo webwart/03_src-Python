@@ -1,3 +1,16 @@
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: learn how to present calculations.
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs 
+#       >N: -- 
+#  ------------------------------------ 
+
 # Final account
 Pat_Voiture     = 645/3     # 2 pilots et 1 co-pilot 
 Lei_Chambre1    = 85.05     # Hotel a Vannes 

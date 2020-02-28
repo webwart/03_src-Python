@@ -1,19 +1,27 @@
-# description: Obtains Lists of directories and files 
-# author: Rainer Warth
-# data: 19.08.2015
-# DEV: Testdata \Pub_CodeDev\TestData\EndnoteJabRef\
-# PROD:
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Obtain Lists of directories and files
+#      Ref: http://www.diveintopython.net/file_handling/os_module.html
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------ 
+
 import os
 
 # PROD: walk through directories on Windows \SBP-In\
-# read directory name and file name in the directory
-# Ref: http://www.diveintopython.net/file_handling/os_module.html
+
 print("Start now")
 os.path.join("c:\\music\\ap\\", "mahadeva.mp3")
 
 # create list/directory filled with directory name and file name
 
-dirRoot = os.listdir ("C:\\Users\\rwarth\\Documents\\SBP-Next\\150513_Director-SBP\\i-Applications")
+# dirRoot = os.listdir ("C:\\Users\\rwarth\\Documents\\SBP-Next\\150513_Director-SBP\\i-Applications")
+dirRoot = os.listdir ("C:\\Users\\Public\\01_data")
 
 
 # pathOnHos = "C:\\Users\\rwarth\\PUB-Documents\\Pub_CodeDev\\TestData\\"
