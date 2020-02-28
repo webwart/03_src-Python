@@ -25,6 +25,8 @@ This is the top-directory of my python code learning area. The first 4 month of 
 - Sion-Desk: FSY to A500GbSaT3
 - Naples-Lab: Do not FSY !
 
+>N: Clean out and actualization of files.
+
 ## Structure and procedures
 
 >SP:
@@ -55,3 +57,11 @@ I created a new \python\ using the git pull on Sion-Desk.
 -2-  Naples-Desk¦FSY
 I removed \python\ from FSY with A500GbSaT3.
 
+###  FRI  28-02-2020
+
+-1-  Clean-out
+Moved files from python-NoGit to python. Removed directories and files, which were no more relevant. 
+
+-2-  Reevalution
+I go throught the files update them and evaluate how to organize them in the future.
+>N: ConfidenceIntervall.py
