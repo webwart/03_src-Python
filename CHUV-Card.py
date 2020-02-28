@@ -4,9 +4,9 @@
 #  Ref: Python Docs Tutorial 5.5
 
 # HOS at Chuv (End 160216)
-pathOnHos = "C:\\Users\\rwarth\\Documents\\Pub_CodeDev\\TestData\\"
+# pathOnHos = "C:\\Users\\rwarth\\Documents\\Pub_CodeDev\\TestData\\"
 # Amalfi
-pathOn = "C:\\Users\\Public\\Documents\\Pub_CodeDev\\TestData\\"
+pathOn = "C:\\Users\\Public\\01_data\\"
 
 tableDictio = {}
 
@@ -15,6 +15,7 @@ try:
                 
 except IOError:
     print("the file myfile does not exist!!!")
+    exit
     
 for line in file:
     listPosCode = line.split(":")
