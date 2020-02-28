@@ -1,0 +1,632 @@
+0
+00:00:00,000 --> 00:00:00,280
+...
+
+1
+00:00:00,280 --> 00:00:02,660
+We've been introducing things into our language that are
+
+2
+00:00:02,660 --> 00:00:04,160
+adding power to our language.
+
+3
+00:00:04,160 --> 00:00:06,130
+We started with simple objects.
+
+4
+00:00:06,130 --> 00:00:08,880
+We introduced the notion of doing conditionals on them that
+
+5
+00:00:08,880 --> 00:00:10,230
+gave us branching.
+
+6
+00:00:10,230 --> 00:00:12,510
+Programs, we then introduced iteration.
+
+7
+00:00:12,510 --> 00:00:14,592
+We then generalized that to functions,
+
+8
+00:00:14,592 --> 00:00:16,050
+which let us do things like writing
+
+9
+00:00:16,050 --> 00:00:18,520
+both iterative and recursive functions,
+
+10
+00:00:18,520 --> 00:00:20,100
+and then we've introduced the first
+
+11
+00:00:20,100 --> 00:00:24,430
+of our compound kinds of data structures, tuples and lists.
+
+12
+00:00:24,430 --> 00:00:26,440
+We're now going to build on those ideas in two
+
+13
+00:00:26,440 --> 00:00:27,830
+different directions.
+
+14
+00:00:27,830 --> 00:00:30,580
+First, we're going to talk about how we can use functions
+
+15
+00:00:30,580 --> 00:00:32,670
+themselves as objects.
+
+16
+00:00:32,670 --> 00:00:35,170
+Sounds a little strange, but it's really valuable.
+
+17
+00:00:35,170 --> 00:00:37,170
+And then we're going to introduce an even more
+
+18
+00:00:37,170 --> 00:00:39,790
+powerful kind of data structure called
+
+19
+00:00:39,790 --> 00:00:41,740
+a dictionary, that's going to give us
+
+20
+00:00:41,740 --> 00:00:45,410
+the same kinds of abilities as lists but add other things in.
+
+21
+00:00:45,410 --> 00:00:47,730
+So let's look at that.
+
+22
+00:00:47,730 --> 00:00:49,280
+I want to start by going up a level
+
+23
+00:00:49,280 --> 00:00:52,630
+and talking just for a second about functions.
+
+24
+00:00:52,630 --> 00:00:54,980
+In programming languages, we refer to functions
+
+25
+00:00:54,980 --> 00:00:57,110
+as first class objects.
+
+26
+00:00:57,110 --> 00:00:59,100
+Something that's nice to aspire to.
+
+27
+00:00:59,100 --> 00:00:59,980
+What does it mean?
+
+28
+00:00:59,980 --> 00:01:02,660
+It means that it has a type.
+
+29
+00:01:02,660 --> 00:01:05,550
+It also means that it can be used as elements
+
+30
+00:01:05,550 --> 00:01:07,640
+of data structures, like lists.
+
+31
+00:01:07,640 --> 00:01:09,942
+And finally, it means that it can be used inside
+
+32
+00:01:09,942 --> 00:01:10,650
+of an expression.
+
+33
+00:01:10,650 --> 00:01:12,490
+It could be part of an assignment statement
+
+34
+00:01:12,490 --> 00:01:15,380
+or as an argument to a function.
+
+35
+00:01:15,380 --> 00:01:17,530
+And I say that because, in some ways,
+
+36
+00:01:17,530 --> 00:01:19,490
+functions can be used in the same places
+
+37
+00:01:19,490 --> 00:01:21,730
+we would use numbers or we would use strings
+
+38
+00:01:21,730 --> 00:01:23,690
+or we would use lists.
+
+39
+00:01:23,690 --> 00:01:25,194
+Numbers have a type.
+
+40
+00:01:25,194 --> 00:01:26,860
+They can be elements of a data structure
+
+41
+00:01:26,860 --> 00:01:28,990
+and they can appear inside of expressions.
+
+42
+00:01:28,990 --> 00:01:30,582
+Same thing with strings.
+
+43
+00:01:30,582 --> 00:01:32,040
+It turns out functions can as well.
+
+44
+00:01:32,040 --> 00:01:35,170
+And that leads to some really interesting kinds of behaviors
+
+45
+00:01:35,170 --> 00:01:37,260
+that we might like to be able to use.
+
+46
+00:01:37,260 --> 00:01:38,950
+And it's particularly useful when
+
+47
+00:01:38,950 --> 00:01:42,720
+we want to use functions as arguments coupled together
+
+48
+00:01:42,720 --> 00:01:44,470
+with doing things on lists.
+
+49
+00:01:44,470 --> 00:01:47,290
+We often refer to this as higher order programming.
+
+50
+00:01:47,290 --> 00:01:49,720
+We're using functions, for example, inside
+
+51
+00:01:49,720 --> 00:01:52,660
+of lists to do things on lists.
+
+52
+00:01:52,660 --> 00:01:55,340
+And let me show you an example of that.
+
+53
+00:01:55,340 --> 00:01:58,630
+Here's a nice little function, it's called apply to each.
+
+54
+00:01:58,630 --> 00:02:02,140
+You can see from the docstring it assumes two things.
+
+55
+00:02:02,140 --> 00:02:04,720
+It assumes that l is a list and it is assumes
+
+56
+00:02:04,720 --> 00:02:06,210
+that f is a function.
+
+57
+00:02:06,210 --> 00:02:09,229
+And it's going to mutate l by replacing
+
+58
+00:02:09,229 --> 00:02:13,670
+each element with that function applied to that element.
+
+59
+00:02:13,670 --> 00:02:17,290
+The loop is sort of what you'd expect on nicely iterating down
+
+60
+00:02:17,290 --> 00:02:19,190
+the length of the list.
+
+61
+00:02:19,190 --> 00:02:21,320
+And I'm saying, basically for each index that
+
+62
+00:02:21,320 --> 00:02:24,370
+goes into the list, get out the element of the list,
+
+63
+00:02:24,370 --> 00:02:28,120
+apply f to it, and then put that back in that spot
+
+64
+00:02:28,120 --> 00:02:29,700
+inside of the list.
+
+65
+00:02:29,700 --> 00:02:32,960
+So I'm literally applying that function
+
+66
+00:02:32,960 --> 00:02:35,240
+to each element of the list.
+
+67
+00:02:35,240 --> 00:02:38,380
+Remember I'm also mutating the list as I do it.
+
+68
+00:02:38,380 --> 00:02:40,240
+So let's look at a little example.
+
+69
+00:02:40,240 --> 00:02:45,830
+Imagine I have a list, l, that's 1 minus 2 and 3.4.
+
+70
+00:02:45,830 --> 00:02:48,340
+I have my little function applied to each.
+
+71
+00:02:48,340 --> 00:02:52,400
+And I first say apply to each, apply that to the list, l,
+
+72
+00:02:52,400 --> 00:02:55,470
+with the function ABS, or absolute value.
+
+73
+00:02:55,470 --> 00:02:58,530
+What it will do is walk down the list applying ABS
+
+74
+00:02:58,530 --> 00:03:02,180
+to each element in turn, so that when I'm done with that,
+
+75
+00:03:02,180 --> 00:03:06,230
+l now has the structure shown on the slide.
+
+76
+00:03:06,230 --> 00:03:07,920
+They're all positive.
+
+77
+00:03:07,920 --> 00:03:09,690
+And I could do the same thing.
+
+78
+00:03:09,690 --> 00:03:12,360
+Apply INT to each of them.
+
+79
+00:03:12,360 --> 00:03:14,110
+1 and 2 of course are already INTs.
+
+80
+00:03:14,110 --> 00:03:17,600
+3.4 gets truncated to just being 3.
+
+81
+00:03:17,600 --> 00:03:20,260
+If I define factorial-- which we talked about in an earlier
+
+82
+00:03:20,260 --> 00:03:23,530
+lecture-- I could apply that to each element of the list
+
+83
+00:03:23,530 --> 00:03:25,210
+and get 1, 2, 6.
+
+84
+00:03:25,210 --> 00:03:27,700
+And if I apply Fibonacci-- which I defined in an earlier
+
+85
+00:03:27,700 --> 00:03:33,447
+lecture-- to each element again, I would again mutate the list.
+
+86
+00:03:33,447 --> 00:03:34,530
+All right, a little funky.
+
+87
+00:03:34,530 --> 00:03:35,900
+But what am I doing here?
+
+88
+00:03:35,900 --> 00:03:39,440
+I'm now able to think about doing something
+
+89
+00:03:39,440 --> 00:03:42,190
+to each element of the list just as an operation.
+
+90
+00:03:42,190 --> 00:03:45,800
+Apply to each is literally saying, given a data structure,
+
+91
+00:03:45,800 --> 00:03:48,225
+give me back a version of that data structure-- in fact,
+
+92
+00:03:48,225 --> 00:03:49,600
+it's pointing to the same thing--
+
+93
+00:03:49,600 --> 00:03:51,410
+but give me back that data structure
+
+94
+00:03:51,410 --> 00:03:54,390
+where I've done something to each element of the list.
+
+95
+00:03:54,390 --> 00:03:56,650
+In this case using a function.
+
+96
+00:03:56,650 --> 00:03:59,700
+Handy tool to have.
+
+97
+00:03:59,700 --> 00:04:01,710
+I could do it the other direction,
+
+98
+00:04:01,710 --> 00:04:07,550
+which is, I could apply a list of functions to a number.
+
+99
+00:04:07,550 --> 00:04:09,520
+Again, I can loop over that list.
+
+100
+00:04:09,520 --> 00:04:12,780
+And in this case, apply FUNCs, or apply functions,
+
+101
+00:04:12,780 --> 00:04:16,610
+is assuming that l is a list of functions.
+
+102
+00:04:16,610 --> 00:04:19,399
+And it loops over, and it says, for each element of that list,
+
+103
+00:04:19,399 --> 00:04:25,080
+l, apply it, assuming it's a function, to the argument, x,
+
+104
+00:04:25,080 --> 00:04:27,080
+and print out the result.
+
+105
+00:04:27,080 --> 00:04:28,770
+And so if I do that now, with again,
+
+106
+00:04:28,770 --> 00:04:32,740
+ABS, INT, FACT, and FIB on 4, it prints out
+
+107
+00:04:32,740 --> 00:04:35,340
+the absolute value of 4, the integer portion of 4,
+
+108
+00:04:35,340 --> 00:04:39,010
+factorial of 4, and the Fibonacci of 4.
+
+109
+00:04:39,010 --> 00:04:41,950
+Treating the functions as if they were themselves
+
+110
+00:04:41,950 --> 00:04:44,350
+first class objects and simply giving it a list
+
+111
+00:04:44,350 --> 00:04:45,640
+of functions in this case.
+
+112
+00:04:45,640 --> 00:04:49,680
+A perfectly reasonable thing to do.
+
+113
+00:04:49,680 --> 00:04:52,080
+That idea I can generalize.
+
+114
+00:04:52,080 --> 00:04:55,650
+And in fact, Python provides a very nice generalization,
+
+115
+00:04:55,650 --> 00:04:58,330
+something we call a higher order procedure.
+
+116
+00:04:58,330 --> 00:05:00,080
+It's called map.
+
+117
+00:05:00,080 --> 00:05:01,770
+And here's what map does.
+
+118
+00:05:01,770 --> 00:05:06,560
+In its simplest form, it takes the function--
+
+119
+00:05:06,560 --> 00:05:11,140
+a function that expects only one argument-- it takes
+
+120
+00:05:11,140 --> 00:05:15,020
+a collection, in this case a list of appropriate arguments,
+
+121
+00:05:15,020 --> 00:05:16,930
+and it literally creates a list where
+
+122
+00:05:16,930 --> 00:05:22,230
+it has applied that function to each element in turn.
+
+123
+00:05:22,230 --> 00:05:27,265
+So it will return an iterable then we need to walk down.
+
+124
+00:05:27,265 --> 00:05:28,390
+And in fact, I can do that.
+
+125
+00:05:28,390 --> 00:05:31,340
+Having done that map, it gives me back a collection of them.
+
+126
+00:05:31,340 --> 00:05:33,870
+And I can walk down them, in turn printing them out.
+
+127
+00:05:33,870 --> 00:05:37,580
+And it will print out the values of all of those pieces.
+
+128
+00:05:37,580 --> 00:05:38,890
+I want to say that again.
+
+129
+00:05:38,890 --> 00:05:41,420
+Because in the previous case, I was mutating a list.
+
+130
+00:05:41,420 --> 00:05:44,340
+Here, map gives me back a structure
+
+131
+00:05:44,340 --> 00:05:46,840
+that's going to act like a list, but it's something
+
+132
+00:05:46,840 --> 00:05:49,990
+that I have to walk down, iterate over, to get back out.
+
+133
+00:05:49,990 --> 00:05:51,587
+That's OK, in this case, I did it.
+
+134
+00:05:51,587 --> 00:05:53,170
+If I wanted to convert it into a list,
+
+135
+00:05:53,170 --> 00:05:55,380
+I could walk down it, accumulating results
+
+136
+00:05:55,380 --> 00:05:56,980
+into a list.
+
+137
+00:05:56,980 --> 00:05:59,160
+So map's a really nice way of abstracting
+
+138
+00:05:59,160 --> 00:06:03,800
+this idea of applying something to a collection.
+
+139
+00:06:03,800 --> 00:06:08,010
+In fact, map has a more general form,
+
+140
+00:06:08,010 --> 00:06:11,660
+which is I could give it a collection of functions that
+
+141
+00:06:11,660 --> 00:06:14,890
+expect more than one argument, what we would call
+
+142
+00:06:14,890 --> 00:06:17,760
+an n-ary function, because it expects n arguments.
+
+143
+00:06:17,760 --> 00:06:20,750
+And if I give it, for example, two lists,
+
+144
+00:06:20,750 --> 00:06:23,560
+I can map a function down those pairs of lists,
+
+145
+00:06:23,560 --> 00:06:26,430
+and what it will do is take the first element of each list,
+
+146
+00:06:26,430 --> 00:06:29,000
+apply that function to it, take the second element
+
+147
+00:06:29,000 --> 00:06:31,170
+of each list, apply that function to it,
+
+148
+00:06:31,170 --> 00:06:33,410
+and generate for us something that
+
+149
+00:06:33,410 --> 00:06:35,410
+has the result of doing that processing.
+
+150
+00:06:35,410 --> 00:06:37,850
+And in this case, it's giving me the minimum
+
+151
+00:06:37,850 --> 00:06:41,160
+of the two lists in each place, as you can see here.
+
+152
+00:06:41,160 --> 00:06:44,360
+There's the minimum, there's the minimum, there's the minimum,
+
+153
+00:06:44,360 --> 00:06:46,110
+and it reduces for me something that
+
+154
+00:06:46,110 --> 00:06:48,800
+has that particular structure.
+
+155
+00:06:48,800 --> 00:06:51,580
+Map, a very nice generalization about thinking
+
+156
+00:06:51,580 --> 00:06:54,490
+about using functions just as if they were objects that can be
+
+157
+00:06:54,490 --> 00:06:57,070
+applied in appropriate places.
+

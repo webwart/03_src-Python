@@ -1,0 +1,356 @@
+...
+When I introduce lists, I said they were different from tuples
+primarily because they're mutable.
+I can change elements inside of that.
+That's a really handy tool to have,
+but it causes some really interesting potential
+for problems.
+And I want to show you where those can arise
+and how you can guard against them.
+So we're now going to talk about the idea of, not only mutation,
+but of aliasing and of cloning, topics
+that are really important, a little tricky to understand.
+And again, go look at the Python tutor
+if you want some help working through this after you've
+listened to what we're about to discuss.
+But let's think about this idea.
+Again, I said that lists are mutable.
+I can change them.
+As a consequence-- it's not surprising-- they're
+going to behave differently than immutable types.
+In particular, what is a list?
+It's an object in memory.
+And I have a variable somewhere typically that's
+going to point to that object.
+That's how I refer to it.
+That's how I say give me something
+at a particular index.
+One of the things about the list,
+though, is I could have multiple variables pointing
+to the same list.
+These are now clones, if you like,
+or copies-- actually, I'm going to say that differently.
+They're not yet copies.
+They are the same instance, but different names for them.
+So they're really just aliases for that.
+One of the things that could happen then
+is that, if I go in and change an element of a list
+under one name, it also changes under the version
+as I reference it from the other name
+because it points to the same place.
+And that has some really potential for big side effects
+that can cause interesting problems for us.
+Let me give you an analogy.
+I could have a famous person, and I could
+associate attributes with them.
+That person might also be known by many, different names.
+So they could have nicknames.
+And all of those nicknames point to the same person.
+So for some of you, here's a famous person.
+He's known as Justin Drew Bieber or as Justin Bieber
+or as-- there's a whole bunch of nicknames for this young man.
+And he also has some attributes associated with him.
+He's a singer, and he's rich.
+But if I add a new attribute to him,
+something he's done recently, all of his nicknames
+also refer to both the old attributes and the new ones.
+So that the Bieb is not just a singer and rich,
+he's also a troublemaker.
+And J. Biebs is not just a singer
+and rich, he's also a troublemaker,
+all due respect to Mr. Bieber.
+The point is that you share information
+because you have aliases or nicknames
+for the same structure.
+Same problem, same issue, same opportunity
+arises with the list.
+So let's look at a couple of examples here.
+I'm going to create a list-- and I'm
+going to show you both on my computer
+and separately-- of warm colors.
+So I'm going to say, "This is a list
+of red and yellow and orange."
+And I'm going to say, "Hot is the same as warm."
+In my global frame, I've actually created a binding,
+where warm is bound to the list whose first element is
+the string red, second element is yellow,
+third element is orange.
+Hot-- where does it point?
+Oh, to the same place because notice what I did here.
+I said, get the value of warm-- which is that arrow-- and bind
+the name hot to the same place.
+So it binds to that list.
+And that says, as a consequence, two things.
+One is if I print warm, I'm going to get that list.
+If I print hot, I'm going to get that list.
+But now, if I append something to hot, and I say,
+"At the end of hot, add in a new hot color, pink."
+What is hot?
+It's that list.
+But what is warm?
+It's the same list.
+And that's because I literally, in hot, added this element in,
+and because warm points to the exact same structure,
+it now has changed.
+It has mutated.
+And that's tricky because I might not
+have intended to change warm but only hot since they were
+pointing to the same thing.
+One was an alias for the other.
+I've had that indirect side effect that I wasn't expecting.
+
+One of the consequences of this is that print is not the same
+as a quality.
+Strange statement.
+But what it says is, even if two lists print out the same thing,
+that does not mean they are the same structure.
+And I can test that by mutating one and checking.
+So again, let me type this in.
+I'm going to give cool a set of colors-- blue, green, and gray.
+
+And I'm going to define chill to also
+be the set of cooler colors.
+
+Notice this is different than what
+I did in the previous case.
+In the previous case, I said let hot equal warm.
+Have it be the point of the same structure.
+Here they point to different versions
+of the same set of strings.
+And you see that right here.
+Cool is that list.
+Chill is that list.
+And while the names are the same,
+they are different structures.
+And so, in fact, if I look at cool-- I'm
+going to do it more formally-- if I print out cool,
+it prints that.
+If I print out chill, looks the same, but they're not.
+And here's how I can show it.
+Because I can mutate them, I'm going
+to change the second element of chill to be blue.
+And now if I print cool, I still get blue, green, gray.
+But if I print chill, I get blue, green, blue.
+And that's important.
+Because initially it might have looked
+like they're the same thing.
+They print the same.
+They are not.
+They point to different structures.
+We have to be careful when we think about what we're
+doing to test the quality, and we
+have to be careful when we think about how we use elements
+of structures that can mutate.
+The third thing I can do is I can clone a list.
+I can make a copy of it.
+And so I can make a slight change
+in what I did earlier on, which is that I could define cool,
+again, to be this list of the cooler colors-- blue, green,
+and gray.
+
+And rather than copying the same set of strings over again,
+I can simply say I want chill to be a clone of cool.
+And again, notice the difference.
+In the very first example, I said something
+like let hot equal warm.
+I could have said let chill equal cool.
+But then chill would have pointed
+to exactly the same list.
+With that colon in there, I make a copy of chill.
+And you can see that over here.
+I've got cool pointing to one version.
+I've got chill pointing to a second version.
+And that now says, for example, if I mutate chill,
+I append to it the color black.
+
+And I print out chill.
+
+Black is there, but cool has not changed.
+And that makes sense because cool
+is pointing to this structure.
+I mutated or changed that structure.
+Cloning lists is really useful when
+I want to do something with a list that involves mutation,
+but I don't want to, in fact, change the original list.
+I can make a copy very quickly and use it.
+And I'm going to show you an example of that
+in just a second.
+But we've seen aliasing and some of the effects of that
+in terms of side effects.
+We've seen cloning, and we've seen the fact
+that because lists are mutable, I have to be careful
+when I want to ask about are two things the same,
+even if they print the same way.
+We've already talked about this, but I want
+to give you one more example.
+I can sort a list, and I suggest that there
+are two ways to do the sort.
+I could use Sort, or I could use Sorted.
+Sort mutates the list, changes the actual structure
+but doesn't return anything.
+Sorted doesn't mutate the list, essentially makes
+a new version of the list in sorted order and returns that.
+So I'm going to have to reassign that result to a variable.
+And I've shown you an example here.
+I started off with warm as a sequence of three colors.
+I called Sort on it.
+That's the method associated with warm.
+And it will literally change the order of them.
+And in fact, you can see over here,
+after I've done that, warm is now
+in a different order from where I started.
+And so I have a different structure to that.
+And in fact, warm now points to something different than what
+I really originally began with.
+Sorted warm has no value because Sort does not return anything.
+If on the other hand, I set up cool as this list structure,
+and I call Sorted on it-- which I do right there--
+I'm going to return that to a variable name
+because Sorted does not mutate the list.
+Cool will not change in this case.
+But what it will return is a new sorted list,
+and I've now created a binding that points to that structure.
+I'm sure somewhere along the line
+you're going to use the wrong version of Sort of Sorted.
+I do regularly.
+It's OK.
+But what you should see here is that if I
+don't mind the mutation of the list, in fact, if I want it,
+I can change it in place, using sort.
+If I don't want to mutate the list,
+I use Sorted, two useful tools to have associated with lists.
+I can of course have, as I've already said,
+arbitrary structures inside of lists.
+So I could have nested lists, lists of lists.
+They might be even lists of lists of lists.
+One of the things that can happen here
+is that I can still get side effects that
+can occur after mutation.
+And so let me show you an example of this.
+I've defined warm to be the list of yellow and orange.
+I've defined hot to be the list red.
+So I've got warm.
+I've got hot.
+Then I'm going to set up bright colors to be a list of warm.
+And there's the formation of it with the square braces.
+And in fact, if I do it over here,
+I'm going to set up warm to be the list of yellow and orange.
+I said hot would be the list of red.
+And bright colors is just a list of warm,
+which is itself a list.
+So there's the value of warm.
+There's the value of hot.
+And let's look at bright colors.
+
+Oh, funky.
+Two square braces.
+The outer square braces say it's a list.
+There's only one element in it.
+And that element is itself a list that
+has two things inside of it.
+Now let's add something to bright colors.
+I'm going to say, to bright colors, append at the end hot.
+And I know what hot is it.
+It is itself a list.
+I created that earlier on.
+And if I print out bright colors-- oh, very nice--
+the outer square braces say it's a list.
+And notice, I've got two elements inside of this.
+The first one is a list that happens to be of two elements.
+The second one is a list that happens to be of one element.
+And you can see that here because bright colors
+points to a list, each element of which itself
+points to a list.
+Now let's append, to hot, the color pink.
+
+And if I do that-- I've already added it over here.
+Let's see what happens if I print out hot.
+Not surprisingly, it's a list of red and pink.
+But notice the strange effect.
+I didn't do anything here that directly used bright colors.
+I didn't say do something to bright colors.
+But if I print out bright colors, it's changed.
+And it's changed, again, because of that aliasing or side
+effect.
+Because bright colors points to something,
+one of whose elements points to a list,
+when I change hot-- which I did-- I've also indirectly
+changed bright colors.
+And you can imagine this is occasionally
+going to cause you some difficulties if you
+change something you weren't expecting.
+We'll see that having aliases can be valuable,
+but we've already seen it could cause some side effects that I
+wasn't expecting and could lead to computations
+that aren't what I wanted.
+Finally, if I print out the whole thing of hot plus warm,
+I get, in this case, the nice concatenation of them.
+But again, I haven't changed anything inside
+of this structure.
+And I remind you that's what we wanted, in some cases,
+use concatenation because we want
+to make a version of things that are glued together
+rather than changing things in place.
+And just to show you that.
+If I go back and print hot, nothing has changed.
+It's still red and pink.
+One last topic about mutation, especially as
+you come around to doing things around iteration.
+If I'm going to iterate over a list,
+I really want to avoid mutating that list as I iterate over it.
+And here's a little piece of code
+this intended to remove duplicates from two lists.
+The idea is if I've got two lists,
+I'd like to loop through the first list
+and then go over the second list and say,
+if I've already got a copy of that,
+I'm going to remove it from the first list.
+And I want to show you an example of this.
+I'm going to just type in very quickly,
+"Remove dupe of L1 and L2."
+And it says, "4E and L1."
+I'm going to say, "If it's already in L2,
+I'm going to remove it from L1."
+So there's a definition list.
+As we've got on the slide, give it two examples.
+I got one, two, three, four for L1,
+and I have one, two, five, six, for L2.
+
+And I do Remove Dupes of L1 from L2.
+And I look at L1.
+And it's two, three, four.
+Wait a minute.
+Why didn't I remove two?
+Two also appears in L2 as well as in L1.
+I should have removed it from L1, and I didn't.
+Why?
+And the answer is that Python, because it's
+going over an iterable, uses an internal counter
+to keep track of where it is inside the loop, what
+element of the list is it going to be getting to next.
+It's basically saying, how many times
+have I gone through this loop.
+When I mutate, which Remove does, when I mutate the list,
+it changes the list, and it actually
+caused Python to never see the element two.
+Because it had gone through it the first time.
+I've removed one.
+I've mutated.
+It's thinking, I'm going to look at the next element,
+but I've changed the size of the list.
+And the next element is no longer two.
+It's now three.
+So if I'm going to want to do something like this,
+I have a tool.
+I can't do that, but what I can do is make a copy.
+And by making a copy, by cloning the list first, now
+when I'm mutating L1, I've still got something
+that I'm iterating over that hasn't
+changed because it's pointing to a different structure.
+Again, a place where you want to be
+careful about accidentally causing problems
+because of the mutation.
+Just like in biology, mutation is not always a good thing.
+Same thing in computer science or in Python.
+It can be useful, but we ought to be careful about the side
+effects that show up.

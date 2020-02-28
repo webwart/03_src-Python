@@ -1,0 +1,158 @@
+...
+We've been introducing things into our language that are
+adding power to our language.
+We started with simple objects.
+We introduced the notion of doing conditionals on them that
+gave us branching.
+Programs, we then introduced iteration.
+We then generalized that to functions,
+which let us do things like writing
+both iterative and recursive functions,
+and then we've introduced the first
+of our compound kinds of data structures, tuples and lists.
+We're now going to build on those ideas in two
+different directions.
+First, we're going to talk about how we can use functions
+themselves as objects.
+Sounds a little strange, but it's really valuable.
+And then we're going to introduce an even more
+powerful kind of data structure called
+a dictionary, that's going to give us
+the same kinds of abilities as lists but add other things in.
+So let's look at that.
+I want to start by going up a level
+and talking just for a second about functions.
+In programming languages, we refer to functions
+as first class objects.
+Something that's nice to aspire to.
+What does it mean?
+It means that it has a type.
+It also means that it can be used as elements
+of data structures, like lists.
+And finally, it means that it can be used inside
+of an expression.
+It could be part of an assignment statement
+or as an argument to a function.
+And I say that because, in some ways,
+functions can be used in the same places
+we would use numbers or we would use strings
+or we would use lists.
+Numbers have a type.
+They can be elements of a data structure
+and they can appear inside of expressions.
+Same thing with strings.
+It turns out functions can as well.
+And that leads to some really interesting kinds of behaviors
+that we might like to be able to use.
+And it's particularly useful when
+we want to use functions as arguments coupled together
+with doing things on lists.
+We often refer to this as higher order programming.
+We're using functions, for example, inside
+of lists to do things on lists.
+And let me show you an example of that.
+Here's a nice little function, it's called apply to each.
+You can see from the docstring it assumes two things.
+It assumes that l is a list and it is assumes
+that f is a function.
+And it's going to mutate l by replacing
+each element with that function applied to that element.
+The loop is sort of what you'd expect on nicely iterating down
+the length of the list.
+And I'm saying, basically for each index that
+goes into the list, get out the element of the list,
+apply f to it, and then put that back in that spot
+inside of the list.
+So I'm literally applying that function
+to each element of the list.
+Remember I'm also mutating the list as I do it.
+So let's look at a little example.
+Imagine I have a list, l, that's 1 minus 2 and 3.4.
+I have my little function applied to each.
+And I first say apply to each, apply that to the list, l,
+with the function ABS, or absolute value.
+What it will do is walk down the list applying ABS
+to each element in turn, so that when I'm done with that,
+l now has the structure shown on the slide.
+They're all positive.
+And I could do the same thing.
+Apply INT to each of them.
+1 and 2 of course are already INTs.
+3.4 gets truncated to just being 3.
+If I define factorial-- which we talked about in an earlier
+lecture-- I could apply that to each element of the list
+and get 1, 2, 6.
+And if I apply Fibonacci-- which I defined in an earlier
+lecture-- to each element again, I would again mutate the list.
+All right, a little funky.
+But what am I doing here?
+I'm now able to think about doing something
+to each element of the list just as an operation.
+Apply to each is literally saying, given a data structure,
+give me back a version of that data structure-- in fact,
+it's pointing to the same thing--
+but give me back that data structure
+where I've done something to each element of the list.
+In this case using a function.
+Handy tool to have.
+I could do it the other direction,
+which is, I could apply a list of functions to a number.
+Again, I can loop over that list.
+And in this case, apply FUNCs, or apply functions,
+is assuming that l is a list of functions.
+And it loops over, and it says, for each element of that list,
+l, apply it, assuming it's a function, to the argument, x,
+and print out the result.
+And so if I do that now, with again,
+ABS, INT, FACT, and FIB on 4, it prints out
+the absolute value of 4, the integer portion of 4,
+factorial of 4, and the Fibonacci of 4.
+Treating the functions as if they were themselves
+first class objects and simply giving it a list
+of functions in this case.
+A perfectly reasonable thing to do.
+That idea I can generalize.
+And in fact, Python provides a very nice generalization,
+something we call a higher order procedure.
+It's called map.
+And here's what map does.
+In its simplest form, it takes the function--
+a function that expects only one argument-- it takes
+a collection, in this case a list of appropriate arguments,
+and it literally creates a list where
+it has applied that function to each element in turn.
+So it will return an iterable then we need to walk down.
+And in fact, I can do that.
+Having done that map, it gives me back a collection of them.
+And I can walk down them, in turn printing them out.
+And it will print out the values of all of those pieces.
+I want to say that again.
+Because in the previous case, I was mutating a list.
+Here, map gives me back a structure
+that's going to act like a list, but it's something
+that I have to walk down, iterate over, to get back out.
+That's OK, in this case, I did it.
+If I wanted to convert it into a list,
+I could walk down it, accumulating results
+into a list.
+So map's a really nice way of abstracting
+this idea of applying something to a collection.
+In fact, map has a more general form,
+which is I could give it a collection of functions that
+expect more than one argument, what we would call
+an n-ary function, because it expects n arguments.
+And if I give it, for example, two lists,
+I can map a function down those pairs of lists,
+and what it will do is take the first element of each list,
+apply that function to it, take the second element
+of each list, apply that function to it,
+and generate for us something that
+has the result of doing that processing.
+And in this case, it's giving me the minimum
+of the two lists in each place, as you can see here.
+There's the minimum, there's the minimum, there's the minimum,
+and it reduces for me something that
+has that particular structure.
+Map, a very nice generalization about thinking
+about using functions just as if they were objects that can be
+applied in appropriate places.

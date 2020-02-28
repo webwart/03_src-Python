@@ -1,0 +1,237 @@
+...
+Just as strings come with standard operations in Python,
+so do lists and tuples.
+And I want to show you examples of standard operations
+and lists that are really valuable to have.
+The first one is, I could add something
+to the end of the list.
+And that's going to be nice as I want to accumulate results.
+So let me show you a little example here.
+I'm going to type in a definition for l as the list.
+So a square race of 2, 1, and 3.
+And just to make sure it's right,
+I'm going to print out what l is, and there it is.
+If I want to add something to the end of the list,
+I can do that with append.
+And there's a dot there that I'm going
+to come back to in a second.
+But I could append 5 to the end of the list.
+It doesn't print anything, but it's done something for me.
+And what's it done?
+It's actually added 5 to the end of l.
+So there is now the structure of it.
+And the key issue here, is it has mutated it.
+It has actually changed l itself.
+So anything that was depending on l being three elements long
+is now in trouble because it's now four elements long.
+Now what about that funky little dot?
+We've seen an example of this earlier,
+we're going to see more of it later on.
+This dot is taking advantage of something inside of Python.
+Everything in Python, or almost everything in Python,
+is an object.
+And lists are an example of a Python object, a collection
+of things put together.
+Objects have data inside of them but they also
+have methods and functions.
+And we get to that by using that dot.
+So, given an object name, for example, here it
+was l, the dot says, get out some method.
+Or if you want to think of it, some
+function, associated with that kind of object.
+And then call it, open print followed by close print.
+And that's literally what's happening here,
+is this dot is saying, look at l, what is it, it's a list.
+So get the append method, or function, associated with lists
+and apply it.
+We'll come back to that later on but that's
+what's happening when we use the append there.
+Key point here is append can add something to a list.
+Good thing to have.
+We could also concatenate as we did with tuples or strings.
+So if I've got one list, l1, and I've got another list,
+l2, then I can add the two together.
+So let me in fact do the same thing here.
+I've got l1, let's call it again, the list 2, 1, 3.
+
+I want to create l2, it's also going to be a list, 4, 5, 6.
+
+And I can concatenate them.
+I could say, let l3 be l1 plus l2.
+
+And when I do that, I can look at l3.
+And it's now the list of six things together.
+Notice, by the way, that in this case,
+l1 has not changed, nor has l2.
+l3 is a new list that has been formed by concatenating
+together copies of l1 and l2.
+If I wanted to extend a list, I can
+do that with an explicit call.
+And extend basically does what you say, it says take a list
+and add to the end of it.
+And so I can do l1 and extend it, for example, with 0 and 6.
+And now if I look at l1, it's changed, it mutated.
+And that's the point.
+So concatenation does not mutate, extension does.
+And it makes sense.
+Extension says you should take something and add to it,
+as opposed to you should take something and do something
+interesting with it, which is what concatenation does.
+I can also remove things from lists.
+I can delete an element at a specific point.
+And I use that with just the general command+L for delete.
+And I basically can do it by saying,
+remove something from up to a particular place.
+And I do it by giving it a specific element.
+So let me take an example here.
+Here is l1.
+And if I do Del of l1-- and let's pick, I don't know,
+the third element here-- now I look at l1, oh, good.
+That element has disappeared.
+I can also remove the element from the end
+of a list, something that's very handy when
+I'm trying to walk down a list.
+And I do that with the pop method.
+Comes from an old expression of popping something off
+of a stack.
+And it returns that actual element
+as well as changing the list itself.
+I can remove a specific element by using remove.
+And what it will do is look for that actual element in the list
+and remove it.
+If that element occurs multiple times,
+it's only going to remove the first occurrence,
+and if you try and remove something not in the list,
+it's going to give an error.
+So for example, if I set up l to be this list,
+2, 1, 3, 6, 3, 7, 0.
+If I call l with remove of 2, it will
+mutate the list, change the list,
+taking that element out as you can see.
+If I say remove 3, it will take the first instance of 3
+out but it leaves the second one around,
+as you can see right there.
+If I delete a specific spot in the list,
+I already did that, it takes out the next one in that list
+at the first indice, which is right there.
+And if I pop, it removes the last one
+and returns it, again mutating the list.
+So operations that I have on lists.
+These are going to become handy as we start thinking
+about doing things with lists.
+
+I can go back and forth between lists and strings.
+If I've got a string and I want to convert it into a list,
+I can literally call the procedure or function, list,
+on that string.
+And it returns the list with every character
+in the string now separated out as a separate element
+of the list.
+So let me show you a simple example.
+I'm going to set list to be the string A, B, C. Not very
+interesting but it will work.
+
+And if I now say, give me the list of s,
+it nicely gives me back a list with each character as
+a separate string inside of that list.
+I might want to do some processing on these lists
+as well.
+And so one of the things I can do
+is I can use the split method to split a string
+on a particular character.
+If I call it just with a standard call on split,
+it will do it on a particular character.
+I can also split it on spaces if I give it no parameter.
+And so I've got an example down here.
+I've set up a string, s.
+I can turn it into a list.
+There it is.
+I could also split the string and turn it into a list.
+And that I've done by saying, I want
+to split it at this character.
+And notice what it's done.
+It has literally broken it up into two parts.
+There's the first part.
+There's the second part right there.
+I can also do conversions of lists back into strings.
+So if I create a list such as this one here,
+I can join them together using this call.
+There's the join operation, there's the dot,
+and I'm giving it an empty string.
+And it's basically saying, given that this is a string,
+use the join operation on that string
+to merge everything together and it will return just the string
+with the pieces stuck together.
+If I want to, I can do a join but have
+the join insert a character between each of the things.
+And this case, I give it an underbar, I use the dot,
+I ask it to join, and it returns the string with it
+A underbar B underbar C.
+And so I can go back and forth between lists and strings.
+Again, something that's going to be
+really handy in a little while.
+There are a couple of other list operations of value.
+I've already said, while I talk about a list
+as being an ordered sequence, it doesn't
+mean the elements inside have an order, but I can do that.
+I could actually sort a list.
+And I have two ways of doing the sorting.
+I can sort the list and return a new version of it
+or I could actually mutate the list and sort it itself.
+And so I want to give you an example here.
+If I set up l to be the list of 9, 6, 0, and 3,
+it's certainly not sorted.
+And if I look at l, there it is.
+If I call the special function sorted on l,
+it returns the sorted version of l.
+But l itself has not changed.
+That's handy if I want to keep l around but I
+want a sorted version of it.
+On the other hand, if I really don't
+care about what I do with l afterwards
+but I want the sorted version, I can call l.sort.
+
+Again, some method with coming off after that
+dot to tell me to do this.
+I can do an open close to say invoke the function.
+And now if I look at l, it is in fact sorted.
+Similarly, I could reverse a list
+by calling reverse as a method.
+Using the dot to say use the reverse associated with lists,
+and it will change l itself and create something
+in reverse order.
+Handy things to have.
+Things that are going to let us start manipulating larger data
+structures as we move forward with thinking
+about how to do computation on bigger collections of pieces.
+We can now bring all of these pieces
+together because we've got loops, functions, range,
+and lists.
+And how do I want to bring them together?
+We've already talked about range,
+we said it was a special procedure.
+And we said it returns something that behaves essentially
+like a tuple.
+Or if you want to think about it like a list,
+but really more like a tuple.
+It doesn't generate all of the elements at once, however.
+Rather, it generates the first element
+and provides a method that says, when you want the next one,
+we'll give it to you.
+That's nice if I don't want to have
+to generate a huge range before I start doing some computation.
+But I can think of ranges now as acting like a tuple.
+So a range of 5 really behaves like the tuple 0 through 4.
+Or if you want to think of it that way,
+like the list 0 through 4.
+Range of 2, 6 is going to behave as
+if it was that collection of those integers, as a tuple
+or as a list.
+And as a consequence, when we use range
+in a for loop, what that loop variable is doing
+is just iterating over that range as if it were a list.
+We could write it directly, but it's
+going to be a nice convenient shortcut to have because we're
+going to be able to do things much more
+efficiently without generating the entire range
+before we start working on it.

@@ -1,0 +1,104 @@
+...
+The second compound data construct
+we're going to introduce is called a list.
+And a list looks a lot like a tuple,
+but it has one key difference.
+Again, it's an ordered sequence of information,
+accessible by an index.
+And I'll remind you ordered means not that they are
+in ascending order, but rather they're
+ordered so that I can say, give me
+the zeroth, the seventh, the ninth element.
+They're denoted a little differently.
+They're denoted with square brackets
+to tell us that this is a list, not a tuple.
+They can also contain elements.
+Usually, they're homogeneous, all integers, all strings,
+all tuples of integers or strings.
+But we can, in fact, have mixed types in them.
+But the big difference is that lists can be changed.
+So a list is mutable.
+And that means that I can go in and change
+the element of a list to be something different.
+Very different from a tuple or a string.
+We said those were immutable.
+I could not change portions inside of them.
+I can with lists.
+We're going to see that that's both really useful
+and can provide some real problems,
+or cause some challenges.
+Because it opens up opportunities
+for making mistakes that we don't expect.
+With lists, again, I've got the same kind of idea
+that I have an element at a particular index or position.
+I start at zero, as I've done before.
+So I can create a variable name.
+I can bind it to an empty list, much as we did before.
+And I can index elements of a list starting at zero.
+The examples I show here are things
+you would expect for any kind of construct like this.
+I can ask for the length of a list.
+We've used l e n before.
+I can get out the zeroth element.
+I can get out an element and do something to it,
+like adding 1 to it.
+And if I try and go beyond the end of the list,
+I'm going to get an index error.
+This has got things at 0, 1, and 2 indices, nothing at 3.
+This will give me an error saying
+I'm trying to go too far beyond the end of the list.
+An index can also be an expression, or a variable.
+It doesn't have to just be an integer.
+It could be a value.
+So for example, if I'd bind i to 2.
+And then, I ask for the element of i minus 1.
+Since i is 2, i minus 1 is 1.
+And l of i minus 1 gives me that element
+right there out of the list.
+We're going to see that's handy as we
+want to think about how to use expressions to tell us
+where to look inside a list to pull out a value.
+As I said, lists are mutable.
+One of the things we want to look at here
+is how do we do it?
+And then, what's going to be the implication of that?
+In particular, if I have a list like the one shown here,
+2, 1, 3, I can now evaluate this expression that says,
+take the first element, or the element at index 1,
+and change it to be 5.
+And that will literally change l itself.
+It does not produce a new list.
+It changes the same object.
+This is different from strings and tuples,
+an important distinction.
+One way to think about it is when I first bound l,
+it pointed to that structure, that list in memory somewhere.
+When I evaluate the second expression,
+it literally changes that middle element.
+But l is still pointing to the same expression.
+A lot of advantages to this, but some real challenges.
+And that's what we're going to look at next.
+Before we do it, one last piece.
+Just as I can iterate over tuples,
+I can iterate over lists.
+They are also iterable.
+A common pattern would be to, for example, walk down a list
+and add up all the elements, if there are a bunch of integers.
+I could certainly do that. the traditional way.
+Here, I am running through a for loop
+that's going over the range of possible indices.
+So length, or ln of l gives me the number
+of elements in a list.
+Range will give me something that gives me everything
+from 0 up to but one less than the overall length of the list.
+And I could simply add things up, standard way of doing it.
+Much cleaner is to recognize that I can simply iterate over
+the elements of the list themselves.
+So that loop says, let i take the first element
+of the list, then the second element of the list,
+and so on, and simply add those together.
+This creates cleaner code that makes it easier
+to see what I'm actually doing here.
+So lists are iterable the same way
+that strings and tuples are iterable,
+a great property to have.

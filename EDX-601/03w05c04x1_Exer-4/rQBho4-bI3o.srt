@@ -1,0 +1,948 @@
+0
+00:00:00,000 --> 00:00:00,500
+...
+
+1
+00:00:00,500 --> 00:00:04,190
+Just as strings come with standard operations in Python,
+
+2
+00:00:04,190 --> 00:00:05,760
+so do lists and tuples.
+
+3
+00:00:05,760 --> 00:00:08,080
+And I want to show you examples of standard operations
+
+4
+00:00:08,080 --> 00:00:10,916
+and lists that are really valuable to have.
+
+5
+00:00:10,916 --> 00:00:12,540
+The first one is, I could add something
+
+6
+00:00:12,540 --> 00:00:13,498
+to the end of the list.
+
+7
+00:00:13,498 --> 00:00:16,432
+And that's going to be nice as I want to accumulate results.
+
+8
+00:00:16,432 --> 00:00:18,140
+So let me show you a little example here.
+
+9
+00:00:18,140 --> 00:00:22,150
+I'm going to type in a definition for l as the list.
+
+10
+00:00:22,150 --> 00:00:24,892
+So a square race of 2, 1, and 3.
+
+11
+00:00:24,892 --> 00:00:26,370
+And just to make sure it's right,
+
+12
+00:00:26,370 --> 00:00:30,567
+I'm going to print out what l is, and there it is.
+
+13
+00:00:30,567 --> 00:00:32,650
+If I want to add something to the end of the list,
+
+14
+00:00:32,650 --> 00:00:34,987
+I can do that with append.
+
+15
+00:00:34,987 --> 00:00:36,570
+And there's a dot there that I'm going
+
+16
+00:00:36,570 --> 00:00:37,870
+to come back to in a second.
+
+17
+00:00:37,870 --> 00:00:42,360
+But I could append 5 to the end of the list.
+
+18
+00:00:42,360 --> 00:00:44,920
+It doesn't print anything, but it's done something for me.
+
+19
+00:00:44,920 --> 00:00:45,860
+And what's it done?
+
+20
+00:00:45,860 --> 00:00:49,980
+It's actually added 5 to the end of l.
+
+21
+00:00:49,980 --> 00:00:52,130
+So there is now the structure of it.
+
+22
+00:00:52,130 --> 00:00:55,130
+And the key issue here, is it has mutated it.
+
+23
+00:00:55,130 --> 00:00:57,590
+It has actually changed l itself.
+
+24
+00:00:57,590 --> 00:01:00,690
+So anything that was depending on l being three elements long
+
+25
+00:01:00,690 --> 00:01:04,019
+is now in trouble because it's now four elements long.
+
+26
+00:01:04,019 --> 00:01:06,207
+Now what about that funky little dot?
+
+27
+00:01:06,207 --> 00:01:07,790
+We've seen an example of this earlier,
+
+28
+00:01:07,790 --> 00:01:09,414
+we're going to see more of it later on.
+
+29
+00:01:09,414 --> 00:01:13,500
+This dot is taking advantage of something inside of Python.
+
+30
+00:01:13,500 --> 00:01:16,940
+Everything in Python, or almost everything in Python,
+
+31
+00:01:16,940 --> 00:01:17,520
+is an object.
+
+32
+00:01:17,520 --> 00:01:20,130
+And lists are an example of a Python object, a collection
+
+33
+00:01:20,130 --> 00:01:22,070
+of things put together.
+
+34
+00:01:22,070 --> 00:01:25,080
+Objects have data inside of them but they also
+
+35
+00:01:25,080 --> 00:01:27,440
+have methods and functions.
+
+36
+00:01:27,440 --> 00:01:30,020
+And we get to that by using that dot.
+
+37
+00:01:30,020 --> 00:01:32,970
+So, given an object name, for example, here it
+
+38
+00:01:32,970 --> 00:01:39,310
+was l, the dot says, get out some method.
+
+39
+00:01:39,310 --> 00:01:41,000
+Or if you want to think of it, some
+
+40
+00:01:41,000 --> 00:01:44,350
+function, associated with that kind of object.
+
+41
+00:01:44,350 --> 00:01:49,359
+And then call it, open print followed by close print.
+
+42
+00:01:49,359 --> 00:01:51,150
+And that's literally what's happening here,
+
+43
+00:01:51,150 --> 00:01:55,170
+is this dot is saying, look at l, what is it, it's a list.
+
+44
+00:01:55,170 --> 00:01:59,190
+So get the append method, or function, associated with lists
+
+45
+00:01:59,190 --> 00:02:00,479
+and apply it.
+
+46
+00:02:00,479 --> 00:02:02,270
+We'll come back to that later on but that's
+
+47
+00:02:02,270 --> 00:02:04,660
+what's happening when we use the append there.
+
+48
+00:02:04,660 --> 00:02:07,480
+Key point here is append can add something to a list.
+
+49
+00:02:07,480 --> 00:02:09,440
+Good thing to have.
+
+50
+00:02:09,440 --> 00:02:12,410
+We could also concatenate as we did with tuples or strings.
+
+51
+00:02:12,410 --> 00:02:15,420
+So if I've got one list, l1, and I've got another list,
+
+52
+00:02:15,420 --> 00:02:18,210
+l2, then I can add the two together.
+
+53
+00:02:18,210 --> 00:02:20,320
+So let me in fact do the same thing here.
+
+54
+00:02:20,320 --> 00:02:23,920
+I've got l1, let's call it again, the list 2, 1, 3.
+
+55
+00:02:23,920 --> 00:02:27,870
+
+
+56
+00:02:27,870 --> 00:02:31,930
+I want to create l2, it's also going to be a list, 4, 5, 6.
+
+57
+00:02:31,930 --> 00:02:37,400
+
+
+58
+00:02:37,400 --> 00:02:38,580
+And I can concatenate them.
+
+59
+00:02:38,580 --> 00:02:41,910
+I could say, let l3 be l1 plus l2.
+
+60
+00:02:41,910 --> 00:02:49,380
+
+
+61
+00:02:49,380 --> 00:02:54,880
+And when I do that, I can look at l3.
+
+62
+00:02:54,880 --> 00:02:58,140
+And it's now the list of six things together.
+
+63
+00:02:58,140 --> 00:03:00,530
+Notice, by the way, that in this case,
+
+64
+00:03:00,530 --> 00:03:05,870
+l1 has not changed, nor has l2.
+
+65
+00:03:05,870 --> 00:03:09,810
+l3 is a new list that has been formed by concatenating
+
+66
+00:03:09,810 --> 00:03:12,950
+together copies of l1 and l2.
+
+67
+00:03:12,950 --> 00:03:15,570
+If I wanted to extend a list, I can
+
+68
+00:03:15,570 --> 00:03:17,620
+do that with an explicit call.
+
+69
+00:03:17,620 --> 00:03:20,520
+And extend basically does what you say, it says take a list
+
+70
+00:03:20,520 --> 00:03:21,960
+and add to the end of it.
+
+71
+00:03:21,960 --> 00:03:30,350
+And so I can do l1 and extend it, for example, with 0 and 6.
+
+72
+00:03:30,350 --> 00:03:36,600
+And now if I look at l1, it's changed, it mutated.
+
+73
+00:03:36,600 --> 00:03:38,160
+And that's the point.
+
+74
+00:03:38,160 --> 00:03:41,089
+So concatenation does not mutate, extension does.
+
+75
+00:03:41,089 --> 00:03:41,880
+And it makes sense.
+
+76
+00:03:41,880 --> 00:03:44,370
+Extension says you should take something and add to it,
+
+77
+00:03:44,370 --> 00:03:46,920
+as opposed to you should take something and do something
+
+78
+00:03:46,920 --> 00:03:51,130
+interesting with it, which is what concatenation does.
+
+79
+00:03:51,130 --> 00:03:52,890
+I can also remove things from lists.
+
+80
+00:03:52,890 --> 00:03:56,110
+I can delete an element at a specific point.
+
+81
+00:03:56,110 --> 00:03:59,755
+And I use that with just the general command+L for delete.
+
+82
+00:03:59,755 --> 00:04:02,000
+And I basically can do it by saying,
+
+83
+00:04:02,000 --> 00:04:04,580
+remove something from up to a particular place.
+
+84
+00:04:04,580 --> 00:04:08,750
+And I do it by giving it a specific element.
+
+85
+00:04:08,750 --> 00:04:10,370
+So let me take an example here.
+
+86
+00:04:10,370 --> 00:04:11,880
+Here is l1.
+
+87
+00:04:11,880 --> 00:04:16,850
+And if I do Del of l1-- and let's pick, I don't know,
+
+88
+00:04:16,850 --> 00:04:24,370
+the third element here-- now I look at l1, oh, good.
+
+89
+00:04:24,370 --> 00:04:26,850
+That element has disappeared.
+
+90
+00:04:26,850 --> 00:04:28,600
+I can also remove the element from the end
+
+91
+00:04:28,600 --> 00:04:30,090
+of a list, something that's very handy when
+
+92
+00:04:30,090 --> 00:04:31,450
+I'm trying to walk down a list.
+
+93
+00:04:31,450 --> 00:04:33,832
+And I do that with the pop method.
+
+94
+00:04:33,832 --> 00:04:36,040
+Comes from an old expression of popping something off
+
+95
+00:04:36,040 --> 00:04:37,150
+of a stack.
+
+96
+00:04:37,150 --> 00:04:39,150
+And it returns that actual element
+
+97
+00:04:39,150 --> 00:04:41,530
+as well as changing the list itself.
+
+98
+00:04:41,530 --> 00:04:45,900
+I can remove a specific element by using remove.
+
+99
+00:04:45,900 --> 00:04:48,800
+And what it will do is look for that actual element in the list
+
+100
+00:04:48,800 --> 00:04:50,060
+and remove it.
+
+101
+00:04:50,060 --> 00:04:52,032
+If that element occurs multiple times,
+
+102
+00:04:52,032 --> 00:04:53,990
+it's only going to remove the first occurrence,
+
+103
+00:04:53,990 --> 00:04:56,156
+and if you try and remove something not in the list,
+
+104
+00:04:56,156 --> 00:04:57,640
+it's going to give an error.
+
+105
+00:04:57,640 --> 00:05:00,320
+So for example, if I set up l to be this list,
+
+106
+00:05:00,320 --> 00:05:03,300
+2, 1, 3, 6, 3, 7, 0.
+
+107
+00:05:03,300 --> 00:05:06,850
+If I call l with remove of 2, it will
+
+108
+00:05:06,850 --> 00:05:09,500
+mutate the list, change the list,
+
+109
+00:05:09,500 --> 00:05:12,230
+taking that element out as you can see.
+
+110
+00:05:12,230 --> 00:05:16,600
+If I say remove 3, it will take the first instance of 3
+
+111
+00:05:16,600 --> 00:05:18,730
+out but it leaves the second one around,
+
+112
+00:05:18,730 --> 00:05:20,700
+as you can see right there.
+
+113
+00:05:20,700 --> 00:05:23,780
+If I delete a specific spot in the list,
+
+114
+00:05:23,780 --> 00:05:27,700
+I already did that, it takes out the next one in that list
+
+115
+00:05:27,700 --> 00:05:31,240
+at the first indice, which is right there.
+
+116
+00:05:31,240 --> 00:05:34,280
+And if I pop, it removes the last one
+
+117
+00:05:34,280 --> 00:05:37,160
+and returns it, again mutating the list.
+
+118
+00:05:37,160 --> 00:05:38,634
+So operations that I have on lists.
+
+119
+00:05:38,634 --> 00:05:40,800
+These are going to become handy as we start thinking
+
+120
+00:05:40,800 --> 00:05:42,050
+about doing things with lists.
+
+121
+00:05:42,050 --> 00:05:45,370
+
+
+122
+00:05:45,370 --> 00:05:48,900
+I can go back and forth between lists and strings.
+
+123
+00:05:48,900 --> 00:05:51,330
+If I've got a string and I want to convert it into a list,
+
+124
+00:05:51,330 --> 00:05:55,070
+I can literally call the procedure or function, list,
+
+125
+00:05:55,070 --> 00:05:56,330
+on that string.
+
+126
+00:05:56,330 --> 00:05:58,390
+And it returns the list with every character
+
+127
+00:05:58,390 --> 00:06:01,710
+in the string now separated out as a separate element
+
+128
+00:06:01,710 --> 00:06:02,420
+of the list.
+
+129
+00:06:02,420 --> 00:06:04,500
+So let me show you a simple example.
+
+130
+00:06:04,500 --> 00:06:09,070
+I'm going to set list to be the string A, B, C. Not very
+
+131
+00:06:09,070 --> 00:06:10,796
+interesting but it will work.
+
+132
+00:06:10,796 --> 00:06:14,220
+
+
+133
+00:06:14,220 --> 00:06:19,800
+And if I now say, give me the list of s,
+
+134
+00:06:19,800 --> 00:06:23,010
+it nicely gives me back a list with each character as
+
+135
+00:06:23,010 --> 00:06:26,340
+a separate string inside of that list.
+
+136
+00:06:26,340 --> 00:06:30,190
+I might want to do some processing on these lists
+
+137
+00:06:30,190 --> 00:06:30,690
+as well.
+
+138
+00:06:30,690 --> 00:06:32,065
+And so one of the things I can do
+
+139
+00:06:32,065 --> 00:06:35,610
+is I can use the split method to split a string
+
+140
+00:06:35,610 --> 00:06:37,910
+on a particular character.
+
+141
+00:06:37,910 --> 00:06:42,720
+If I call it just with a standard call on split,
+
+142
+00:06:42,720 --> 00:06:44,550
+it will do it on a particular character.
+
+143
+00:06:44,550 --> 00:06:47,760
+I can also split it on spaces if I give it no parameter.
+
+144
+00:06:47,760 --> 00:06:50,050
+And so I've got an example down here.
+
+145
+00:06:50,050 --> 00:06:52,110
+I've set up a string, s.
+
+146
+00:06:52,110 --> 00:06:54,800
+I can turn it into a list.
+
+147
+00:06:54,800 --> 00:06:55,990
+There it is.
+
+148
+00:06:55,990 --> 00:06:58,950
+I could also split the string and turn it into a list.
+
+149
+00:06:58,950 --> 00:07:00,570
+And that I've done by saying, I want
+
+150
+00:07:00,570 --> 00:07:03,857
+to split it at this character.
+
+151
+00:07:03,857 --> 00:07:04,940
+And notice what it's done.
+
+152
+00:07:04,940 --> 00:07:07,530
+It has literally broken it up into two parts.
+
+153
+00:07:07,530 --> 00:07:09,420
+There's the first part.
+
+154
+00:07:09,420 --> 00:07:12,970
+There's the second part right there.
+
+155
+00:07:12,970 --> 00:07:16,600
+I can also do conversions of lists back into strings.
+
+156
+00:07:16,600 --> 00:07:19,780
+So if I create a list such as this one here,
+
+157
+00:07:19,780 --> 00:07:22,860
+I can join them together using this call.
+
+158
+00:07:22,860 --> 00:07:25,500
+There's the join operation, there's the dot,
+
+159
+00:07:25,500 --> 00:07:27,850
+and I'm giving it an empty string.
+
+160
+00:07:27,850 --> 00:07:30,550
+And it's basically saying, given that this is a string,
+
+161
+00:07:30,550 --> 00:07:33,470
+use the join operation on that string
+
+162
+00:07:33,470 --> 00:07:36,870
+to merge everything together and it will return just the string
+
+163
+00:07:36,870 --> 00:07:39,460
+with the pieces stuck together.
+
+164
+00:07:39,460 --> 00:07:41,410
+If I want to, I can do a join but have
+
+165
+00:07:41,410 --> 00:07:45,340
+the join insert a character between each of the things.
+
+166
+00:07:45,340 --> 00:07:48,480
+And this case, I give it an underbar, I use the dot,
+
+167
+00:07:48,480 --> 00:07:51,880
+I ask it to join, and it returns the string with it
+
+168
+00:07:51,880 --> 00:07:55,380
+A underbar B underbar C.
+
+169
+00:07:55,380 --> 00:07:58,002
+And so I can go back and forth between lists and strings.
+
+170
+00:07:58,002 --> 00:07:59,460
+Again, something that's going to be
+
+171
+00:07:59,460 --> 00:08:03,190
+really handy in a little while.
+
+172
+00:08:03,190 --> 00:08:06,540
+There are a couple of other list operations of value.
+
+173
+00:08:06,540 --> 00:08:08,550
+I've already said, while I talk about a list
+
+174
+00:08:08,550 --> 00:08:10,300
+as being an ordered sequence, it doesn't
+
+175
+00:08:10,300 --> 00:08:13,400
+mean the elements inside have an order, but I can do that.
+
+176
+00:08:13,400 --> 00:08:15,650
+I could actually sort a list.
+
+177
+00:08:15,650 --> 00:08:18,210
+And I have two ways of doing the sorting.
+
+178
+00:08:18,210 --> 00:08:22,070
+I can sort the list and return a new version of it
+
+179
+00:08:22,070 --> 00:08:25,890
+or I could actually mutate the list and sort it itself.
+
+180
+00:08:25,890 --> 00:08:27,760
+And so I want to give you an example here.
+
+181
+00:08:27,760 --> 00:08:32,990
+If I set up l to be the list of 9, 6, 0, and 3,
+
+182
+00:08:32,990 --> 00:08:34,730
+it's certainly not sorted.
+
+183
+00:08:34,730 --> 00:08:36,850
+And if I look at l, there it is.
+
+184
+00:08:36,850 --> 00:08:43,650
+If I call the special function sorted on l,
+
+185
+00:08:43,650 --> 00:08:46,706
+it returns the sorted version of l.
+
+186
+00:08:46,706 --> 00:08:49,806
+But l itself has not changed.
+
+187
+00:08:49,806 --> 00:08:51,680
+That's handy if I want to keep l around but I
+
+188
+00:08:51,680 --> 00:08:53,420
+want a sorted version of it.
+
+189
+00:08:53,420 --> 00:08:54,920
+On the other hand, if I really don't
+
+190
+00:08:54,920 --> 00:08:56,840
+care about what I do with l afterwards
+
+191
+00:08:56,840 --> 00:08:59,070
+but I want the sorted version, I can call l.sort.
+
+192
+00:08:59,070 --> 00:09:01,990
+
+
+193
+00:09:01,990 --> 00:09:04,310
+Again, some method with coming off after that
+
+194
+00:09:04,310 --> 00:09:05,560
+dot to tell me to do this.
+
+195
+00:09:05,560 --> 00:09:08,080
+I can do an open close to say invoke the function.
+
+196
+00:09:08,080 --> 00:09:11,940
+And now if I look at l, it is in fact sorted.
+
+197
+00:09:11,940 --> 00:09:13,880
+Similarly, I could reverse a list
+
+198
+00:09:13,880 --> 00:09:15,590
+by calling reverse as a method.
+
+199
+00:09:15,590 --> 00:09:19,500
+Using the dot to say use the reverse associated with lists,
+
+200
+00:09:19,500 --> 00:09:22,720
+and it will change l itself and create something
+
+201
+00:09:22,720 --> 00:09:25,050
+in reverse order.
+
+202
+00:09:25,050 --> 00:09:25,987
+Handy things to have.
+
+203
+00:09:25,987 --> 00:09:28,570
+Things that are going to let us start manipulating larger data
+
+204
+00:09:28,570 --> 00:09:30,890
+structures as we move forward with thinking
+
+205
+00:09:30,890 --> 00:09:35,530
+about how to do computation on bigger collections of pieces.
+
+206
+00:09:35,530 --> 00:09:37,030
+We can now bring all of these pieces
+
+207
+00:09:37,030 --> 00:09:41,840
+together because we've got loops, functions, range,
+
+208
+00:09:41,840 --> 00:09:42,852
+and lists.
+
+209
+00:09:42,852 --> 00:09:44,560
+And how do I want to bring them together?
+
+210
+00:09:44,560 --> 00:09:45,935
+We've already talked about range,
+
+211
+00:09:45,935 --> 00:09:47,670
+we said it was a special procedure.
+
+212
+00:09:47,670 --> 00:09:50,480
+And we said it returns something that behaves essentially
+
+213
+00:09:50,480 --> 00:09:51,175
+like a tuple.
+
+214
+00:09:51,175 --> 00:09:53,050
+Or if you want to think about it like a list,
+
+215
+00:09:53,050 --> 00:09:54,970
+but really more like a tuple.
+
+216
+00:09:54,970 --> 00:09:57,760
+It doesn't generate all of the elements at once, however.
+
+217
+00:09:57,760 --> 00:10:00,140
+Rather, it generates the first element
+
+218
+00:10:00,140 --> 00:10:03,310
+and provides a method that says, when you want the next one,
+
+219
+00:10:03,310 --> 00:10:04,462
+we'll give it to you.
+
+220
+00:10:04,462 --> 00:10:05,920
+That's nice if I don't want to have
+
+221
+00:10:05,920 --> 00:10:09,790
+to generate a huge range before I start doing some computation.
+
+222
+00:10:09,790 --> 00:10:13,120
+But I can think of ranges now as acting like a tuple.
+
+223
+00:10:13,120 --> 00:10:17,275
+So a range of 5 really behaves like the tuple 0 through 4.
+
+224
+00:10:17,275 --> 00:10:18,900
+Or if you want to think of it that way,
+
+225
+00:10:18,900 --> 00:10:20,900
+like the list 0 through 4.
+
+226
+00:10:20,900 --> 00:10:23,240
+Range of 2, 6 is going to behave as
+
+227
+00:10:23,240 --> 00:10:25,920
+if it was that collection of those integers, as a tuple
+
+228
+00:10:25,920 --> 00:10:27,450
+or as a list.
+
+229
+00:10:27,450 --> 00:10:29,710
+And as a consequence, when we use range
+
+230
+00:10:29,710 --> 00:10:32,150
+in a for loop, what that loop variable is doing
+
+231
+00:10:32,150 --> 00:10:35,500
+is just iterating over that range as if it were a list.
+
+232
+00:10:35,500 --> 00:10:37,000
+We could write it directly, but it's
+
+233
+00:10:37,000 --> 00:10:41,176
+going to be a nice convenient shortcut to have because we're
+
+234
+00:10:41,176 --> 00:10:42,800
+going to be able to do things much more
+
+235
+00:10:42,800 --> 00:10:45,180
+efficiently without generating the entire range
+
+236
+00:10:45,180 --> 00:10:47,960
+before we start working on it.
+
