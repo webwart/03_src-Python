@@ -1,6 +1,19 @@
 #!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Generate a test file, which can be copied into the SBP Wordpress installation.
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
+
+#!/user/  .in Unix only
 #
-# -This file is to generate a test file, which can be copied into the SBP Wordpress installation.
+# -This file is to Generate a test file, which can be copied into the SBP Wordpress installation.
 # 
 '''
 pathOnHos = "C:\\Users\\rwarth\\PUB-Documents\\Pub_CodeDev\\TestData\\"
@@ -16,6 +29,10 @@ for i in range(1001):
     file.write("line")
 
 '''
+
+pathOnHos = "C:\\Users\\Public\\'1_data'\\TestData\\"
+
+
 file = open("newfile.txt", "w")
 
 file.write("hello world in the new file\n")

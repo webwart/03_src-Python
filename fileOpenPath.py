@@ -1,6 +1,17 @@
 #!/user/  .in Unix only
 
-pathOnHos = "C:\\Users\\rwarth\\PUB-Documents\\Pub_CodeDev\\TestData\\"
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn dealing with files
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
+
+pathOnHos = "C:\\Users\\Public\\01_data\\"
 
 try:
     file = open(pathOnHos + "testData.txt", 'r')
