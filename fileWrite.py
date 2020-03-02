@@ -4,7 +4,7 @@
 #  Porject: LEARN
 #   Author: Rainer Warth
 #  Version: 28-02-2020
-#    Goals: Generate a test file, which can be copied into the SBP Wordpress installation.
+#    Goals: Learn to write to a file.
 #      Ref: --
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
