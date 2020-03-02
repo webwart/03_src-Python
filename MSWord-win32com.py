@@ -1,3 +1,19 @@
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Deal with MS-Word documents 
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+#  ------------------------------------
+
+
+
+
 # Reference: The internet
 # Description: The scripts creates a MS Word file and writes text to it. User needs to save file.
 # Date: 15.12.2015

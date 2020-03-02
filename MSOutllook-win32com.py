@@ -1,3 +1,18 @@
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Read eMail with MS-Outlook 
+#      Ref: https://blog.matthewurch.ca/?cat=8
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+#  ------------------------------------
+
+
+
 # Reference: https://blog.matthewurch.ca/?cat=8
 # Date: 15.12.2015
 # Description: Script watches MS Outlook and prints lines into the pyhton console, when an e-mail arrives.

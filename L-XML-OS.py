@@ -1,5 +1,18 @@
-# Reference: Michel Kennedy - https://www.youtube.com/watch?v=rFxXDO8-keg
-# Description:  Learn XML and use of OS.path from youtube video
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn XML and use of OS.path from youtube video
+#      Ref: Michel Kennedy - https://www.youtube.com/watch?v=rFxXDO8-keg
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
+
+# Reference: 
+# Description:  
 # 
 # Example xml file:
 # C:\Users\Public\Documents\Pub_CodeDev\TestData\XML\reed.xml
@@ -9,7 +22,7 @@ import os
 from xml.etree import ElementTree
 
 file_name = 'reed.xml'
-dir_TestData = os.path.abspath('C:\\Users\\Public\\Documents\\Pub_CodeDev\TestData\\XML\\')
+dir_TestData = os.path.abspath('C:\\Users\\Public\\01_Data\\XML\\')
 
 full_file = os.path.abspath(os.path.join(dir_TestData, file_name))
 

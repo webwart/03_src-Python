@@ -1,7 +1,16 @@
-# Learn about lists in Python
-# Python Software Foundation tutorial
-# Ref: https://docs.python.org/3/tutorial/introduction.html
-# 3.1.3. Lists
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn about lists in Python
+#      Ref: https://docs.python.org/3/tutorial/introduction.html
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
+
 
 squares = [1, 4, 9, 16, 25]
 print(squares)

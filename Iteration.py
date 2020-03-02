@@ -1,6 +1,16 @@
-#  REF:  www.edx.org Python course
-#  class 2
-#
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn use of input()
+#      Ref: www.edx.org Python course , class 2
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
+
 
 # edx.org, week 2, lecture 3, first example in lecture
 #The code squares the value of x by repetivie addition

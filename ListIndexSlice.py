@@ -1,4 +1,16 @@
-#%%
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn indexing
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
+
 stwe = "Python"
 print(stwe[2:5])
 print(stwe[:5])

@@ -1,11 +1,18 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  2 22:16:32 2018
+#!/user/  .in Unix only
 
-@author: raine_kd2ek0t
-"""
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn numpy and matplotlib module
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
 
-#%%
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
