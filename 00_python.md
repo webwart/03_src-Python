@@ -67,7 +67,7 @@ I added my new header for code files.
 I go throught the files update them and evaluate how to organize them in the future.
 >N: ExbXmlToCSV.py --OKAY--
 
-###  FRI  02-03-2020
+###  MON  02-03-2020
 
 -1- Python system wide
 I added python 3.7 to Sion-Desk. I can use py launcher to switch between 3.7 and 3.8 on the command line. VScode does also recognize the 3.7.
@@ -75,4 +75,4 @@ I learned to update python with patches and add new minor versions.
 
 -2- Reevalutaion¦new Header
 Advanced further and delete some files.
->N: IF-Type.py 
+>N: Pandas_Edx.py 
