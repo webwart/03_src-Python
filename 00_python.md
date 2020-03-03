@@ -75,4 +75,10 @@ I learned to update python with patches and add new minor versions.
 
 -2- Reevalutaion¦new Header
 Advanced further and delete some files.
->N: Pandas_Edx.py 
+>N: Pandas_Edx.py --OKAY--
+
+###  MON  02-03-2020
+
+-1- Reevalutaion¦new Header
+Moved on
+>N: pro-EndNoteJabRef.py

@@ -1,6 +1,15 @@
-# LEARN: read, change, append, create new file
-# Reference: ipython cookbook, chapter 1- Reading from a CSV
-# Date: 21.01.2016
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020
+#    Goals: Learn use pandas module. read, change, append, create new file
+#      Ref: ipython cookbook, chapter 1- Reading from a CSV
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
+#  ------------------------------------
 
 import pandas as pd
 print ("Pandas is ready")
