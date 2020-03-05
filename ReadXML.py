@@ -1,7 +1,20 @@
 #!/user/  .in Unix only
-# PYTHON.org Documentation.
-# 20.5.1.2. Parsing XML
-# https://docs.python.org/3/library/xml.etree.elementtree.html
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: -- First: --
+#    Goals: Learn XML
+#      Ref: https://docs.python.org/3/library/xml.etree.elementtree.html
+#      Ref: PYTHON.org Documentation. 20.5.1.2. Parsing XML 
+#      Ref: 
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
+
+
+
 # \TestData\XML\country_data.xml
 #
 # see also http://www.python-kurs.eu/python_XML_SAX.php

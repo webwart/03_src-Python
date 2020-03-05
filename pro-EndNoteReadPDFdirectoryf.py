@@ -1,16 +1,16 @@
-# description: EndnoteJabRef 
-# author: Rainer Warth
-# data: 09.08.2015
-# DEV: Testdata \Pub_CodeDev\TestData\EndnoteJabRef\
-# PROD: walk through directories on Windows \SBP-In\
-# read directory name and file name in the directory
-# Ref: http://www.diveintopython.net/file_handling/os_module.html
-#       The os.path module uses Strings to deal with OS pathnames.
-#       NOTE: This is obsolute. I started out using it, but then switched to the pathlib.
-#             See code below
-# Ref:  https://pathlib.readthedocs.org/en/pep428/
-#       https://docs.python.org/3/library/pathlib.html?highlight=pathlib#module-pathlib
-#       I will work with the pathlib module
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: 09-08-2015 First: 09-08-2015
+#    Goals: Learn walk directory and regEx
+#      Ref: https://pathlib.readthedocs.org/en/pep428/
+#      Ref: https://docs.python.org/3/library/pathlib.html?highlight=pathlib#module-pathlib
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
 
 from pathlib import Path
 

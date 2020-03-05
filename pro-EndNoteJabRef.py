@@ -1,6 +1,17 @@
-# description: EndnoteJabRef 
-# author: Rainer Warth
-# data: 09.08.2015
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 
+#    Goals: Learn walk directory and regEx
+#      Ref: --
+#      Ref: --
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
+
 # DEV: Testdata \Pub_CodeDev\TestData\EndnoteJabRef\
 # PROD:
 import os

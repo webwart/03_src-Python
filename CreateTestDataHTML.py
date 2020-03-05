@@ -1,3 +1,17 @@
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: 05.04.2016 First: 05.04.2016
+#    Goals: Create test data 
+#      Ref: https://pathlib.readthedocs.org/en/pep428/
+#      Ref: https://docs.python.org/3/library/pathlib.html?highlight=pathlib#module-pathlib
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
+
 # fobj_in = open("150916_Lines.txt")
 fobj_out = open("150917_Lines.txt","w")
 i = 1

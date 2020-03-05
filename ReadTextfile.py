@@ -1,10 +1,17 @@
 #!/user/  .in Unix only
-# Reference: http://www.python-kurs.eu/python3_dateien.php
-#            Shows how to read line by line or all at once and then access a line
-#            Shows how to save a Data. Explains pickle module. 
-# Description: Demonstration of pathlib use to open a file . The file content is then filtered with regEx.
-# Author: Rainer Warth
-# Date:   05.02.2016
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: 05.02.2016 First: 05.02.2016
+#    Goals: Demonstration of pathlib use to open a file . The file content is then filtered with regEx
+#      Ref: http://www.python-kurs.eu/python3_dateien.php
+#      Ref: 
+#      Ref: 
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
 # >NEXT: -How to deal with more than one RegEx term. (e.g search for line 5: and 10:).
 #        - Save to a new file the results.
 #        - Open and search several files.
