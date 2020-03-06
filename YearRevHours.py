@@ -1,6 +1,19 @@
+#!/user/  .in Unix only
+# -*- coding: utf-8 -*-
 
-#  author: Rainer Warth
-#  date:  25-02-2020
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: -- First: 25-02-2020
+#    Goals: Learn datetime
+#      Ref: PYTHON.org Documentation. 
+#      Ref: 20.5.1.7. Parsing XML with Namespaces  
+#      Ref: https://docs.python.org/3/library/xml.etree.elementtree.html
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
+
 #  description: calculate the total number of hours worked / year based on hours worked / week and vacation, conference, and trainng days.
 
 

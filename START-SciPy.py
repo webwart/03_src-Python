@@ -1,4 +1,18 @@
+#!/user/  .in Unix only
 # -*- coding: utf-8 -*-
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: -- First: 02-03-2018
+#    Goals: Learn RegEx
+#      Ref: https://docs.python.org/3.4/howto/regex.html
+#      Ref:  
+#      Ref: 
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
+
 """
 Created on Fri Mar  2 16:58:39 2018
 

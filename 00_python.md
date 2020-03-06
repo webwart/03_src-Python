@@ -88,3 +88,10 @@ Moved on
 -1- Reevalutaion¦new Header
 Moved on
 >N: ReadXML.py
+
+###  FRI  06-03-2020
+
+-1- Reevalutaion¦new Header
+I am done with the header. The header changed. I also need to define how I want to do documentation with docstring.
+Now want to consilidate all these files and use them as a basis for my python book.
+>N: Learn to search over mutiple files with VScode. Learn to use docstrings in python. 

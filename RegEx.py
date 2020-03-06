@@ -1,7 +1,16 @@
-# LEARN
-# source: https://docs.python.org/3.4/howto/regex.html
-#
+#!/user/  .in Unix only
 
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: -- First: --
+#    Goals: Learn RegEx
+#      Ref: https://docs.python.org/3.4/howto/regex.html
+#      Ref:  
+#      Ref: 
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: runs
+#       >N: --
 
 import re
 lines = ['555-1212', 'ILL-EGAL', '@Article{2007Azambuja,']
