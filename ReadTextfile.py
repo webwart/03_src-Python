@@ -22,7 +22,11 @@ import re
 from pathlib import Path
 
 regExNumber = r"5:*."
-PathDir = "C:/Users/Public/Documents/Pub_CodeDev/TestData/150916_Lines.txt"
+
+# ParhDir = "C:\\Users\\Public\\01_data\\150916_Lines.txt"
+ParhDir = "C:/Users/Public/01_data/150916_Lines.txt"
+
+# PathDir = "C:/Users/Public/Documents/Pub_CodeDev/TestData/150916_Lines.txt"
 
 p = Path(PathDir)
 

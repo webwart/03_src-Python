@@ -77,19 +77,19 @@ I learned to update python with patches and add new minor versions.
 Advanced further and delete some files.
 >N: Pandas_Edx.py --OKAY--
 
-###  TUE  02-03-2020
+### TUE  02-03-2020
 
 -1- Reevalutaion¦new Header
 Moved on
 >N: pro-EndNoteJabRef.py
 
-###  THU  05-03-2020
+### THU  05-03-2020
 
 -1- Reevalutaion¦new Header
 Moved on
 >N: ReadXML.py
 
-###  FRI  06-03-2020
+### FRI  06-03-2020
 
 -1- Reevalutaion¦new Header
 I am done with the header. The header changed. I also need to define how I want to do documentation with docstring.
