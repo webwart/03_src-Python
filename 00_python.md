@@ -88,3 +88,11 @@ Moved on
 -1- Reevalutaion¦new Header
 Moved on
 >N: ReadXML.py
+
+###  MON 09-03-2020
+I obteined from 
+[Bundesnetzagentur](https://www.bundesnetzagentur.de/cln_1432/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Nummerierung/Rufnummern/ONRufnr/ON_Einteilung_ONB/ON_ONB_ONKz_ONBGrenzen_Basepage.html?nn=316054)
+die local area codes.
+
+>N: Write programm to find legal phone numbers for Germany.
+
