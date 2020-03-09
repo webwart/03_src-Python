@@ -1,5 +1,0 @@
-
-print("This is python")
-
-
-

@@ -1,13 +1,17 @@
 #!/user/  .in Unix only
-# PYTHON.org Documentation.
-# 20.5.1.7. Parsing XML with Namespaces
-#
-# https://docs.python.org/3/library/xml.etree.elementtree.html
-# \TestData\XML\xmlNamespaces.xml
-#
-# see also http://www.python-kurs.eu/python_XML_SAX.php
-# A powerful python library is 
-# http://lxml.de/
+# -*- coding: utf-8 -*-
+
+#  ------------------------------------
+#  Porject: LEARN
+#   Author: Rainer Warth
+#  Version: 28-02-2020 Previous: -- First: --
+#    Goals: Learn xml
+#      Ref: PYTHON.org Documentation. 
+#      Ref: 20.5.1.7. Parsing XML with Namespaces  
+#      Ref: https://docs.python.org/3/library/xml.etree.elementtree.html
+#    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: broken
+#       >N: --
 
 import xml.etree.ElementTree as ET
 
