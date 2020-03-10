@@ -31,7 +31,7 @@ intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv")
 # print(pd.__version__)
 # print(vorwahl.describe())
 # print(len(vorwahl))
-vorwahl['Ortsnetzkennzahl']
+# vorwahl['Ortsnetzkennzahl']
 print(vorwahl.columns)
 print("-----" * 5)
 print(intraceData.colums)
