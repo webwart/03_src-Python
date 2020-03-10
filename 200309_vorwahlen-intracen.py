@@ -6,6 +6,9 @@
 #  Version: 28-02-2020
 #    Goals: Learn use pandas to find if a vorwahl is in the intracen phone number.
 #      Ref: Pandas_Edx.py
+#      Ref: https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str -> to find() and in Operator.
+#      Ref: https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files -> reading/writing files to text or json format. 
+#      Ref: https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences -> list , tuples , 
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
 #       >N: --
@@ -28,8 +31,50 @@ intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv")
 # print(pd.__version__)
 # print(vorwahl.describe())
 # print(len(vorwahl))
-type(vorwahl['Ortsnetzkennzahl'])
+vorwahl['Ortsnetzkennzahl']
 print(vorwahl.columns)
+print("-----" * 5)
+print(intraceData.colums)
+
+
+print("-----" * 5)
+
+
+
+src_str = 'using in opertor in Python'
+
+a_bool = 'in' in src_str
+b_bool = 'out' in src_str
+
+print("Source string")
+print("The term 'in' exists?" , a_bool)
+print("The term  'out' existrs?" , b_bool)
+
+print("--- ---" * 5)
+
+
+# def findVorwahl:  
+'''
+Takes a row
+Checks for vorwahl
+if yes: add okay to row
+'''
+
+
+src_str = '49 201136960'
+
+
+# in operator finds a substring and returns a TRUE if found
+a_bool = '201' in src_str
+b_bool = 'out' in src_str
+
+print("Source string")
+print("The term '201' exists?" , a_bool)
+print("The term  'out' existrs?" , b_bool)
+
+
+
+
 
 '''
 print( df['col0']     )
