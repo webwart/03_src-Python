@@ -21,7 +21,8 @@
 import numpy as np 
 import pandas as pd
 
-vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified.csv")
+# vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified.csv")
+vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified-Komma.csv")
 intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv")
 
 # df = pd.read_csv("C:\\Users\\Public\\01_Data\\TestDataPandas\\tutorial_EdxDAT210x.csv")
@@ -31,15 +32,34 @@ intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv")
 # print(pd.__version__)
 # print(vorwahl.describe())
 # print(len(vorwahl))
-# vorwahl['Ortsnetzkennzahl']
+# vorwahl[['Ortsnetzname']]
+
+# print(vorwahl)
+print(vorwahl.dtypes)
+print("-----" * 5)
+print(vorwahl.info)
+print("-----" * 5)
+print(vorwahl.head())
+print("-----" * 5)
 print(vorwahl.columns)
 print("-----" * 5)
-print(intraceData.colums)
-
-
+print(vorwahl["Ortsnetzkennzahl"])
+print("--IterRows---" * 5)
+for i,j in vorwahl.iterrows():
+    print(i,1)
+    print()
+print("--IterColumns---" * 5)
+ortKennColumns = list(vorwahl)
+for line in ortKennColumns:
+    print(vorwahl[line][2])
 print("-----" * 5)
 
+'''
+print(intraceData)
+print(intraceData.columns)
+print(intraceData["company_name"])
 
+print("-----" * 5)
 
 src_str = 'using in opertor in Python'
 
@@ -53,13 +73,17 @@ print("The term  'out' existrs?" , b_bool)
 print("--- ---" * 5)
 
 
+##############################
 # def findVorwahl:  
-'''
-Takes a row
-Checks for vorwahl
-if yes: add okay to row
-'''
 
+# Takes a row
+# Checks for vorwahl
+# if yes: add okay to row
+#############################
+
+
+############################
+# in Operator with numbers
 
 src_str = '49 201136960'
 
@@ -73,13 +97,10 @@ print("The term '201' exists?" , a_bool)
 print("The term  'out' existrs?" , b_bool)
 
 
+print( vorwahl['Ortsnetzname']     )
 
-
-
-'''
-print( df['col0']     )
 print( df[['col0']]   )
-print( df.loc[:, 'col0']   )
+print( vorwahl.loc[:, 'Ortsnetzname']   )
 print( df.loc[:, ['col0']] )
 print( df.iloc[:, 0]  )
 print( df.iloc[:, [0]] )
