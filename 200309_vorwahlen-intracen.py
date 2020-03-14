@@ -20,10 +20,11 @@
 
 import numpy as np 
 import pandas as pd
+import sqlite3 as sq
 
-# vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified.csv")
-vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified-Komma.csv")
-intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv")
+vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified.csv" , sep=";")
+# vorwahl = pd.read_csv("200306_Vorwahl-subsetFirst20Modified-Komma.csv")
+intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv" )
 
 # df = pd.read_csv("C:\\Users\\Public\\01_Data\\TestDataPandas\\tutorial_EdxDAT210x.csv")
 # print(df)
@@ -34,27 +35,31 @@ intraceData = pd.read_csv("200309_DE-C3-RW-subsetFirst50Modified.csv")
 # print(len(vorwahl))
 # vorwahl[['Ortsnetzname']]
 
-# print(vorwahl)
+print("-----" * 5 + " dtypes")
 print(vorwahl.dtypes)
-print("-----" * 5)
+print("-----" * 5 + " info ")
 print(vorwahl.info)
-print("-----" * 5)
+print("-----" * 5 + " head ")
 print(vorwahl.head())
-print("-----" * 5)
+print("-----" * 5 + " columns")
 print(vorwahl.columns)
-print("-----" * 5)
+print("-----" * 5 + "Ortsnetzkennzahl")
 print(vorwahl["Ortsnetzkennzahl"])
-print("--IterRows---" * 5)
-for i,j in vorwahl.iterrows():
-    print(i,1)
-    print()
-print("--IterColumns---" * 5)
+print("-----" * 5 + "Print list from Ortsnetzkennzahl")
+print(list(vorwahl["Ortsnetzkennzahl"]))
+print("-----" * 5 + " list ")
 ortKennColumns = list(vorwahl)
+print(ortKennColumns)
+print("--PrintLine---" * 5)
 for line in ortKennColumns:
     print(vorwahl[line][2])
 print("-----" * 5)
 
 '''
+for i,j in vorwahl.iterrows():
+    print(i,1)
+    print()
+
 print(intraceData)
 print(intraceData.columns)
 print(intraceData["company_name"])
