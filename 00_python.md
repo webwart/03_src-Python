@@ -11,7 +11,8 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 ## Set-up
 
-- python system-wide , in subfolders I might use different einvironements.
+- python system-wide uses python 3.8. 
+- python user Sion-Desk/RAI has access to my favorite Conda-VScode-Numpy-AI-Django-Sphinx ***env_numAiDjango** environment. See Reference 1. details. 
 - use Git with [remote repository](https://github.com/webwart/03_src-Python) , keepass r.w at hm.ch - N56 - Gi
 - I FSY  between Sion-Desk and A500GbSaT3, but not with Naples-Lab
 
@@ -19,7 +20,7 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 - make sure all files are updated. FSY to github. 
 - open directory with VScode.
-- select/verify python interpreter.
+- select between env_numAiDjango , system wide , or create new environment.
 - select debug environment.
 - when finished FSY with github
 - Sion-Desk: FSY to A500GbSaT3
@@ -33,7 +34,8 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 ## Referennce
 
-[Data Structures & Algrorithm](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) -> Data Structures and Algorithms - teaches classes , linked lists
+1. PUB\Public\04_dev\01_DevOps contains the set-up information for my Conda VScode Numpy Django Sphinx environment.
+2. [Data Structures & Algrorithm](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) -> Data Structures and Algorithms - teaches classes , linked lists
 
 ## Journal
 
@@ -102,3 +104,10 @@ die local area codes.
 I am done with the header. The header changed. I also need to define how I want to do documentation with docstring.
 Now want to consilidate all these files and use them as a basis for my python book.
 >N: Learn to search over mutiple files with VScode. Learn to use docstrings in python. 
+
+### WED  18-03-2020
+
+Django with Alan Simpson
+[LINK](https://github.com/AlanSimpsonme)
+
+I did cond
