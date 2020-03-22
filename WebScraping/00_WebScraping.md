@@ -20,7 +20,8 @@ On Friday 20-02-2020 I found on CT Plus a nice article about web-scraping. The e
 
 ## Structure and procedures
 
->SP:
+>SP: Make sure the python modules "request" and "beautiful4soupe" are installed.
+Verify that CT example also work with python3.7 
 
 ## Reference
 
