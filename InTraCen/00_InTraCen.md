@@ -38,3 +38,13 @@ I could successfully apply the scripts from RealPython. I did send via forwarder
 forwarderEmail.py
 >N: send to eMails to r.w@gmail.com  , inbox@sapiensio.com , new@.
 >N: Work with attachement.
+
+### FRI 25-03-2020
+-1- uberspace¦spam¦password
+I had to reset the password of forward@rainer-warth.eu. 
+\keepass\
+
+-2- forwardEmail.py
+
+>N: send to eMails to r.w@gmail.com  , inbox@sapiensio.com , new@.
+>N: Work with attachement.
