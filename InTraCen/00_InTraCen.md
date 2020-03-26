@@ -39,12 +39,14 @@ forwarderEmail.py
 >N: send to eMails to r.w@gmail.com  , inbox@sapiensio.com , new@.
 >N: Work with attachement.
 
-### FRI 25-03-2020
+### WED 25-03-2020
 -1- uberspace¦spam¦password
 I had to reset the password of forward@rainer-warth.eu. 
+Ubespace: "Bitte setze mit 'vpasswd forwarder' ein neues, sicheres Passwort". Ich habe jedoch zuerst uberspace mail user password forwarder benutzt.
 \keepass\
 
 -2- forwardEmail.py
-
+I can now send eMail to serveral customers. I can also add an attachement.
 >N: send to eMails to r.w@gmail.com  , inbox@sapiensio.com , new@.
 >N: Work with attachement.
+>N: Test MS-Word attachement .docx
