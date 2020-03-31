@@ -1,6 +1,10 @@
 
 
+Test: forwarder@rainer-warth.eu
+.> ssh rakawas@olbers
 
+Prod: eu-service-export@warth-sapiens.com
+.> ssh webwarts@wolf.uberspace.de
 
 
 
@@ -50,3 +54,9 @@ I can now send eMail to serveral customers. I can also add an attachement.
 >N: send to eMails to r.w@gmail.com  , inbox@sapiensio.com , new@.
 >N: Work with attachement.
 >N: Test MS-Word attachement .docx
+
+
+### TUE 31-03-2020
+forwarder@rainer-warth.eu
+eu-service-export@warth-sapiensIO.com
+I did set the TXT record on INXW.com as DNS entry. "Jedoch musst du das "Name"-Feld leer lassen und den "v=spf1 mx ~all"-Wert in "Value" eintragen."
