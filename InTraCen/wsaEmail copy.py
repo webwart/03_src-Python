@@ -37,7 +37,7 @@ password = "JcXwg8WW5-Irr5_eMra-5ra_Eu3er5xp"   # keepass
 # Data for eMail
 sender_email = "eu-service-export@warth-sapiensio.com"
 receiver_email = "rainer.warth@gmail.com"  # Enter receiver address
-subject = "21:37 An email with attachment from Python"
+subject = "EU Datenerhebung - Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure"
 body = "This is an email with attachment sent from Python"
 
 
@@ -79,28 +79,48 @@ message.attach(part)
 '''
 
 
-text = message.as_string()
+# text = message.as_string()
 
 
 
 # Create the plain-text and HTML version of your message
 text = """\
-Hi,
-How are you?
-Real Python has many great tutorials:
-www.realpython.com"""
+    Guten Tag,
+	meine Firma führt im Auftrag der EU eine Untersuchung zu folgendem Thema durch:
+
+    Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Vertriebs-, Bau-, IKT- und freiberufliche Dienstleistungen.
+
+    Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Erhebung von Daten in Deutschland meine Firma warth-sapiensIO beauftragt. Sie finden weiterführenden Informationen unter: warth-sapiensio.com/eu-export
+
+    Die EU nutzt die gewonnen Erkenntnisse für Verhandlungen mit nicht-EU Ländern und um Informationsangebote wie «The Market Access Database (MADB)» anzubieten: https://madb.europa.eu/madb/
+    Mit dieser Untersuchung kann Ihre Firma der EU mitteilen, wo sie Bedarf im Abbau von Bürokratie und Handelshindernisse sehen. Wer wäre in Ihrer Firma bereit seine Erfahrung mit der Betreuung von Kunden aus nicht-EU Ländern zu berichten?</p>
+    Mit freundlichen Grüssen, Rainer Warth
+     ----------------------------------------------------------------
+    Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: https://warth-sapiensio.com/eu-export
+    Folgende Sektoren und Dienstleistungen werden dieses Jahr untersucht:
+        - Hoch- und Tiefbau:  Bauen, Umbauen, Renovieren, Verwalten
+        - Gross- und Einzelhandel: Weiterverkauf von neuen und gebrauchten Gütern, Vermittler
+        - Telekommunikation: Übertragung von Sprache, Daten, Text, Ton, Video.
+        - Computer: Softwareentwicklung, Planung von IT, Hosting, Datensammeln, etc.
+        - Freiberufliche, wissenschaftliche und technische Dienstleistungen
+    -----------------------------------------------------------------
+    Rainer Warth, Dr., MBA<br>
+    Route de Lausanne,30...............Tel.: +41 21 515 29 01                                   
+    1180 ROLLE, Suisse.................https://warth-sapiensio.com/
+"""
+
 html = """\
 <html>
   <body>
     <p>Guten Tag,<br>
-	ich führe im Auftrag der EU eine Untersuchung zu folgendem Thema durch:</p>
+	meine Firma führt im Auftrag der EU eine Untersuchung zu folgendem Thema durch:</p>
     <p><b>Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Vertriebs-, Bau-, IKT- und freiberufliche Dienstleistungen.</b></p>
-    <p> Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Erhebung von Daten in Deutschland meine Firma warth-sapiensIO beauftragt.</p> 
+    <p> Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Erhebung von Daten in Deutschland meine Firma warth-sapiensIO beauftragt. Sie finden weiterführenden Informationen unter: <a href="https://warth-sapiensio.com/eu-export/">warth-sapiensio.com/eu-export<a></p> 
     Die EU nutzt die gewonnen Erkenntnisse für Verhandlungen mit nicht-EU Ländern und um Informationsangebote wie «The Market Access Database (MADB)» anzubieten: https://madb.europa.eu/madb/  </p>
     <p>Mit dieser Untersuchung kann Ihre Firma der EU mitteilen, wo sie Bedarf im Abbau von Bürokratie und Handelshindernisse sehen. Wer wäre in Ihrer Firma bereit seine Erfahrung mit der Betreuung von Kunden aus nicht-EU Ländern zu berichten?</p>
     <p>Mit freundlichen Grüssen, Rainer Warth</p>
      ----------------------------------------------------------------<br>
-     Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: <a href="https://warth-sapiensio.com/eu-handel/">warth-sapiensio.com/eu-export.<a><br>
+     Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: <a href="https://warth-sapiensio.com/eu-export/">warth-sapiensio.com/eu-export<a><br>
      Folgende Sektoren und Dienstleistungen werden dieses Jahr untersucht:<br>
     <ol>
       <li>Hoch- und Tiefbau:  Bauen, Umbauen, Renovieren, Verwalten</li>
@@ -110,7 +130,6 @@ html = """\
       <li>Freiberufliche, wissenschaftliche und technische Dienstleistungen</li>
     </ol>
     -----------------------------------------------------------------<br>
-    <br>
     Rainer Warth, Dr., MBA<br>
     Route de Lausanne,30...............Tel.: +41 21 515 29 01<br>                                    
     1180 ROLLE, Suisse.................https://warth-sapiensio.com/<br>
@@ -153,17 +172,25 @@ try:
     # TODO: Send email here
 #    server.sendmail(sender_email, receiver_email, message.as_string())
 #    server.sendmail(sender_email, receiver_email, text)
-    with open("contacts_file.csv") as file:
-        reader = csv.reader(file)
+#    with open("contacts_file.csv") as file:
+#   I used this file to test the programm:
+#   0001-0050_BusinessRegister-Email.csv
+#
+
+    with open("0001-0100_BusinessRegister-Email.csv") as file:
+        reader = csv.reader(file, delimiter=';')
         next(reader)  # Skip header row
-        for name, receiver_email, grade in reader:
+# ID;telephone;phoneRAI;website;Response;Comments;email_1;sector;company
+#        for name, receiver_email, grade in reader:
+        for indi , telephone , phoneRAI , website , response , comments , receiver_email , sector , company  in reader:
+
             server.sendmail(
                 sender_email,
                 receiver_email,
                 # message.format(name=name,grade=grade),
                 text,
             )
-            print(receiver_email)
+            print("{};{};{};{};{};{};{};{};{}".format(indi , telephone , phoneRAI , website , response , comments , receiver_email , sector , company ))
 
 except Exception as e:
     # Print any error messages to stdout

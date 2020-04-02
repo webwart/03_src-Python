@@ -57,6 +57,37 @@ I can now send eMail to serveral customers. I can also add an attachement.
 
 
 ### TUE 31-03-2020
+-1-     Established eMail accounts
 forwarder@rainer-warth.eu
 eu-service-export@warth-sapiensIO.com
 I did set the TXT record on INXW.com as DNS entry. "Jedoch musst du das "Name"-Feld leer lassen und den "v=spf1 mx ~all"-Wert in "Value" eintragen."
+
+-2-     Wrote python script wsaEmail copy.py 
+THe script takes an CSV file and send a HTML text from eu-service-export@warth-sapiensIO.com  on wolf.
+
+-3-     Website¦Data protection.
+>N: I need to update my site warth-sapiensIO.com
+
+
+THU  02-04-2020
+-1-  Website¦
+I completed Dataprotection and the EU-export page.
+
+-2-  wsaEmail.py
+I finished and tested script. I did send the first 100 eMail. I defined the following SP.
+
+>SP: Send Intracen eMail
+
+''' text
+OPEN.... VScode
+OPEN.... in VScode open 0001-0xxx_BusinessRegister-Email.csv   
+OPEN.... in VScode open \RAI-Next\200409_Intracen\SurveyDataCollection\n-200403_eMailBusinessRegister_RKW.csv  ->(2)
+FIND.... ----->N:----- in (2) , remove , an place curso at the beginning of the same line
+COPY.... lines from cursor to next 29 or 39 lines
+INSER... 0001-0xxx_BusinessRegister-Email.csv
+OPEN.... in VScode open wsaEMAIL copy.py 
+VERIFY.. line 180     with open("0001-0030_BusinessRegister-Email.csv") as file
+RUN..... wsaEmail copy.py
+SAVE.... print out in InTraCenEmailResults.csv
+TYPE.... to each result set the time-stamp: 200402-1515
+'''
