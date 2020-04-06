@@ -4,17 +4,28 @@
 # I will use a test file with 1000 lines.
 # I  will create files with lines of 70 +- 20
 
-
+import pathlib
 
 lastLineOfFile = 8
 prevLastLine = 1
 lastLine = 2
 contentToWrite = ""
+breakList = []
 
-for breakline in  range(9):
-    print(breakline)
+for breakline in  range(5766 // 50 ):
+    # print(breakline)
+    multiBreakline = breakline * 50
+    breakList.append(multiBreakline)
 
-print(str(lastLine) + "---->" + line)
+print("<--->" )
+print(breakList)
+print("---->" )
+print(pathlib.Path.cwd())
+print(pathlib.Path(r'c:\Users\Public\03_src\python\InTraCenTestFiles'))
+print(pathlib.Path.home() / "InTraCenTestFiles" )           # same as with joinpath
+print(pathlib.Path.home().joinpath("InTraCenTestFiles"))    # same as with / operator
+
+pathlib.Path.cwd().joinpath("InTraCenTestFiles" , )
 
 
 with open('0001-0008_BusinessRegister-Email-Test.csv', ) as f:
@@ -28,9 +39,30 @@ with open('0001-0008_BusinessRegister-Email-Test.csv', ) as f:
 
 
 
-fileName  = (str(prevLastLine).zfill(4) + "-" + str(lastLine).zfill(4) + "_BusinessRegister-Email.csv")
-with open(fileName, 'w') as nf:
-    nf.write(contentToWrite)
+
+List with intervalls
+-> File name
+->
+
+
+
+print(inteListTuble(0 , 50))
+
+
+
+
+
+
+
+
+for b_line in breakList:
+    lastLine = b_line
+    print(str(prevLastLine) + "-"+ str(lastLine))
+    prevLastLine = b_line + 1
+    fileName  = (str(prevLastLine).zfill(4) + "-" + str(lastLine).zfill(4) + "_BusinessRegister-Email.csv")
+    file = pathlib.Path.cwd().joinpath("InTraCenTestFiles" , fileName )
+    with open(file, 'w') as nf:
+        nf.write(contentToWrite)
 
 
 
