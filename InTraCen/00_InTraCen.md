@@ -91,3 +91,22 @@ RUN..... wsaEmail copy.py
 SAVE.... print out in InTraCenEmailResults.csv
 TYPE.... to each result set the time-stamp: 200402-1515
 '''
+
+''' text
+OPEN.... VScode \03_src\python
+OPEN.... GITbash .> ssh webwarts@wolf.uberspace.de
+OPEN.... FileZilla connect to Uber Webwarts
+
+OPEN.... in VScode open 0001-0xxx_BusinessRegister-Email.csv, where xxx reflects the last line an eMail was send to.  
+OPEN.... in VScode open \RAI-Next\200409_Intracen\SurveyDataCollection\n-200403_eMailBusinessRegister_RKW.csv  ->(2)
+FIND.... ----->N:----- in (2) and place cursor at the beginning of the same line
+COPY.... lines from cursor to next 29 or 39 59, 79 lines.
+TYPE.... in next line, which is not copied:  ----->N:-----
+INSERT.. 0001-0xxx_BusinessRegister-Email.csv
+TYPE....  datetime in last row  200403 15:25
+OPEN.... in VScode open wsaEMAIL copy.py 
+VERIFY.. line 180     with open("0001-0030_BusinessRegister-Email.csv") as file
+TRANSFER.. with FileZila 0001-0xxx_BusinessRegister-Email.csv to uber\webwarts\InTraCen\ 
+RUN....... in bash-shel ind \InTraCen\ python wsaEmail copy.py
+SAVE...... print out in \python\IntraCen\InTraCenEmailResults.csv
+'''

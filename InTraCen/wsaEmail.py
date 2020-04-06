@@ -173,11 +173,14 @@ try:
 #    server.sendmail(sender_email, receiver_email, message.as_string())
 #    server.sendmail(sender_email, receiver_email, text)
 #    with open("contacts_file.csv") as file:
-#   I used this file to test the programm:
-#   0001-0050_BusinessRegister-Email.csv
+#   I used this file to test the programm: 0001-0008_BusinessRegister-Email-Test.csv
+#    with open("0001-0008_BusinessRegister-Email-Test.csv") as file:
+#   
+# 
 #
 
-    with open("0001-0100_BusinessRegister-Email.csv") as file:
+    with open("0001-0399_BusinessRegister-Email.csv") as file:
+
         reader = csv.reader(file, delimiter=';')
         next(reader)  # Skip header row
 # ID;telephone;phoneRAI;website;Response;Comments;email_1;sector;company
