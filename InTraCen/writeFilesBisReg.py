@@ -38,23 +38,6 @@ with open('0001-0008_BusinessRegister-Email-Test.csv', ) as f:
     print("-----" * 5)
 
 
-
-
-List with intervalls
--> File name
-->
-
-
-
-print(inteListTuble(0 , 50))
-
-
-
-
-
-
-
-
 for b_line in breakList:
     lastLine = b_line
     print(str(prevLastLine) + "-"+ str(lastLine))

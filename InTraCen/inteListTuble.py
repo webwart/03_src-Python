@@ -1,10 +1,22 @@
 import random
 
 
+def  saveContentInNewFile(breakList):
+    for  prevLastLine , b_line in breakList:
+        print(str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
 
-inteList = []
+    '''
+    lastLine = b_line
+    print(str(prevLastLine) + "-"+ str(lastLine))
+    prevLastLine = b_line + 1
+    fileName  = (str(prevLastLine).zfill(4) + "-" + str(lastLine).zfill(4) + "_BusinessRegister-Email.csv")
+    file = pathlib.Path.cwd().joinpath("InTraCenTestFiles" , fileName )
+    with open(file, 'w') as nf:
+        nf.write(contentToWrite)
+    '''
 
-def inteListTubel( startLine , endLine , minRand , maxRand ):
+
+def inteListTubel( startLine , endLine , minRand , maxRand , inteList ):
     ''' return list with tuples containing two intergeers '''
     r_num = random.randrange( minRand , maxRand)
     while (endLine - maxRand ) > startLine :
@@ -24,5 +36,11 @@ def inteListTubel( startLine , endLine , minRand , maxRand ):
 
     return inteList
 
+def main():
+    inteList = []
+    print(inteListTubel(599 , 5766 , 40 , 42 , inteList))
+    print("-----" * 5)
+    print(inteList)
 
-print(inteListTubel(599 , 5766 , 40 , 42 ))
+if __name__ == "__main__":
+    main()
