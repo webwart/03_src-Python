@@ -723,3 +723,628 @@ DE060792W;+49 69 719189 37;;www.locknlock.com;;;germany@locknlock.com;DST;LOCK &
 DE063266W;+49 6155 842900;;www.motovario.de;;;germany@motovario-group.com;DST;MOTOVARIO GMBH
 DE003413K;49 74150;----->N:-------;http://www.ndt-ag.de;;03-04-2020 15:02;germany@ndt-global.com;PST;NDT Abwicklungs AG
 [webwarts@wolf intracenRAI]$
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0599-0701_BusinessRegister-Email.csv                               0599-0701_BusinessRegister-Email.csv
+DE066564F;+49 211 542190;;;;;germany@pmpiping.com;DST;PROJECT MATERIALS GMBH
+DE003592K;49 178880;;http://www.shearman.com;;;germany@shearman.com;PST;SHEARMAN & STERLING LLP
+DE071557W;+49 4106 627070;;www.texim-europe.com;;;germany@texim-europe.com;DST;TEXIM EUROPE GMBH
+DE058369E;+49 2204 839 0;;;;;geschaeftsfuehrung@joke.de;DST;JOKE TECHNOLOGY GMBH
+DE001986K;49 35030;;http://www.gestra.de;;;gestra.ag@flowserve.com;PST;GESTRA AG
+DE048591W;+49 30 49915660;;www.dck-universal.de;;;geuther@dck-universal.de;DST;DCK UNIVERSAL GMBH
+DE003663K;49 3605550;;http://www.dywidag.de;;;gf.ingenieurbau@dywidag.com;PST;DYWIDAG Bau GmbH
+DE053662F;+49 911 395 0;;;;;gfk@gfk.com;ICT;GFK RETAIL AND TECHNOLOGY GMBH
+DE046084W;+49 69 80085793;;www.bonitura.de;;;gg@mediaselfilekljl.eu;DST;BONITURA GMBH
+DE072837W;+49 211 9891691;;www.uit-drgratch.com;;;ggratch@gmail.com;DST;UNIVERSAL INDUSTRIAL TECHNICS DR. GRATCH E.K.
+DE052951W;+49 176 10306971;;;;;ggzeil@arcor.de;DST;G KAUFMANNS & G HANDELS UG (HAFTUNGSBESCHRAENKT)
+DE053739W;+49 2204 402922;;www.gimex.de;;;gimex@gimex.de;DST;GIMEX MELAMINE PLUS GMBH
+DE053762W;+49 2102 9934619;;www.girbau.de;;;girbaugermany@girbau.com;DST;GIRBAU DEUTSCHLAND GMBH
+DE053764W;+49 381 2998586;;www.pkw.de;;;giro328@gmx.de;DST;GIRO AUTOMOBILE GMBH
+DE053775E;+49 221 29203600;;;;;gitec@gitec-consult.eu;PST;GITEC-IGIP GMBH
+DE004221K;;;http://www.rudolstadt.basf.de;;;global.info@basf.com;DST;BASF SE
+DE048050F;+49 40 32011 0;;;;;global@cremer.de;DST;CREMER OLEO GMBH & CO. KG
+DE053947W;+49 38231 669999;;www.glorychem.de;;;glorychem@t-online.de;DST;GLORYCHEM GMBH & CO. KG
+DE062580W;+49 4106 626908;;www.meyer-gmbh.de;;;gm@gunter-meyer.com;CON;MEYER LANDHAUS GMBH
+DE062578W;+49 4106 626908;;www.meyer-gmbh.de;;;gm@meyer-gmbh.de;CON;MEYER GMBH
+DE070714W;+49 7272 77698814;;;;;gmbh@suchow.de;DST;SUCHOW ELEKTROTECHNIK GMBH
+DE075164F;+49 261 286603;;;;;gmbh@zender.de;DST;ZENDER GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE070310W;+49 201 507672 50;;www.ssg-trading.de;;;goedde@ssg-trading.de;DST;SSG TRADING GMBH
+DE070890W;+49 3641 62280;;www.lkt-kirchner.de;;;goindia@lkt-kirchner.de;PST;SUSANNE KIRCHNER E.K.
+DE054070W;;;goldenlogistics-sa.com;;;goldenlogistics.gmbh@yahoo.com;DST;GOLDEN LOGISTICS GMBH
+DE054075W;+49 6631 8017849;;;;;goldensailgmbh@gmail.com;DST;GOLDEN SAILS GMBH
+DE002188K;49 78747790;;http://www.secotex.de;;;golf@secotex.de;DST;Seitz & Co. GmbH
+DE054184W;+49 2294 599;;www.gpm-pumps.de;;;gpm-pumps@t-online.de;DST;GPM GERMAN PUMPS AND MOTORS GMBH
+DE054198W;+49 6196 5230469;;www.moda-italy.fashion123.de;;;grace.z.gmbh@hotmail.de;DST;GRACE Z. GMBH
+DE054202W;+49 6104 4082824;;;;;grafema-hanau@t-online.de;DST;GRAFEMA MASCHINEN UND ANLAGEN VERTRIEBS GMBH
+DE054222W;;;www.grandex.de;;;grandexgmbh@aol.com;DST;GRANDEX GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG IMPORT - EXPORT
+DE054339W;+49 7153 37272;;www.grochutek.de;;;grochutek_germany@t-online.de;DST;GROCHUTEK HANDELS GMBH
+DE054342W;+49 6434 2008 200;;www.grofa.com;;;grofa@grofa.com;DST;GROFA ACTION SPORTS GMBH
+DE067484W;+49 40 32870877;;www.reymers-gemuese.de;;;grossmarkt@reymers-gemuese.de;DST;REYMERS GEMUESEHANDEL GMBH
+DE054380W;+49 5194 9000;;www.grube.de;;;grubekg@grube.de;DST;GRUBE KG FORSTGERAETESTELLE
+DE044186W;+49 30 40740159;;;;;grunert@autokontor-deutschland.de;DST;AUTOKONTOR DEUTSCHLAND GMBH
+DE053882W;+49 228 53879598;;;;;gtc.bonn@t-online.de;DST;GLOBAL TRADE & CONSULT GMBH
+DE053432W;+49 40 37501320;;;;;gtolentino@aol.com;PST;GERARDO J. TOLENTINO GMBH
+DE053558W;+49 176 82956283;;;;;guangwu29@gmail.com;DST;GERMART GMBH C/O PING XU
+DE067056W;+49 89 89054726;;www.ramsez.de;;;gueler@ramsez.de;DST;RAMSEZ-GMBH
+DE002726K;49 8303991;;http://www.gundermann-mikroelektronik.de;;;gumik@outlook.de;PST;Gundermann Mikroelektronik GmbH
+DE053605W;+49 40 434405;;;;;gustusohg@gmail.com;DST;GESTUS OHG
+DE041703W;;;www.acroeins.de;;;gw@acroeins.de;PST;ACRO EINS GMBH
+DE052832W;+49 7634 51180;;www.fuenfgeld-holzbau.de;;;h.fuenfgeld@fuenfgeld-holzbau.de;CON;FUENFGELD HOLZBAU GMBH
+DE074227W;+49 40 6965020;;www.whb-braune.de;;;hagen.braune@whb-braune.de;DST;WHB VERTRIEB HAGEN BRAUNE GMBH
+DE054879W;;;;;;hajitel@hotmail.de;ICT;HAJITEL TRADING GMBH
+DE049261F;+49 89 215454889;;;;;hallo@digital1.online;ICT;DIGITAL1 GMBH
+DE059161W;+49 175 2380663;;www.kaffee9.de;;;hallo@kafe9.de;DST;KFE 9 GMBH
+DE059962W;+49 6271 945844;;www.kw-wohn-industriebau.de;;;hallo@kw-wohn-industriebau.de;CON;KW WOHN- & INDUSTRIEBAU GMBH
+DE063087W;+49 6151 6292715;;www.moguru.de;;;hallo@moguru.de;ICT;MOGURU GMBH
+DE058145W;+49 2331 3484 637;;www.myjcp.de;;;hallo@myjcp.de;ICT;JCP CONSULTING GMBH
+DE002683K;49 28810;;http://www.fcbhamburg.de;;;hamburg.info@fcb.com;PST;SALT communications GmbH
+DE045201W;+49 40 731081 0;;www.bl-baumaschinen.de;;;hamburg@bl-baumaschinen.de;DST;BEHRENS + LUENEBURGER BAUMASCHINEN (GMBH & CO) KG
+DE046900W;+49 40 28059721;;www.carpetti.de;;;hamburg@carpetti.de;DST;CARPETTI - DESIGNTEPPICH-VERTRIEB GMBH
+DE046637F;+49 40 35903 0;;;;;hamburg@illies.de;DST;C. ILLIES & CO. (GMBH & CO.) KG
+DE068673W;+49 40 82294657;;www.scanchemie.de;;;hamburg@scanchemie.de;DST;SCANCHEMIE HAMBURG GMBH
+DE072556W;;;;;;hamburg@tuncer-naturstein.de;DST;TUNCER & CO. OHG
+DE003320K;49 37644970;;http://www.unex-group.com;;;hamburg@unex-group.com;PST;UNEX Management Consulting GmbH & Co. KG Büro Hamburg
+DE053979E;+49 40 88151 0;;;;;hamburg-e@gmp-architekten.de;PST;GMP INTERNATIONAL GMBH
+DE050487W;+49 2852 968534;;www.electron-deutschland.de;;;hamminkeln@electron-deutschland.de;CON;ELECTRON LEITUNGSBAU GMBH
+DE054956W;+49 40 87608702;;;;;hamstar-gmbh@hotmail.de;DST;HAMSTAR INTERNATIONALE HANDELS GMBH
+DE067853W;+49 201 4513670;;www.romsteel.de;;;hannemann@romsteel.de;DST;ROMSTEEL BEARINGS GMBH & CO. KG
+DE065067W;+49 6196 5002 0;;;;;hans.basten@etl.de;DST;ORO SCHMUCK-HANDELSGESELLSCHAFT MBH
+DE045679W;+49 9403 8346;;www.biodas.de;;;hans.stangl@biodas.de;DST;BIODAS GMBH
+DE055170F;+49 6196 5016 0;;;;;hanwha@hanwha.de;DST;HANWHA EUROPE GMBH
+DE055188W;+49 2131 4032861;;www.happystar.fashion123.de;;;happystar@outlook.de;DST;HAPPY KIDS GMBH
+DE055217W;+49 176 27294419;;;;;haroon_qd@yahoo.com;DST;HAROON IMPEX E. K.
+DE074457W;+49 5325 54747;;;;;harry.muenchberg@t-online.de;DST;WISSENSCHAFTLICHE VERSANDBUCHHANDLUNG HARRY MUENCHBERG
+DE069425W;+49 151 19109509;;www.shs-globaltrading.de;;;harun.senkal@shs-globaltrading.de;DST;SHS GLOBAL TRADING E.K.
+DE054652W;+49 2161 5754662;;www.hphandels.com;;;harun@hphandels.com;DST;H & P HANDELS GMBH
+DE041847W;;;;;;hasanagic-fahrudin@arcor.de;CON;ADO-BAU GMBH
+DE053591W;+49 30 35402870;;;;;has-tee@t-online.de;DST;GESAK IM- UND EXPORT GMBH
+DE055264W;+49 4642 923675;;www.hathi.de;;;hathi@t-online.de;DST;HATHI LIMITED
+DE055287W;+49 9644 9206 0;;www.hausner-gmbh.de;;;hausner.pressath@t-online.de;DST;HAUSNER GMBH
+DE054876W;+49 5491 9998400;;www.hajat-baustahl.de;;;hayat-infobaustahl@web.de;CON;HAJAT BAUSTAHL GMBH
+DE055315W;+49 40 232094;;;;;hazoortex@t-online.de;DST;HAZOORTEX GMBH
+DE055316W;+49 69 26016170;;hbhandels.de;;;hbhandelsonline@gmail.com;DST;HB HANDELS GMBH
+DE051615W;+49 211 91348721;;www.lokal-gutscheine.de;;;hd@expomasch.de;DST;EXPOMASCH GMBH
+DE055937W;+49 89 31699 505;;hkm-consulting.de;;;hecht@hkm-consulting.de;ICT;HKM CONSULTING GMBH
+DE072938W;+49 6074 485831;;www.vatech.co.uk;;;hedi.vorbeck@vatech.co.uk;DST;V A TECHNOLOGY LIMITED ZWEIGNIEDERLASSUNG DEUTSCHLAND
+DE057393W;+49 351 20566713;;www.autowerk.eu;;;heiko.demme@autowerk.eu;DST;INSOMNIUM AUTOMOBILE DRESDEN GMBH & CO. KG
+DE064546W;+49 9252 993520;;www.nikol-weber.de;;;heimtextil@nikol-weber.de;DST;NW HEIMTEX GMBH
+DE041070W;+49 40 6092388 00;;www.gms-norderstedt.de;;;heiner.hueser@gms-norderstedt.de;DST;GMS - GENERAL MARINE SPARES IM- UND EXPORT GMBH
+DE051591W;+49 5905 9459991;;www.exler-gmbh.eu;;;heinz@exler-gmbh.eu;DST;EXLER VIEHHANDELS GMBH & CO. KOMMANDITGESELLSCHAFT
+DE001141K;49 6109330;;http://www.kolloge.de;;;heko@kolloge.de;PST;Herbert Kolloge KG
+DE001723K;49 879200;;http://www.hellbeck.info;;;hellbeck-mb@t-online.de;CON;Horst Hellbeck CNC-Technik Hans Hellbeck Maschinenbau
+DE041194W;+49 7121 3480;;www.21torr.com;;;hello@21torr.com;ICT;21TORR GMBH
+DE044466W;;;www.azguard-gmbh.de;;;hello@azguard-gmbh.de;ICT;AZGUARD GMBH
+DE047513W;+49 5250 7055035;;www.classictimer.com;;;hello@classictimer.com;DST;CLASSICTIMER UG (HAFTUNGSBESCHRAENKT)
+DE064899W;+49 69 8700686 0;;www.onewave.de;;;hello@onewave.de;DST;ONEWAVE GMBH
+DE065006F;+49 30 208983099;;;;;hello@orderbird.com;ICT;ORDERBIRD AG
+DE064616W;+49 2233 6281298;;www.rainbowfruit.de;;;hello@rainbowfruit.de;DST;OBSTIE GMBH
+DE067720W;+49 4193 7524362;;www.roadworks.de;;;hello@roadworks.de;DST;ROADWORKS E. K.
+DE043517E;+49 203 410500;;;;;hello-germany@artefact.com;ICT;ARTEFACT GERMANY GMBH
+DE056670E;+49 6107 7790440;;;;;helloibm@de.ibm.com;ICT;IBM DEUTSCHLAND AVIATION INDUSTRY SERVICES GMBH
+DE055563W;;;home.mobile.de/helltec;;;helltec@mobile.de;DST;HELLTEC LIMITED
+DE046269W;+49 2872 80740;;www.bresser.de;;;helmut.ebbert@bresser.de;DST;BRESSER GMBH
+DE066211W;+49 2102 5289851;;portatechs.com;;;helmut.han@portatechs.de;DST;PORTA POWER TECHNOLOGY GMBH
+DE055774F;+49 6841 9596170;;;;;help@hexonet.net;ICT;HEXONET GMBH
+DE055595W;+49 511 8995660;;www.helwich-hannover.de;;;helwichrohr@helwich-hannover.de;DST;HELWICH ROEHREN + STAHLHANDEL HANNOVER GMBH & CO. KG
+DE041096W;+49 40 2369285;;;;;hendlmeier@luedex.de;DST;LUEDEX WARENKONTOR GMBH
+DE073336W;+49 2642 99699 20;;www.vimex-gmbh.de;;;hendrik@vimex-gmbh.de;DST;VIMEX GMBH
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0702-0804_BusinessRegister-Email.csv
+0702-0804_BusinessRegister-Email.csv
+DE055246W;+49 5461 2158;;www.hasemann-gmbh.de;;;hermann.hasemann@hasemann-gmbh.de;DST;HASEMANN GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE055802W;+49 561 951297 30;;;;;hgz-gmbh@mail.de;DST;HGZ HESSISCHE GEBRAUCHTWAREN ZENTRALE GMBH
+DE054865W;+49 511 639820;;;;;h-haiduk@t-online.de;DST;HAIDUK KFZ GMBH MECHATRONIK KAROSSERIE UND LACKIERUNG
+DE055889W;+49 6623 9151 0;;www.hirsch-autoteile.de;;;hirsch-korbussen@hirsch-autoteile.de;DST;HIRSCH AUTOTEILE GMBH
+DE055913F;+49 211 160090;;;;;hme@hitachi-metals-europe.com;DST;HITACHI METALS EUROPE GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE056061W;+49 5923 993 123;;;;;hmet@mirza.nl;DST;HOLLAND MIDDLE EAST TRADING GMBH
+DE055751W;+49 201 946770217;;;;;hms.werner@gmail.com;DST;HESSE METAL SOLUTION GMBH
+DE056030W;+49 2205 88081;;www.hofmannconsult.net;;;hofmann-consult@t-online.de;PST;HOFMANN CONSULT GMBH
+DE056048W;+49 5262 9936044;;www.holdhuys.de;;;holdhuys@t-online.de;DST;HOLDHUYS GMBH
+DE070912W;+49 421 36799130;;www.sven-roschen.de;;;holz@sven-roschen.de;DST;SVEN ROSCHEN E.K.
+DE062640W;;;www.mho-bau.de;;;homann-berlin@web.de;PST;MHO FACILITY GMBH
+DE055994W;+49 40 68267542;;www.maifansd.com;;;hongbin.ma@hamburg.de;DST;HOCHCHEM GMBH
+DE060106W;;;www.laghmantrading.de;;;hosseinzoi@web.de;DST;LAGHMAN TRADING GMBH
+DE069498W;+49 2271 7630;;www.siewert-kau.de;;;hotline@siewert-kau.de;DST;SIEWERT & KAU DISTRIBUTION GMBH
+DE052434W;;;www.fonnet.gmbh;;;houman.rayegani@googlemail.com;DST;FONNET GMBH
+DE055080W;+49 5502 944914;;;;;h-p.helm@t-online.de;DST;HANS-PETER HELM GMBH HOLZGROSSHANDLUNG - IMPORT-EXPORT
+DE065584W;+49 2166 552339;;;;;h-pauliks@arcor.de;DST;PAULIKS GMBH
+DE069272W;+49 5308 9791200;;www.sews-e.com;;;hrinfo@sews-e.com;PST;SEWS COMPONENTS AND ELECTRONICS EUROPE LTD.
+DE056283W;+49 8151 268630;;www.hsgmbh.eu;;;hs-automobile-muenchen@mobile.de;DST;HS-AUTOMOBILE GMBH
+DE056359W;+49 69 8008559 1;;;;;huayang998@hotmail.com;DST;HUA YANG BUSINESS SERVICE & CONSULTING GMBH
+DE056393W;+49 89 54880820;;;;;hubigmbh@gmail.com;DST;HUBI GMBH
+DE064091W;+49 2692 9320049;;www.nhmoebelgleiter.de;;;huetten@nhmoebelgleiter.de;DST;NH MOEBELGLEITER  GMBH
+DE001479K;49 20510;;http://www.hommel-gruppe.de;;;huv@hommel-gruppe.de;DST;Hommel Unverzagt GmbH
+DE003643K;49 933515;;http://www.innotec-systems.de;;;hv@innotec-systems.de;DST;INNOtec Systems GmbH
+DE056475W;;;www.hvg-logistik.com;;;hvg@hvg-logistik.com;DST;HVG HANDELS- UND VERTRIEBS GMBH & CO. LOGISTIK + RECYCLING KG
+DE056504W;;;;;;hycotec@hycotec.eu;PST;HYCOTEC ELECTRONIC COMPONENTS GMBH
+DE056517W;+49 2151 790055;;www.hykuzell.de;;;hykuzell@t-online.de;DST;HYKUZELL MEDIZINISCHER SACH- UND PFLEGEBEDARF GMBH
+DE053130W;+49 177 4732945;;;;;i.dursun@gardashoes.com;DST;GARDA GMBH
+DE061493W;+49 381 2037257;;;;;i.nedzhiatin@makugmbh.de;DST;MAKU IMPORT UND EXPORT GMBH
+DE057269W;+49 7627 70830;;www.systems-ibe.com;;;ibegmbh@yahoo.de;PST;INGENIEURBUERO EBER GMBH
+DE060256W;+49 6196 773040;;;;;ibfashion24@gmail.com;DST;LB NEW FASHION GMBH & CO. KG
+DE002613K;49 96890;;http://www.goeke-group.com;;;ibg-automation@goeke-group.com;PST;IBG Automation GmbH
+DE004016K;49 28910;;http://www.ibl-hamburg.com;;;ibl@tecan.com;DST;IBL International GmbH
+DE056714W;+49 40 521025 11;;www.icefish.de;;;icefish@icefish.de;DST;ICEFISH SEAFOOD GMBH
+DE003744K;49 368920;;http://www.iclei-europe.org;;;iclei-europe@iclei.org;PST;ICLEI The International Council for Local Environmental Initiatives Europasekretariat GmbH
+DE043935W;+49 173 6110201;;www.ausculto.de;;;id@ausculto.de;ICT;AUSCULTO GMBH
+DE056759W;;;www.luc-8.com;;;ideal@luc-8.com;DST;IDEAL T & C  GMBH
+DE056756W;+49 211 77944460;;www.ideal-werk.com;;;idealccgmbh@gmail.com;DST;IDEAL C & C GMBH
+DE056773W;+49 7576 8899206;;www.living-in-abox.de;;;ideen-welt@gmx.net;CON;IDEEN-WELT UG (HAFTUNGSBESCHRAENKT)
+DE056782W;;;;;;idl.europe@gmail.com;DST;IDL EUROPE UG (HAFTUNGSBESCHRAENKT)
+DE056849E;+49 34602 61600;;;;;igepaqueis@igepagroup.com;DST;IGEPA GROSSHANDEL GMBH
+DE056869W;+49 521 9466911;;;;;ihd-handel@t-online.de;DST;IHD IMPORT, HANDEL, DIENSTLEISTUNGEN RENATE STAKELBECK E. KFR.
+DE003645K;49 929700;;http://www.mentis-consulting.de;;;ihr@mentis-consulting.de;PST;Mentis International Human Resources GmbH
+DE057021F;+49 4681 4747;;;;;ikn@inselfoehr.de;PST;IMMOBILIEN-KONTOR-NORD GMBH
+DE056894W;+49 30 39885216;;www.ikram-food.de;;;ikramfood@gmx.de;DST;IKRAM LEBENSMITTEL GROSSHANDEL GMBH
+DE045428W;+49 711 638255;;www.bertolina.de;;;iliev@bertolina.de;DST;BERTOLINA-GMBH IMPORT-EXPORT VON TECHNISCHEN INDUSTRIEERZEUGNISSEN
+DE071640W;+49 6321 5896000;;www.themichael.de;;;ilike@themichael.de;DST;THE MICHAEL GMBH
+DE074291W;+49 30 6419130;;www.farben-frikell.de;;;ilka.frikell@farben-frikell.de;DST;WIH WERBE- UND INDUSTRIEBEDARF HANDELSGESELLSCHAFT MBH BERLIN
+DE056983W;+49 173 5130317;;;;;imex-handel-kfz@gmx.net;DST;IMEX HANDELSGESELLSCHAFT MBH
+DE056991W;+49 3941 595999;;;;;imex-prom@t-online.de;DST;IMEX- PROM GMBH
+DE061943W;+49 33762 450220;;www.mazur-gmbh.de;;;immo@mazur-gmbh.de;PST;MAZUR GMBH
+DE002401K;49 4430;;http://www.imo-merseburg.de;;;imo.merseburg.vertrieb@t-online.de;PST;Industriemontagen Merseburg GmbH
+DE061345W;;;;;;import.made.italy@gmail.com;DST;MADEINITALY  VECCHIO BORGO GMBH
+DE054584W;+49 40 7281540;;www.gustav-wulff.de;;;import@gustav-wulff.de;DST;GUSTAV WULFF GMBH
+DE061687W;+49 211 68860;;www.metroag.de;;;imprint@metro.de;DST;MARKTHALLE GMBH
+DE001460K;49 62990;;http://www.interpon.de;;;info.arnsberg@akzonobel.com;ICT;Akzo Nobel Powder Coatings GmbH
+DE001229K;49 410920;;http://www.star-group.net;;;info.boe2@star-group.net;ICT;STAR Language Technology & Solutions GmbH
+DE046435W;+49 6181 4287664;;www.bucaddi.com/impressum.html;;;info.bucaddi@gmail.com;DST;BUCADDI INT. GMBH
+DE074258F;+49 40 237301 0;;;;;info.dach@nuvias.com;ICT;WICK HILL KOMMUNIKATIONSTECHNIK GMBH
+DE041718F;+49 211 1698000;;;;;info.de@acteongroup.com;DST;ACTEON GERMANY GMBH
+DE041907W;+49 711 72842 0;;www.aeb.com;;;info.de@aeb.com;ICT;AEB SE
+DE044410F;+49 2681 808 0;;;;;info.de@axtone.eu;CON;AXTONE GMBH
+DE045329W;;;www.bepco-deutschland.de;;;info.de@bepcoparts.com;DST;BEPCO DEUTSCHLAND GMBH
+DE001920K;49 36420;;http://www.bestar-steel.com;;;info.de@BESTAR-STEEL.com;DST;BESTAR Stahlhandelgesellschaft Remscheid mbH
+DE002673K;49 55410;;http://www.black-box.de;;;info.de@blackbox.com;DST;BLACK BOX Deutschland GmbH
+DE001326K;49 867979209;;http://de.cevalogistics.com;;;info.de@cevalogistics.com;PST;CEVA Logistics GmbH
+DE047947W;+49 8024 902280;;www.cosentino.com/de;;;info.de@cosentino.com;DST;COSENTINO DEUTSCHLAND  GMBH
+DE050143W;+49 2203 298090;;www.ecologic-construct.com;;;info.de@ecologic-construct.com;CON;ECI INVESTMENT INC. & CO. KG
+DE053648W;;;www.gfbdairy.eu;;;info.de@gfbdairy.eu;DST;GFB DAIRY PRODUCTS GERMANY GMBH
+DE002550K;49 3509550;;http://www.hm.com;;;info.de@hm.com;DST;H & M Hennes & Mauritz B.V. & Co. KG
+DE002808K;49 93570;;http://www.applichem.com;;;info.de@itwreagents.com;DST;AppliChem GmbH
+DE059712W;+49 40 320920;;www.krahn.de;;;info.de@krahn.de;DST;KRAHN CHEMIE DEUTSCHLAND GMBH
+DE003923K;49 21093224;;http://www.mscsoftware.com;;;info.de@mscsoftware.com;ICT;MSC.Software GmbH
+DE002436K;49 5195870;;http://www.mtssensor.de;;;info.de@mtssensors.com;PST;MTS Sensor Technologie GmbH & Co. KG
+DE064487E;+49 2102 4810;;;;;info.de@nsk.com;DST;NSK DEUTSCHLAND GMBH
+DE064486W;+49 2102 4810;;www.nskeurope.de;;;info.de@nsk.com;DST;NSK DEUTSCHLAND GMBH
+DE003588K;49 4057040;;http://www.powervote.com;;;info.de@powervote.com;ICT;PowerVote GmbH
+DE067245W;+49 211 93670217;;www.refteck.com;;;info.de@refteck.com;DST;REFTECK SOLUTIONS EUROPE GMBH C/O INDIPA
+DE069393W;+49 30 206582 0;;www.shire.de;;;info.de@shire.com;DST;SHIRE DEUTSCHLAND GMBH
+DE070612F;+49 6621 162 0;;;;;info.de@strabag.com;CON;STRABAG GMBH
+DE061782W;+49 7121 7064690;;www.mastermartini.com;;;info.de@unigra.com;DST;MASTER MARTINI DEUTSCHLAND GMBH
+DE002705K;49 58580;;http://www.sophos.de;;;info.de@utimaco.com;ICT;Sophos Technology GmbH
+DE071642E;+49 69 79380;;;;;info.deutschland@nielsen.com;PST;THE NIELSEN COMPANY (GERMANY) GMBH
+DE064434F;+49 8165 925 299;;;;;info.deutschland@novexx.com;ICT;NOVEXX SOLUTIONS GMBH
+DE064433E;+49 8165 925 299;;;;;info.deutschland@novexx.com;ICT;NOVEXX SOLUTIONS GMBH
+DE002832K;49 57290;;https://stahlhandel.arcelormittal.com;;;info.distribution@arcelormittal.com;DST;ArcelorMittal Distribution GmbH
+DE043485F;+49 89 930990;;;;;info.ecs.de@arrow.com;DST;ARROW ECS AG
+DE071761F;+49 201 844 0;;;;;info.elevator.cene@thyssenkrupp.com;CON;THYSSENKRUPP ELEVATOR EUROPE AFRICA GMBH
+DE044190W;+49 6221 729805 0;;www.apisensor.de;;;info.eu@apisensor.com;DST;AUTOMATED PRECISION EUROPE GMBH
+DE055040W;+49 2159 814570;;www.hannspree.com;;;info.europe@hannspree.com;ICT;HANNSPREE EUROPE GMBH
+DE068279W;+49 6103 27011 0;;www.sabinsaeurope.com;;;info.europe@sabinsa.com;PST;SABINSA EUROPE GMBH
+DE064834E;+49 711 95739;;;;;info.fellbach@omexom.com;CON;OMEXOM GA SUED GMBH
+DE001565K;49 7580770;;http://www.dreso.com;;;info.frankfurt@dreso.com;PST;Drees & Sommer Projektmanagement und bautechnische Beratung GmbH
+DE003131K;49 7420;;http://www.geadiessel.com;;;info.geadiessel.de@gea.com;PST;GEA Diessel GmbH
+DE055471E;+49 30 390415 0;;;;;info.germany@heineken.com;DST;HEINEKEN DEUTSCHLAND GMBH
+DE062250W;+49 800 52225333;;www.medtrum.com;;;info.germany@medtrum.com;DST;MEDTRUM GMBH
+DE064873W;+49 8677 960 0;;www.omv.de;;;info.germany@omv.com;DST;OMV DEUTSCHLAND GMBH
+DE065066E;+49 2841 8880 0;;;;;info.germany@oruna.com;DST;ORNUA DEUTSCHLAND GMBH
+DE070632W;+49 2241 95127 0;;www.strax.com;;;info.germany@strax.com;DST;STRAX GMBH
+DE055380W;+49 176 62119658;;www.hde-murato.de;;;info.hde94@gmail.com;DST;HDE SERVICE UND LOGISTIK E.KFM.
+DE001977K;;;;;;info.hp@smurfitkappa.de;PST;Smurfit Kappa Herzberg Solid Board GmbH
+DE001690K;49 950180;;http://www.roesberg.de;;;info.ka@roesberg.com;PST;Rösberg Engineering Ingenieurgesellschaft mbH für Automation
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0805-0907_BusinessRegister-Email.csv
+0805-0907_BusinessRegister-Email.csv
+DE059232F;+49 2102 405131;;;;;info.kidde-deugra@hs.utc.com;DST;KIDDE-DEUGRA BRANDSCHUTZSYSTEME GMBH
+DE061578E;+49 6002 9199 0;;;;;info.mde@manitou.com;DST;MANITOU DEUTSCHLAND GMBH
+DE063199W;+49 30 3014225;;www.bruderjgm.com;;;info.mora@bruderjgm.com;DST;MORA IMPORT & EXPORT GMBH
+DE003377K;49 806720;;http://www.pluto13.de;;;info.nospam@piranha-bytes.com;ICT;Pluto 13 GmbH
+DE057613E;+49 89 45614100;;;;;info.nutztiere@msd.de;DST;INTERVET DEUTSCHLAND GMBH
+DE002455K;;;http://www.siemens.com/gb/fossil-power-generation;;;info.pg@siemens.com;DST;Siemens AG Fossil Power Generation Division
+DE001485K;49 3730;;http://www.zeibina.de;;;info.puschwitz@zeibina.com;DST;ZEIBINA Kunststoff-Technik GmbH
+DE067464W;+49 172 5837479;;;;;info.reva.ug@gmail.com;CON;REVA UG (HAFTUNGSBESCHRAENKT)
+DE003011K;49 8440;;http://www.thyssenkrupp-stahlkontor.de;;;info.schulte@thyssenkrupp.com;DST;thyssenkrupp Schulte GmbH
+DE046129F;+49 711 8110;;;;;info.service@de.bosch.com;CON;BOSCH SICHERHEITSSYSTEME GMBH
+DE002001K;49 212222;;http://www.mfi.de;;;info.service@sz.szmf.de;PST;Salzgitter Mannesmann Forschung GmbH
+DE001611K;49 92780;;http://www.thyssenkrupp-uhde.de;;;info.tkues@thyssenkrupp.com;CON;ThyssenKrupp Uhde Engineering Services GmbH
+DE002539K;49 212133;;http://www.maquet.com;;;info.vertrieb@maquet.de;DST;MAQUET Vertrieb und Service Deutschland GmbH
+DE075274F;+49 6196 586930;;;;;info.zinsser-analytic@gardnerdenver.com;DST;ZINSSER ANALYTIC GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE051879F;+49 711 22023 80;;;;;info@0039italy.com;DST;FASHION DIRECT GMBH
+DE050535F;+49 7951 9645100;;;;;info@11teamsports.de;DST;ELEVEN TEAMSPORTS GMBH
+DE041174W;+49 6753 964670;;www.1a-medientechnik.com;;;info@1a-medientechnik.com;DST;1A MEDIENTECHNIK GMBH
+DE041176W;+49 611 9458776 0;;www.profi-pumpe.de;;;info@1a-profi-handel.de;DST;1A-PROFI-HANDELS GMBH
+DE041185W;+49 176 10368861;;www.1st-project.de;;;info@1st-project.de;CON;1ST-PROJEKT GMBH
+DE041189W;;;www.2-sun.de;;;info@2-sun.de;DST;2 SUN HANDEL GMBH
+DE041190W;+49 8531 247846;;www.2w4w.de;;;info@2w4w.de;DST;2 WHEEL 4 WHEEL GMBH
+DE041215W;+49 30 47009855;;www.3a-trading.de;;;info@3a-trading.com;DST;3A TRADING GMBH
+DE002579K;49 16848170;;http://www.3d-scanworks.com;;;info@3d-scanworks.com;ICT;3D Scanworks Scanservice
+DE041218E;+49 6105 3248100;;;;;info@3dsystems-europe.com;ICT;3D SYSTEMS GMBH
+DE041228E;+49 89 800656 0;;;;;info@3kv.de;DST;3KV GMBH
+DE041230W;;;www.3lc.de;;;info@3lc.de;DST;3LC DEUTSCHLAND UG (HAFTUNGSBESCHRAENKT)
+DE071469W;+49 211 9350299;;www.3oc-tenche.com;;;info@3oc-tenche.com;PST;TENCHE GMBH
+DE041257W;+49 30 61674114;;www.4-deluxe.de;;;info@4-deluxe.de;DST;4DELUXE GMBH
+DE041247F;+49 89 895206 0;;;;;info@4m-werbeagentur.de;PST;4 M - MULTI-MEDIA-MARKETING-MANAGEMENT GMBH
+DE041242W;+49 211 63557280;;www.4-rad.de;;;info@4-rad.de;DST;4 - RAD-KRAFTFAHRZEUG GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE041253W;;;www.4star-metals.com;;;info@4star-metals.com;DST;4-STAR METALS GMBH
+DE064691W;+49 30 33506623;;www.7guen.com;;;info@7guen.com;DST;OEZCAN GETRAENKE GMBH
+DE041337W;;;;;;info@a45-handels.com;DST;A 45 HANDELS-GMBH
+DE041508F;+49 911 95773 0;;;;;info@aarsleff-gmbh.de;CON;AARSLEFF ROHRSANIERUNG GMBH
+DE041525W;+49 3921 2565254;;www.abakus-management.de;;;info@abakus-management.de;PST;ABAKUS BAUSYSTEME GMBH & CO. KG
+DE041528W;+49 721 15644700;;www.abarut.de;;;info@abarut.de;DST;ABARUT GMBH & CO. KG
+DE004634K;49 967230;;http://www.abas-systemhaus.de;;;info@abas-erp.com;ICT;abas Software AG
+DE041529F;+49 421 430460;;;;;info@abat.de;PST;ABAT AG
+DE075091W;+49 441 361805845;;www.abbsco.de;;;info@abbsco.de;DST;ZAINUDDIN SHERAWALA E. K.
+DE041538W;+49 40 6417042;;www.abc-automobile.de;;;info@abc-automobile.de;DST;ABC AUTOMOBILE ANDREAS KLECHA
+DE043897E;+49 4471 189 0;;;;;info@abc-bruns.de;DST;AUGUST BRUNS LANDMASCHINEN GMBH
+DE043081F;+49 421 50940;;;;;info@ab-inbev.de;DST;ANHEUSER-BUSCH INBEV INTERNATIONAL GMBH & CO. KG
+DE043079W;+49 421 50940;;www.ab-inbev.de;;;info@ab-inbev.de;DST;ANHEUSER-BUSCH INBEV DEUTSCHLAND GMBH & CO. KG
+DE001782K;49 97835;;http://www.abis-gmbh.com;;;info@abis-gmbh.info;DST;ABIS GmbH
+DE047227W;+49 711 55380 20;;www.abramo.de;;;info@abramo.de;DST;CHAIM ABRAMOWICZ
+DE041601W;+49 6101 5865 0;;www.abs-alpha-group.com;;;info@abs-buerosysteme.com;DST;ABS ALPHA GROUP GMBH
+DE041380W;+49 2543 23822800;;www.abt-abbruchtechnik.de;;;info@abt-abbruchtechnik.de;DST;A. B. T. ABBRUCHTECHNIK GMBH
+DE041615F;+49 2335 6340;;;;;info@abus-sc.de;DST;ABUS SECURITY CENTER GMBH & CO. KG
+DE041303W;+49 221 99968730;;www.ab-vertrieb.de;;;info@ab-vertrieb.de;DST;A & B VERTRIEBSGESELLSCHAFT MBH
+DE061384E;+49 7622 6955;;;;;info@ac.magnetic.de;CON;MAGNETIC AUTOCONTROL GMBH
+DE041639W;+49 2051 313165;;www.acarmed.de;;;info@acarmed.de;DST;ACARMED GMBH
+DE041649W;+49 89 546788 0;;www.accretech.de;;;info@accretech.de;DST;ACCRETECH (EUROPE) GMBH
+DE041658E;+49 2173 9226 10;;;;;info@ace-ace.de;DST;ACE STOSSDAEMPFER GMBH
+DE041659W;+49 69 838329500;;www.acecamp.de;;;info@acecamp.de;DST;ACECAMP GMBH
+DE041663F;+49 221 768020;;;;;info@acentic.com;DST;ACENTIC GMBH
+DE041416F;+49 40 477037;;;;;info@achaase.de;DST;A.C. HAASE OSTHANDELSGESELLSCHAFT MBH
+DE041667W;+49 40 38678713;;www.achau24-hamburg.de;;;info@achau24-hamburg.de;DST;ACHAU 24 HAMBURG GMBH
+DE041690F;+49 511 5151510;;;;;info@acmeo.de;ICT;ACMEO GMBH
+DE041702W;+49 4107 851790;;www.acr-gmbh.de;;;info@acr-gmbh.de;DST;ACR GMBH
+DE043607W;+49 6434 2008 800;;www.action-sports-electronics.com;;;info@actionsports-electronics.com;DST;ASE ACTION SPORTS ELECTRONICS GMBH
+DE041725F;+49 511 67669560;;;;;info@actio-personal.de;PST;ACTIO PERSONALRECRUITING GMBH
+DE041728W;+49 9287 9560970;;www.activa-vertrieb.de;;;info@activa-vertrieb.de;DST;ACTIVA - GRILLKUECHE GMBH
+DE041732F;+49 2330 9191 0;;;;;info@active-logistics.com;DST;ACTIVE LOGISTICS AG
+DE041738W;+49 8104 62933 0;;www.acturion.com;;;info@acturion.com;DST;ACTURION DATASYS GMBH
+DE001764K;49 608194190;;http://www.adamhall.com;;;info@adamhall.com;DST;Adam Hall GmbH
+DE041771W;;;www.adamiexport.com;;;info@adamiexport.com;DST;ADAMI VERTRIEBS GMBH
+DE041788W;+49 241 446880;;www.addag.de;;;info@addag.de;ICT;ADDAG GMBH & CO. KG
+DE002972K;49 988560;;http://www.adelhelm.de;;;info@adelhelm.de;PST;ADELHELM Kunststoffbeschichtungen GmbH
+DE041812W;+49 241 47018 0;;www.adhoc.de;;;info@adhoc.de;ICT;ADHOC COMPUTER GMBH
+DE041816W;+49 211 24793328;;www.adkardia.com;;;info@adkardia.com;PST;ADKARDIA GMBH
+DE041826W;+49 211 59815511;;www.adler-maschinen.de;;;info@adler-maschinen.de;DST;ADLER-MASCHINEN HANDELSGESELLSCHAFT MBH
+DE041824W;+49 40 41485355;;www.adlertrading.de;;;info@adlertrading.de;DST;ADLER TRADING GMBH
+DE041841F;+49 7131 12427 29;;;;;info@admitad.com;ICT;ADMITAD GMBH
+DE041846F;+49 6171 63202;;;;;info@ado-goldkante.de;DST;ADO GOLDKANTE GMBH & CO. KG
+DE041862W;+49 40 6782016;;adotec.com;;;info@adotec.com;DST;ADOTEC GMBH
+DE041863F;+49 5772 49 0;;;;;info@adp-gauselmann.de;DST;ADP GAUSELMANN GMBH
+DE002108K;49 3950;;http://www.adphos.de;;;info@adphos.de;PST;adphos Thermal Processing GmbH
+DE041866W;+49 89 37066077;;www.adria-nautic-service.com;;;info@adria-nautic-service.com;DST;ADRIA NAUTIC SERVICE E.K.
+DE041889W;+49 1523 4135180;;www.advantage-socialmedia.de;;;info@advantage-socialmedia.de;PST;ADVANTAGE SOCIAL MEDIA MARKETING UG (HAFTUNGSBESCHRAENKT)
+DE003850K;49 45000;;http://www.advaoptical.com;;;info@advaoptical.de;DST;ADVA Optical Networking SE
+DE041893F;+49 30 39823678;;;;;info@advertpack.de;PST;ADVERTPACK LTD. & CO. KG
+DE041901F;+49 6227 733790;;;;;info@adweko.com;ICT;ADWEKO CONSULTING GMBH
+DE041428W;;;www.ae-ecobau.de;;;info@ae-ecobau.de;CON;A.E.ECOBAU GMBH
+DE003810K;49 59099100;;;;;info@aegmis.de;ICT;BMG Gesellschaft für moderne Informationssysteme mbH
+DE003475K;;;http://www.ael.de;;;info@ael.de;PST;AEL Apparatebau GmbH Leisnig
+DE041916W;+49 7251 3088041;;www.aem-hydromontage.de;;;info@aem-hydromontage.de;CON;AEM-HYDROMONTAGE GMBH
+DE003822K;49 226355811;;http://www.aequitas-software.de;;;info@aequitas-software.de;ICT;Aequitas Software GmbH & Co. KG
+DE041927W;+49 40 7344580;;www.aerolux.de;;;info@aerolux.de;PST;AEROLUX GMBH
+DE041947W;+49 231 84796201;;www.af-pack.de;;;info@af-pack.de;DST;AF-PACK DILEKCI & KONAK  GMBH
+DE070162F;+39 345 2952776;;;;;info@agavee.com;ICT;SPARKFABRIK GMBH
+DE042005W;+49 7561 2489;;www.agenturthieme.de;;;info@agenturthieme.de;PST;AGENTUR THIEME INHABERIN DOROTHEA POELLMANN E. K.
+DE042015W;+49 30 65075090;;www.agetech.de;;;info@agetech.de;DST;AGETECH GMBH
+DE004224K;49 99250;;http://www.agiplan.de;;;info@agiplan.de;PST;agiplan GmbH
+DE042046W;+49 6184 909090;;www.agrarsilo.de;;;info@agrarsilo.de;DST;AGRARSILO GMBH
+DE042067F;+49 381 497870;;;;;info@agro-baltic.de;DST;AGRO BALTIC GMBH
+DE003579K;49 927900;;http://www.agrobiogen.de;;;info@agrobiogen.de;PST;Agrobiogen GmbH
+DE051733W;+49 8671 960063;;www.fliegl.com;;;info@agro-center.de;DST;FA IMPORT-EXPORT GMBH
+DE042080W;+49 4765 830034;;www.agrofilter.de;;;info@agrofilter.de;PST;AGROFILTER GMBH
+DE042105W;+49 170 5857677;;;;;info@ahg-ug.de;DST;AH&G UG (HAFTUNGSBESCHRAENKT)
+DE042123W;+49 211 1796803;;www.ahi-entertainment.de;;;info@ahi-entertainment.de;ICT;AHI ENTERTAINMENT GMBH
+DE044553W;+49 2573 2007;;www.ahlers-sohn.de;;;info@ahlers-sohn.de;DST;B. AHLERS & SOHN E.K., INH. ULRICH AHLERS
+DE001923K;49 3075687540;;http://www.ahpkg.de;;;info@ahpkg.de;PST;AHP GmbH & Co. KG
+[webwarts@wolf intracenRAI]$                                                                                            
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0908-1010_BusinessRegister-Email.csv
+0908-1010_BusinessRegister-Email.csv
+DE073747W;+49 30 68058985;;www.ai-baumaschinen.de;;;info@ai-baumaschinen.de;DST;WAKH BAUMASCHINENHANDEL UND IMMOBILIENVERWALTUNG GMBH
+DE042148W;+49 8251 8964 0;;www.aiclogistik.de;;;info@aic-logistik.de;CON;AIC LOGISTIK GMBH
+DE042156F;+49 2174 7908 0;;;;;info@aievas.de;ICT;AIEVAS AG
+DE042166W;+49 6131 478275;;;;;info@aimhandel.de;DST;AIM HANDELS GMBH
+DE042171W;+49 2154 9235500;;www.aiptek.de;;;info@aiptek.de;DST;AIPTEK INTERNATIONAL GMBH
+DE063533W;+49 4535 2992090;;www.airstream4u.de;;;info@airstream4u.de;DST;MULTY-SERVICE GOLDT GMBH
+DE042188W;+49 201 31998390;;www.airwin-kompressoren.de;;;info@airwin-kompressoren.de;DST;AIRWIN UG (HAFTUNGSBESCHRAENKT)
+DE004212K;49 99387570;;http://www.ais-sensors.de;;;info@ais-sensors.de;PST;AIS GmbH Advanced International Sensors
+DE001285K;49 238530;;http://www.aitgoehner.de;;;info@AIT.de;ICT;AIT Goehner GmbH
+DE042199W;+49 40 348099 93;;www.aiya-europe.com;;;info@aiya-europe.com;DST;AIYA EUROPE GMBH
+DE042201W;+49 40 79697093;;;;;info@ajaportfoliobrands.it;DST;AJA PORTFOLIO BRANDS E.K.
+DE042225W;+49 36966 2198210;;www.akano.org;;;info@akano.org;PST;AKANO GMBH
+DE042226W;+49 221 3671750;;www.akasha-keilrahmen.de;;;info@akasha-keilrahmen.de;DST;AKASHA KUENSTLERBEDARF E.K.
+DE042257W;+49 341 26309136;;akkord-bau.de;;;info@akkord-bau.de;CON;AKKORD BAU GMBH
+DE042261W;+49 203 6693850;;www.akkurt.de;;;info@akkurt.de;CON;AKKURT WASSERTURM GMBH
+DE042264W;+49 30 39406440;;www.akkus-blumen.de;;;info@akkus-blumen.de;DST;AKKUS KREUZBERG GMBH
+DE042268W;+49 152 04191133;;www.ako-trading-gmbh.com;;;info@ako-trading-gmbh.com;DST;AKO TRADING GMBH
+DE042299W;+49 611 334772345;;www.aktivboot.de;;;info@aktivboot.de;DST;AKTIVBOOT GMBH
+DE042341W;+49 4292 810410;;www.aladomo.de;;;info@alamodo.de;CON;ALADOMO IMMOBILIEN GMBH & CO. KG
+DE042343W;+49 2241 3977687;;www.alandoner.de;;;info@alandoner.com;DST;ALAN DOENER GMBH
+DE042347W;+49 2642 99990 0;;www.alanko.de;;;info@alanko.de;DST;ALANKO GMBH
+DE062894W;+49 5241 9941555;;www.alarm.de;;;info@alarm.de;DST;MIT GMBH
+DE041443W;+49 2274 9145108;;www.albatrade.de;;;info@albatrade.de;DST;A.L.B.A. TRADE GMBH
+DE042371W;+49 421 304040;;www.albert-gmbh.de;;;info@albert-gmbh.de;DST;ALBERT GMBH
+DE004063K;49 2734495270;;http://www.alberthodel.com;;;info@alberthodel.de;PST;Albert Hodel GmbH Apparatebau und Schweißkonstruktionen
+DE042351W;+49 7333 9539555;;www.albeventbau.de;;;info@albeventbau.de;CON;ALB EVENT & BAU GMBH
+DE042382W;+49 421 388987 0;;www.albko.de;;;info@albko.de;DST;ALBKO METALLHANDEL  GMBH & CO. KG
+DE042387W;+49 89 82952636;;www.alboroc.com;;;info@alboroc.com;DST;ALBOROC GMBH
+DE042389E;+49 8323 9651 0;;;;;info@albrecht-elektrotechnik.de;PST;ALBRECHT ELEKTROTECHNIK GMBH
+DE042392W;+49 421 16690993;;www.albrecht-r.com;;;info@albrecht-r.com;DST;ALBRECHT UND R GMBH
+DE046501W;+49 2238 96680;;www.shop.albu.de;;;info@albu.de;DST;BULLMANN GMBH
+DE042395W;+49 1805 252263;;www.alcando.eu;;;info@alcando.eu;DST;ALCANDO GMBH
+DE042409F;+49 261 97268 0;;;;;info@alcopack.de;DST;ALCOPACK GMBH
+DE042429W;+49 711 6749306;;www.alemgmbh.de;;;info@alemgmbh.de;DST;ALEM LEBENSMITTEL EINZEL- & GROSSHANDELS GMBH
+DE042431W;+49 221 16892594;;www.alen-gmbh.com;;;info@alen-gmbh.com;DST;ALEN IM- UND EXPORT DIENSTLEISTUNGEN GMBH
+DE042436E;+49 261 8910;;;;;info@aleris.com;DST;ALERIS ROLLED PRODUCTS GERMANY GMBH
+DE042474W;+49 30 28036108;;www.alfa-corrado.com;;;info@alfa-corrado.com;DST;ALFA-CORRADO UG (HAFTUNGSBESCHRAENKT)
+DE042467W;;;www.alfaplastik.de;;;info@alfalastik.de;DST;ALFA PLASTIK GMBH
+DE042484W;+49 2561 42966;;www.alfert-ahaus.de;;;info@alfert-ahaus.de;DST;ALFERT  QUALITAETSFLEISCHWAREN AUS DEM MUENSTERLAND GMBH
+DE004091K;49 9142700;;http://www.alfmeier.de;;;info@alfmeier.de;PST;Alfmeier Präzision SE
+DE002295K;49 177011;;http://www.algewo.de;w23;;info@algewo.de;CON;ALGEWO Baubetreuungs-GmbH
+DE042537W;+49 69 34877861;;www.alineason.com;;;info@alineason.com;DST;ALINEASON MATERIALS TECHNOLOGY GMBH
+DE058980W;+49 35264 98780;;www.a-little-more.de;;;info@a-little-more.de;DST;KATHRIN KYNAST E. K. IMPORT-EXPORT
+DE042552W;+49 40 50053660;;www.alkon-online.de;;;info@alkon-online.de;DST;ALKON BESITZ GMBH
+DE042610W;+49 7243 71105 0;;www.alligo.de;;;info@alligo.de;DST;ALLIGO GMBH & CO. KG
+DE042573W;+49 40 33488220;;www.all-onegmbh.com;;;info@all-onegmbh.com;DST;ALL-ONE GMBH
+DE042626W;+49 40 210979 0;;www.alltrade-topo.de;;;info@alltrade-topo.de;DST;ALLTRADE TOPO GMBH
+DE003946K;49 9770499;;http://www.almawin.de;;;info@almawin.de;DST;AlmaWin Reinigungskonzentrate GmbH
+DE042649W;+49 2102 2078987;;www.almitex.de;;;info@almitex.de;DST;ALMITEX GMBH
+DE042669W;+49 2581 9410772;;www.aloma-gmbh.de;;;info@aloma-gmbh.com;PST;ALOMA GMBH
+DE001532K;49 40080;;http://www.alos.de;;;info@alos.de;DST;ALOS GmbH
+DE042718W;+49 211 91737439;;www.alphaconcept.de;;;info@alphaconcept.de;CON;ALPHACONZEPT GMBH
+DE042721W;;;www.alphalink.de;;;info@alphalink.de;DST;ALPHALINK GMBH
+DE042699F;+49 2632 98780 0;;;;;info@alphametall.com;DST;ALPHA METALL GMBH
+DE042700W;+49 38392 6778 0;;www.alphamm.de;;;info@alphamm.de;DST;ALPHA MOBILE-MARINE GMBH
+DE042697W;+49 6241 500480;;www.alpha-passoni.de;;;info@alpha-passoni.de;DST;ALPHA INDUSTRIE-BEDARFS GESELLSCHAFT MIT  BESCHRAENKTER HAFTUNG
+DE042756W;+49 40 88171979;;www.alstercare-hamburg.de;;;info@alstercare-hamburg.de;DST;ALSTER CARE GMBH
+DE042777F;+49 40 853990 0;;;;;info@alten-technology.com;PST;ALTEN TECHNOLOGY GMBH
+DE042791F;+49 291 9024400;;;;;info@althoff-industriebau.de;PST;ALTHOFF INDUSTRIE- UND VERWALTUNGSBAU GMBH
+DE042796F;+49 721 8244300;;;;;info@altium.com;ICT;ALTIUM EUROPE GMBH
+DE042797W;+49 7033 468900;;www.altmann-magstadt.com;;;info@altmann-magstadt.com;DST;ALTMANN GRAPHISCHE MASCHINEN GMBH
+DE042806W;+49 6105 7172301;;www.altuntastechnik.com;;;info@altuntastechnik.com;DST;ALTUNTAS GMBH
+DE042852W;+49 2104 2126 0;;www.amada.de;;;info@amada.de;DST;AMADA GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE042853E;+49 2104 1777 0;;;;;info@amadamachinetools.de;DST;AMADA MACHINE TOOLS EUROPE GMBH
+DE042859W;+49 5503 1036;;www.amara-trucks.de;;;info@amara-trucks.de;DST;AMARA TRUCKS INH. DIPL. VOLKSWIRT SAID AMARA E.K.
+DE041917W;+49 69 5977 5087;;amasian.de;;;info@amasian.de;DST;AEMASIAN WEDDING STUDIO GMBH
+DE042878W;+49 30 30202732;;www.ambientagroup.com;;;info@ambientagroup.com;DST;AMBIENTA GROUP GMBH
+DE042868W;+49 40 30036787;;www.amb-trade.de;;;info@amb-trade.de;DST;AMB TRADE GMBH
+DE044194W;+49 5182 9625 210;;www.amd-automation.de;;;info@amd-automation.de;DST;AUTOMATION MESS- UND DIGITALTECHNIK (AMD) GMBH
+DE062042W;+49 89 2190957 0;;www.amdee.de;;;info@amdee.de;DST;MD RETAIL GMBH
+DE042889W;+49 6158 97020;;www.amegmbh.com;;;info@amegmbh.com;DST;AME ADVANCED MEMORY ELECTRONICS GMBH
+DE042900W;+49 9661 8129 142;;www.american-trendhouse.de;;;info@american-trendhouse.de;DST;AMERICAN TRENDHOUSE GMBH
+DE042836W;+49 291 20256 0;;www.am-gmbh.de;;;info@am-gmbh.de;ICT;AM GMBH
+DE042923E;+49 2593 9567 0;;;;;info@amica-international.com;DST;AMICA INTERNATIONAL GMBH
+DE042838W;;;www.am-international.de;;;info@am-international.de;DST;AM INTERNATIONAL GMBH
+DE042931W;+49 6102 815327;;www.amisante.de;;;info@amisante.de;DST;AMISANTE UG (HAFTUNGSBESCHRAENKT)
+DE042955F;+49 711 6729122;;;;;info@amorphsys.com;ICT;AMORPH SYSTEMS GMBH
+DE042963F;+49 800 8045990;;;;;info@amplus.ag;ICT;AMPLUS AG
+DE042966W;+49 5977 7688 414;;www.amr-industrieservice.de;;;info@amr-industrieservice.de;DST;AMR INDUSTRIESERVICE GMBH
+DE002410K;49 865870;;http://www.amr-research.com;;;info@amr-research.com;PST;AMR Advanced Market Research GmbH
+DE002902K;49 9186680;;http://www.amsonline.de;;;info@AMSonline.de;ICT;AMS Gesellschaft für angewandte Mess- und Systemtechnik mbH
+DE042841W;+49 711 58520873;;www.am-trade.de;;;info@am-trade.de;DST;AM TRADE GMBH
+DE042985F;+49 711 268998224;;;;;info@amvsglobal.com;ICT;AMVS GLOBAL GMBH
+DE042991W;;;www.amzet.de;;;info@amzet.de;CON;AMZET UG (HAFTUNGSBESCHRAENKT)
+DE042998F;+49 6196 7694770;;;;;info@anadeo.com;ICT;ANADEO CONSULTING GMBH
+DE043005W;+49 3733 24894;;www.anapont.de;;;info@anapont.de;DST;ANAPONT GMBH
+DE043013W;+49 211 4155930;;www.anbgermany.com;;;info@anbgermany.com;DST;ANB METALLWERKZEUG GMBH
+DE043030W;+49 8721 9500 0;;www.anders-gmbh.de;;;info@anders-gmbh.de;DST;ANDERS GMBH & CO. PRODUKTIONS UND VERTRIEBS KG
+DE043051W;+49 40 24883840;;www.andrews-instruments.de;;;info@andrews-instruments.de;DST;ANDREWS INSTRUMENTS GMBH
+DE001399K;49 8572669;;http://www.andysgetraenke.de;;;info@andysgetraenke.de;DST;Andreas Torke Andy's Getränkequelle
+DE043063W;+49 30 54812819;;www.anera-enterprise.de;;;info@anera-enterprise.de;DST;ANERA ENTERPRISE GMBH
+DE004381K;49 349140;;http://www.angermann.de;;;info@angermann.de;PST;Horst F. G. Angermann GmbH
+DE043078W;+49 9831 8474;;www.anhaengeroutlet.de;;;info@anhaengeroutlet.de;DST;ANHAENGER OUTLET GMBH
+DE043086W;+49 30 206787610;;www.aniland.de;;;info@aniland.de;DST;ANILAND GMBH
+DE043094W;+49 171 7875712;;www.anjamyrdal.de;;;info@anjamyrdal.de;PST;ANJA MYRDAL & TEAM OHG
+DE043101W;+49 9631 706520;;www.anker-knopf.de;;;info@anker-knopf.de;DST;ANKER-KNOPF G.M.B.H.
+DE002409K;49 943736000;;http://www.annotext.de;;;info@annotext.de;ICT;AnNoText GmbH
+DE043119W;+49 2592 24922 0;;www.anpado.com;w23;;info@anpado.com;DST;ANPADO GMBH
+DE043132W;+49 421 321731;;www.ankersmit.de;;;info@antankersmit.de;DST;ANT. ANKERSMIT & CO. (GMBH & CO. KG)
+DE043145W;;;www.antika-deutschland.de;;;info@antika-deutschland.de;DST;ANTIKA GMBH, ANTIQUITAETENHANDEL
+DE043152W;+49 202 719922;;www.anton-ritz.de;;;info@anton-ritz.de;DST;ANTON RITZ GMBH
+DE043159F;+49 651 147740;;;;;info@antony-farben.de;DST;ANTONY - FARBEN GMBH
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 1011-1113_BusinessRegister-Email.csv
+1011-1113_BusinessRegister-Email.csv
+DE043166W;+49 6073 80088;;;;;info@anvo-gmbh.de;DST;ANVO HYGIENE-HANDELS-GMBH
+DE043180W;+49 89 93939222;;www.a-o-m.net;;;info@a-o-m.net;DST;AOM GMBH
+DE043186W;;;www.apautoparts.de;;;info@apautoparts.de;DST;AP AUTOPARTS AXEL KUGELSTADT & PARTNER GMBH
+DE043193F;+49 4124 60480;;;;;info@ap-concept.de;DST;AP-CONCEPT GMBH & CO. KG
+DE043211F;+49 30 2839210;;;;;info@aperto.de;PST;APERTO GMBH
+DE043214W;;;www.apex-groupofcompanies.com;;;info@apex-deutschland.de;DST;APEX DEUTSCHLAND GMBH
+DE002991K;49 28050;;http://www.ap-paletten.de;;;info@ap-paletten.de;DST;A. P. Paletten-Recycling GmbH
+DE004172K;49 5380;;http://www.apparatebaundh.de;;;info@apparatebaundh.de;DST;Apparatebau Nordhausen GmbH
+DE043194W;+49 40 398816 0;;www.ap-pumpen.de;;;info@ap-pumpen.de;DST;AP-PUMPEN GMBH
+DE043265F;+49 6151 667520;;;;;info@apz-carmotion.de;DST;APZ AUTO-PFLEGE-ZENTRUM GMBH
+DE002592K;;;http://www.aqseptence.com;;;info@aqseptence.com;CON;Aqseptence Group GmbH
+DE001087K;49 8993690;;http://www.aqua-concept-gmbh.eu;;;info@aqua-concept-gmbh.eu;PST;Aqua-Concept Gesellschaft für Wasserbehandlung mbH
+DE043281W;+49 681 96549778;;www.aquacontor.de;;;info@aquacontor.de;DST;AQUACONTOR UG (HAFTUNGSBESCHRAENKT)
+DE043282W;+49 9438 944 0;;www.aquado.de;;;info@aquado.net;DST;AQUADO AG
+DE043284W;+49 521 30539935;;www.aqualita.de;;;info@aqualita.de;DST;AQUALITA GMBH
+DE043285F;+49 2924 87750;;;;;info@aqualogistik.com;DST;AQUALOGISTIK GMBH
+DE043288W;+49 6106 69010;;www.aquariumglaser.de;;;info@aquariumglaser.de;DST;AQUARIUM GLASER GMBH
+DE002418K;49 81984;;http://www.aquata.com;;;info@aquata.com;ICT;Aquata Euras Produktions- und Vertriebsgesellschaft mbH
+DE043299F;+49 40 875050 100;;;;;info@aquila-capital.de;PST;AQUILA CAPITAL CONCEPTS GMBH
+DE043324W;+49 40 319773 47;;www.araratgmbh.com;;;info@araratgmbh.com;DST;ARARAT GMBH
+DE043347W;+49 211 16456930;;www.arcandus.de;;;info@arcandus.de;DST;ARCANDUS GMBH
+DE043356W;+49 177 7936684;;www.archimed-service.de;;;info@archimed-service.de;ICT;ARCHIMEDSERVICE GMBH
+DE043357W;+49 4532 2868 0;;www.arclite.de;;;info@arclite.de;DST;ARCLITE LICHTVERTRIEB GMBH
+DE043361W;+49 89 143329 30;;www.arcora.de;;;info@arcora.de;DST;ARCORA INTERNATIONAL GMBH
+DE002647K;49 4330;;http://www.ardison.de;;;info@ardison.de;DST;ARDISON Heimtextilien GmbH
+DE043372W;+49 2801 987210;;www.area-management.de;;;info@areamanagement.de;PST;AREA MANAGEMENT GMBH
+DE043379W;+49 211 8903327;;www.arena-one.com;;;info@arenaservices.de;DST;ARENA GMBH
+DE043406W;+49 6721 30960;;www.argon-dental.de;;;info@argon-dental.de;DST;ARGON MEDICAL PRODUCTIONS & VERTRIEBS GESELLSCHAFT MBH & CO. KG
+DE043403E;+49 821 34362 0;;;;;info@argo-personal.de;PST;ARGO GROUP GMBH
+DE043408W;+49 2361 3703507;;www.arimaschinen.de;;;info@arimaschinen.de;DST;ARI MASCHINEN GMBH
+DE004283K;49 3418120;;http://www.ariston-media-service.de;;;info@ariston-media-service.de;PST;Ariston Media Service GmbH
+DE043439W;;;www.ariti.gr;;;info@ariti.gr;DST;ARITI GMBH
+DE043457W;+49 561 47518 60;;www.armonies.de;;;info@armonies.de;DST;ARMONIES TECHNIK & DESIGN GMBH
+DE058933E;+49 711 3480250;;;;;info@arno.de;DST;KARL-HEINZ ARNOLD GMBH
+DE002598K;49 79478210;+49 79478210;http://ky.to/www.arnold-fastening.com;;on Monday 10.03.20 contact Truesch;info@arnold-fastening.com;DST;ARNOLD UMFORMTECHNIK GmbH & Co. KG
+DE043179W;+49 221 16830476;;www.aromas-of-mexico.com;;;info@aromas-of-mexico.de;DST;AOM AROMAS OF MEXICO GMBH
+DE043483W;+49 6102 50300;;www.arrowce.de;;;info@arroweurope.com;DST;ARROW CENTRAL EUROPE GMBH
+DE043521W;;;www.artemis-ceramic.de;;;info@artemis-ceramic.de;CON;ARTEMIS BAUSANIERUNGS GMBH
+DE043507F;+49 221 270579 00;;;;;info@art-invest.de;PST;ART-INVEST REAL ESTATE MANAGEMENT GMBH & CO KG
+DE043545W;+49 35243 36862;;www.arturbetz.de;;;info@arturbetz.de;DST;ARTUR BETZ GMBH
+DE071669W;+49 40 352176;;www.artus-furnituren.de;;;info@artus-furnituren.de;DST;THEODOR ARTUS OHG
+DE043549W;+49 2104 5042763;;www.artvion.de;;;info@artvion.com;DST;ARTVION E.K.
+DE043939W;+49 152 56281125;;artwave.biz;;;info@artwave.biz;DST;AUSTER GMBH
+DE043019W;+49 208 58020;;www.ancofer.de;;;info@as.dillinger.biz;DST;ANCOFER STAHLHANDEL GMBH
+DE043576W;+49 40 373617;;www.as-4-cars.com;;;info@as-4-cars.com;DST;AS-4-CARS GMBH
+DE041013W;+49 40 386147 01;;www.asahandelskontor.de;;;info@asahandelskontor.de;DST;ASA HANDELSKONTOR G.M.B.H.
+DE043584E;+49 211 8822030;;;;;info@asahi-kasei.eu;DST;ASAHI KASEI EUROPE GMBH
+DE063896W;+49 40 65043310;;www.asbaustoffe.eu;;;info@asbaustoffe.eu;DST;NEISHA GMBH
+DE041456W;+49 6206 156729;;www.asbrito.de;;;info@asbrito.de;DST;A.S. BRITO GMBH
+DE041345W;+49 178 5304274;;;;;info@asfrucht.de;DST;A S FRUCHT GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
+DE043619W;+49 2166 998839 0;;www.asg-aluminium.de;;;info@asg-aluminium.de;DST;ASG-ALUMINIUM UND STAHL GMBH
+DE043618W;+49 40 229419 16;;www.asg-selection.de;;;info@asg-selection.de;DST;ASG SELECTION GMBH
+DE050280W;+49 172 7729494;;;;;info@as-handels-gmbh.de;DST;EFE SWEETS AND NUTS GMBH
+DE043621F;+49 6201 879090;;;;;info@ashfieldhealthcare.com;PST;ASHFIELD HEALTHCARE GMBH
+DE043626W;+49 6341 919315;;www.asieurope.de;;;info@asieurope.de;PST;ASI EUROPE GMBH AGROSERVICE UND INVESTMENTBERATUNG
+DE043653W;+49 30 76289096;;www.askania-logistic.de;;;info@askania-logistic.de;DST;ASKANIA LOGISTIC GMBH
+DE043657F;+49 721 9645 80;;;;;info@asknet.de;ICT;ASKNET AG
+DE041461W;;;www.asf-boschservice.de;;;info@asl-rehwagen.de;DST;A.S.F. AUTO SERVICE FORCHHEIM GMBH
+DE003402K;49 905470;;http://www.ass-automation.com;;;info@ass-automation.com;DST;ASS Maschinenbau GmbH
+DE043691W;+49 2225 881 0;;www.assem-audi.com;;;info@assem-audi.com;DST;ASSEM AUDI HANDELSGESELLSCHAFT MBH
+DE043696F;+49 2351 554 0;;;;;info@assmann.com;DST;ASSMANN ELECTRONIC GMBH
+DE043712W;+49 5151 954022;;www.astra-aquaria.de;;;info@astra-aquaria.de;DST;ASTRA AQUARIA GMBH
+DE043731W;+49 40 858089;;www.asz-hh.de;;;info@asz-hh.de;DST;ASZ HH GMBH
+DE043768F;+49 2404 98700;;;;;info@atesteo.com;PST;ATESTEO GMBH & CO. KG
+DE043761W;+49 40 324727;;www.atetrading.com;;;info@atetrading.com;DST;ATE TRADING GMBH
+DE043770W;+49 2381 3044373;;www.atf-tuning.de;;;info@atf-tuning.de;DST;ATF - TUNING GMBH
+DE043783E;+49 2191 9515 300;;;;;info@atiflatrolledproducts.com;DST;ATI FLAT ROLLED PRODUCTS GMBH
+DE001487K;49 1060;;http://www.atis-systems.com;;;info@atis-systems.com;DST;ATIS systems GmbH
+DE043789W;+49 231 56557272;;www.atlanta-electronics.de;;;info@atlanta-electronics.de;DST;ATLANTA ELECTRONICS GMBH
+DE043800W;+49 471 972290;;www.atlantis-seafoods.de;;;info@atlantis-seafoods.de;DST;ATLANTIS SEAFOODS GMBH
+DE043804W;+49 221 5402590;;www.atlas-int.eu/de;;;info@atlas-int.eu;DST;ATLAS INTERNATIONAL GMBH
+DE043808W;+49 7251 9826637;;www.atlaskonzept.de;;;info@atlaskonzept.de;CON;ATLASKONZEPT GMBH
+DE043820W;+49 6158 92670;;www.atmos-gruppe.de;;;info@atmos-gruppe.de;CON;ATMOS-ANLAGENBAU GMBH
+DE043838W;+49 6227 3959364;;www.atq-germany.com;;;info@atq-germany.com;DST;ATQ GERMANY E.K.
+DE001114K;49 9189790;;http://www.atr.de;;;info@atr.de;DST;ATR International AG
+DE041733W;+49 211 5280538;;www.atrading.de;;;info@atrading.de;DST;ACTIVE TRADING GMBH
+DE001305K;49 2512007661;;http://www.atriplex.net;;;info@atriplex.net;DST;Atriplex GmbH
+DE003980K;49 204250;;http://www.ats-elbtalwerk.com;;;info@ats-elbtalwerk.com;PST;ATS-Elbtalwerk GmbH
+DE041471W;+49 961 306 0;;www.atu.de;;;info@atu.de;PST;A.T.U. AUTO-TEILE-UNGER HANDELS GMBH & CO. KG
+DE002296K;49 951310;;http://www.a-tune.de;;;info@a-tune.de;ICT;a-tune software AG
+DE043884W;+49 2154 81250;;www.audinova.de;;;info@audinova.de;DST;AUDINOVA GMBH
+DE043888W;+49 941 29249;;www.audor.de;;;info@audor.de;DST;AUDOR PHARMA GMBH
+DE073371W;+49 821 259343 1;;www.augsburg-auto.de;;;info@augsburg-auto.de;DST;VINOGRADOV AUGSBURG AUTO E.K.
+DE041980W;+49 4608 97366 0;;www.augustin-group.de;;;info@augustin-group.de;DST;AG AUTOMOTIVE GMBH
+DE065194W;+49 4298 939025;;www.australienshop.de;;;info@australienshop.de;DST;OUTBACK.COMPANY E. K.
+DE043941W;+49 7072 9229229;;www.auswucht-welt.de;;;info@auswuchtwelt.de;DST;AUSWUCHTWELT LTD. & CO. KG
+DE001208K;49 96100;;http://www.autem.de;;;info@autem.de;ICT;AUTEM Gesellschaft für Automatisierungssoftware mbH
+DE043965W;+49 531 23710 11;;www.mobile.de/auto-boerse-bs;;;info@autoboerse-bs.de;DST;AUTO BOERSE B.S. GMBH
+DE003025K;49 547690;;http://www.autodesk.com;;;info@autodesk.de;ICT;Autodesk GmbH
+DE044050F;+49 30 208478255;;;;;info@autodoc.de;DST;AUTODOC GMBH
+DE064058F;+49 9603 20 0;;;;;info@autoelectric.de;DST;NEXANS AUTOELECTRIC GMBH
+DE044057W;+49 531 61522350;;www.autogastec.com;;;info@autogastec.com;DST;AUTOGASTEC UG (HAFTUNGSBESCHRAENKT)
+DE068877W;+49 172 6930111;;www.schubert-auto.de;;;info@auto-gmbh.de;DST;SCHUBERT AUTOMOBILHANDELSGESELLSCHAFT MBH
+DE044429W;+49 5422 9598709;;www.autohaus-aras.de;;;info@autohaus-aras.de;DST;AYISIGI GMBH
+DE044103W;+49 201 671928;;www.autohaus-flurstrasse.de;;;info@autohaus-flurstrasse.de;DST;AUTOHAUS FLURSTRASSE GMBH
+DE044111W;+49 4202 511870;;www.autohaus-hansa.eu;;;info@autohaus-hansa.eu;DST;AUTOHAUS HANSA GMBH
+DE044112W;+49 911 7660812;;www.autohaus-hardhoehe.de;;;info@autohaus-hardhoehe.de;DST;AUTOHAUS HARDHOEHE GMBH
+DE058553W;+49 7253 4812;;www.autohaus-just.de;;;info@autohaus-just.de;DST;JUST & SOEHNE GMBH
+DE044132W;+49 8381 2795;;www.autohaus-lingg.de;;;info@autohaus-lingg.de;DST;AUTOHAUS LINGG OHG
+DE044140W;+49 2151 36270 20;;www.autohausniederrhein.de;;;info@autohausniederrhein.de;DST;AUTOHAUS NIEDERRHEIN KR  GMBH
+DE044163W;+49 621 54575452;;www.autohaus-thg.de;;;info@autohaus-thg.de;DST;AUTOHAUS THG  LUDWIGSHAFEN GMBH
+DE044173W;+49 228 635387;;www.autohauswenzel.de;;;info@autohauswenzel.de;DST;AUTOHAUS WENZEL GMBH
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 1114-1216_BusinessRegister-Email.csv
+1114-1216_BusinessRegister-Email.csv
+DE044179W;+49 4521 702245;;www.autohof-belter.de;;;info@autohof-belter.de;DST;AUTOHOF BELTER GMBH
+DE043985W;+49 211 99547632;;www.auto-japan.de;;;info@auto-japan.de;DST;AUTO JAPAN CAR CONSULTING GMBH
+DE043988W;+49 8141 22765 0;;www.auto-kral.de;;;info@auto-kral.de;DST;AUTO KRAL GMBH
+DE043993W;+49 2446 3742;;www.auto-manteuffel.de;;;info@auto-manteuffel.de;DST;AUTO MANTEUFFEL INHABER BERNHARD MANTEUFFEL
+DE003078K;49 79160;;http://www.automata.de;;;info@automata.de;ICT;Main Beteiligungs GmbH
+DE044191W;+49 6181 91611 0;;www.automatenboerse-gmbh.de;;;info@automatenboerse-gmbh.de;DST;AUTOMATENBOERSE VS GMBH
+DE044200W;+49 6721 2575;;www.automobilconcept.de;;;info@automobilconcept.de;DST;AUTOMOBIL CONCEPT GMBH
+DE054646W;+49 89 26214352;;www.automobile-germering.de;;;info@automobile-germering.de;DST;H & L AUTOMOBILE GERMERING E.K.
+DE044224W;+49 9293 8006850;;www.automobileseifert.de;;;info@automobileseifert.de;DST;AUTOMOBILE SEIFERT HANDELSGESELLSCHAFT MBH
+DE072850W;+49 30 55640791;;www.automobil-outlet.de;;;info@automobil-outlet.de;DST;UNTERNEHMENSGRUPPE AUTOMOBIL-OUTLET JDC GMBH & CO. KG
+DE044201W;;;home.mobile.de/automobilservicerodgaugmbh;;;info@automobil-service-rodgau.de;DST;AUTOMOBIL SERVICE OFFENBACH GMBH
+DE044028W;+49 9771 6307888;;www.auto-nes.eu;;;info@auto-nes.eu;DST;AUTO-NES GMBH
+DE065769W;+49 2562 81177;;home.mobile.de/autopark-gronau;;;info@autoparkgronau.de;DST;PETERMAN AUTOMOBIL-HANDELSGESELLSCHAFT MBH
+DE044007W;+49 228 95461 0;;www.auto-schmeltzer.com;;;info@auto-schmeltzer.de;DST;AUTO SCHMELTZER GMBH
+DE044255W;+49 7621 70534551;;www.autosxxl.com;;;info@autosxxl.com;DST;AUTOSXXL GMBH
+DE044265W;+49 2161 995711;;www.autoteile-post.de;;;info@autoteile-post.de;DST;AUTOTEILE POST AG
+DE073636W;+49 4241 9210800;;www.autoverwertung-bassum.de;;;info@autoverwertung-bassum.de;DST;VULA GMBH
+DE053963W;+49 7222 8308690;;www.autowaschpark-rastatt.de;;;info@autowaschpark-rastatt.de;DST;GM MOBILE GMBH
+DE002027K;49 93920;;http://www.ava-huep.com;;;info@ava-huep.de;PST;AVA GmbH & Co. KG
+DE003454K;49 6315830;;;;;info@avalan.de;PST;Avalan GmbH - ein Unternehmen der euromicron Gruppe
+DE044294W;+49 212 2267455;;www.ava-medical.de;;;info@ava-medical.de;DST;AVA MEDICAL GMBH
+DE044308W;+49 2241 2354892;;www.avava-service-germany.de;;;info@avava-germany.de;DST;AVAVA SERVICE GMBH
+DE044322W;+49 211 9304424;;www.avesta.de;;;info@avesta.de;DST;AVESTA COMPUTER-HANDELS GMBH
+DE002924K;49 4550450;;http://www.avia-freudenstadt.de;;;info@avia.de;DST;Deutsche AVIA Mineralöl-GmbH
+DE044330E;+49 4261 94388585;;;;;info@avides.com;DST;AVIDES MEDIA AG
+DE044329F;+49 4261 94388585;;;;;info@avides.com;DST;AVIDES MEDIA AG
+DE001166K;49 9578333;;http://www.avs-morbach.de;;https://de.kompass.com/c/automatic-vision-systems-ug-haftungsbeschrankt/de514467/;info@avs-morbach.de;PST;Automatic Vision Systems UG (haftungsbeschränkt)
+DE043698W;;;www.carpetyourlife.com;;;info@awe.be;DST;ASSOCIATED WEAVERS (DEUTSCHLAND) GMBH
+DE001379K;49 970650;;http://www.axeco.de;;;info@axeco.de;PST;AXECO GmbH & Co. KG
+DE044403W;+49 211 5150328;;www.axisis.de;;;info@axisis.de;DST;AXISIS GMBH
+DE001877K;49 921920;;http://www.axotec.de;;;info@axotec.com;PST;Axotec Technologies GmbH
+DE044424W;+49 6122 533811;;www.ayasecorporation.com;;;info@ayase-europe.de;DST;AYASE EUROPE GMBH
+DE044417W;+49 2368 8797930;;www.ay-doener-gmbh.com;;;info@ay-doener-gmbh.com;DST;AY LEBENSMITTELHANDEL UND GASTRONOMIEBEDARF GMBH
+DE044419W;+49 511 45796366;;www.aytec-shop.com;;;info@aytec-shop.com;DST;AY-TEC GMBH
+DE044441W;+49 241 928190;;www.aytex.de;;;info@aytex.de;DST;AYTEX TEXTIL-VERTRIEBS GMBH
+DE044442W;+49 176 70401577;;www.aytu.com;;;info@aytu.com;PST;AYTU GMBH
+DE044445W;+49 6204 6014399;;www.ayvaz.com;;;info@ayvaz.com;DST;AYVAZ GERMANY GMBH
+DE004560K;49 1785980;;http://www.azteka.de;;;info@azteka.de;ICT;AZTEKA Consulting GmbH
+DE060458F;+49 30 779079600;;;;;info@babbel.com;ICT;LESSON NINE GMBH
+DE058903F;+49 7930 994 30;;;;;info@bach-landtechnik.de;DST;KARL BACH GMBH & CO. KG
+DE044650W;+49 341 234770;;www.bacom-international.net;;;info@bacom-international.com;DST;BACOM GMBH
+DE044661W;+49 4263 98536;;www.baden-collection.de;;;info@baden-collection.de;DST;BADEN-GMBH
+DE001929K;49 91910;;http://www.bader-bps.de;;;info@bader-bps.de;PST;Willy Bader GmbH
+DE044664W;+49 89 217562 95;;www.badico-trading.com;;;info@badico-trading.com;DST;BADICO TRADING GMBH
+DE046264W;+49 175 5216126;;www.bae-energie.de;;;info@bae-energie.de;DST;BREMISCHE AURORA ENERGIE GMBH
+DE044670F;+49 4624 8020 0;;;;;info@baeko-sh.de;DST;BAEKO SCHLESWIG-HOLSTEIN EG
+DE003416K;49 970590;;http://www.baer-gmbh.com;;;info@baer-gmbh.com;DST;Bär Industrie-Elektronik GmbH
+DE001552K;49 7990;;http://www.baero.de;;;info@baero.de;PST;BÄ RO GmbH & Co. KG
+DE044675W;+49 3623 308911;;www.baertig.de;;;info@baertig.de;DST;BAERTIG WASSERBEHANDLUNG GMBH
+DE055504W;+49 421 791790;;www.baetzner-bremen.de;;;info@baetzner-bremen.de;DST;HEINZ E. BAETZNER GMBH
+DE044677W;+49 6182 841263;;www.bafra-transporte.de;;;info@bafra-transporte.de;DST;BAFRA TRANSPORTE GMBH
+DE044689W;;;www.bags-united.de;;;info@bags-united.de;DST;BAGS UNITED CK UG (HAFTUNGSBESCHRAENKT)
+DE055560W;+49 2157 87696 0;;www.bahrs.de;;;info@bahrs.de;DST;HELLMUTH BAHRS GMBH & CO KOMMANDITGESELLSCHAFT
+DE002766K;49 30020;;http://www.bajog.de;;;info@bajog.de;PST;Bajog electronic GmbH
+DE044712W;+49 40 533273688;;www.bak.com;;;info@bak-europe.de;DST;BAK EUROPE GMBH
+DE044737W;+49 4207 91350;;www.balke.de;;;info@balke.de;DST;BALKE FASHION GMBH
+DE044751W;+49 641 1315298;;www.baltim-tex.de;;;info@baltim-tex.de;DST;BALTIM-TEX GMBH
+DE044763W;+49 241 159988;;www.bamexo.de;w23;;info@bamexo.de;DST;BAMEXO GMBH
+DE002999K;49 39900;;http://ky.to/www.bantleon.de/de/;;;info@bantleon.de;DST;Hermann Bantleon GmbH
+DE044802W;+49 221 50299230;;www.barawin.de;;;info@barawin.de;DST;BARAWIN GMBH
+DE069145W;+49 911 13041138;;www.barbossa.org;;;info@barbossa.org;DST;SELLERROCKET UG (HAFTUNGSBESCHRAENKT)
+DE001695K;49 96070;;http://www.bar-gmbh.de;;;info@bar-gmbh.de;PST;Bar-pneumatische Steuerungssysteme GmbH
+DE044832E;+49 40 727030;;;;;info@bartec.de;PST;BARTEC BENKE GMBH
+DE044839W;+49 5258 971 0;;www.bartscher.com;;;info@bartscher.com;DST;BARTSCHER GMBH
+DE001754K;49 71560;;http://www.bartschundpartner.de;;;info@bartschundpartner.de;PST;BuP Bartsch und Partner Vertriebs- und Unternehmensberatungs GmbH
+DE001345K;49 82080850;;http://www.base-technologies.com;;;info@base-tech.de;PST;BASE TECHNOLOGIES GmbH
+DE002772K;49 410000;;http://www.basf-it-services.com;;;info@basf.com;ICT;TECH MAHINDRA Business Services GmbH
+DE044875W;+49 9942 1361;;www.batextrading.com;;;info@batextrading.com;DST;BATEX TRADING JALAL MARVI E. K.
+DE052043F;+49 8322 9630 0;;;;;info@bau-brutscher.de;CON;FERDINAND BRUTSCHER GMBH & CO. KG.
+DE004166K;49 67540;;http://www.baumann-automation.com;;;info@baumann-automation.com;DST;Baumann GmbH
+DE044927W;+49 621 3009920;;www.baumann-holzhandel.de;;;info@baumann-holzhandel.de;DST;BAUMANN HOLZHANDEL GMBH
+DE044939F;+49 7904 701 0;;;;;info@bausch-stroebel.de;DST;BAUSCH + STROEBEL MASCHINENFABRIK ILSHOFEN GMBH + CO. KG
+DE044893W;+49 7082 944470;;www.bauschwede.de;;;info@bauschwede.de;DST;BAU-SCHWEDE GMBH
+DE044947W;+49 3574 467880;;www.bsz-lauchhammer.de;;;info@baustoff-zentrum.interbaustoff.de;DST;BAUSTOFFZENTRUM GMBH LAUCHHAMMER
+DE044889W;+49 40 86627990;;www.bau-techno-art.com;;;info@bau-techno-art.com;DST;BAU TECHNO ART IM- UND EXPORT GMBH
+DE044890W;+49 38302 71967;;www.bauundfreizeitmarkt-glowe.de;;;info@bauundfreizeitmarkt-glowe.de;DST;BAU- UND FREIZEITMARKT GLOWE GMBH
+DE044957W;+49 6182 924589;;www.bauunit.de;;;info@bauunit.de;CON;BAUUNIT GMBH
+DE044968E;+49 89 649 90;;;;;info@bavaria-film.de;ICT;BAVARIA FICTION GMBH
+DE044979F;+49 8121 995870;;;;;info@bavaria-zelte.de;DST;BAVARIA-ZELTE GMBH
+DE044989F;+49 9571 97980;;;;;info@bayer-net.com;DST;BAYER DESIGN SERVICE GMBH
+DE045000W;+49 151 51613788;;www.bayex-gmbh.de;;;info@bayex-gmbh.de;DST;BAYEX GMBH
+DE045014E;+49 5021 9220 0;;;;;info@baywa-agrarhandel.de;DST;BAYWA AGRARHANDEL GMBH
+DE045743W;+49 2336 470616;;;;;info@bb-ideen.de;DST;BISCHOF GMBH & CO. KG
+DE003562K;49 932606;;http://www.bbkgmbh.de;;;info@bbkgmbh.de;PST;BBK -Beratungsgesellschaft für betriebliche Kooperation mbH
+DE001650K;49 93100;;http://www.bbk-gmbh.de;;;info@bbk-gmbh.de;ICT;BBK Etikettier- und Sondermaschinenbau GmbH
+DE003490K;49 45750;;;;;info@bbps.bilfinger.com;DST;Bilfinger Power Systems GmbH
+DE001562K;;;http://www.bbraun.com;;;info@bbraun.com;DST;B.Braun Avitum AG
+DE045062W;+49 30 34663547;;www.bbst-bau.de;;;info@bbst-bau.de;CON;BBST BERLIN BRANDENBURGER STRASSEN- UND TIEFBAU GMBH
+DE045067F;+49 6239 99810;;;;;info@bbv-systems.com;CON;BBV SYSTEMS GMBH
+DE045075W;;;www.bcc-computer.de;;;info@bcc-computer.de;DST;BCC - COMPUTER GMBH
+DE046062W;+49 30 78892554 55;;www.bd-bau.de;;;info@bd-bau.de;CON;BONADOMA BAU GMBH
+DE002707K;49 305143;;http://www.bd.com/de;;;info@bdeurope.com;DST;BECTON DICKINSON GmbH
+DE045118W;;;www.bearlin-holding.com;;;info@bearlin-holding.com;PST;BEARLIN-ENGINEERING & INVESTMENT GMBH
+DE045130W;;;www.beauty-steps.de;;;info@beauty-steps.de;DST;BEAUTY STEPS GMBH
+DE003969K;49 5444580;;http://www.becker-electronic-dmt.de;;;info@becker-electronic-dmt.de;DST;Becker DMT GmbH & Co. KG
+DE045160W;+49 471 80947100;;www.becksteinbau.de;;;info@becksteinbau.de;DST;BECKSTEIN GMBH
+DE004119K;49 8010;;http://www.bedea.com;;;info@bedea.com;ICT;bedea Berkenhoff & Drebes GmbH
+DE045181F;+49 7121 6287160;;;;;info@beewatec.de;DST;BEEWATEC AG
+DE045194W;;;www.behncken.de;;;info@behncken.de;DST;BEHNCKEN'S VIERLAENDER GEMUESESTAND GMBH
+DE045197W;+49 40 73115663;;www.behr-hamburg.de;;;info@behr-hamburg.de;DST;BEHR CONSULTING GMBH
+DE045207W;+49 69 680979 55;;www.beifeng.de;;;info@beifeng.de;DST;BEIFENG GMBH (GERMANY)
+DE045211F;+49 731 93420;;;;;info@beiselen.de;DST;BEISELEN GMBH
+[webwarts@wolf intracenRAI]$
