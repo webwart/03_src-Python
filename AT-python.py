@@ -19,3 +19,4 @@ dna_lenght=len(dna)
 gc_percent=(no_a+no_t)*100.0/dna_lenght
 print (gc_percent)
 print  ("------ Finished AT script ----------")
+print  ("------ Finished AT script ----------")

@@ -111,3 +111,14 @@ Django with Alan Simpson
 [LINK](https://github.com/AlanSimpsonme)
 
 I did cond
+
+### FRI  17-04-2020
+-1- pathlib
+I collected some nice links to web-sites with path-lib intros. I wnt to standardize my file/directroy operations.
+
+[Business Python](https://pbpython.com/pathlib-intro.html)  ->  nice artcle about pathlib
+[Trey Hunner](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)  ->   nice article about pathlib
+[Real Python](https://realpython.com/python-pathlib/)  -> nice articl about pathlib
+
+-2- email module
+Python doc offeres some nice examples. I want to try them with uberspace
