@@ -4,7 +4,8 @@
 I do run the commands on Sion-Des and Naples-Lab. db.sqlite3 is not saved by Github. 
 
 Naples-Lab:  django superuser amin <> Ner56 Dj r.w@hot.ch
-Sion-Des:  django superuser amin <> Ner56 Dj r.w@hot.ch
+Sion-Des:  django superuser amin_SionDes <> Ner56 Dj r.w@gmail
+.ch
 OneDrive-Rai: django superuser amin_OneDrive <> Ner56 Dj  r.w@hot.ch
 
 
