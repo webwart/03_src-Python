@@ -3,10 +3,15 @@
 ## set-up
 I do run the commands on Sion-Des and Naples-Lab. db.sqlite3 is not saved by Github. 
 
-django superuser amin <> Ner56 Dj r.w@hot.ch
+Naples-Lab:  django superuser amin <> Ner56 Dj r.w@hot.ch
+Sion-Des:  django superuser amin <> Ner56 Dj r.w@hot.ch
+OneDrive-Rai: django superuser amin_OneDrive <> Ner56 Dj  r.w@hot.ch
+
 
 http://127.0.0.1:8000/admin
 
+
+I use the env_numAiDjango. On Sion-Des this is a  Django 3.0 version.
 
 Auflistung der Ordnerpfade
 Volumeseriennummer : C20B-F222
@@ -28,6 +33,18 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
+05-Video-AS_Apps
+
+1. An App is  portable unit of functionality. Name it withlower-case characters no special characters. The name should be plural (posts) of the Apps main model (Post).
+2. Allways two steps to adding an App: a) python manage.py startapp <appname> b) Add app name to INSTALLED_APPS in settings.py.
+3. Create allpages in which I will have css , images , javascript , basehtml
+4. TYPE: python manage.py startapp allpages , then add to _djprojecct/settings.py
+5. TEST:  python manage.py runserver  
+''' python
+INSTALLED_APPS = [
+    'allpages.apps.AllpagesConfig'
+'''
+>N: 05-Video-AS_Apps
 
 
 ## References
@@ -36,10 +53,14 @@ python manage.py runserver
 /03_src/python/Django-AlanSimpson
 ............../_djproject
 [VideoTutorial](https://www.udemy.com/course/hands-on-django-2/) -> Alan Simpson's video tutorial on Udemy
+[SuperUser](https://djangowaves.com/tag/tips-tricks/)  ->  Has an article about superuser
 
 
 ##  Journal
 
 SUN  19-04-2020
 -1- set-Up¦Naples-Lab¦OneDrive-Rai¦Sion-Des
-I have starte with Allan simpson on Sion-Des . With git I get all the files on Naples-Lab, but not db.sqlite3 which
+I have starte with Allan simpson on Sion-Des . With git I get all the files on Naples-Lab, but not db.sqlite3 which is ignored by gitignor.
+I also started a set-up Onedrive.
+>N: Check if I have on Naples-Desk also Django 3.0. ? Find out how to deal with it since the tutoriala and überspace uses Django 2.0.
+
