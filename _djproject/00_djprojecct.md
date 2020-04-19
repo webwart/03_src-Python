@@ -35,7 +35,7 @@ python manage.py runserver
 
 /03_src/python/Django-AlanSimpson
 ............../_djproject
-
+[VideoTutorial](https://www.udemy.com/course/hands-on-django-2/) -> Alan Simpson's video tutorial on Udemy
 
 
 ##  Journal
