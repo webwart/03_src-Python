@@ -27,6 +27,8 @@ This is the top-directory of my python code learning area. The first 4 month of 
 - Naples-Lab: Do not FSY !
 
 >N: Add file header to .py files. Clean out and actualization of files.
+>N: Uset the pathlib.py file. Deveop a system to read, write files like text, json , xml , csv. 
+>N: Walk directroies and read their content
 
 ## Structure and procedures
 

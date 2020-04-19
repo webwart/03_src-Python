@@ -7,6 +7,10 @@
 #    Goals: Learn pathlib
 #      Ref: https://pathlib.readthedocs.org/en/pep428/
 #      Ref: https://docs.python.org/3/library/pathlib.html?highlight=pathlib#module-pathlib
+#      Ref: https://pbpython.com/pathlib-intro.html
+#      Ref: https://www.btelligent.com/blog/best-practice-arbeiten-in-python-mit-pfaden-teil-1/
+#      Ref: https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+#	   Ref: https://realpython.com/python-pathlib/
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
 #       >N: --
