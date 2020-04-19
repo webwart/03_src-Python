@@ -1,6 +1,8 @@
 # Alan Simpson tutorial on Udemy
 
 ## set-up
+I do run the commands on Sion-Des and Naples-Lab. db.sqlite3 is not saved by Github. 
+
 django superuser amin <> Ner56 Dj r.w@hot.ch
 
 http://127.0.0.1:8000/admin
@@ -25,6 +27,16 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
+
+
+
+## References
+
+
+/03_src/python/Django-AlanSimpson
+............../_djproject
+
+
 
 ##  Journal
 
