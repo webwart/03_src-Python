@@ -1,0 +1,6000 @@
+<tr>
+   <td>Biobank 0</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 1</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 2</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 3</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 4</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 5</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 6</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 7</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 8</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 9</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 10</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 11</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 12</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 13</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 14</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 15</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 16</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 17</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 18</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 19</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 20</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 21</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 22</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 23</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 24</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 25</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 26</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 27</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 28</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 29</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 30</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 31</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 32</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 33</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 34</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 35</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 36</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 37</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 38</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 39</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 40</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 41</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 42</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 43</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 44</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 45</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 46</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 47</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 48</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 49</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 50</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 51</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 52</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 53</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 54</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 55</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 56</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 57</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 58</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 59</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 60</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 61</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 62</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 63</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 64</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 65</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 66</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 67</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 68</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 69</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 70</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 71</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 72</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 73</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 74</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 75</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 76</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 77</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 78</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 79</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 80</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 81</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 82</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 83</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 84</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 85</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 86</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 87</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 88</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 89</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 90</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 91</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 92</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 93</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 94</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 95</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 96</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 97</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 98</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 99</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 100</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 101</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 102</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 103</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 104</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 105</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 106</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 107</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 108</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 109</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 110</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 111</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 112</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 113</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 114</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 115</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 116</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 117</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 118</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 119</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 120</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 121</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 122</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 123</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 124</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 125</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 126</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 127</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 128</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 129</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 130</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 131</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 132</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 133</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 134</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 135</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 136</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 137</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 138</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 139</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 140</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 141</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 142</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 143</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 144</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 145</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 146</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 147</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 148</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 149</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 150</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 151</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 152</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 153</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 154</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 155</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 156</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 157</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 158</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 159</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 160</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 161</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 162</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 163</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 164</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 165</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 166</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 167</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 168</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 169</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 170</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 171</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 172</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 173</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 174</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 175</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 176</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 177</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 178</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 179</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 180</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 181</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 182</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 183</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 184</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 185</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 186</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 187</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 188</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 189</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 190</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 191</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 192</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 193</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 194</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 195</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 196</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 197</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 198</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 199</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 200</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 201</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 202</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 203</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 204</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 205</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 206</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 207</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 208</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 209</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 210</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 211</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 212</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 213</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 214</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 215</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 216</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 217</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 218</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 219</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 220</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 221</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 222</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 223</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 224</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 225</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 226</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 227</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 228</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 229</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 230</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 231</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 232</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 233</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 234</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 235</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 236</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 237</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 238</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 239</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 240</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 241</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 242</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 243</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 244</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 245</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 246</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 247</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 248</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 249</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 250</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 251</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 252</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 253</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 254</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 255</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 256</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 257</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 258</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 259</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 260</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 261</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 262</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 263</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 264</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 265</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 266</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 267</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 268</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 269</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 270</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 271</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 272</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 273</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 274</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 275</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 276</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 277</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 278</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 279</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 280</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 281</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 282</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 283</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 284</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 285</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 286</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 287</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 288</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 289</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 290</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 291</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 292</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 293</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 294</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 295</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 296</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 297</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 298</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 299</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 300</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 301</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 302</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 303</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 304</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 305</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 306</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 307</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 308</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 309</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 310</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 311</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 312</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 313</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 314</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 315</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 316</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 317</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 318</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 319</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 320</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 321</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 322</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 323</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 324</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 325</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 326</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 327</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 328</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 329</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 330</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 331</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 332</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 333</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 334</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 335</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 336</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 337</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 338</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 339</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 340</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 341</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 342</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 343</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 344</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 345</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 346</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 347</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 348</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 349</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 350</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 351</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 352</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 353</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 354</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 355</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 356</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 357</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 358</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 359</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 360</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 361</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 362</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 363</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 364</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 365</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 366</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 367</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 368</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 369</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 370</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 371</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 372</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 373</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 374</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 375</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 376</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 377</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 378</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 379</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 380</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 381</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 382</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 383</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 384</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 385</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 386</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 387</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 388</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 389</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 390</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 391</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 392</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 393</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 394</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 395</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 396</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 397</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 398</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 399</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 400</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 401</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 402</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 403</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 404</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 405</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 406</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 407</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 408</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 409</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 410</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 411</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 412</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 413</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 414</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 415</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 416</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 417</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 418</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 419</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 420</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 421</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 422</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 423</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 424</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 425</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 426</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 427</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 428</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 429</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 430</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 431</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 432</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 433</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 434</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 435</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 436</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 437</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 438</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 439</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 440</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 441</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 442</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 443</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 444</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 445</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 446</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 447</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 448</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 449</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 450</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 451</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 452</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 453</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 454</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 455</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 456</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 457</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 458</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 459</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 460</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 461</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 462</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 463</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 464</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 465</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 466</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 467</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 468</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 469</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 470</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 471</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 472</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 473</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 474</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 475</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 476</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 477</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 478</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 479</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 480</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 481</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 482</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 483</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 484</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 485</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 486</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 487</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 488</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 489</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 490</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 491</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 492</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 493</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 494</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 495</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 496</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 497</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 498</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 499</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 500</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 501</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 502</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 503</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 504</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 505</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 506</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 507</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 508</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 509</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 510</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 511</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 512</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 513</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 514</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 515</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 516</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 517</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 518</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 519</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 520</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 521</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 522</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 523</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 524</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 525</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 526</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 527</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 528</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 529</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 530</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 531</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 532</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 533</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 534</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 535</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 536</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 537</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 538</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 539</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 540</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 541</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 542</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 543</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 544</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 545</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 546</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 547</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 548</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 549</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 550</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 551</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 552</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 553</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 554</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 555</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 556</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 557</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 558</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 559</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 560</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 561</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 562</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 563</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 564</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 565</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 566</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 567</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 568</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 569</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 570</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 571</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 572</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 573</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 574</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 575</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 576</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 577</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 578</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 579</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 580</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 581</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 582</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 583</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 584</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 585</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 586</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 587</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 588</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 589</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 590</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 591</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 592</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 593</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 594</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 595</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 596</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 597</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 598</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 599</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 600</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 601</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 602</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 603</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 604</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 605</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 606</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 607</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 608</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 609</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 610</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 611</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 612</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 613</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 614</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 615</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 616</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 617</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 618</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 619</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 620</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 621</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 622</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 623</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 624</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 625</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 626</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 627</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 628</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 629</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 630</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 631</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 632</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 633</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 634</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 635</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 636</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 637</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 638</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 639</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 640</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 641</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 642</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 643</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 644</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 645</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 646</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 647</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 648</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 649</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 650</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 651</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 652</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 653</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 654</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 655</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 656</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 657</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 658</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 659</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 660</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 661</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 662</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 663</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 664</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 665</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 666</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 667</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 668</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 669</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 670</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 671</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 672</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 673</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 674</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 675</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 676</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 677</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 678</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 679</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 680</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 681</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 682</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 683</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 684</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 685</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 686</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 687</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 688</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 689</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 690</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 691</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 692</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 693</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 694</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 695</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 696</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 697</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 698</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 699</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 700</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 701</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 702</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 703</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 704</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 705</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 706</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 707</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 708</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 709</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 710</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 711</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 712</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 713</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 714</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 715</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 716</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 717</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 718</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 719</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 720</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 721</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 722</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 723</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 724</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 725</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 726</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 727</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 728</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 729</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 730</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 731</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 732</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 733</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 734</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 735</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 736</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 737</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 738</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 739</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 740</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 741</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 742</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 743</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 744</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 745</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 746</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 747</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 748</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 749</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 750</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 751</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 752</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 753</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 754</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 755</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 756</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 757</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 758</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 759</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 760</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 761</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 762</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 763</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 764</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 765</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 766</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 767</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 768</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 769</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 770</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 771</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 772</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 773</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 774</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 775</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 776</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 777</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 778</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 779</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 780</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 781</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 782</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 783</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 784</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 785</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 786</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 787</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 788</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 789</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 790</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 791</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 792</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 793</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 794</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 795</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 796</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 797</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 798</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 799</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 800</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 801</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 802</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 803</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 804</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 805</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 806</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 807</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 808</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 809</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 810</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 811</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 812</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 813</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 814</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 815</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 816</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 817</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 818</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 819</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 820</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 821</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 822</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 823</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 824</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 825</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 826</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 827</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 828</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 829</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 830</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 831</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 832</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 833</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 834</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 835</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 836</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 837</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 838</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 839</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 840</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 841</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 842</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 843</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 844</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 845</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 846</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 847</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 848</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 849</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 850</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 851</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 852</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 853</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 854</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 855</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 856</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 857</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 858</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 859</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 860</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 861</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 862</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 863</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 864</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 865</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 866</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 867</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 868</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 869</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 870</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 871</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 872</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 873</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 874</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 875</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 876</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 877</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 878</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 879</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 880</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 881</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 882</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 883</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 884</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 885</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 886</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 887</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 888</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 889</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 890</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 891</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 892</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 893</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 894</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 895</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 896</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 897</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 898</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 899</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 900</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 901</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 902</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 903</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 904</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 905</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 906</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 907</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 908</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 909</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 910</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 911</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 912</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 913</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 914</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 915</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 916</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 917</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 918</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 919</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 920</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 921</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 922</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 923</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 924</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 925</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 926</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 927</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 928</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 929</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 930</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 931</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 932</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 933</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 934</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 935</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 936</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 937</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 938</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 939</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 940</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 941</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 942</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 943</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 944</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 945</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 946</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 947</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 948</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 949</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 950</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 951</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 952</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 953</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 954</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 955</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 956</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 957</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 958</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 959</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 960</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 961</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 962</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 963</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 964</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 965</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 966</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 967</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 968</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 969</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 970</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 971</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 972</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 973</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 974</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 975</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 976</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 977</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 978</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 979</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 980</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 981</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 982</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 983</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 984</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 985</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 986</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 987</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 988</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 989</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 990</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 991</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 992</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 993</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 994</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 995</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 996</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 997</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 998</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
+<tr>
+   <td>Biobank 999</td>
+   <td>Bern, Switzerland</td>
+   <td><a title="Tumorbank Bern" href="http://www.tumorbank.unibe.ch/"><strong>Link</strong></a></td>
+   <td></td>
+</tr>
