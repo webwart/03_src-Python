@@ -1,6 +1,6 @@
 # Alan Simpson tutorial on Udemy
 
-# set-up
+## set-up
 django superuser amin <> Ner56 Dj r.w@hot.ch
 
 http://127.0.0.1:8000/admin
@@ -26,3 +26,8 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
+##  Journal
+
+SUN  19-04-2020
+-1- set-Up¦Naples-Lab¦OneDrive-Rai¦Sion-Des
+I have starte with Allan simpson on Sion-Des . With git I get all the files on Naples-Lab, but not db.sqlite3 which
