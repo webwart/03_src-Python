@@ -34,7 +34,7 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-05-Video-AS_Apps
+### 05-Video-AS_Apps
 
 1. An App is  portable unit of functionality. Name it withlower-case characters no special characters. The name should be plural (posts) of the Apps main model (Post).
 2. Allways two steps to adding an App: a) python manage.py startapp <appname> b) Add app name to INSTALLED_APPS in settings.py.
@@ -45,7 +45,36 @@ python manage.py runserver
 INSTALLED_APPS = [
     'allpages.apps.AllpagesConfig'
 '''
->N: 05-Video-AS_Apps
+### 06-Video-AS_Apps
+Created the following folder structure:  
+(env_numAiDjango) PS C:\Users\Public\03_src\python\_djproject> tree allpages
+Auflistung der Ordnerpfade
+Volumeseriennummer : C20B-F222
+C:\USERS\PUBLIC\03_SRC\PYTHON\_DJPROJECT\ALLPAGES
+├───migrations
+│   └───__pycache__
+├───static
+│   └───allpages
+│       ├───css
+│       ├───images
+│       └───javascript
+└───__pycache__
+
+### 07-Video-AS_Apps
+created stylesheet.css file
+
+### 08-Video-AS_Apps
+Google fonds
+
+Headings: Montserrat
+Body Text: Source Sans Pro
+Code Samples: Source Code Pro
+
+### 09 Define your Site-Wide Picture and Colors
+>N: Why do I not have paint.net in Sion-Desk/Rai.
+>N: Do picture cropping wiht paint.net.
+
+
 
 
 ## References

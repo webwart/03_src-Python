@@ -1,0 +1,26 @@
+/* Site-Wide Style Sheet (Optional) */
+
+/* Google Fonts (optional) */
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Source+Code+Pro|Source+Sans+Pro&display=swap');
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Source Code Pro', monospace;
+*/
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0 ;
+    border-color: yellow;
+}
+
+h1, h2, h3{
+    font-family: 'Montserrat', sans-serif;
+    margin: lrem 0 0 0;
+}
+
+code{
+    font-family: 'Source Code Pro',  monospace;
+}
+
