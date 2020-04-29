@@ -11,6 +11,8 @@
 #      Ref: https://www.btelligent.com/blog/best-practice-arbeiten-in-python-mit-pfaden-teil-1/
 #      Ref: https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
 #	   Ref: https://realpython.com/python-pathlib/
+#      Ref: http://www.python-kurs.eu/python3_dateien.php -> shows how to read line by line or all at once and then access a line.
+#      Ref: see 07_JobWorkspace/ReadJobLinkFile.py
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
 #       >N: --
@@ -33,7 +35,6 @@ print("::: List subdirectories :::")
 p = Path('.')
 print([x for x in p.iterdir() if x.is_dir()])
 
-
 #
 # Listing Python source files in this directory tree, where this file stored)
 #
@@ -41,8 +42,9 @@ print("\n::: Python source file :::")
 print(list(p.glob('**/*.py')))
 
 #
-# Navigating inside a directory tree
-# >NOTE: This is not the solution shown in the doc.
+# Navigating inside a directory tree  NOTE- This is not the solution shown in the doc.
+# 
+
 print("\n::: Navigating inside a directory tree :::")
 q = p / "SpyderTutorial\\hello.py"   #Works, but might not be standard
 print(q)
