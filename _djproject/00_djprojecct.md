@@ -60,7 +60,7 @@ C:\USERS\PUBLIC\03_SRC\PYTHON\_DJPROJECT\ALLPAGES
 │       └───javascript
 └───__pycache__
 
-### 07-Video-AS_Apps
+### 07-Video-AS_Aptps
 created stylesheet.css file
 
 ### 08-Video-AS_Apps
@@ -71,9 +71,14 @@ Body Text: Source Sans Pro
 Code Samples: Source Code Pro
 
 ### 09 Define your Site-Wide Picture and Colors
->N: Why do I not have paint.net in Sion-Desk/Rai.
->N: Do picture cropping wiht paint.net.
+Used paint.net to prepare pictures.
+Used the color.adobe.com wheel to select a color combination with Hex codes.
+Sion-Des:\djproject\allpages\static\allpages\css\stylesheet.css
+Sion-Des:\djproject\allpages\static\allpages\images\djangopony.png
 
+>N: Update oneDrive
+
+### 10 A Master Template
 
 
 
@@ -88,9 +93,13 @@ Code Samples: Source Code Pro
 
 ##  Journal
 
-SUN  19-04-2020
+### SUN  19-04-2020
 -1- set-Up¦Naples-Lab¦OneDrive-Rai¦Sion-Des
 I have starte with Allan simpson on Sion-Des . With git I get all the files on Naples-Lab, but not db.sqlite3 which is ignored by gitignor.
 I also started a set-up Onedrive.
 >N: Check if I have on Naples-Desk also Django 3.0. ? Find out how to deal with it since the tutoriala and überspace uses Django 2.0.
 
+### WED 29-04-2020
+-1- 
+Finished 
+>N: 10. Master Template
