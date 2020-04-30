@@ -37,7 +37,7 @@ password = "JcXwg8WW5-Irr5_eMra-5ra_Eu3er5xp"   # keepass
 # Data for eMail
 sender_email = "eu-service-export@warth-sapiensio.com"
 receiver_email = "eu-service-export@warth-sapiensio.com"  # Enter receiver address
-subject = "EU Untersuchung - Buerokratie- und Handelshindernisse für Dienstleistungsexporteure im IKT- und Bausektor"
+subject = "EU Untersuchung - Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure im IKT- und Bausektor"
 body = "--"
 
 parser = argparse.ArgumentParser()
@@ -117,7 +117,7 @@ html = """\
   <body>
     <p>Guten Tag,<br>
 	meine Firma führt im Auftrag der EU eine Untersuchung zu folgendem Thema durch:</p>
-    <p><b>Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Vertriebs-, Bau-, IKT- und freiberufliche Dienstleistungen.</b></p>
+    <p><b>Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Bau- und IKT-Dienstleistungen.</b></p>
     <p> Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Erhebung von Daten in Deutschland meine Firma warth-sapiensIO beauftragt. Sie finden weiterführenden Informationen unter: <a href="https://warth-sapiensio.com/eu-export/">warth-sapiensio.com/eu-export<a></p> 
     Die EU nutzt die gewonnen Erkenntnisse für Verhandlungen mit nicht-EU Ländern und um Informationsangebote wie «The Market Access Database (MADB)» anzubieten: https://madb.europa.eu/madb/  </p>
     <p>Mit dieser Untersuchung kann Ihre Firma der EU mitteilen, wo sie Bedarf im Abbau von Bürokratie und Handelshindernisse sehen. Wer wäre in Ihrer Firma bereit seine Erfahrung mit der Betreuung von Kunden aus nicht-EU Ländern zu berichten?</p>
@@ -126,7 +126,7 @@ html = """\
      Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: <a href="https://warth-sapiensio.com/eu-export/">warth-sapiensio.com/eu-export<a><br>
      Folgende Sektoren und Dienstleistungen werden noch bis zum 9. Mai untersucht:<br>
     <ol>
-      <li>Hoch- und Tiefbau:  Bauen, Umbauen, Renovieren, Verwalten</li>
+      <li>Hoch- und Tiefbau:  Plannen, Entwerfen, Überwachen, Bauen, Umbauen, Renovieren, Verwalten</li>
       <li>Telekommunikation: Übertragung von Sprache, Daten, Text, Ton, Video.</li>
       <li>Computer: Softwareentwicklung, Planung von IT, Hosting, Datensammeln, etc.</li>
     </ol>

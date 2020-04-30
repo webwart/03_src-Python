@@ -1,5 +1,5 @@
-﻿ID;telephone;phoneRAI;website;Response;Comments;email_1;sector;company
-DE041680F;+49 89 45230 0;;;;;accounting@payon.com;ICT;ACI WORLDWIDE (GERMANY) GMBH
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0001-0274_BusinessRegister-Email.csv
+0001-0274_BusinessRegister-Email.csv
 DE041299W;;;www.ism-energy.com;;;acil-bau@t-online.de;CON;A & A BAUGESELLSCHAFT MBH
 DE004124K;49 685669;;http://www.acker-container.com;;;acker@acker-gmbh.de;CON;Acker Raum-Systeme GmbH
 DE042094W;+49 30 62981516;;www.ags-gmbh.com;;;agsbaugmbh@gmx.de;CON;AGS BAU GMBH
@@ -273,7 +273,8 @@ DE050591F;+49 711 806089 0;;;;;info@elo.com;ICT;ELO DIGITAL OFFICE GMBH
 DE051415W;+49 69 74737106;;www.ene-it.de;;;info@ene-it.de;ICT;EUROPEAN NETWORK ENGINEERING (ENE) GMBH
 DE050767W;+49 641 97907775;;energobuildgroup.com;;;info@energobuildgroup.com;CON;ENERGO BUILD GROUP UG (HAFTUNGSBESCHRAENKT)
 DE050783W;+49 33439 1886 0;;www.enersystems.de;;;info@enersystems.de;CON;ENERSYSTEMS ENERGIETECHNIK GMBH & CO ANLAGENBAU KG
-DE051012W;+49 6431 283338;;www.esat-gmbh.com;;;info@esat-gmbh.com;CON;ESAT GMBH
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0275-0536_BusinessRegister-Email.csv
+0275-0536_BusinessRegister-Email.csv
 DE004062K;49 511372980;;https://www.esd.eu;;Done: send Email on 19-03-2020;info@esd.eu;ICT;esd
 DE051205W;+49 40 5897950 0;;www.euradrives.eu;;;info@euradrives.eu;ICT;EURA DRIVES GMBH
 DE051464F;+49 211 301290;;;;;info@euroweb.de;ICT;EUROWEB INTERNET GMBH
@@ -386,156 +387,9 @@ DE004247K;49 53063000;;http://www.lannergroup.de;;;info@lannergroup.de;ICT;Lanne
 DE004376K;49 609080;;http://www.lbe-online.de;;;info@lbe-online.de;CON;Elster GmbH
 DE060019W;+49 171 7433819;;thisa.lcr-easyweb.de;;;info@lcr.de;ICT;L C R SOFTWARE GMBH
 DE060461W;+49 89 51086777;;www.letugroup.com;;;info@letugroup.com;ICT;LETU GMBH
-DE002874K;49 783350;;http://www.libelle.com;;;info@libelle.com ;ICT;Libelle AG
-DE060775F;+49 441 971910;;;;;info@lmr-drilling.de;CON;LMR DRILLING GMBH
-DE003440K;49 5804824;;http://www.logcontrol.de;;;info@logcontrol.de;ICT;LogControl GmbH
-DE001871K;49 230970;;http://www.cotris.com;;;info@logistik-konzepte.com;ICT;logistik konzepte software GmbH
-DE060406W;+49 4532 28808 0;;www.go-seafood.de;;;info@lop.solutions;ICT;LENK FROZEN FOODS (EUROPE) GMBH
-DE070330W;+49 203 3461820;;www.louisiana.de;;;info@louisianafranchise.de;CON;ST. LOUIS GASTRO GMBH
-DE060983F;+49 7263 409300;;;;;info@lucysoftware.com;ICT;LUCY SOFTWARE AND SERVICES GMBH
-DE060957E;+49 241 168010;;;;;info@lukri.de;CON;LUBE & KRINGS GMBH
-DE061285W;+49 89 80032600;;www.m2msimplexx.de;;;info@m2msimplexx.de;ICT;M2M SIMPLEXX GMBH
-DE061356F;+49 7443 96718 0;;;;;info@maeder-office.de;CON;MAEDER OFFICE GMBH
-DE003032K;49 270041100;;http://www.magix.com;;;info@magix.com;ICT;Bellevue Investments GmbH & Co. KGaA
-DE001286K;49 96980;;http://www.maierbau.com;;;info@maierbau.com;CON;Jakob Maier Bauunternehmung Ing. Holzbau GmbH & Co. KG
-DE060565W;+49 39363 215;;www.maler-liebchen.de;;;info@maler-liebchen.de;CON;LIEBCHEN GMBH
-DE061581W;+49 4207 9099568;;www.manoba.de;;;info@manoba.de;ICT;MANOBA GMBH
-DE004285K;49 90580;;http://www.maringo.de;;;info@maringo.de;ICT;MARINGO Computers GmbH
-DE061843F;+49 9131 1203 0;;;;;info@mauss-bau.de;CON;MAUSS BAU GMBH & CO. KG
-DE061830F;+49 8586 9640 0;;;;;info@mb-hauzenberg.de;CON;MATTHIAS BAUER GMBH
-DE061981W;+49 341 35566516;;www.mc-bautec.de;;;info@mc-bautec.de;CON;MC BAUTEC GMBH
-DE002927K;49 61304700;;http://www.mcd.de.com;;;info@mcd.de.com;ICT;MCD Medical Computers Deutschland GmbH
-DE062352W;;;www.mellerbau.de;;;info@mellerbau.de;CON;MELLINDBAU GMBH
-DE062391W;;;www.menzil-gmbh.de;;;info@menzil-gmbh.de;CON;MENZIL GMBH
-DE062417F;+49 711 184230;;;;;info@mercedes-benz.io;ICT;MERCEDES-BENZ.IO GMBH
-DE002325K;49 906300;;http://www.mesa-international.de;;;info@mesa-international.de;CON;MESA ELECTRONIC GMBH
-DE050981W;+49 7554 97420;;www.meschenmoser-ew.com;;;info@meschenmoser-ew.com;CON;ERNST-WERNER MESCHENMOSER FUSSBODENTECHNIK GMBH
-DE062508W;+49 33335 30130;;www.metallbau-betker.de;;;info@metallbau-betker.de;CON;METALLBAU BETKER GMBH
-DE062520F;+49 6205 39610;;;;;info@metasystems.de;ICT;METASYSTEMS HARD & SOFTWARE GMBH
-DE004662K;49 34120;;https://www.facebook.com/mamicroautomationgmbh;;;info@micro-automation.de;ICT;MA micro automation GmbH
-DE001689K;49 34020;;http://www.microbox.de;;;info@microbox.de;ICT;MICROBOX GmbH
-DE003009K;49 968360;;http://www.mid.ru;;;info@mid.de;ICT;MID GmbH
-DE062974W;+49 7951 277675;;www.mm-plan-bau.de;;;info@mm-plan-bau.de;CON;MM PLAN-BAU GMBH
-DE003707K;49 747230;;http://www.mobileobjects.de;;;info@mobileobjects.de;ICT;mobileObjects AG
-DE063056W;+49 511 515476 0;;www.modul-hausconcept.de;;;info@modul-hausconcept.de;CON;MODUL HAUSCONCEPT GMBH
-DE061263W;+49 375 272060;;www.mop-zwickau.de;;;info@mop-zwickau.de;ICT;M.O.P MANAGEMENT-ORGANISATIONS-PARTNER GMBH
-DE061267W;+49 911 21146980;;www.mrt-abbruch.de;;;info@mrt-abbruch.de;CON;M.R.T. GMBH
-DE002908K;49 7232365040;;http://www.mse-filterpressen.com;;;info@mse-filterpressen.de;CON;MSE FILTERPRESSEN GMBH
-DE062703E;+49 9293 780;;;;;info@mse-microelectronics.de;CON;MICRO SYSTEMS ENGINEERING GMBH
-DE063372F;+49 711 949587000;;;;;info@msg-life.com;ICT;MSG LIFE CENTRAL EUROPE GMBH
-DE063374F;+49 89 96101 0;;;;;info@msg-systems.com;ICT;MSG SYSTEMS AG
-DE063375E;+49 89 96101 0;;;;;info@msg-systems.com;ICT;MSG SYSTEMS AG
-DE061154W;+49 911 80198570;;www.kassa-pro.de;;;info@mssystem.de;ICT;M & S SYSTEMSOLUTIONS GMBH
-DE002674K;49 3499600;;http://www.mts-cnc.com;;;info@mts-cnc.com;ICT;MTS Mathematisch Technische Software - Entwicklung GmbH
-DE003824K;49 34090;;http://www.mueller-medien.com/;;;info@mueller-medien.de;ICT;Müller Medien GmbH und Co. KG
-DE063630W;;;;;;info@mycomservice.de;CON;MYCOM SERVICE GMBH
-DE063636F;+49 341 392816751;;;;;info@myhotelshop.de;ICT;MYHOTELSHOP GMBH
-DE063681F;+49 7131 59495 0;;;;;info@n3k.de;ICT;N3K INFORMATIK GMBH
-DE063847E;+49 9471 7017 0;;;;;info@nbg-online.de;ICT;NBG EDV HANDELS- UND VERLAGS GMBH
-DE052714W;+49 881 9222 0;;www.neidhart.de;;;info@neidhart.de;CON;FRITZ NEIDHART GMBH & CO. KG
-DE063949W;+49 211 9293915;;www.net-display-systems.de;;;info@net-display-systems.de;ICT;NET DISPLAY SYSTEMS (DEUTSCHLAND) GMBH
-DE049470F;+49 211 970200;;;;;info@net-m.de;ICT;DOCOMO DIGITAL GERMANY GMBH
-DE000046K;49 72178179600;;http://netversor.com;;;info@netversor.com;ICT;Netversor GmbH
-DE064092W;+49 179 60080420;;www.nh-bau.de;;;info@nh-bau.de;CON;NH PROJEKT BAU GMBH
-DE003817K;49 381103;;http://www.nir-online.de;;;info@nir-online.de;ICT;NIR-Online GmbH
-DE064204W;+49 69 40125981;;www.nitecbau.de;;;info@nitecbau.de;CON;NITEC GMBH
-DE064413W;+49 6181 5771234;;www.novacool.de;;;info@novacool.de;CON;NOVACOOL KAELTE- UND KLIMATECHNIK GMBH
-DE064414W;+49 2233 7131751;;www.novad-gmbh.de;;;info@novad-gmbh.de;CON;NOVAD GMBH
-DE064481W;+49 6105 921305;;;;;info@nrs-bau.de;CON;NRS - BAU GMBH
-DE064501W;+49 7251 9369790;;www.nucida.de;;;info@nucida.de;ICT;NUCIDA GMBH
-DE002292K;49 9488690;;http://www.occ-web.com;;;info@occ-web.de;ICT;OCC Gesellschaft für physikalische Messtechnik und kybernetische Systeme mbH
-DE064633W;+49 8122 47546;;www.ocs-gmbh.net;;;info@ocs-gmbh.net;ICT;OCS GMBH
-DE003244K;;;http://www.hospitaltechnik.de;;;info@of-ag.de;CON;HT Labor + Hospitaltechnik AG
-DE064715F;+49 421 2020 8;;;;;info@ohb.de;ICT;OHB SE
-DE064858F;+49 941 46460 0;;;;;info@omniga.de;ICT;OMNIGA GMBH & CO. KG
-DE064904E;+49 6196 780800;;;;;info@omsag.de;ICT;ONLINE MARKETING SOLUTIONS AG
-DE064940E;+49 69 689702 710;;;;;info@o-s.de;ICT;OPERATIONAL SERVICES GMBH & CO. KG
-DE065132W;+49 39484 9400;;www.ostharz-elektro.de;;;info@ostharz-elektro.de;CON;OSTHARZ ELEKTROTECHNIK GMBH
-DE065335W;+49 34205 7750;;www.padelttherm.de;;;info@padelttherm.de;CON;PADELTTHERM GMBH
-DE065380W;+49 2271 6776512;;www.palsmobile.de;;;info@palsmobile.de;ICT;PALSMOBILE GMBH
-DE055759W;+49 7225 913340;;www.parkett-hettich.de;;;info@parkett-hettich.de;CON;HETTICH GMBH
-DE002056K;49 92000;;http://www.pat-passig.de;;;info@pat-passig.de;ICT;Passig Automatisierungstechnik GmbH
-DE044899W;+49 212 3833077;;www.pavlovic-bauelemente.de;;;info@pavlovic-bauelemente.de;CON;BAUELEMENTE PAVLOVIC GMBH
-DE065598F;+49 30 3001318 88;;;;;info@payleven.de;ICT;PAYLEVEN GERMANY GMBH
-DE065599F;+49 30 58858111;;;;;info@paypeanuts.net;ICT;PAYPEANUTS GMBH
-DE062702W;;;www.pc-spezialisten.com;;;info@pc-spezialisten.com;ICT;MICRO STORE UG (HAFTUNGSBESCHRAENKT)
-DE065707W;+49 7309 9500;;www.peri.de;;;info@peri.de;CON;PERI PSS GMBH
-DE065788W;+49 40 319746 0;;www.pes-petroleum.com;;;info@pes-petroleum.com;ICT;PETROLEUM ENGINEERING SERVICES GMBH
-DE069490F;+49 221 208020;;;;;info@plm-automation.siemens.com;ICT;SIEMENS INDUSTRY SOFTWARE GMBH
-DE066168F;+49 2761 938120;;;;;info@polygonvatro.de;CON;POLYGONVATRO GMBH
-DE002608K;49 93350;;http://www.premiertech.com;;;info@premiertech.com;ICT;Premier Tech Chronos GmbH
-DE066481F;+49 6374 800 0;;;;;info@proalpha.de;ICT;PROALPHA BUSINESS SOLUTIONS GMBH
-DE004300K;49 4997850;;http://www.pro-business.com;;;info@pro-business.com;ICT;Pro Business digital printing Deutschland GmbH
-DE066508F;+49 6181 9793 0;;;;;info@prodanet.com;ICT;PRODANET GMBH
-DE066520W;+49 7248 911711;;www.production-to-go.com;;;info@production-to-go.com;ICT;PRODUCTIONTOGO GMBH
-DE004372K;49 998380;;http://www.progea.de;;;info@progea.de;ICT;Progea Deutschland GmbH
-DE066568W;+49 212 253401 5;;www.projektplus-gmbh.de;;;info@projektplus-gmbh.de;CON;PROJEKTPLUS -INGENIEURGESELLSCHAFT FUER HOCHBAU MBH
-DE002675K;49 6289350;;http://www.promess-gmbh.de;;;info@promess-gmbh.de;ICT;PROMESS Ges. für produktionstechnisches Messen mbH
-DE066455F;+49 30 726159120;;;;;info@prosales24.de;ICT;PRO SALES EUROPE MEDIA GMBH
-DE066688F;+49 211 60219271;;;;;info@psimetals.de;ICT;PSI METALS GMBH
-DE066711F;+49 721 96510;;;;;info@ptvgroup.com;ICT;PTV PLANUNG TRANSPORT VERKEHR AG
-DE066793F;+49 711 1381830;;;;;info@qasystems.de;ICT;QA SYSTEMS GMBH
-DE003316K;49 20005640;+49419375320;http://www.roc-group.de;;new name: Zalaris;info@raas-hcm.com;ICT;ROC Deutschland GmbH
-DE067096F;+49 69 38076 0;;;;;info@ratiodata.de;ICT;RATIODATA GMBH
-DE003371K;49 88980;;http://www.raylase.de;;;info@raylase.de;ICT;RAYLASE AG
-DE067170W;+49 2161 4030;;www.real.de;;;info@real.de;ICT;REAL,- DIGITAL PAYMENT & TECHNOLOGY SERVICES GMBH
-DE067203F;+49 6102 883810;;;;;info@recom-international.de;ICT;RECOM SERVICES GMBH
-DE067332E;+49 9371 9790 0;;;;;info@reinhold-keller.de;CON;REINHOLD KELLER GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
-DE067388F;+49 2306 106692;;;;;info@remondis.de;CON;REMONDIS AQUA INTERNATIONAL GMBH
-DE004085K;49 9714037;;http://www.reproisoliertueren.de;;;info@reproisoliertueren.de;CON;Comercial Industrial Repro
-DE003102K;49 949870;;http://www.resotec.com;;;info@resotec.com;ICT;RESOTEC Realtime Software Technik GmbH
-DE002686K;49 8900800;;http://www.rexx-systems.com;;;info@rexx-systems.com;ICT;rexx systems GmbH
-DE002958K;49 510040;;https://www.rib-cosinus.com/;;;info@rib-cosinus.com;ICT;RIB Cosinus GmbH
-DE067551F;+49 711 7873 0;;;;;info@rib-software.com;ICT;RIB SOFTWARE SE
-DE067547F;+49 89 92220;;;;;info@ri-solution.com;ICT;RI-SOLUTION GMBH GES. FUER RETAIL-INFORMATIONSSYSTEME, SERVICES UND LOESUNGEN MBH
-DE055587F;+49 8036 674976 0;;;;;info@rohde-online.net;CON;HELMUT ROHDE GMBH
-DE067916W;+49 39771 22776;;www.rothbart-maschinenbau-gmbh.de;;;info@rothbart-maschinenbau-gmbh.de;CON;ROTHBART MASCHINENBAU GMBH
-DE066913W;+49 30 68835800;;www.prepaidrausch24.de;;;info@rr-distribution.de;ICT;R&R DISTRIBUTION GMBH
-DE002544K;49 5648300;;http://www.run-e.de;;;info@run-e.de;ICT;run-e GmbH & Co KG
-DE068144W;+49 6758 8048690;;www.rzkh-gmbh.de;;;info@rzkh.de;ICT;RZKH GMBH - RECHENZENTRUM KREUZNACH
-DE001541K;49 933730;;http://www.sa2worldsync.com;;;info@sa2worldsync.com;ICT;1WorldSync GmbH
-DE068330F;+49 69 50007 0;;;;;info@sage.de;ICT;SAGE GMBH
-DE068535W;+49 30 88767996;;www.sapiram.com;;;info@sapiram.com;ICT;SAPIRAM UG (HAFTUNGSBESCHRAENKT)
-DE068620F;+49 4621 385 0;;;;;info@saw-kg.de;CON;SAW SCHLESWIGER ASPHALTSPLITT-WERKE GMBH & CO. KOMMANDITGESELLSCHAFT
-DE001701K;49 2522;;http://www.schade-maschinenbau.de;;;info@schade-maschinenbau.de;CON;Schade Maschinen GmbH & Co. KG
-DE068736F;+49 89 354090;;;;;info@schiedel.de;CON;SCHIEDEL GMBH & CO. KG
-DE068739F;+49 40 42938 100;;;;;info@schiffl.de;ICT;SCHIFFL GMBH & CO. KG
-DE053400F;+49 7371 5020;;;;;info@schlegel.biz;CON;GEORG SCHLEGEL GMBH & CO. KG
-DE068755F;+49 7751 8870;;;;;info@schleith.de;CON;SCHLEITH GMBH BAUGESELLSCHAFT
-DE067561E;+49 8431 5990;;;;;info@schulz-tiefbau.de;CON;RICHARD SCHULZ TIEFBAU GMBH & CO. KG
-DE068919W;+49 234 96647075;;www.schupabau.de;;;info@schupabau.de;CON;SCHUPA BAUSTOFFHANDEL UG (HAFTUNGSBESCHRAENKT)
-DE068975F;+49 7571 7250;;;;;info@schwoerer.de;CON;SCHWOERER HAUS GMBH & CO. KG.
-DE074391W;+49 7821 5495623;;www.weinclub.ch;;;info@screenport.de;ICT;WINE & GOURMET DIGITAL DEUTSCHLAND GMBH
-DE069059W;+49 30 83202627;;www.secotrust.de;;;info@secotrust.de;ICT;SECOTRUST IT GMBH & CO. KG
-DE066824F;+49 7251 92900;;;;;info@seetec.de;ICT;QOGNIFY GMBH
-DE069198F;+49 228 90896 789;;;;;info@ser.de;ICT;SER SOLUTIONS DEUTSCHLAND GMBH
-DE069220W;;;;;;info@serragroup.de;ICT;SERRA UG (HAFTUNGSBESCHRAENKT)
-DE069618W;+49 2433 4466151;;www.simonmotorsport.com;;;info@simonmotorsport.com;ICT;SIMON MOTORSPORT GMBH
-DE069633W;+49 761 8814030;;www.sina-fenster.de;;;info@sina-fenster.de;CON;SINA FENSTER + TUEREN GMBH
-DE069665W;+49 30 20051897;;www.sinniggmbh-bau.de;;;info@sinniggmbh-bau.de;CON;SINNIG GMBH
-DE001480K;49 59650;;http://www.sis-gruppe.de;;;info@sis-gruppe.de;CON;S.I.S. Süd Industrie-Anlagen Service GmbH
-DE069734F;+49 6271 72982;;;;;info@sittig-rein.de;CON;SITTIG & REIN GMBH
-DE069736E;+49 381 25240;;;;;info@siv.de;ICT;SIV - SERVICE FUER INFORMATIONSVERARBEITUNG AKTIENGESELLSCHAFT
-DE069880W;+49 2832 9732052;;www.smart-technologies.eu;;;info@smart-technologies.eu;ICT;SMART TECHNOLOGIES ID GMBH
-DE069976F;+49 641 982460;;;;;info@softplan-informatik.de;ICT;SOFTPLAN INFORMATIK GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG
-DE069980W;+49 40 41424860;;www.softvalue.de;;;info@softvalue.de;ICT;SOFTVALUE GESELLSCHAFT FUER ENTWICKLUNG UND HANDEL MBH
-DE069983W;+49 40 73433 191;;www.sog.de;;;info@sog.de;ICT;SOG BUSINESS-SOFTWARE GMBH
-DE001740K;49 520440;;http://www.sovicell.com;;;info@sovicell.com;ICT;Sovicell GmbH
-DE070181F;+49 6181 490250;;;;;info@speedionet.com;ICT;SPEEDIONET DEUTSCHLAND GMBH
-DE070222F;+49 33701 901 0;;;;;info@spitzke.de;CON;SPITZKE SE
-DE070393W;+49 7541 4878315;;www.starlasertag.de;;;info@starlasertag.de;ICT;STAR LASER TAG TECHNOLOGIES UG (HAFTUNGSBESCHRAENKT)
-DE004522K;49 3636;;http://www.ste-electronic.com;;;info@ste-electronic.com;ICT;Stiftland Elektronik GmbH
-DE070541W;+49 2161 9922480;;www.sternbau24.de;;;info@sternbau24.de;CON;STERNBAU IMMOBILIEN GMBH
-DE003196K;49 5500440;;http://www.stm-stieler.de;;;info@stm-stieler.de;ICT;Stieler Technologie- & Marketing-Beratung GmbH & Co. KG
-DE070613F;+49 221 824 2000;;;;;info@strabag-real-estate.com;CON;STRABAG REAL ESTATE GMBH
-DE070656W;;;www.stroyprojekt.de;;;info@stroyprojekt.de;CON;STROYPROJEKT GMBH
-DE070700F;+49 89 1222895 0;;;;;info@stylight.de;ICT;STYLIGHT GMBH
-DE070710W;+49 35953 299330;;www.subtiel.com;;;info@subtiel.com;CON;SUBTIEL KONTOR GMBH
-DE070799F;+49 9131 6259910;;;;;info@sunhill-technologies.com;ICT;SUNHILL TECHNOLOGIES GMBH
-DE070910W;+49 69 59603609;;www.svd-verpackungen.de;;;info@svdgmbh.com;ICT;SVD GMBH
-DE004541K;49 9443250;;http://www.swr-gmbh.de;;;info@swr-gmbh.de;CON;Südwestdeutsche Rohrleitungsbau GmbH
-DE070955E;+49 551 490 0;;;;;info@sycor.de;ICT;SYCOR GMBH
-DE070998F;+49 7071 4078560;;;;;info@syss.de;ICT;SYSS GMBH
+'ascii' codec can't encode character '\xa0' in position 25: ordinal not in range(128)
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0537-0833_BusinessRegister-Email.csv
+0537-0833_BusinessRegister-Email.csv
 DE047216F;+49 261 80001780;;;;;info@systema.de;ICT;CGM CLINICAL DEUTSCHLAND GMBH
 DE071133F;+49 228 763776 0;;;;;info@talend.com;ICT;TALEND GERMANY GMBH
 DE071191W;+49 6501 99663;;www.tapp-haustechnik.de;;;info@tapp-haustechnik.de;CON;TAPP HAUSTECHNIK ELEKTRO.SOLAR.ENERGIE GMBH
@@ -739,3 +593,16 @@ DE001324K;49 974550;;http://www.wilo.com;;;wilo@wilo.com;CON;WILO SE
 DE074710W;+49 6150 5082937;;;;;wunsch_bau@t-online.de;CON;WUNSCH BAU GMBH
 DE075078W;+49 172 4058116;;www.zabeli-trockenbau.de;;;zabeligmbh@hotmail.de;CON;ZABELI GMBH
 DE004467K;49 8531510;;http://www.zeppelin-powersystems.com;;;zps.hamburg@zeppelin.com;CON;Zeppelin Power Systems GmbH & Co. KG
+[webwarts@wolf intracenRAI]$ python3 mainWsaEmail.py 0834-1053_BusinessRegister-Email.csv
+0834-1053_BusinessRegister-Email.csv
+
+[webwarts@wolf intracenRAI]$
+
+
+
+
+
+
+
+
+
