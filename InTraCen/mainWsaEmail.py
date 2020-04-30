@@ -36,12 +36,12 @@ password = "JcXwg8WW5-Irr5_eMra-5ra_Eu3er5xp"   # keepass
 
 # Data for eMail
 sender_email = "eu-service-export@warth-sapiensio.com"
-receiver_email = "rainer.warth@gmail.com"  # Enter receiver address
-subject = "EU Datenerhebung - Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure"
-body = "This is an email with attachment sent from Python"
+receiver_email = "eu-service-export@warth-sapiensio.com"  # Enter receiver address
+subject = "EU Untersuchung - Buerokratie- und Handelshindernisse für Dienstleistungsexporteure im IKT- und Bausektor"
+body = "--"
 
 parser = argparse.ArgumentParser()
-parser.add_argument("eMailFile" , help="Lead eMails from InTraCen.csv file")
+parser.add_argument("eMailFile" , help="Read eMails from InTraCen.csv file")
 args = parser.parse_args()
 print(args.eMailFile)
 
@@ -92,7 +92,7 @@ text = """\
     Guten Tag,
 	meine Firma führt im Auftrag der EU eine Untersuchung zu folgendem Thema durch:
 
-    Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Vertriebs-, Bau-, IKT- und freiberufliche Dienstleistungen.
+    Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Bau- und IKT-Dienstleistungen.
 
     Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Erhebung von Daten in Deutschland meine Firma warth-sapiensIO beauftragt. Sie finden weiterführenden Informationen unter: warth-sapiensio.com/eu-export
 
@@ -101,12 +101,11 @@ text = """\
     Mit freundlichen Grüssen, Rainer Warth
      ----------------------------------------------------------------
     Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: https://warth-sapiensio.com/eu-export
-    Folgende Sektoren und Dienstleistungen werden dieses Jahr untersucht:
+    Folgende Sektoren und Dienstleistungen werden noch bis zum 9. Mai untersucht:
         - Hoch- und Tiefbau:  Bauen, Umbauen, Renovieren, Verwalten
-        - Gross- und Einzelhandel: Weiterverkauf von neuen und gebrauchten Gütern, Vermittler
         - Telekommunikation: Übertragung von Sprache, Daten, Text, Ton, Video.
         - Computer: Softwareentwicklung, Planung von IT, Hosting, Datensammeln, etc.
-        - Freiberufliche, wissenschaftliche und technische Dienstleistungen
+
     -----------------------------------------------------------------
     Rainer Warth, Dr., MBA<br>
     Route de Lausanne,30...............Tel.: +41 21 515 29 01                                   
@@ -125,13 +124,11 @@ html = """\
     <p>Mit freundlichen Grüssen, Rainer Warth</p>
      ----------------------------------------------------------------<br>
      Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: <a href="https://warth-sapiensio.com/eu-export/">warth-sapiensio.com/eu-export<a><br>
-     Folgende Sektoren und Dienstleistungen werden dieses Jahr untersucht:<br>
+     Folgende Sektoren und Dienstleistungen werden noch bis zum 9. Mai untersucht:<br>
     <ol>
       <li>Hoch- und Tiefbau:  Bauen, Umbauen, Renovieren, Verwalten</li>
-      <li>Gross- und Einzelhandel: Weiterverkauf von neuen und gebrauchten Gütern, Vermittler</li>
       <li>Telekommunikation: Übertragung von Sprache, Daten, Text, Ton, Video.</li>
       <li>Computer: Softwareentwicklung, Planung von IT, Hosting, Datensammeln, etc.</li>
-      <li>Freiberufliche, wissenschaftliche und technische Dienstleistungen</li>
     </ol>
     -----------------------------------------------------------------<br>
     Rainer Warth, Dr., MBA<br>

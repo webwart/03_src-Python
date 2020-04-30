@@ -78,7 +78,7 @@ I finished and tested script. I did send the first 100 eMail. I defined the foll
 
 >SP: Send Intracen eMail
 
-''' text
+``` text
 OPEN.... VScode
 OPEN.... in VScode open 0001-0xxx_BusinessRegister-Email.csv   
 OPEN.... in VScode open \RAI-Next\200409_Intracen\SurveyDataCollection\n-200403_eMailBusinessRegister_RKW.csv  ->(2)
@@ -90,9 +90,9 @@ VERIFY.. line 180     with open("0001-0030_BusinessRegister-Email.csv") as file
 RUN..... wsaEmail copy.py
 SAVE.... print out in InTraCenEmailResults.csv
 TYPE.... to each result set the time-stamp: 200402-1515
-'''
+```
 
-''' text
+``` text
 OPEN.... VScode \03_src\python
 OPEN.... GITbash .> ssh webwarts@wolf.uberspace.de
 OPEN.... FileZilla connect to Uber Webwarts
@@ -109,4 +109,13 @@ VERIFY.. line 180     with open("0001-0030_BusinessRegister-Email.csv") as file
 TRANSFER.. with FileZila 0001-0xxx_BusinessRegister-Email.csv to uber\webwarts\InTraCen\ 
 RUN....... in bash-shel ind \InTraCen\ python wsaEmail copy.py
 SAVE...... print out in \python\IntraCen\InTraCenEmailResults.csv
-'''
+```
+
+THU  30-04-2020
+-1- mainBusinessRegToFiles.py
+I updated the file header and corrected the creation of randam line blocks. I want to use the script to create the businessRegister-Email files vor the ICT-CON sectors.
+>N: Remove eMail companies with completed interviews.
+
+-2- mainWsaEmail.y
+I updated the script on SionDesk.
+>N: Upload and test with test-file

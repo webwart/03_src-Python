@@ -1,3 +1,25 @@
+#!/user/  .in Unix only
+
+#  ------------------------------------
+#  Porject: InTracen - business register .csv file
+#   Author: Rainer Warth
+#  Version: 30-04-2020
+#    Goals: Reads .csv file and splits it in several files with a given number of (random number of) lines.
+#      Ref: 
+#      Ref: 
+#      Ref: 
+#    Satus: --runs-- <bug> (false output , script does not run)> - <broken (link, module, file is missing)> 
+#    Satus: -- 
+# Funcions: read .csv file into list , create blocks  of lines from a line list , save blocks of lines into a file 
+#       >N: create args to run from CLI.
+#  ------------------------------------
+
+
+# -*- coding: utf-8 -*-
+
+#  Prod: eu-service-export@warth-sapiens.com
+#  .> ssh webwarts@wolf.uberspace.de
+
 import random
 import pathlib
 
@@ -6,8 +28,9 @@ import pathlib
 
 def inteListTubel( startLine , endLine , minRand , maxRand , inteList ):
     ''' return list with tuples containing two intergeers '''
-    r_num = random.randrange( minRand , maxRand)
+    # r_num = random.randrange( minRand , maxRand)
     while (endLine - maxRand ) > startLine :
+        r_num = random.randrange( minRand , maxRand)
         if startLine == 0 :
             pos1 = 0
             pos2 = r_num    # lets say 45
@@ -50,17 +73,17 @@ def  saveContentInNewFile(lineTuple, lineBlock):
     prevLastLine , b_line = lineTuple
     print(str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
     fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
-    file = pathlib.Path.cwd().joinpath("InTraCenTestFiles" , fileName )
+    file = pathlib.Path.cwd().joinpath("InTraCenTestFilesICT" , fileName )
     with open(file, 'w') as nf:
         nf.write(lineBlock)
 
 
 def main():
     inteList = []
-    print(inteListTubel(599 , 5766 , 80 , 120 , inteList))
+    print(inteListTubel(1 , 1053 , 250 , 300 , inteList))
 
     print("-----readFileInList-----" * 5)
-    lineListB = readFileInList("n-200403_eMailBusinessRegister_RKW.csv")
+    lineListB = readFileInList("200430_eMailBusinessRegister-ICT-CON_RKW.csv")
     print("-----getLinesFromFile-----" * 5)
     # lineBlock = getLinesFromFile((0 , 20), lineListB)
     # print(lineBlock)

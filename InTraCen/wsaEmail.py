@@ -36,9 +36,9 @@ password = "JcXwg8WW5-Irr5_eMra-5ra_Eu3er5xp"   # keepass
 
 # Data for eMail
 sender_email = "eu-service-export@warth-sapiensio.com"
-receiver_email = "rainer.warth@gmail.com"  # Enter receiver address
-subject = "EU Datenerhebung - Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure"
-body = "This is an email with attachment sent from Python"
+receiver_email = "eu-service-export@warth-sapiensio.com"  # Enter receiver address
+subject = "EU Untersuchung - Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure"
+body = "--"
 
 
 
@@ -90,18 +90,20 @@ text = """\
 
     Handelshindernisse und Informationsbedarf für Dienstleistungsexporteure in den Sektoren Vertriebs-, Bau-, IKT- und freiberufliche Dienstleistungen.
 
-    Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Erhebung von Daten in Deutschland meine Firma warth-sapiensIO beauftragt. Sie finden weiterführenden Informationen unter: warth-sapiensio.com/eu-export
+    Die EU hat den Internationalen Trade Centre (InTraCen) in Genf beauftragt die Untersuchung in 15-EU Ländern durchzuführen. InTraCen hat für die Uuntersuchung in Deutschland meine Firma warth-sapiensIO beauftragt. Sie finden weiterführenden Informationen unter: warth-sapiensio.com/eu-export
 
     Die EU nutzt die gewonnen Erkenntnisse für Verhandlungen mit nicht-EU Ländern und um Informationsangebote wie «The Market Access Database (MADB)» anzubieten: https://madb.europa.eu/madb/
     Mit dieser Untersuchung kann Ihre Firma der EU mitteilen, wo sie Bedarf im Abbau von Bürokratie und Handelshindernisse sehen. Wer wäre in Ihrer Firma bereit seine Erfahrung mit der Betreuung von Kunden aus nicht-EU Ländern zu berichten?</p>
     Mit freundlichen Grüssen, Rainer Warth
      ----------------------------------------------------------------
-    Sind finden mehr Informationen zu der Untersuchung auf unserer Webseite: https://warth-sapiensio.com/eu-export
-    Folgende Sektoren und Dienstleistungen werden dieses Jahr untersucht:
+    Sie finden mehr Informationen zu der Untersuchung auf unserer Webseite: https://warth-sapiensio.com/eu-export
+    Folgende Sektoren werden noch bis zum 9 Mai kontaktiert:
         - Hoch- und Tiefbau:  Bauen, Umbauen, Renovieren, Verwalten
-        - Gross- und Einzelhandel: Weiterverkauf von neuen und gebrauchten Gütern, Vermittler
         - Telekommunikation: Übertragung von Sprache, Daten, Text, Ton, Video.
         - Computer: Softwareentwicklung, Planung von IT, Hosting, Datensammeln, etc.
+        
+    Falls die Firma von einer Frau geführt wird, bitte ich sie mich zu 
+        - Gross- und Einzelhandel: Weiterverkauf von neuen und gebrauchten Gütern, Vermittler
         - Freiberufliche, wissenschaftliche und technische Dienstleistungen
     -----------------------------------------------------------------
     Rainer Warth, Dr., MBA<br>
