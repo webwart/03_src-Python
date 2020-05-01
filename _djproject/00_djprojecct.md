@@ -80,7 +80,20 @@ Sion-Des:\djproject\allpages\static\allpages\images\djangopony.png
 
 ### 10 A Master Template
 
+Created HTML file in _djprojct/allpages/templates/allpages/base.html
 
+### 11 Add Header, Footer, Navigation
+
+``` html
+<body>
+    <Header>Haeder</Header>
+    <nav>Nav
+    </nav>
+    <main>
+    </main>
+    <footer>Footer</footer>
+</body>
+``` 
 
 ## References
 
