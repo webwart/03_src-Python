@@ -95,6 +95,26 @@ Created HTML file in _djprojct/allpages/templates/allpages/base.html
 </body>
 ``` 
 
+### 12 add Front Awesome and Bootstrap CDN link
+Into the header of base.html I added the links
+
+### 13 Django Template Language
+Used in .html files. Executed on the server
+{% executable code %}
+{{ varuables }}
+{#  comments #}
+
+added code to base.html to find the _djproject/static in which link to /allpages/css/stylesheet.css
+
+### 14 Make your home pages
+
+Used {% extends base.html %} to make .html pages
+
+### 15 Logo and Socia Media 
+
+In need to use {% static .....} to link to the static/image or static/css folder
+
+
 ## References
 
 
@@ -112,7 +132,6 @@ I have starte with Allan simpson on Sion-Des . With git I get all the files on N
 I also started a set-up Onedrive.
 >N: Check if I have on Naples-Desk also Django 3.0. ? Find out how to deal with it since the tutoriala and überspace uses Django 2.0.
 
-### WED 29-04-2020
--1- 
-Finished 
->N: 10. Master Template
+### FRI  01-05-2020
+Until now I learned how to use html templates and link them together. Now I will learn how to 
+>N: 16
