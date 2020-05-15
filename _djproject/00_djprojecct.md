@@ -112,7 +112,17 @@ Used {% extends base.html %} to make .html pages
 
 ### 15 Logo and Socia Media 
 
-In need to use {% static .....} to link to the static/image or static/css folder
+In need to use {% static .....} to link to the static/image or static/css folder. I added a logo, the stylesheet, and Social media link
+### 16 Create my first view
+
+1. client request -> urls.py -> views.py (gathers the data to fill into the template)-> template.html 
+2. Each view is a function or a closs. Here we use functions. If there is no content: def home_view(request): return render(request, 'path/t0/xxx.html)
+
+### 17 url.py
+1. The first urls.py always seen by the request is in the project folder  -djproject/_djproject/urls.py
+2. add this line to the URL patter list: path('about/', views.about_view, name='allpages-about'),
+
+
 
 
 ## References
@@ -134,4 +144,7 @@ I also started a set-up Onedrive.
 
 ### FRI  01-05-2020
 Until now I learned how to use html templates and link them together. Now I will learn how to 
->N: 16
+
+### WED  06-05-2020
+Added Python Django to the launch file.
+>N: 18 Make things pretty
