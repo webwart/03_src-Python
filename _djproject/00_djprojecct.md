@@ -3,7 +3,7 @@
 ## set-up
 I do run the commands on Sion-Des and Naples-Lab. db.sqlite3 is not saved by Github. 
 
-Naples-Lab:  django superuser amin <> Ner56 Dj r.w@hot.ch
+Naples-Lab:  django superuser amin_Nap <> Ner56 Dj r.w@hot.ch
 Sion-Des:  django superuser amin_SionDes <> Ner56 Dj r.w@gmail
 .ch
 OneDrive-Rai: django superuser amin_OneDrive <> Ner56 Dj  r.w@hot.ch
@@ -148,3 +148,13 @@ Until now I learned how to use html templates and link them together. Now I will
 ### WED  06-05-2020
 Added Python Django to the launch file.
 >N: 18 Make things pretty
+
+### WED  06-05-2020
+-1- Naples
+I did clone from git /python/. Creted in anaconda the env_NumAiDjBs environment. In VScode I did run: manage.py migrate , manage.py runserver. Then I created the superuser.
+
+``` text
+.> manage.py migrate
+.> manage.py runserver
+.> manage.py createsuperuser --username=amin_Nap --email=rainer.warth@hotmail.ch
+```
