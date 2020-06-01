@@ -15,6 +15,10 @@ This is the top-directory of my python code learning area. The first 4 month of 
 - python user Sion-Desk/RAI has access to my favorite Conda-VScode-Numpy-AI-Django-Sphinx ***env_numAiDjango** environment. See Reference 1. details. 
 - use Git with [remote repository](https://github.com/webwart/03_src-Python) , keepass r.w at hm.ch - N56 - Gi
 - I FSY  between Sion-Desk and A500GbSaT3, but not with Naples-Lab
+- I down- and upload with git pull/push between SioRai and NapRai user. Accordingly NapRai git-user is NapRai at  r.w@hot.ch 
+.> git config --global user.name "NapRai"
+.> git config --global user.email "rainer.warth@hotmail.ch"
+When I push to gitlab I need to give credentials: r.w@hot.ch 56-Gi
 
 ## Getting started
 
