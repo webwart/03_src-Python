@@ -20,10 +20,29 @@ Light color: silver
 
 */
 
+/* Fade in animation */
+
+@keyframes fadein{
+    from{
+        opacity: 0 ;
+    to{
+        opacity: 1;
+    }
+    }
+}
+
+
 body{
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0 ;
-    border-color: yellow;
+    border-color: white; 
+/*    backbround: linear-gradient(t oright,#ff9a9e, #fad0c4) fixed; */
+    background-image: url(../images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    */
 }
 
 h1, h2, h3{
@@ -31,7 +50,78 @@ h1, h2, h3{
     margin: lrem 0 0 0;
 }
 
+header, nav, footer {
+    position: fixed;
+    z-index: 31000;
+    left: 0;
+    width: 100%;
+    padding: 0 4%;
+}
+
+header{
+    top: 0;
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+}
+
+header img{
+    height: 70%;
+    position: relative;
+    top: -2px;
+    /* Have the logo image fade in */
+    animation: 1s ease-in 0x 1 fadein;
+}
+
+nav{
+    position: absolute;
+    top: 0;
+    right: 2rem;
+    height: 60px;
+    line-height: 60px;
+    z-index: 32000;
+}
+
+nav a:link, nava:q:visited{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover, nava:q:active{
+    color: silver;
+    text-decoration: none;
+}
+
+main{
+    position: relative;
+    z-index: inherit 100;
+    margin: 68px 4rem 4rem 48px;
+    padding: 0lrem;
+    background: rgba(255,255,255,.9);
+
+}
+
+
 code{
     font-family: 'Source Code Pro',  monospace;
 }
 
+footer{
+    bottom: 0;
+    height: 30px;
+    line-height: 30px;
+    background-color: black;
+    text-align: center;
+    font: size l 0.4em;
+}
+
+fooeter a:link, footer:a:visited{
+    color: silver;
+    margin: 0 0.5em;
+    text-decoration: none;
+}
+
+footer a:hover, footer:a:active{
+    color: white;
+    text-decoration: none;
+}

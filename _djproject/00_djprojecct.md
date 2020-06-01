@@ -122,8 +122,15 @@ In need to use {% static .....} to link to the static/image or static/css folder
 1. The first urls.py always seen by the request is in the project folder  -djproject/_djproject/urls.py
 2. add this line to the URL patter list: path('about/', views.about_view, name='allpages-about'),
 
+### 18. stylesheet.css
+1. Added css code for header, footer, and nav bar.
+2. >!!: The body { backbround-color: yellow } did not work !!
 
+### 19. background stylesheet.css
+1. Reference to a website where  I can generated a gradien of color and obtain the CSS code
+2. >!!: I could not change backbround color, gradien, or add the background picture. !!
 
+### 20. Internal links
 
 ## References
 
@@ -149,7 +156,7 @@ Until now I learned how to use html templates and link them together. Now I will
 Added Python Django to the launch file.
 >N: 18 Make things pretty
 
-### WED  06-05-2020
+### MON  01-06-2020
 -1- Naples
 I did clone from git /python/. Creted in anaconda the env_NumAiDjBs environment. In VScode I did run: manage.py migrate , manage.py runserver. Then I created the superuser.
 
@@ -158,3 +165,14 @@ I did clone from git /python/. Creted in anaconda the env_NumAiDjBs environment.
 .> manage.py runserver
 .> manage.py createsuperuser --username=amin_Nap --email=rainer.warth@hotmail.ch
 ```
+
+-2- Naples
+I advanced with Alan Simpson UDemy Django class
+>N: 20 Intenal Links
+
+-3- Naples
+Created Desktop icon which open conda ps shell  in /03_src/python/. I then type:
+
+````
+POS> conda activate env_Num   (tab)
+POS> code  .
