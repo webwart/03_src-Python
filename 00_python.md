@@ -135,15 +135,43 @@ Created a desktop icon , which launches a Powershell, activates env_NumAiDjBs, a
 
 >SP: Create Desktop Icon to lounch conda, VScode and acivate env
 
-COPY ... Verknüphungs Icon
-R-Klick .. open Eigenschaften
-TYPE ....  in Ziel the text below.
 
 ``` text
+W-START... 
+SELECT.... Anaconda powershell prompt
+R-KLICK... >Mehr > Dateispeicheort öffnen
+OPEN...... C:\Users\raine\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
+SELECT.... Anaconda powershell icon
+CREATE ... Verknüpfung from Anaconda Powershel icon
+MOVE ....  Verknüpfung Anaconda Powershell ICON to desktop.
+R-KLICK... and select Eigenschaften
+REPLACE .. in Ziel:
+
 %windir%\System32\WindowsPowerShell\v1.0\powershell.exe 
 -ExecutionPolicy ByPass 
 -NoExit 
--Command "& 'C:\Users\raine\anaconda3\shell\condabin\conda-hook.ps1' ;
- conda activate 'C:\Users\raine\anaconda3\envs\env_NumAiDjBs' ; 
- code . "
- ``` 
+-Command "& 'C:\Users\raine\Anaconda3\shell\condabin\conda-hook.ps1' ;
+          conda activate 'C:\Users\raine\Anaconda3' "
+
+WITH ..... Makesure to adapt location of venv !!!
+
+%windir%\System32\WindowsPowerShell\v1.0\powershell.exe 
+-ExecutionPolicy ByPass 
+-NoExit 
+-Command "& 'C:\Users\raine\Anaconda3\shell\condabin\conda-hook.ps1' ;
+ conda activate 'C:\Users\raine\Anaconda3\envs\env_numAiDjango' ; code . "
+ 
+REPLACE.. in Ausführen:
+
+%HOMEPATH%
+
+WITH......
+
+C:\Users\Public\03_src\python\
+``` 
+
+
+
+ ### FRI  06-05-2020
+ -1- Sion
+ I did create desktop icon to launch conda, VScodeand activate env. See SP above, I just adjusted the env name.
