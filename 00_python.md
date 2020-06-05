@@ -128,3 +128,22 @@ I collected some nice links to web-sites with path-lib intros. I wnt to standard
 
 -2- email module
 Python doc offeres some nice examples. I want to try them with uberspace
+
+### MON  02-06-2020
+-1- Naples
+Created a desktop icon , which launches a Powershell, activates env_NumAiDjBs, and opend VScode in /03_src/python.
+
+>SP: Create Desktop Icon to lounch conda, VScode and acivate env
+
+COPY ... Verknüphungs Icon
+R-Klick .. open Eigenschaften
+TYPE ....  in Ziel the text below.
+
+``` text
+%windir%\System32\WindowsPowerShell\v1.0\powershell.exe 
+-ExecutionPolicy ByPass 
+-NoExit 
+-Command "& 'C:\Users\raine\anaconda3\shell\condabin\conda-hook.ps1' ;
+ conda activate 'C:\Users\raine\anaconda3\envs\env_NumAiDjBs' ; 
+ code . "
+ ``` 

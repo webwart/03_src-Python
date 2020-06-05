@@ -171,8 +171,5 @@ I advanced with Alan Simpson UDemy Django class
 >N: 20 Intenal Links
 
 -3- Naples
-Created Desktop icon which open conda ps shell  in /03_src/python/. I then type:
-
-````
-POS> conda activate env_Num   (tab)
-POS> code  .
+Created Desktop icon which open conda ps shell  in /03_src/python/ and activate env_NumAiDjBs. For SP see
+python.md.
