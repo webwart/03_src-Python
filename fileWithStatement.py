@@ -12,7 +12,7 @@
 #       >N: --
 #  ------------------------------------
 
-import pathlib as Path
+import pathlib as pl
 
 
 f = 'some path'
@@ -27,9 +27,14 @@ def create_Lines(number_of_lines , text_in_line):
         content.append(line)
     return content
 
-def write_f_all(f):
-    ''' Writes the content to a file '''
-    pass
+def write_f_inSubDir(prevLastLine  , b_line , lineBlock):
+    ''' Writes the content to a file and saves it in a SubDir'''
+    fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_WithState.csv")
+    file = pl.Path.cwd().joinpath("TestSubDir" , fileName )
+    with open(file, 'w') as nf:
+        nf.write(lineBlock)
+
+
 
 def read_f_all(f): 
     ''' Reads and returns the content in a list '''
@@ -37,7 +42,11 @@ def read_f_all(f):
 
 def main():
     created_content = create_Lines( 5 , "this is a crazy line")
-    print(created_content)
+    content = ""
+    for line in created_content:
+        content = f'{content}\n{line}'
+    print(content)
+    write_f_inSubDir(1  , 5 , content)
 
 if __name__ == "__main__":
     main()
