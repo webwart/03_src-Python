@@ -178,3 +178,47 @@ I did create desktop icon to launch conda, VScodeand activate env. See SP above,
 
 -1- Sion
 Change git user.name to SioRai with git config --global user.name "SioRai".
+
+-2- GIT
+I learned that Git uses a series of configuration files to determine non-default behavior that you may want. For this GIT has 3 different configuration fiels.
+
+1. System level: /etc/gitconfig
+2. User level: ~/.gitconfig (or ~/.config/git/config) 
+3. Repository: .git/config
+
+Below you see the commands to see what your currently have set.
+
+Ref.: https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+
+``` text
+/// Git first looks at system configuration variables \\\
+
+(env_NuDjBs) C:\Users\Public\03_src\python>git config --system  -l
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+credential.helper=manager
+
+(env_NuDjBs) C:\Users\Public\03_src\python>git config --global -l
+user.name=SioRai
+user.email=rainer.warth@gmail.com
+
+(env_NuDjBs) C:\Users\Public\03_src\python>git config --local  -l
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origin.url=https://github.com/webwart/03_src-Python.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+```
