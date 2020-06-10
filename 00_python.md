@@ -135,9 +135,8 @@ Created a desktop icon , which launches a Powershell, activates env_NumAiDjBs, a
 
 >SP: Create Desktop Icon to lounch conda, VScode and acivate env
 
-
 ``` text
-W-START... 
+W-START...
 SELECT.... Anaconda powershell prompt
 R-KLICK... >Mehr > Dateispeicheort öffnen
 OPEN...... C:\Users\raine\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
@@ -148,8 +147,8 @@ R-KLICK... and select Eigenschaften
 REPLACE .. in Ziel:
 
 %windir%\System32\WindowsPowerShell\v1.0\powershell.exe 
--ExecutionPolicy ByPass 
--NoExit 
+-ExecutionPolicy ByPass
+-NoExit
 -Command "& 'C:\Users\raine\Anaconda3\shell\condabin\conda-hook.ps1' ;
           conda activate 'C:\Users\raine\Anaconda3' "
 
@@ -157,10 +156,10 @@ WITH ..... Makesure to adapt location of venv !!!
 
 %windir%\System32\WindowsPowerShell\v1.0\powershell.exe 
 -ExecutionPolicy ByPass 
--NoExit 
+-NoExit
 -Command "& 'C:\Users\raine\Anaconda3\shell\condabin\conda-hook.ps1' ;
  conda activate 'C:\Users\raine\Anaconda3\envs\env_numAiDjango' ; code . "
- 
+
 REPLACE.. in Ausführen:
 
 %HOMEPATH%
@@ -168,10 +167,14 @@ REPLACE.. in Ausführen:
 WITH......
 
 C:\Users\Public\03_src\python\
-``` 
+```
 
+### FRI  06-05-2020
 
+-1- Sion
+I did create desktop icon to launch conda, VScodeand activate env. See SP above, I just adjusted the env name.
 
- ### FRI  06-05-2020
- -1- Sion
- I did create desktop icon to launch conda, VScodeand activate env. See SP above, I just adjusted the env name.
+### FRI  10-06-2020
+
+-1- Sion
+Change git user.name to SioRai with git config --global user.name "SioRai".
