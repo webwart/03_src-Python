@@ -29,7 +29,7 @@ def create_Lines(number_of_lines , text_in_line):
 
 def write_f_inSubDir(prevLastLine  , b_line , lineBlock):
     ''' Writes the content to a file and saves it in a SubDir'''
-    fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_WithState.csv")
+    fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_WithState.txt")
     file = pl.Path.cwd().joinpath("TestSubDir" , fileName )
     with open(file, 'w') as nf:
         nf.write(lineBlock)
