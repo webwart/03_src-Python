@@ -222,3 +222,16 @@ remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
 ```
+
+### MON 15-06-2020
+-1- Excel¦SQL¦Python
+I found these two interesting references.
+[How to use Excel, SQL, Python] (https://www.youtube.com/watch?v=71zkSuzkJrw)
+
+[EXcel VLOOKUP and python pandas](https://www.youtube.com/watch?v=cRELNmDpaks)
+
+-2- Documentation
+ * Latex for printing books ; 
+ * Markdown for readme.txt ; 
+
+RST and asciidoctor(FX) and pandoc remain to be compared.
