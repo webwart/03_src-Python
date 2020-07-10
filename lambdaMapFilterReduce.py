@@ -23,3 +23,15 @@ x , y = 4 , 5
 mPlus = lambda x , y: x + y
 
 print(mPlus(x , y))
+
+# Use lambda functions when an anonymous function is required for a short period of time.
+# ref: https://www.w3schools.com/python/python_lambda.asp
+
+def myfunc(n):
+  return lambda a : a * n
+
+mydoubler = myfunc(2)
+mytripler = myfunc(3)
+
+print(mydoubler(11))
+print(mytripler(11))
