@@ -30,19 +30,23 @@ for i in range(1001):
 
 '''
 
-pathOnHos = "C:\\Users\\Public\\'1_data'\\TestData\\"
+pathOnHos = "C:\\Users\\Public\\1_data\\TestData\\"
 
 
 file = open("newfile.txt", "w")
 
-file.write("hello world in the new file\n")
+file.write("1 -hello world in the new file\n")
 
-file.write("and another line\n")
+file.write("2 -and another line\n")
 '''
 for i in range(1001):
     #print("line" + str(i))
     file.write("line")
 '''
+firstString = "I am the first string"
+firstString =   firstString +  " another string"
+
+file.write(firstString)
 
 file.close
 print("done")

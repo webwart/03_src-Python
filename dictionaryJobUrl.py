@@ -9,8 +9,10 @@
 #      Ref: https://docs.python.org/3.7/howto/regex.html
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
-#       >N: --
-#  ------------------------------------ 
+#       >N: Clean out the code. Develop way to compare to template dictionary. Remember dictionaries become records.
+#  --------------------- 
+
+
 
 import pathlib as pl
 import re
@@ -34,6 +36,7 @@ def parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key):
     record = {}
     lineControl = True
     last = 0
+    records =  " "
     for i , line in enumerate(list_Content): 
         n_line = n_line + 1
         record['linNum'] = n_line
@@ -42,6 +45,7 @@ def parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key):
         if re.match(regEx_seperator, line):
             if n_line - last == 2 :
                 print(f'--->Found a catorgory: {list_Content[i-1]}')
+                records = records + f'--->Found a catorgory: {list_Content[i-1]}'
             last = n_line
             print(f'#{n_line}#{line}')
             print(f'enum-{i+1}')
@@ -58,7 +62,7 @@ def parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key):
                 lineControl = False
             print("//// record /////")
             print(record)
-            
+    return records 
 
 
 def compareToRefDictio ( list_w_Dictios , lists_w_RefDictio):
@@ -68,12 +72,26 @@ def compareToRefDictio ( list_w_Dictios , lists_w_RefDictio):
         returns = list '''
     pass
 
-def write_file_CorrectedDictios(filename_CorDictio , list_w_corrected_dictios ):
+def write_file_CorrectedDictios(subDir , filename_CorDictio , list_w_corrected_dictios ):
     ''' param filename_CorDictio = list with corrected dictios
         param list_w_corrected_dictios = filenme to which the list content is writen.
         does = writes a fle 
-        return = String with info about writen content  '''
-    pass
+        return = String with info about writen content  
+
+        def  saveContentInNewFile(lineTuple, lineBlock):
+        breaklistTuple is the tuple from breakList, lineBlock is string with lines  '''
+    
+    # prevLastLine , b_line = lineTuple
+    
+    # print(str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
+    # fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
+    
+    file = pl.Path.cwd().joinpath(subDir , filename_CorDictio )
+    with open(file, 'w') as nf:
+        nf.write(list_w_corrected_dictios)
+
+
+    return f"I wrote the above content to {filename_CorDictio}"
 
 
 def main():
@@ -88,9 +106,11 @@ def main():
 
     list_Content = read_File_In_List(subDir , fn_JobLink)
     print("**Read list_Content****" * 20)
-    print(read_File_In_List(subDir , fn_RefDictio))
+    # print(read_File_In_List(subDir , fn_RefDictio))
     print("******" * 20)
-    parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key)
+    
+    list_w_corrected_dictios = parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key)
+    print(write_file_CorrectedDictios(subDir , fn_CorDictio , list_w_corrected_dictios) )
 
 #    list_w_Dictios = read_records_from_file(subDir , filename_JobLink)
 #    list_w_corrected_dictios = compareToRefDictio ( list_w_Dictios , filename_RefDictio)
