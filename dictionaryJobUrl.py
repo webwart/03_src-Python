@@ -48,20 +48,28 @@ def parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key):
                 records = records + f'--->Found a catorgory: {list_Content[i-1]}'
             last = n_line
             print(f'#{n_line}#{line}')
+            records = records + f'#{n_line}#{line}'
             print(f'enum-{i+1}')
+            records = records + f'enum-{i+1}'
             lineControl = True
         elif re.match(regEx_key , line) and lineControl :
             print(f'#{n_line}>>KEY>> {line}')
+            records = records + f'#{n_line}>>KEY>> {line}'
             print(f'enum-{i+1}')
+            records = records + f'enum-{i+1}'
             record[re.match(regEx_key , line).group()] = line
         else:
             print(f'{n_line}# # # #')
+            records = records + f'{n_line}# # # #'
             print(f'enum-{i+1}')
+            records = records + f'enum-{i+1}'
             empty_line = empty_line + 1
             if empty_line == 2:
                 lineControl = False
             print("//// record /////")
+            records = records + "//// record /////"
             print(record)
+            records = records + "---Record-Dirctionary-HERE---"
     return records 
 
 
@@ -85,8 +93,8 @@ def write_file_CorrectedDictios(subDir , filename_CorDictio , list_w_corrected_d
     
     # print(str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
     # fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
-    
-    file = pl.Path.cwd().joinpath(subDir , filename_CorDictio )
+    fn = f'{1}_{filename_CorDictio}'
+    file = pl.Path.cwd().joinpath(subDir , fn )
     with open(file, 'w') as nf:
         nf.write(list_w_corrected_dictios)
 
