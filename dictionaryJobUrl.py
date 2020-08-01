@@ -9,13 +9,14 @@
 #      Ref: https://docs.python.org/3.7/howto/regex.html
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
-#       >N: Clean out the code. Develop way to compare to template dictionary. Remember dictionaries become records.
+#       >N: Develop way to compare to template dictionary. Start with number of entries in documentary. Remember dictionaries become records.
 #  --------------------- 
 
 
 
 import pathlib as pl
 import re
+from datetime import datetime
 
 
 
@@ -93,7 +94,7 @@ def write_file_CorrectedDictios(subDir , filename_CorDictio , list_w_corrected_d
     
     # print(str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
     # fileName  = (str(prevLastLine).zfill(4) + "-" + str(b_line).zfill(4) + "_BusinessRegister-Email.csv")
-    fn = f'{1}_{filename_CorDictio}'
+    fn = filename_CorDictio
     file = pl.Path.cwd().joinpath(subDir , fn )
     with open(file, 'w') as nf:
         nf.write(list_w_corrected_dictios)
@@ -101,14 +102,26 @@ def write_file_CorrectedDictios(subDir , filename_CorDictio , list_w_corrected_d
 
     return f"I wrote the above content to {filename_CorDictio}"
 
+def fn_timestemp( part_1 , extension):
+    ''' return: string , to be used as filename
+        import: from datetime import datetime
+        part_1:  <yymmdd>_<part_1>_<source>.<ext>
+        extension:  extension of the filename. e.g.  .rst , .txt , .md
+        The function creates a timestemp string.
+    '''
+    now = datetime.now()
+    fn_timestemp = now.strftime("%y%m%d-%H%M")
+    fn_center = part_1
+    fn_ext = extension
+    return (f'{fn_timestemp}_{fn_center}.{fn_ext}')
 
 def main():
 
     subDir = "TestSubDir"
     fn_JobLink = "joblink.rst"
     fn_RefDictio = "RefDictioJoblin.rst"
-    fn_CorDictio = "200611_Joblink-NEW.rst"
-
+    # fn_CorDictio = "200611_Joblink-NEW.rst"
+    fn_CorDictio = fn_timestemp( "RecordFromDirctio" , ".rst")
     regEx_seperator = "-----------+"
     regEx_key = ":.+:"
 

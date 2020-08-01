@@ -241,8 +241,16 @@ I found these two interesting references.
 
 RST and asciidoctor(FX) and pandoc remain to be compared.
 
-### MON 31-07-2020
+### FRI 31-07-2020
 
 -1- I want to use the datetime module to add timestamps to file content und filenames. In dateAge.py I have now a good example of how to get year, hour, day from a datetime object.
 
->N: Create function which makes filenames with timestemps. use in dictionaryJobUrl
+>N-OKAY: Create function which makes filenames with timestemps. use in dictionaryJobUrl -OKAY-
+
+### SAT01-07-2020
+
+-1- I finished the function fn_timestemp in dateAge.py, which I renamed to datime.py.
+
+-2- Tested the function dictionaryJobUrl.py. This programm basically helps me to read a .rst file and test all records for consistency.
+>N: test for number of filds, then test for order of fields. Create a set to find all variations.
+
