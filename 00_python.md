@@ -240,3 +240,9 @@ I found these two interesting references.
 - Markdown for readme.txt
 
 RST and asciidoctor(FX) and pandoc remain to be compared.
+
+### MON 31-07-2020
+
+-1- I want to use the datetime module to add timestamps to file content und filenames. In dateAge.py I have now a good example of how to get year, hour, day from a datetime object.
+
+>N: Create function which makes filenames with timestemps. use in dictionaryJobUrl
