@@ -24,9 +24,19 @@ age = today - birthday
 print(age.days / 365)
 print("----- " * 3)
 now = datetime.now()
-current_time = time(now.hour, now.minute, now.second)
-print(f'Current time: {current_time} !')
+# current_datetime = time(now.year, now.month, now.day , now.hour, now.minute)
+print(f'Current time: {now} !')
 print("----- " * 3)
 print(now.year)
+print(now.hour)
 
+print("----- " * 3)
 
+def fn_timestemp( part_1 , extension):
+    fn_timestemp = now.strftime("%y%m%d-%H%M")
+    fn_center = part_1
+    fn_ext = extension
+    return (f'{fn_timestemp}_{fn_center}.{fn_ext}')
+
+fn = fn_timestemp( "RecordsFromDictio" , "rst")
+print(fn)
