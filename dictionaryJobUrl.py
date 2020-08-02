@@ -65,10 +65,11 @@ def parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key):
             record[re.match(regEx_key , line).group()] = line
 
         else:
-            print(f'{n_line}# # # #')
+            ''' print(f'{n_line}# # # #')
             records = records + f'{n_line}# # # #'
             print(f'enum-{i+1}')
             records = records + f'enum-{i+1}'
+            '''
             empty_line = empty_line + 1
             if empty_line == 2:
                 lineControl = False
