@@ -269,4 +269,6 @@ RST and asciidoctor(FX) and pandoc remain to be compared.
 
 -1 I can obtain nice .json files with a list of dictionaries. See: dictionaryJobUrl.py
 
+### THU 06-08-2020
 
+I found a reference explaining the use of .json file with a list of objects, which are transfered into an sql database. sql.py. I implemented the code an it runs fine. I used SQLlite admin to look into the database myDB.sqlite
