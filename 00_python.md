@@ -247,20 +247,26 @@ RST and asciidoctor(FX) and pandoc remain to be compared.
 
 >N-OKAY: Create function which makes filenames with timestemps. use in dictionaryJobUrl -OKAY-
 
-### SAT01-08-2020
+### SA 01-08-2020
 
 -1- I finished the function fn_timestemp in dateAge.py, which I renamed to datime.py.
 
 -2- Tested the function dictionaryJobUrl.py. This programm basically helps me to read a .rst file and test all records for consistency.
 >N: test for number of filds, then test for order of fields. Create a set to find all variations.
 
-### SAT 02-08-2020
+### SUN 02-08-2020
 
 -1- Corrected n-200607_JobLinks.rst
 
 -2- Found a nice way to compare see the parsing results in notepad+ using the RIGHT KLICk > "in zweite Ansicht verschieben"
 
 -2- In dictionaryJobUrl.py I have managed to have a list with dictionaries. Each dictionary represents a record.
->N: Print the list nicely in to .json file
+>N-OKAY: Print the list nicely in to .json file -OKAY- 
 
 [linkToJson](https://moonbooks.org/Articles/How-to-save-a-dictionary-in-a-json-file-with-python-/)
+
+### SUN 03-08-2020
+
+-1 I can obtain nice .json files with a list of dictionaries. See: dictionaryJobUrl.py
+
+

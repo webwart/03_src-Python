@@ -16,6 +16,7 @@
 
 import pathlib as pl
 import re
+import json
 from datetime import datetime , date
 
 
@@ -149,6 +150,9 @@ def main():
     print(write_file_CorrectedDictios(subDir , fn_CorDictio , records_write_file) )
 
     print(list_w_corrected_dictios)
+
+    with open("02_dumpListCorrectedDictios.json", "w") as write_file:
+        json.dump(list_w_corrected_dictios, write_file, indent=4)
 
 
 #    list_w_Dictios = read_records_from_file(subDir , filename_JobLink)
