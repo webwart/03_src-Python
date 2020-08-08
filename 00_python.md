@@ -279,4 +279,4 @@ I found a reference explaining the use of .json file with a list of objects, whi
 
 Unfortuanally, after all this I could only conect to the SQLite database file, but not see the table in it !
 
--2- 
+-2- dictionaryCompare.py - In this file I will test how to compare dictionaries.

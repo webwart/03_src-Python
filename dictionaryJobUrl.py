@@ -9,7 +9,7 @@
 #      Ref: https://docs.python.org/3.7/howto/regex.html
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
-#       >N: Printe the list with dictionaries nicely <list_w_corrected_dictios>. Develop way to compare to template dictionary. Start with number of entries in documentary. Remember dictionaries become records.
+#       >N: Develop way to compare to template dictionary. Try this code first in dictionaryCompare.py
 #  --------------------- 
 
 
@@ -138,7 +138,7 @@ def main():
     fn_CorDictio = fn_timestemp( "RecordFromDirctio" , ".rst")
     regEx_seperator = "-------+"
     regEx_RecStart = "-------------------------------------------------------------------------------"
-    regEx_key = ":.+:"
+    regEx_key = ":.*?:"
     regEx_RecEnd = ":end:"
 
     list_Content = read_File_In_List(subDir , fn_JobLink)
