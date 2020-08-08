@@ -272,3 +272,11 @@ RST and asciidoctor(FX) and pandoc remain to be compared.
 ### THU 06-08-2020
 
 I found a reference explaining the use of .json file with a list of objects, which are transfered into an sql database. sql.py. I implemented the code an it runs fine. I used SQLlite admin to look into the database myDB.sqlite
+
+### SAT 08-08-2020
+
+-1- VScode - Installed the SQL Tools, which requires the node.js driver for databases connection. Therefore, I also installed node.js and selected which alles the complilation of C++ files. This resulted in almost 3 GB of software instaleld includine/updateing python and VisualSudio C binaries.
+
+Unfortuanally, after all this I could only conect to the SQLite database file, but not see the table in it !
+
+-2- 
