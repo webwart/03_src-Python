@@ -14,7 +14,10 @@
 
 ref_dir = {"name" : "ref_name" , "age" : "ref_age"} 
 old_dir = {"name" : "old_name" , "age" : "old_age"}
-new_dir = 
+old_dir_list = [ {"name" : "old_name_1" , "age" : "old_age_1"} , {"name" : "old_name_2" , "age" : "old_age_2"} , {"name" : "old_name_3" , "age" : "old_age_3"}]
+new_dir_list = []
+
+new_dir = ref_dir.update(old_dir)
 
 fn_rstFile = r"./TestSubDir/RefDictioJoblink.rst"
 
@@ -29,4 +32,6 @@ def make_new_dir (dictio_Obj):
     else: 
         print(old_dictio[name])    '''
     return new_dir 
-    
+
+print(old_dir_list)
+

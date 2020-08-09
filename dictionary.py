@@ -6,6 +6,7 @@
 #  Version: 28-02-2020
 #    Goals: Learn dictionary
 #      Ref: http://learnpythonthehardway.org/book/ex39.html
+#      Ref: https://realpython.com/python-dicts/#built-in-dictionary-methods
 #      Ref: Frank from Udemy
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
@@ -114,3 +115,13 @@ for ship , captain in captains.items():
 knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 for k, v in knights.items():
     print(k, v)
+
+
+# update a dictionary with a newer dictionary
+
+d1 = {'a': 10, 'b': 20, 'c': 30}
+d2 = {'b': 200, 'd': 400}
+
+d1.update(d2)
+print(d1)
+# yields {'a': 10, 'b': 200, 'c': 30, 'd': 400}
