@@ -25,13 +25,24 @@ def load_dictio_from_rstFile (file_Obj):
     ''' Return: Dictionary all other dictionaries are compared to '''
     return ref_dictio
 
-def make_new_dir (dictio_Obj):
+def make_new_dir (ref_dir_Obj , old_dir_list):
     ''' compare old_dictio to ref_dir and create new_dir
-    if old_dictio and ref_dir have same keys:
-        make new_dir
-    else: 
-        print(old_dictio[name])    '''
-    return new_dir 
+    for dir in old_dir_list:
+        ref_dir.update(dir)
+        new_dir_list.append(ref_dir)
+        ref_dir.clear()
+    
+    return new_dir_list 
+   '''
 
-print(old_dir_list)
 
+ref_dir_cp = dict(ref_dir.items())
+print(type(ref_dir))
+print(type(ref_dir_cp))
+
+# Comparing Object
+# https://realpython.com/python-is-identity-vs-equality/
+# == compares the attributes of the object
+# 'is'  checks whether two variables point to the same object in memory
+print(ref_dir == ref_dir_cp)
+print(ref_dir is ref_dir_cp)
