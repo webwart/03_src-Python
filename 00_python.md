@@ -280,3 +280,10 @@ I found a reference explaining the use of .json file with a list of objects, whi
 Unfortuanally, after all this I could only conect to the SQLite database file, but not see the table in it !
 
 -2- dictionaryCompare.py - In this file I will test how to compare dictionaries.
+
+### SAT 19-08-2020
+
+-1- SQL Tools - I still have the problem not seeing the tables in SQL View
+
+>N: Create tables with SQLadmin and SQLtools. Try different data base endings .sql , .db 
+
