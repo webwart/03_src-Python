@@ -20,6 +20,19 @@ This is the top-directory of my python code learning area. The first 4 month of 
 .> git config --global user.email "rainer.warth@hotmail.ch"
 When I push to gitlab I need to give credentials: r.w@hot.ch 56-Gi
 
+- SQL databases
+
+To work with data in the SQL databases I need SQL clients: 
+
+SQLite database is ideal for local development. To see the data I use SQLiteDatabaseBrowserPortable
+
+MySQL is use with Wordpress. To see the data I use SQLuirrel
+
+MS SQL Server is use for .NET core development. To see the data I use MS SQL studio.
+
+In VScode I can try to use SQLtools.
+
+
 ## Getting started
 
 - make sure all files are updated. FSY to github.
@@ -275,7 +288,7 @@ I found a reference explaining the use of .json file with a list of objects, whi
 
 ### SAT 08-08-2020
 
--1- VScode - Installed the SQL Tools, which requires the node.js driver for databases connection. Therefore, I also installed node.js and selected which alles the complilation of C++ files. This resulted in almost 3 GB of software instaleld includine/updateing python and VisualSudio C binaries.
+-1- Naples-Lab\VScode - Installed the SQL Tools, which requires the node.js driver for databases connection. Therefore, I also installed node.js and selected which alles the complilation of C++ files. This resulted in almost 3 GB of software instaleld includine/updateing python and VisualSudio C binaries.
 
 Unfortuanally, after all this I could only conect to the SQLite database file, but not see the table in it !
 
@@ -285,5 +298,12 @@ Unfortuanally, after all this I could only conect to the SQLite database file, b
 
 -1- SQL Tools - I still have the problem not seeing the tables in SQL View
 
->N: Create tables with SQLadmin and SQLtools. Try different data base endings .sql , .db 
+### SAT 25-08-2020
 
+-1- SQL Tools in VScode
+
+On Naples-Lab and Sion-Desk I have now installed node.js and I used npm to instal sqlite3. This installes sqlite3@5.0.0 install C:\Users\raine\node_modules\sqlite3 . However, SQL tools asks for SQLite driver (sqlite@v4.0.6) . Might this be the probelem ?
+
+-2- SQLiteDatabaseBrowser ¦ SQuirreL SQL
+
+Sion-Desk - I will install both software. Both might also be availabe as protable version.
