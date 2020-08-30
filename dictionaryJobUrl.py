@@ -28,7 +28,7 @@ def read_File_In_List(subDir , fileName):
     filePath = pl.Path.cwd().joinpath(subDir , fileName )
     with open(filePath) as f:
         return list(f)
-    pass
+
 
 def parse_Dictio_From_ContentList( list_Content , regEx_seperator , regEx_key, regEx_RecEnd):
     ''' list_Content = is a list of lines from a file 
