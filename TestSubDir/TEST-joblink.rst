@@ -51,8 +51,6 @@ https://www.jobeo.ch/ -> Like Job-UP
 Template for job link record
 ------------------------------
 
--------------------------------------------------------------------------------
-
 :Name:		... (Name of entity)
 :Catagory:	... (Job board, Company, Head hunter, Institutions) 
 :Update:	... (Date of either last search, change of record as shonw in journal field)
@@ -72,8 +70,6 @@ Template for job link record
 -----------------------------
 Job boards
 -----------------------------
-
--------------------------------------------------------------------------------
 
 :Name:		NZZ - Job
 :Catagory:  Job board
@@ -137,8 +133,6 @@ Job boards
 -----------------------------
 Organisations
 -----------------------------
-
--------------------------------------------------------------------------------
 
 :Name:		--
 :Update:	--
