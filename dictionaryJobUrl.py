@@ -12,14 +12,10 @@
 #       >N: Develop way to compare to template dictionary. Try this code first in dictionaryCompare.py
 #  --------------------- 
 
-
-
 import pathlib as pl
 import re
 import json
 from datetime import datetime , date
-
-
 
 def read_File_In_List(subDir , fileName):
     ''' subDir = name of subDir
