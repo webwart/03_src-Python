@@ -10,7 +10,7 @@
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: 
 #       >N: Develop way to compare to template dictionary. Load a dictionary from a reference file or .rst file.
-#  --------------------- 
+#  ---------------------  
 
 ref_dir = {"name" : "ref_name" , "age" : "ref_age"} 
 old_dir = {"name" : "old_name" , "age" : "old_age"}

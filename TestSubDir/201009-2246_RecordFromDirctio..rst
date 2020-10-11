@@ -101,280 +101,268 @@
 50--X Template for job link record
 -->NO MATCH
 51--X ------------------------------
--->Found Catorgory: Template for job link record
+-->Found Record start:
 52--X 
 -->NO MATCH
-53--X -------------------------------------------------------------------------------
--->Found Record start:
-54--X 
--->NO MATCH
-55--X :Name:		... (Name of entity)
+53--X :Name:		... (Name of entity)
 -->KEY: :Name: VALUE: :Name:		... (Name of entity)
-56--X :Catagory:	... (Job board, Company, Head hunter, Institutions) 
+54--X :Catagory:	... (Job board, Company, Head hunter, Institutions) 
 -->KEY: :Catagory: VALUE: :Catagory:	... (Job board, Company, Head hunter, Institutions) 
-57--X :Update:	... (Date of either last search, change of record as shonw in journal field)
+55--X :Update:	... (Date of either last search, change of record as shonw in journal field)
 -->KEY: :Update: VALUE: :Update:	... (Date of either last search, change of record as shonw in journal field)
-58--X :Send:		... (Date and name of last application send, use folder name collections.rst)
+56--X :Send:		... (Date and name of last application send, use folder name collections.rst)
 -->KEY: :Send: VALUE: :Send:		... (Date and name of last application send, use folder name collections.rst)
-59--X :RSS:		... (RSS client and URL, e.g RSSowl from  ?)
+57--X :RSS:		... (RSS client and URL, e.g RSSowl from  ?)
 -->KEY: :RSS: VALUE: :RSS:		... (RSS client and URL, e.g RSSowl from  ?)
-60--X :Alert:		... (e-mail to which alert is send and criteria, e.g.: r.w@blue ;; criteria_1 ; criteria_2 )
+58--X :Alert:		... (e-mail to which alert is send and criteria, e.g.: r.w@blue ;; criteria_1 ; criteria_2 )
 -->KEY: :Alert: VALUE: :Alert:		... (e-mail to which alert is send and criteria, e.g.: r.w@blue ;; criteria_1 ; criteria_2 )
-61--X :MyFile:	... (profile, CV-EN, CV-EE, letter, work, diploma)
+59--X :MyFile:	... (profile, CV-EN, CV-EE, letter, work, diploma)
 -->KEY: :MyFile: VALUE: :MyFile:	... (profile, CV-EN, CV-EE, letter, work, diploma)
-62--X :Search-M:	... (URL for manual query)
+60--X :Search-M:	... (URL for manual query)
 -->KEY: :Search-M: VALUE: :Search-M:	... (URL for manual query)
-63--X :Search-A:	... (URL for automatic query, use <> for variables)
+61--X :Search-A:	... (URL for automatic query, use <> for variables)
 -->KEY: :Search-A: VALUE: :Search-A:	... (URL for automatic query, use <> for variables)
-64--X :Apply-URL:	... (URL for submissiion of application files)
+62--X :Apply-URL:	... (URL for submissiion of application files)
 -->KEY: :Apply-URL: VALUE: :Apply-URL:	... (URL for submissiion of application files)
-65--X :Apply-Usr: ... (usr and pwd and e-mail)
+63--X :Apply-Usr: ... (usr and pwd and e-mail)
 -->KEY: :Apply-Usr: VALUE: :Apply-Usr: ... (usr and pwd and e-mail)
-66--X :Terms-Q:	... (Terms for query according to language, see also section Query Terms)
+64--X :Terms-Q:	... (Terms for query according to language, see also section Query Terms)
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	... (Terms for query according to language, see also section Query Terms)
-67--X :Queries:	... (URL with specific query terms based on Search-A and Terms-Q)
+65--X :Queries:	... (URL with specific query terms based on Search-A and Terms-Q)
 -->KEY: :Queries: VALUE: :Queries:	... (URL with specific query terms based on Search-A and Terms-Q)
-68--X :Journal:   ... (e.g.: 200209 This happened today ; 200609 Job title I applied to. )
+66--X :Journal:   ... (e.g.: 200209 This happened today ; 200609 Job title I applied to. )
 -->KEY: :Journal: VALUE: :Journal:   ... (e.g.: 200209 This happened today ; 200609 Job title I applied to. )
-69--X :end:       ...
+67--X :end:       ...
 -->Found: Record end:
-70--X 
+68--X 
+-->NO MATCH
+69--X -----------------------------
+-->Found Catorgory: 
+70--X Job boards
 -->NO MATCH
 71--X -----------------------------
--->Found Catorgory: 
-72--X Job boards
--->NO MATCH
-73--X -----------------------------
--->Found Catorgory: Job boards
-74--X 
--->NO MATCH
-75--X -------------------------------------------------------------------------------
 -->Found Record start:
-76--X 
+72--X 
 -->NO MATCH
-77--X :Name:		NZZ - Job
+73--X :Name:		NZZ - Job
 -->KEY: :Name: VALUE: :Name:		NZZ - Job
-78--X :Catagory:  Job board
+74--X :Catagory:  Job board
 -->KEY: :Catagory: VALUE: :Catagory:  Job board
-79--X :Update:	200609 , life science
+75--X :Update:	200609 , life science
 -->KEY: :Update: VALUE: :Update:	200609 , life science
-80--X :Send:		..
+76--X :Send:		..
 -->KEY: :Send: VALUE: :Send:		..
-81--X :RSS:		..
+77--X :RSS:		..
 -->KEY: :RSS: VALUE: :RSS:		..
-82--X :Alert:		job@atria.uberspace.de
+78--X :Alert:		job@atria.uberspace.de
 -->KEY: :Alert: VALUE: :Alert:		job@atria.uberspace.de
-83--X :MyFile:	..
+79--X :MyFile:	..
 -->KEY: :MyFile: VALUE: :MyFile:	..
-84--X :Search-M:	http://jobs.nzz.ch/
+80--X :Search-M:	http://jobs.nzz.ch/
 -->KEY: :Search-M: VALUE: :Search-M:	http://jobs.nzz.ch/
-85--X :Search-A:	https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=<:::SearchTerm:::::>&min_percent=10&max_percent=100&place=
+81--X :Search-A:	https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=<:::SearchTerm:::::>&min_percent=10&max_percent=100&place=
 -->KEY: :Search-A: VALUE: :Search-A:	https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=<:::SearchTerm:::::>&min_percent=10&max_percent=100&place=
-86--X :Apply:		--
+82--X :Apply:		--
 -->KEY: :Apply: VALUE: :Apply:		--
-87--X 
+83--X 
 -->NO MATCH
-88--X :Terms-Q:	--
+84--X :Terms-Q:	--
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	--
-89--X :Queries:	https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=Naturwissenschaftler&min_percent=10&max_percent=100&place=; 
+85--X :Queries:	https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=Naturwissenschaftler&min_percent=10&max_percent=100&place=; 
 -->KEY: :Queries: VALUE: :Queries:	https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=Naturwissenschaftler&min_percent=10&max_percent=100&place=; 
-90--X 			http://jobs.nzz.ch/search?nzzexe_search=Biologie ;
+86--X 			http://jobs.nzz.ch/search?nzzexe_search=Biologie ;
 -->NO MATCH
-91--X 			http://jobs.nzz.ch/search?nzzexe_search=Biology ;
+87--X 			http://jobs.nzz.ch/search?nzzexe_search=Biology ;
 -->NO MATCH
-92--X 			http://jobs.nzz.ch/search?nzzexe_search=MBA ;
+88--X 			http://jobs.nzz.ch/search?nzzexe_search=MBA ;
 -->NO MATCH
-93--X 			http://jobs.nzz.ch/search?nzzexe_search=Ph.D. ; 
+89--X 			http://jobs.nzz.ch/search?nzzexe_search=Ph.D. ; 
 -->NO MATCH
-94--X 			http://jobs.nzz.ch/search?nzzexe_search=Science ;
+90--X 			http://jobs.nzz.ch/search?nzzexe_search=Science ;
 -->NO MATCH
-95--X 			http://jobs.nzz.ch/search?nzzexe_search=Geschaftsfuhrer ;
+91--X 			http://jobs.nzz.ch/search?nzzexe_search=Geschaftsfuhrer ;
 -->NO MATCH
-96--X 			http://jobs.nzz.ch/search?nzzexe_search=Director ;
+92--X 			http://jobs.nzz.ch/search?nzzexe_search=Director ;
 -->NO MATCH
-97--X 			http://jobs.nzz.ch/search?nzzexe_search=Professor ;
+93--X 			http://jobs.nzz.ch/search?nzzexe_search=Professor ;
 -->NO MATCH
-98--X 			http://jobs.nzz.ch/search?nzzexe_search=Dozent ;
+94--X 			http://jobs.nzz.ch/search?nzzexe_search=Dozent ;
 -->NO MATCH
-99--X 			http://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=venture&place=&min_percent=10&max_percent=100
+95--X 			http://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=venture&place=&min_percent=10&max_percent=100
 -->NO MATCH
-100--X 			https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=Dozent&min_percent=10&max_percent=100&place=
+96--X 			https://jobs.nzz.ch/search?pt=&place_code=&radius=&lat=&lng=&search=Dozent&min_percent=10&max_percent=100&place=
 -->NO MATCH
-101--X :end:		...
+97--X :end:		...
 -->Found: Record end:
-102--X 
+98--X 
 -->NO MATCH
-103--X -------------------------------------------------------------------------------
+99--X -------------------------------------------------------------------------------
 -->Found Record start:
-104--X 
+100--X 
 -->NO MATCH
-105--X :Name:		TopJob
+101--X :Name:		TopJob
 -->KEY: :Name: VALUE: :Name:		TopJob
-106--X :Update:	180319
+102--X :Update:	180319
 -->KEY: :Update: VALUE: :Update:	180319
-107--X :RSS:		--(URL and RSSowl ?)
+103--X :RSS:		--(URL and RSSowl ?)
 -->KEY: :RSS: VALUE: :RSS:		--(URL and RSSowl ?)
-108--X :Alert:		--(e-mail to which alert is send)
+104--X :Alert:		--(e-mail to which alert is send)
 -->KEY: :Alert: VALUE: :Alert:		--(e-mail to which alert is send)
-109--X :MyFile:	--(profile, CV-EN, CV-EE, letter, work, diploma)
+105--X :MyFile:	--(profile, CV-EN, CV-EE, letter, work, diploma)
 -->KEY: :MyFile: VALUE: :MyFile:	--(profile, CV-EN, CV-EE, letter, work, diploma)
-110--X :Search-M:	https://topjobs.ch
+106--X :Search-M:	https://topjobs.ch
 -->KEY: :Search-M: VALUE: :Search-M:	https://topjobs.ch
-111--X :Apply:		--(URL for submissiion of application files)
+107--X :Apply:		--(URL for submissiion of application files)
 -->KEY: :Apply: VALUE: :Apply:		--(URL for submissiion of application files)
-112--X :Log-in:	--(usr and pwd and e-mail)
+108--X :Log-in:	--(usr and pwd and e-mail)
 -->KEY: :Log-in: VALUE: :Log-in:	--(usr and pwd and e-mail)
-113--X :Search-A:	--(URL for automatic query)
+109--X :Search-A:	--(URL for automatic query)
 -->KEY: :Search-A: VALUE: :Search-A:	--(URL for automatic query)
-114--X :Terms-Q:	--(Terms for query, see also section Query Terms)
+110--X :Terms-Q:	--(Terms for query, see also section Query Terms)
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	--(Terms for query, see also section Query Terms)
-115--X :Queries:	-- (URL with specific query)
+111--X :Queries:	-- (URL with specific query)
 -->KEY: :Queries: VALUE: :Queries:	-- (URL with specific query)
-116--X :end:		...
+112--X :end:		...
 -->Found: Record end:
-117--X 	
+113--X 	
 -->NO MATCH
-118--X -------------------------------------------------------------------------------
+114--X -------------------------------------------------------------------------------
 -->Found Record start:
-119--X 
+115--X 
 -->NO MATCH
-120--X :Name:		HR-platform from Futura 21
+116--X :Name:		HR-platform from Futura 21
 -->KEY: :Name: VALUE: :Name:		HR-platform from Futura 21
-121--X :Update:	171116 
+117--X :Update:	171116 
 -->KEY: :Update: VALUE: :Update:	171116 
-122--X :RSS:		--
+118--X :RSS:		--
 -->KEY: :RSS: VALUE: :RSS:		--
-123--X :Alert:		--
+119--X :Alert:		--
 -->KEY: :Alert: VALUE: :Alert:		--
-124--X :MyFile:	--
+120--X :MyFile:	--
 -->KEY: :MyFile: VALUE: :MyFile:	--
-125--X :Search-M:	--
+121--X :Search-M:	--
 -->KEY: :Search-M: VALUE: :Search-M:	--
-126--X :Apply:		--
+122--X :Apply:		--
 -->KEY: :Apply: VALUE: :Apply:		--
-127--X :Log-in:	job@webwart.atria.uberspace.de <> Nervi56-Job
+123--X :Log-in:	job@webwart.atria.uberspace.de <> Nervi56-Job
 -->KEY: :Log-in: VALUE: :Log-in:	job@webwart.atria.uberspace.de <> Nervi56-Job
-128--X :RSS:		--
+124--X :RSS:		--
 -->KEY: :RSS: VALUE: :RSS:		--
-129--X :Alert:		--
+125--X :Alert:		--
 -->KEY: :Alert: VALUE: :Alert:		--
-130--X :MyFile:	Yes ?
+126--X :MyFile:	Yes ?
 -->KEY: :MyFile: VALUE: :MyFile:	Yes ?
-131--X :Search-A:	--
+127--X :Search-A:	--
 -->KEY: :Search-A: VALUE: :Search-A:	--
-132--X :Terms-Q:	--
+128--X :Terms-Q:	--
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	--
-133--X :Queries:	--
+129--X :Queries:	--
 -->KEY: :Queries: VALUE: :Queries:	--
-134--X :end:		...
+130--X :end:		...
 -->Found: Record end:
+131--X 
+-->NO MATCH
+132--X -----------------------------
+-->Found Catorgory: 
+133--X Organisations
+-->NO MATCH
+134--X -----------------------------
+-->Found Record start:
 135--X 
 -->NO MATCH
-136--X -----------------------------
--->Found Catorgory: 
-137--X Organisations
--->NO MATCH
-138--X -----------------------------
--->Found Catorgory: Organisations
-139--X 
--->NO MATCH
-140--X -------------------------------------------------------------------------------
--->Found Record start:
-141--X 
--->NO MATCH
-142--X :Name:		--
+136--X :Name:		--
 -->KEY: :Name: VALUE: :Name:		--
-143--X :Update:	--
+137--X :Update:	--
 -->KEY: :Update: VALUE: :Update:	--
+138--X :RSS:		--
+-->KEY: :RSS: VALUE: :RSS:		--
+139--X :Alert:		--
+-->KEY: :Alert: VALUE: :Alert:		--
+140--X :MyFile:	--
+-->KEY: :MyFile: VALUE: :MyFile:	--
+141--X :Search-M: 	http://www.embl.de/jobs/	
+-->KEY: :Search-M: VALUE: :Search-M: 	http://www.embl.de/jobs/	
+142--X :Apply: 	https://ig14.i-grasp.com/fe/tpl_embl01.asp?newlang=1&newms=up
+-->KEY: :Apply: VALUE: :Apply: 	https://ig14.i-grasp.com/fe/tpl_embl01.asp?newlang=1&newms=up
+143--X :Log-in:	..gmail <> Ner 56 Job
+-->KEY: :Log-in: VALUE: :Log-in:	..gmail <> Ner 56 Job
 144--X :RSS:		--
 -->KEY: :RSS: VALUE: :RSS:		--
 145--X :Alert:		--
 -->KEY: :Alert: VALUE: :Alert:		--
 146--X :MyFile:	--
 -->KEY: :MyFile: VALUE: :MyFile:	--
-147--X :Search-M: 	http://www.embl.de/jobs/	
--->KEY: :Search-M: VALUE: :Search-M: 	http://www.embl.de/jobs/	
-148--X :Apply: 	https://ig14.i-grasp.com/fe/tpl_embl01.asp?newlang=1&newms=up
--->KEY: :Apply: VALUE: :Apply: 	https://ig14.i-grasp.com/fe/tpl_embl01.asp?newlang=1&newms=up
-149--X :Log-in:	..gmail <> Ner 56 Job
--->KEY: :Log-in: VALUE: :Log-in:	..gmail <> Ner 56 Job
-150--X :RSS:		--
--->KEY: :RSS: VALUE: :RSS:		--
-151--X :Alert:		--
--->KEY: :Alert: VALUE: :Alert:		--
-152--X :MyFile:	--
--->KEY: :MyFile: VALUE: :MyFile:	--
-153--X :Search-A:	--
+147--X :Search-A:	--
 -->KEY: :Search-A: VALUE: :Search-A:	--
-154--X :Terms-Q:	--
+148--X :Terms-Q:	--
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	--
-155--X :Queries:	--
+149--X :Queries:	--
 -->KEY: :Queries: VALUE: :Queries:	--
-156--X :end:		...
+150--X :end:		...
 -->Found: Record end:
-157--X 
+151--X 
 -->NO MATCH
-158--X -------------------------------------------------------------------------------
+152--X -------------------------------------------------------------------------------
 -->Found Record start:
-159--X 
+153--X 
 -->NO MATCH
-160--X :Name:		Vifor
+154--X :Name:		Vifor
 -->KEY: :Name: VALUE: :Name:		Vifor
-161--X :Update:	200323 Market Access Director Orphan , 180530 Band Manager
+155--X :Update:	200323 Market Access Director Orphan , 180530 Band Manager
 -->KEY: :Update: VALUE: :Update:	200323 Market Access Director Orphan , 180530 Band Manager
+156--X :RSS:		--
+-->KEY: :RSS: VALUE: :RSS:		--
+157--X :Alert:		--
+-->KEY: :Alert: VALUE: :Alert:		--
+158--X :MyFile:	CV,Diploma
+-->KEY: :MyFile: VALUE: :MyFile:	CV,Diploma
+159--X :Search-M: 	https://vifor.avature.net/externalcareersDE
+-->KEY: :Search-M: VALUE: :Search-M: 	https://vifor.avature.net/externalcareersDE
+160--X :Apply: 	http://www.viforpharma.com/de/careers/career-opportunities.php?action=login
+-->KEY: :Apply: VALUE: :Apply: 	http://www.viforpharma.com/de/careers/career-opportunities.php?action=login
+161--X :Log-in:	r.w@gmail.com <> Sori83-Job
+-->KEY: :Log-in: VALUE: :Log-in:	r.w@gmail.com <> Sori83-Job
 162--X :RSS:		--
 -->KEY: :RSS: VALUE: :RSS:		--
-163--X :Alert:		--
--->KEY: :Alert: VALUE: :Alert:		--
-164--X :MyFile:	CV,Diploma
--->KEY: :MyFile: VALUE: :MyFile:	CV,Diploma
-165--X :Search-M: 	https://vifor.avature.net/externalcareersDE
--->KEY: :Search-M: VALUE: :Search-M: 	https://vifor.avature.net/externalcareersDE
-166--X :Apply: 	http://www.viforpharma.com/de/careers/career-opportunities.php?action=login
--->KEY: :Apply: VALUE: :Apply: 	http://www.viforpharma.com/de/careers/career-opportunities.php?action=login
-167--X :Log-in:	r.w@gmail.com <> Sori83-Job
--->KEY: :Log-in: VALUE: :Log-in:	r.w@gmail.com <> Sori83-Job
-168--X :RSS:		--
--->KEY: :RSS: VALUE: :RSS:		--
-169--X :Alert:		to r.w@gmail.com
+163--X :Alert:		to r.w@gmail.com
 -->KEY: :Alert: VALUE: :Alert:		to r.w@gmail.com
-170--X :MyFile:	--
+164--X :MyFile:	--
 -->KEY: :MyFile: VALUE: :MyFile:	--
-171--X :Search-A:	--
+165--X :Search-A:	--
 -->KEY: :Search-A: VALUE: :Search-A:	--
-172--X :Terms-Q:	--
+166--X :Terms-Q:	--
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	--
-173--X :Queries:	--
+167--X :Queries:	--
 -->KEY: :Queries: VALUE: :Queries:	--
-174--X :end:		...
+168--X :end:		...
 -->Found: Record end:
-175--X 
+169--X 
 -->NO MATCH
-176--X -------------------------------------------------------------------------------
+170--X -------------------------------------------------------------------------------
 -->Found Record start:
-177--X 
+171--X 
 -->NO MATCH
-178--X :Name:		Octapharma
+172--X :Name:		Octapharma
 -->KEY: :Name: VALUE: :Name:		Octapharma
-179--X :Update:	200305 Global Brand Manager Immunotherapy 
+173--X :Update:	200305 Global Brand Manager Immunotherapy 
 -->KEY: :Update: VALUE: :Update:	200305 Global Brand Manager Immunotherapy 
-180--X :RSS:		--(URL and RSSowl ?)
+174--X :RSS:		--(URL and RSSowl ?)
 -->KEY: :RSS: VALUE: :RSS:		--(URL and RSSowl ?)
-181--X :Alert:		--(e-mail to which alert is send)
+175--X :Alert:		--(e-mail to which alert is send)
 -->KEY: :Alert: VALUE: :Alert:		--(e-mail to which alert is send)
-182--X :MyFile:	CV-Letter-DiplomaEN 
+176--X :MyFile:	CV-Letter-DiplomaEN 
 -->KEY: :MyFile: VALUE: :MyFile:	CV-Letter-DiplomaEN 
-183--X :Search-M:	--
+177--X :Search-M:	--
 -->KEY: :Search-M: VALUE: :Search-M:	--
-184--X :Apply:		https://career012.successfactors.eu/career?company=Octapharma&site=&lang=de_DE
+178--X :Apply:		https://career012.successfactors.eu/career?company=Octapharma&site=&lang=de_DE
 -->KEY: :Apply: VALUE: :Apply:		https://career012.successfactors.eu/career?company=Octapharma&site=&lang=de_DE
-185--X :Log-in:	r.w@gmail.com Ner--Job
+179--X :Log-in:	r.w@gmail.com Ner--Job
 -->KEY: :Log-in: VALUE: :Log-in:	r.w@gmail.com Ner--Job
-186--X :Search-A:	--(URL for automatic query)
+180--X :Search-A:	--(URL for automatic query)
 -->KEY: :Search-A: VALUE: :Search-A:	--(URL for automatic query)
-187--X :Terms-Q:	--(Terms for query, see also section Query Terms)
+181--X :Terms-Q:	--(Terms for query, see also section Query Terms)
 -->KEY: :Terms-Q: VALUE: :Terms-Q:	--(Terms for query, see also section Query Terms)
-188--X :Queries:	--(URL with specific query)
+182--X :Queries:	--(URL with specific query)
 -->KEY: :Queries: VALUE: :Queries:	--(URL with specific query)
-189--X :end:		...
+183--X :end:		...
 -->Found: Record end:
