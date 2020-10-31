@@ -14,8 +14,6 @@
 #  ------------------------------------ 
 
 
-
-
 # create a mapping of state to abbreviation
 states = {
     'Oregon': 'OR',
@@ -125,3 +123,14 @@ d2 = {'b': 200, 'd': 400}
 d1.update(d2)
 print(d1)
 # yields {'a': 10, 'b': 200, 'c': 30, 'd': 400}
+
+
+def make_new_dictio (ref_dir_Obj , old_dir_list):
+    ''' compare old_dictio to ref_dir and create new_dir
+    for dir in old_dir_list:
+        ref_dir.update(dir)
+        new_dir_list.append(ref_dir)
+        ref_dir.clear()
+    return new_dir_list 
+    '''
+    pass
