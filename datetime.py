@@ -51,3 +51,44 @@ def fn_timestemp( io_tag , part_1 , extension):
 
 fn = fn_timestemp("io" , "RecordsFromDictio" , "rst")
 print(fn)
+
+NoWeekYear = 52
+WeeksYear = 52
+WeeksVacation = 10
+HoursWeek = 33
+ConferenceDays = 10
+FormationDays = 15
+
+horaireNow = ( 52 , 10 , 33 , 10 , 15)
+
+HoursTotal = 0 
+
+def calHoursYear(hoursDataList):
+    '''
+    Function returns yearly worked hour based on weekly hours and vacation days
+
+    '''
+
+    HoursTotal = ( NoWeekYear - WeeksVacation - ( ConferenceDays / 7 ) - ( FormationDays / 7) ) * HoursWeek
+    return HoursTotal
+
+
+HoursTotal = calHoursYear(HoursTotal)
+
+
+print(HoursTotal)
+
+
+def fn_timestemp( io_tag , part_1 , extension):
+    ''' return: string , to be used as filename
+        import: from datetime import datetime
+        part_1:  <yymmdd>_<part_1>_<source>.<ext>
+        extension:  extension of the filename. e.g.  .rst , .txt , .md
+        The function creates a timestemp string.
+    '''
+    now = datetime.now()
+    fn_timestemp = now.strftime("%y%m%d-%H%M")
+    fn_center = part_1
+    fn_ext = extension
+    fn_io = io_tag
+    return (f'{fn_io}-{fn_timestemp}_{fn_center}{fn_ext}')

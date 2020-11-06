@@ -29,7 +29,7 @@ old_dictio_list = [
                 ]
 
 
-def make_new_dir (ref_dir_Obj , old_dir_list_Obj):
+def make_new_dictio (ref_dir_Obj , old_dir_list_Obj):
     ''' compare old_dictio to ref_dir and create new_dir  '''
     new_dictio_list = []
     n = 0
@@ -67,7 +67,7 @@ def main():
     print(f"old_dir source  : {old_dictio}")   
     show_content_listDictio(old_dictio_list , "old_dictio_list")
 
-    new_dictio_list = make_new_dir(ref_dictio , old_dictio_list)
+    new_dictio_list = make_new_dictio(ref_dictio , old_dictio_list)
    
     print(f"ref_dir updated : {ref_dictio}")
     show_content_listDictio(new_dictio_list , "new_dictio_list")
