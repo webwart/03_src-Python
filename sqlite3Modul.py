@@ -17,6 +17,7 @@ import sqlite3
 from datetime import datetime
 
 db = sqlite3.connect('myDB.sqlite')
+# db = sqlite3.connect('myDB.db')
 
 with open('sql_json.json' , encoding='utf-8-sig') as json_file:
     json_data = json.loads( json_file.read())
@@ -27,7 +28,9 @@ print(json_data)
 #Aim of this block is to get the list of the columns in the JSON file.
 columns = []
 column = []
+print("==== data in json_data ====")
 for data in json_data:
+    print(f'This is data{data}\n')
     column = list(data.keys())
     print('----- '*3)
     print(column)
