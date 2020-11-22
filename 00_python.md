@@ -307,3 +307,9 @@ On Naples-Lab and Sion-Desk I have now installed node.js and I used npm to insta
 -2- SQLiteDatabaseBrowser ¦ SQuirreL SQL
 
 Sion-Desk - I will install both software. Both might also be availabe as protable version.
+
+### SAT 21-11-2020
+
+Created directroy for excises from the book Programming Python from Mark Lutz (Calibre). I learned today how to use the interactive window and jupyther notbook in VScode. 
+
+C:\Users\Public\03_src\python\Book-LearningProgrammingPython

@@ -6,7 +6,7 @@
 #  Version: 16-11-2020
 #    Goals: Understand eMail Module and parse email files from uberspace
 #      Ref: https://docs.python.org/3/library/email.examples.html
-#      Ref: 
+#      Ref: https://www.devdungeon.com/content/read-and-send-email-python
 #      Ref: 
 #      Ref: 
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
