@@ -10,9 +10,15 @@
 # %%
 import sys, os, pathlib, shutil
 f'Sys Modul: {len(dir(sys))}'
+f'Sys Modul: {len(dir(sys))}'
+f'Sys Modul: {len(dir(sys))}'
+f'Sys Modul: {len(dir(sys))}'
+f'Arbeitsordner:{pathlib.path.cwd()}'
+
+
 
 # %% [markdown]
-# # This is markdown
+# This is markdown
 # This is normal text
 # 
 
