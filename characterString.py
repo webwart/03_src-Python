@@ -12,7 +12,7 @@
 #  ------------------------------------ 
 
 
-# DNA algorithem
+# Using the join function
 seqs = ['A','C','G','T']
 print(seqs)
 print(''.join(seqs))

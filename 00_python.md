@@ -313,3 +313,6 @@ Sion-Desk - I will install both software. Both might also be availabe as protabl
 Created directroy for excises from the book Programming Python from Mark Lutz (Calibre). I learned today how to use the interactive window and jupyther notbook in VScode. 
 
 C:\Users\Public\03_src\python\Book-LearningProgrammingPython
+
+### SAT 24-11-2020
+Another eMail read article: https://murhabazi.com/read-emails-python/
