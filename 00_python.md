@@ -314,5 +314,6 @@ Created directroy for excises from the book Programming Python from Mark Lutz (C
 
 C:\Users\Public\03_src\python\Book-LearningProgrammingPython
 
-### SAT 24-11-2020
-Another eMail read article: https://murhabazi.com/read-emails-python/
+### Tue 24-11-2020
+-1- Another eMail read article: https://murhabazi.com/read-emails-python/
+-2- Refactored the names of files and directories in 03_src/python 
