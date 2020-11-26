@@ -7,7 +7,7 @@
 3--X 
 -->NO MATCH
 4--X -----------------------------
--->Found Catorgory: 
+-->Found Catorgory: RST Help
 5--X RST Help
 -->NO MATCH
 6--X -----------------------------
@@ -37,7 +37,7 @@
 18--X 
 -->NO MATCH
 19--X -----------------------------
--->Found Catorgory: 
+-->Found Catorgory: RST Help
 20--X RST Help
 -->NO MATCH
 21--X -----------------------------
@@ -55,7 +55,7 @@
 27--X 
 -->NO MATCH
 28--X --------------------------------
--->Found Catorgory: 
+-->Found Catorgory: New Link
 29--X New Link
 -->NO MATCH
 30--X --------------------------------
@@ -97,7 +97,7 @@
 48--X 
 -->NO MATCH
 49--X ------------------------------
--->Found Catorgory: 
+-->Found Catorgory: Template for job link record
 50--X Template for job link record
 -->NO MATCH
 51--X ------------------------------
@@ -137,7 +137,7 @@
 68--X 
 -->NO MATCH
 69--X -----------------------------
--->Found Catorgory: 
+-->Found Catorgory: Job boards
 70--X Job boards
 -->NO MATCH
 71--X -----------------------------
@@ -263,7 +263,7 @@
 131--X 
 -->NO MATCH
 132--X -----------------------------
--->Found Catorgory: 
+-->Found Catorgory: Organisations
 133--X Organisations
 -->NO MATCH
 134--X -----------------------------

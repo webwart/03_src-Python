@@ -17,5 +17,3 @@ Reference Dictionary
 :Queries:	... (URL with specific query terms based on Search-A and Terms-Q)
 :Journal:   ... (e.g.: 200209 This happened today ; 200609 Job title I applied to. )
 :end:       ... (end)
-
--------------------------------------------------------------------------------

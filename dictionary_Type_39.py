@@ -1,17 +1,25 @@
 #!/user/  .in Unix only
 
 #  ------------------------------------
-#  Porject: LEARN
+#  Porject: LEARN the use of dictionaries and the new functions in python 3.9
 #   Author: Rainer Warth
 #  Version: 28-02-2020
 #    Goals: Learn dictionary
-#      Ref: http://learnpythonthehardway.org/book/ex39.html
 #      Ref: https://realpython.com/python-dicts/#built-in-dictionary-methods
+#      Ref: https://docs.python.org/3/whatsnew/3.9.html
 #      Ref: Frank from Udemy
 #    Satus: <runs> - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs
 #       >N: --
 #  ------------------------------------ 
+
+
+# new in python 3.9 
+x = {"key1": "value1 from x", "key2": "value2 from x"}
+y = {"key2": "value2 from y", "key3": "value3 from y"}
+x | y  # Result: {'key1': 'value1 from x', 'key2': 'value2 from y', 'key3': 'value3 from y'}
+y | x  # Result: {'key2': 'value2 from x', 'key3': 'value3 from y', 'key1': 'value1 from x'}
+
 
 
 # create a mapping of state to abbreviation
