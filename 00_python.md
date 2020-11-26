@@ -317,3 +317,9 @@ C:\Users\Public\03_src\python\Book-LearningProgrammingPython
 ### Tue 24-11-2020
 -1- Another eMail read article: https://murhabazi.com/read-emails-python/
 -2- Refactored the names of files and directories in 03_src/python 
+
+### THU 26-11-2020
+-1- How to use PyQt  by HEISE https://www.heise.de/ratgeber/Programmieren-mit-Python-Bedienoberflaeche-via-PyQt-erstellen-4949489.html  . Downloaded article .pdf and .docx.
+PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wird. Es gibt noch GTK, aber es wird nicht von allen Sprachen unterstüzts. Eclipese benute SWT, was ein angepasstes Swing ist, Swing sollte aber JavaFX ersetzt werden. Kivy is a GUI framework for python for touch devices.https://dev.to/amigosmaker/pyqt-vs-kivy-german-5483 And then is python and electron combinatoin see: https://www.ahmedbouchefra.com/connect-python-3-electron-nodejs-build-desktop-apps/
+
+-2- Bodo Schoenfeld Blog offers good help for python MS-Access, Qt, and reading data and more. https://bodo-schoenfeld.de/python/
