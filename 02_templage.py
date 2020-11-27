@@ -6,12 +6,12 @@
 #   Author: Rainer Warth
 #  Version: 26-11-2020 Previous: -- First: --
 #    Goals: Create a very generic template for reading and saving files to the data directory.
-#      Ref: 
-#      Ref:  
-#      Ref: 
+#      Ref: https://realpython.com/documenting-python-code/
+#      Ref: https://realpython.com/lessons/type-hinting/
+#      Ref: https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc
 #    Satus: runs - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
-#    Satus: runs
-#       >N: Refactor functions remove not needed functions
+#    Satus: runs (use VScode Outline to refactor)
+#       >N: Refactor functions remove not needed functions, introduce type hints
 
 import pathlib as pl
 import re
@@ -19,10 +19,24 @@ import json
 from datetime import datetime , date
 import copy
 
-def read_File_In_List(subDir , fileName):
-    ''' subDir = name of subDir
-        fn_JobLink = name file from which the content is read into a list
-        returns = list with file content '''
+# example for type hingint
+
+def read_File_In_List(subDir: str , fileName: str) -> list :
+    """Gets and prints the spreadsheet's header columns (numpy format)
+
+    Parameters
+    ----------
+    subDir : str
+        Directory location
+    fileName : str
+        Filename, often created by def file_timestamp
+
+    Returns
+    -------
+    list
+        The elements are the lines of the file at location subDir/filename
+    """
+    
     filePath = pl.Path.cwd().joinpath(subDir , fileName )
     with open(filePath) as f:
         return list(f)
