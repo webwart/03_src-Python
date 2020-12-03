@@ -1,0 +1,88 @@
+{% extends '_base.html' %}
+
+{% load static %}
+{% load crispy_forms_tags %}
+{% load django_tables2 %}
+
+{% block liste_active %}
+    active
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="col d-lg-none text-center my-auto pt-0 mt-0">
+            <h3>Suche</h3>
+        </div>
+        <div class="col d-none d-lg-block text-center my-auto pt-0 mt-0">
+            <h2>Aufgabensuche</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <form id="Aufgaben_search" action="" method="get">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <div class="card-body">
+
+                                    <div class="row mx-2 mt-2">
+                                        <div class="col">
+                                            {{ filter.form.kurztext__icontains|as_crispy_field }}
+                                        </div>
+                                    </div>
+
+                                    <div class="row mx-2 mt-2">
+                                        <div class="col">
+                                            {{ filter.form.status|as_crispy_field }}
+                                        </div>
+                                        <div class="col">
+                                            {{ filter.form.liste|as_crispy_field }}
+                                        </div>
+                                    </div>
+
+                                    <div class="row mx-2 mt-2">
+                                        <div class="col">
+                                            {{ filter.form.vorlage_datum__gte|as_crispy_field }}
+                                        </div>
+                                        <div class="col">
+                                            {{ filter.form.vorlage_datum__lte|as_crispy_field }}
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Aktions Buttons -->
+                <div class="row  mx-0 mt-2">
+                    <div class="col bg-light p-2 m-1">
+                        <ul class="navbar-nav navbar-expand align-items-center justify-content-end">
+                            <li class="nav-item pl-3">
+                                <button type="button" class="btn btn-secondary" data-toggle="modal"
+                                        data-target="#cancelPopup">
+                                    Abbrechen
+                                </button>
+                            </li>
+                            <li class="nav-item pl-3 mr-3">
+                                <button type="submit" class="btn btn-primary">Suchen</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+    <!-- Tabellenausgabe -->
+    <div class="row mx-0 mt-2">
+        <div class="col mx-0">
+            {% render_table table %}
+        </div>
+    </div>
+
+{% endblock content %}

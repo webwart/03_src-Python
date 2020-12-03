@@ -1,0 +1,126 @@
+Return-Path: <rainer.warth@gmail.com>
+Delivered-To: rakawas-news@rainer-warth.eu
+Received: (qmail 7185 invoked by uid 498); 27 Aug 2019 18:49:29 -0000
+Received: from mail-ed1-x531.google.com (mail-ed1-x531.google.com [2a00:1450:4864:20::531])
+	by olbers.uberspace.de (Haraka/2.8.18) with ESMTPS id 7DA49294-FA2D-4AF7-805D-BE007D00683E.1
+	envelope-from <rainer.warth@gmail.com>
+	(version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-GCM-SHA384 verify=FAIL);
+	Tue, 27 Aug 2019 20:49:24 +0200
+Received: by mail-ed1-x531.google.com with SMTP id s15so74409edx.0
+        for <news@rainer-warth.eu>; Tue, 27 Aug 2019 11:49:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=ehMLsOjQZRFdmbeNAfMtQYjj/GIGRk5zSq5cgKMllcg=;
+        b=QgOfCEZDonycgG+3rPtZR2bU/cKT+OcXpY/6WcsoxtDeNkGk+uuGggGlgeF1w/BQLu
+         BbD/FjqmO3t2dUmhd+G1AsB96HXtBRelBZJHm56A3LF0FWk8SHoKt6DjkFQr8+meOIJN
+         VjQgmsBeEt1dnfwQY0aAuxKBE66PjpCg1DJDgNgQKgE8g63RVcJbRRBo+cNaxUqDeP47
+         7ukpIvrNp0SyxjfZ8c8Oiqbi3IwV9NG85HokXxcNtlzJXUTnq8WKgX+AJUTlwHvWL4Kl
+         0asDdUPKVAqFNgxNFOh6uRqfw7r8xWx7Cag31fM6b+H8ghM6ZnpmcYmBe+dfHeFzT5PT
+         HG+A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=ehMLsOjQZRFdmbeNAfMtQYjj/GIGRk5zSq5cgKMllcg=;
+        b=e4D6pDHOscBiucxPuOHsM4CC1DGNNf3qZJ2PKgE290lGNdiuy9re3C5+deUuhlcArG
+         fyiPUxR94dA57zQw1rA27uRrdC6mmvVD5fhguWzGtHH/GGV83gMZqF5ZFXwTulszN/8r
+         37vCm/1hoZ9VAo4SN19AlmgBl8YxNywEtj3AUWnDPTfrSHlEfGzowoNycTzveW5ORBa4
+         vB+Wkib1m40RfKUhxxxHiChGc5AQzcLiFpj0iPmgwOzu8kpviRmt/EjWukDXKCBhMgMu
+         wZIz/2yqdqt88cE9+F37XngtTqb3Q8YPPYDtosoCgZABZ9EWAfn0/SQRg9W6a1h9sDgb
+         7nFQ==
+X-Gm-Message-State: APjAAAUIvkG7J9QunStABEIC/sml1S1o3FtxqDj+16gwr3RIdRZ/dnmK
+	0CgYLu3pVKb8Hs5TsiiuNBgNKFdo+YU=
+X-Google-Smtp-Source: APXvYqxaBrJGear2xjA6FnSbqNaxDrymvE7bUI14vzZwPha9T1Nm/kknpZq4pzdMZFphhSBvBD7PtA==
+X-Received: by 2002:a50:b4b4:: with SMTP id w49mr126490edd.269.1566931759133;
+        Tue, 27 Aug 2019 11:49:19 -0700 (PDT)
+Received: from Naples ([2a02:120b:7f6:780:8455:8dd0:2fe1:d0f0])
+        by smtp.gmail.com with ESMTPSA id w14sm2151238eda.69.2019.08.27.11.49.18
+        for <news@rainer-warth.eu>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 27 Aug 2019 11:49:18 -0700 (PDT)
+From: "Rainer Warth" <rainer.warth@gmail.com>
+To: <news@rainer-warth.eu>
+Subject: AAAAA Betreff: Second message at 20:48 AAAAA
+Date: Tue, 27 Aug 2019 20:49:16 +0200
+Message-ID: <008c01d55d08$213b65c0$63b23140$@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_008D_01D55D18.E4C59550"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdVdCBY/9EG3RlhTQYGdGIPYwfiDZQ==
+Content-Language: de-ch
+X-Rspamd-Bar: -
+X-Rspamd-Report: R_DKIM_ALLOW(-0.2) R_SPF_ALLOW(-0.2) MIME_GOOD(-0.1) DMARC_POLICY_ALLOW(-0.5)
+X-Rspamd-Score: -1
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_008D_01D55D18.E4C59550
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+AAAAA Textfeld: Second message at 20:48 AAAAA
+
+
+------=_NextPart_000_008D_01D55D18.E4C59550
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE-CH =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal>AAAAA Textfeld: Second message at 20:48 =
+AAAAA<o:p></o:p></p></div></body></html>
+------=_NextPart_000_008D_01D55D18.E4C59550--
+

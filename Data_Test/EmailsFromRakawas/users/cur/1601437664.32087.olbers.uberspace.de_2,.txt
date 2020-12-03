@@ -1,0 +1,2347 @@
+Return-Path: <01020174dd1f53e9-43407800-84b5-43ad-874f-03e40284f6c0-000000@bounce.jobs.ch>
+Delivered-To: rakawas-news@rainer-warth.eu
+Received: (qmail 32083 invoked by uid 498); 30 Sep 2020 03:47:44 -0000
+Received: from a6-24.smtp-out.eu-west-1.amazonses.com (a6-24.smtp-out.eu-west-1.amazonses.com [54.240.6.24])
+	by olbers.uberspace.de (Haraka/2.8.25) with ESMTPS id 47B8C472-25DB-463C-AB90-56367CAB8DBE.1
+	envelope-from <01020174dd1f53e9-43407800-84b5-43ad-874f-03e40284f6c0-000000@bounce.jobs.ch>
+	(cipher=ECDHE-RSA-AES256-SHA384);
+	Wed, 30 Sep 2020 05:47:38 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=tgqg62tqeai4uucwtew7ntg5jcmdo43w; d=jobs.ch; t=1601437652;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type;
+	bh=mM/eIv4kChdQxWeQ7CdJtQ+gjSY4JEj1xwYV6t8Yc68=;
+	b=NQfiMGXaRS0zKNo+9zVes0eY01LYAewYrLyG628DT+pGJV6yYbfZ29xqo0KwXQnB
+	n6Kk9Idnq6MVh4RIpG4G+WORTjWSJnWCwkj+HE/pDJUe5BWk7aE02Pw5jx2UEbxhMha
+	TfFr/LPyZoJ9HHtEN+L8KeAQ9qH/NLIEtFtzkWic=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1601437652;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:Feedback-ID;
+	bh=mM/eIv4kChdQxWeQ7CdJtQ+gjSY4JEj1xwYV6t8Yc68=;
+	b=XIar/RbnCu4qWLeqif+ikaO5tRglnRCy6sKgJlAOeCD96/j5qK7fBIP/0xrvev08
+	O20drpMD75Rb+e1+Rt1qKF1b5vOgh5ORAHqUfSEMcy86UcFROdiqaxoOqDX0Z08HnsX
+	CHBYklCVueUF2gyyj+K56lghtb+gZS+CaF8nh+34=
+Message-ID: <01020174dd1f53e9-43407800-84b5-43ad-874f-03e40284f6c0-000000@eu-west-1.amazonses.com>
+Date: Wed, 30 Sep 2020 03:47:31 +0000
+Subject: 65 neue Stellenangebote gefunden
+From: "jobs.ch Job-Alarm" <jobmail@jobs.ch>
+Reply-To: "Service jobs.ch" <info@jobs.ch>
+To: news@rainer-warth.eu
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1601437651_e43a77467c62dfb60fe8d480e9af4cef_=_"
+X-SES-Outgoing: 2020.09.30-54.240.6.24
+Feedback-ID: 1.eu-west-1.NopvPTxPoy72ZnO4JpDK0LwJwIuHCCJM3eBo1UhUv0k=:AmazonSES
+X-Rspamd-Bar: --
+X-Rspamd-Report: R_SPF_ALLOW(-0.2) URI_COUNT_ODD(1) DMARC_POLICY_ALLOW(-0.5) FORGED_SENDER(0.3) ONCE_RECEIVED(0.1) R_DKIM_ALLOW(-0.2) BAYES_HAM(-2.999737) MIME_GOOD(-0.1) MANY_INVISIBLE_PARTS(0.05)
+X-Rspamd-Score: -2.549737
+
+
+--_=_swift_1601437651_e43a77467c62dfb60fe8d480e9af4cef_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+   =20
+Wir haben neue Jobs f=C3=BCr dich
+
+1 neuer Job f=C3=BCr biologe=
+
+----------------------------------------
+
+    Process Expert =
+=E2=80=93 external manufacturing
+    Tillotts Pharma AG, Rheinfelden
+=
+
+https://www.jobs.ch/de/stellenangebote/detail/9924121/?hash=3Df5cf61fd49=
+cb69022a206f1de805ed3e&profile-id=3D5a448599-f544-490c-9d92-2787f7efeadd&re=
+ference-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_source=3Dautomail-=
+job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7=
+Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Djob-link&=
+uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1e=
+b36b1e5373
+>> Alle Jobs aus diesem Job-Alarm <<
+https://www.jobs.ch/de/=
+stellenangebote/?search-profile=3D5a448599-f544-490c-9d92-2787f7efeadd&refe=
+rence-date=3D2020-09-29&source=3Djobmail&pid=3D1&utm_source=3Dautomail-job-=
+push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%=
+3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Dlandingpage-b=
+tn&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416=
+-1eb36b1e5373
+
+>> Abbestellen <<
+https://www.jobs.ch/de/job-alert/5a4=
+48599-f544-490c-9d92-2787f7efeadd/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIU=
+zUxMiJ9.eyJleHAiOjE2MTcwNzYwNTEsInVzZXIiOiIwODJmOGE4ZC01NzA1LTQ4YzgtYjRjOS0=
+3ZTRkNDNkODlkMDIiLCJzZWFyY2hfcHJvZmlsZSI6IjVhNDQ4NTk5LWY1NDQtNDkwYy05ZDkyLT=
+I3ODdmN2VmZWFkZCJ9.p5LNyJ-j2MbYE3gk3h8GpFGeKC1nZxA6WaDvhJfyP9tTklZDzbBiVrmV=
+-D_HMFPq5CImaybU-pl9_Vy0VZrMuQ
+
+64 neue Jobs f=C3=BCr Director
+------=
+----------------------------------
+
+    Managing Director of the ETH Fu=
+ture Computing Laboratory - EFCL
+    ETH Z=C3=BCrich, Z=C3=BCrich
+
+ht=
+tps://www.jobs.ch/de/stellenangebote/detail/9924651/?hash=3Dc51fe4de2a8dfa9=
+3be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85&referen=
+ce-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_source=3Dautomail-job-p=
+ush&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3=
+Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Djob-link&uid=
+=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1eb36=
+b1e5373
+    Finance Director 100% (w/m)
+    Vistra Z=C3=BCrich AG, Z=
+=C3=BCrich
+
+https://www.jobs.ch/de/stellenangebote/detail/9925841/?hash=
+=3Dc51fe4de2a8dfa93be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99=
+482a056f85&reference-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_sourc=
+e=3Dautomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2=
+c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_conten=
+t=3Djob-link&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b=
+-40ae-b416-1eb36b1e5373
+    ICT Supporter 100% (m/w/d)
+    OK JOB AG, R=
+aum Bern
+
+https://www.jobs.ch/de/stellenangebote/detail/9924557/?hash=
+=3Dc51fe4de2a8dfa93be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99=
+482a056f85&reference-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_sourc=
+e=3Dautomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2=
+c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_conten=
+t=3Djob-link&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b=
+-40ae-b416-1eb36b1e5373
+    Scientific Programmer Atmospheric High-Perfor=
+mance Computing
+    ETH Z=C3=BCrich, Z=C3=BCrich
+
+https://www.jobs.ch=
+/de/stellenangebote/detail/9923988/?hash=3Dc51fe4de2a8dfa93be05160e7c205dd8=
+&profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85&reference-date=3D2020-09=
+-29&source=3Djob_alert&pid=3D1&utm_source=3Dautomail-job-push&utm_medium=3D=
+email&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-vi=
+ews%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Djob-link&uid=3D082f8a8d-5705-48=
+c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1eb36b1e5373
+    Scien=
+tific Programmer Weather and Climate Simulations
+    ETH Z=C3=BCrich, Z=
+=C3=BCrich
+
+https://www.jobs.ch/de/stellenangebote/detail/9923987/?hash=
+=3Dc51fe4de2a8dfa93be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99=
+482a056f85&reference-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_sourc=
+e=3Dautomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2=
+c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_conten=
+t=3Djob-link&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b=
+-40ae-b416-1eb36b1e5373
+    Scientific Programmer and Climate Data Specia=
+list
+    ETH Z=C3=BCrich, Z=C3=BCrich
+
+https://www.jobs.ch/de/stellen=
+angebote/detail/9923986/?hash=3Dc51fe4de2a8dfa93be05160e7c205dd8&profile-id=
+=3D61c9edb9-670c-404a-81ec-99482a056f85&reference-date=3D2020-09-29&source=
+=3Djob_alert&pid=3D1&utm_source=3Dautomail-job-push&utm_medium=3Demail&utm_=
+campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3=
+An%7Ccd%3Ajob-alert&utm_content=3Djob-link&uid=3D082f8a8d-5705-48c8-b4c9-7e=
+4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1eb36b1e5373
+    Director of Sof=
+tware Development (f/m/d)
+    Scout24 Schweiz AG, Flamatt or Zurich
+
+=
+https://www.jobs.ch/de/stellenangebote/detail/9848570/?hash=3Dc51fe4de2a8df=
+a93be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85&refer=
+ence-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_source=3Dautomail-job=
+-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg=
+%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Djob-link&uid=
+=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1eb36=
+b1e5373
+    Mandatsleiter Treuhand 50 - 70% m/w - mit Entwicklungsm=C3=
+=B6glichkeiten zur STV Gesch=C3=A4ftsf=C3=BChrerin
+    HAFIDA Treuhand AG=
+, Zumikon
+
+https://www.jobs.ch/de/stellenangebote/detail/9925430/?hash=
+=3Dc51fe4de2a8dfa93be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99=
+482a056f85&reference-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_sourc=
+e=3Dautomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2=
+c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_conten=
+t=3Djob-link&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b=
+-40ae-b416-1eb36b1e5373
+    Verkauf Aussendienst
+    Wieds Ecochem Schw=
+eiz GmbH, Luzern,Obwalden,Nidwalden, Uri,Berner Oberland
+
+https://www.j=
+obs.ch/de/stellenangebote/detail/9924075/?hash=3Dc51fe4de2a8dfa93be05160e7c=
+205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85&reference-date=3D2=
+020-09-29&source=3Djob_alert&pid=3D1&utm_source=3Dautomail-job-push&utm_med=
+ium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3A=
+job-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Djob-link&uid=3D082f8a8d-5=
+705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1eb36b1e5373
+   =
+ React Web Developer (f/m) 100%
+    Sunrise Communications AG, Glattpark=
+
+
+https://www.jobs.ch/de/stellenangebote/detail/9857414/?hash=3Dc51fe4d=
+e2a8dfa93be05160e7c205dd8&profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85=
+&reference-date=3D2020-09-29&source=3Djob_alert&pid=3D1&utm_source=3Dautoma=
+il-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aw=
+w%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Djob-li=
+nk&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416=
+-1eb36b1e5373
+>> Weitere 54 Jobs anzeigen <<
+https://www.jobs.ch/de/ste=
+llenangebote/?search-profile=3D61c9edb9-670c-404a-81ec-99482a056f85&referen=
+ce-date=3D2020-09-29&source=3Djobmail&pid=3D1&utm_source=3Dautomail-job-pus=
+h&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ad=
+e%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Dlandingpage-btn&=
+uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1e=
+b36b1e5373
+
+>> Abbestellen <<
+https://www.jobs.ch/de/job-alert/61c9ed=
+b9-670c-404a-81ec-99482a056f85/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUx=
+MiJ9.eyJleHAiOjE2MTcwNzYwNTEsInVzZXIiOiIwODJmOGE4ZC01NzA1LTQ4YzgtYjRjOS03ZT=
+RkNDNkODlkMDIiLCJzZWFyY2hfcHJvZmlsZSI6IjYxYzllZGI5LTY3MGMtNDA0YS04MWVjLTk5N=
+DgyYTA1NmY4NSJ9.ZrqvpqP-EnhDTg3b27J2tFWSYvHipAU63eyBDHelk83yB6mHbANcaie4gKA=
+2v54Kc9lolh3yNCf0E-WPMrhD0g
+
+>> Job-Alarm bearbeiten <<
+https://www.j=
+obs.ch/de/konto/job-alarm/
+
+Chief Executive Officer 100% (m/w/d)
+    =
+Mercuri Urval, Bern, Bern
+Vorsitzender der Bankleitung (w/m/d)
+    Raif=
+feisen Banken, Turbenthal ZH
+CEO Privatbank - Vorsitzende/r der Gesch=
+=C3=A4ftsleitung
+    J=C3=B6rg Lienert AG, Kanton Bern
+Program Director=
+
+    Cognizant Technology Solutions AG, Z=C3=BCrich
+Director of Softwar=
+e Development (f/m/d)
+    Scout24 Schweiz AG, Flamatt or Zurich
+Directo=
+r HR Shared Services
+    Idorsia Pharmaceuticals Ltd, Allschwil
+Senior =
+Manager/Director - Life Sciences, Pharma Commercial & Access Consulting
+ =
+   PwC, Z=C3=BCrich
+Director, Experience Strategy (all genders) Basel
+ =
+   Accenture, Basel
+Head of Product Design ImmoScout24 w/m/d in 80-100%=
+
+    Scout24 Schweiz AG, Flamatt oder Z=C3=BCrich
+Web Developer (f/m) 1=
+00%
+    Sunrise Communications AG, Opfikon
+Senior Underwriter Specialty=
+ Casualty Europe
+    PartnerRe Holdings Europe Limited, Z=C3=BCrich
+Res=
+earch Associate - Neurobiology
+    1201 F. Hoffmann-La Roche AG, Basel, C=
+H-BS
+PharmTech: Sales Rep/Specialist; KAM | PM | Medical-Mgr; MSL | Vente=
+ cabinets/h=C3=B4pitaux: R 301
+    Thoma & Partner Management Consulting =
+AG, D-Schweiz o. Suisse romande
+Sales EngineerIn =E2=80=93 Software Geb=
+=C3=A4udetechnik - Schweiz
+    TRIMBLE SWITZERLAND GMBH, Horgen
+
+Lern=
+e diese Arbeitgeber kennen
+Folgende Firmen haben offene Jobs, die auf dei=
+ne Suchprofile passen:
+
+https://www.jobs.ch/de/firmen/1819-sunrise-comm=
+unications-ag/?utm_source=3Dautomail-job-push&utm_medium=3Demail&utm_campai=
+gn=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Cc=
+d%3Ajob-alert&utm_content=3Deb_basic_company_link&source=3Deb_basic&uid=3D0=
+82f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c6b-40ae-b416-1eb36b1e5=
+373 Sunrise Communications AG, Z=C3=BCrich - 83 Jobs
+
+
+--------------=
+--------------------------
+
+Nutzt du alle Jobs.ch Tools?
+
+Job-Alarm=
+: Informiert bleiben zu neuesten Jobs.
+1-Klick-Bewerbung: Effizient, auch=
+ via Smartphone.
+Profil: Gefunden werden statt suchen.
+
+https://www.j=
+obs.ch/jobdna
+
+----------------------------------------
+
+Hol dir je=
+tzt die jobs.ch App
+Verpasse keine Jobangebote mehr.
+
+https://www.job=
+s.ch/de/mobile/?utm_source=3Dautomail-job-push&utm_medium=3Demail&utm_campa=
+ign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7C=
+cd%3Ajob-alert&utm_content=3Dapp-teaser
+https://www.jobs.ch/de/mobile/?ut=
+m_source=3Dautomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7C=
+tg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm=
+_content=3Dapp-teaser
+----------------------------------------
+
+
+Du=
+ bist bei jobs.ch als news@rainer-warth.eu registriert.
+
+E-Mail-Einstel=
+lungen anpassen: https://www.jobs.ch/de/konto/einstellungen?utm_source=3Dau=
+tomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn=
+%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_content=3Dun=
+subscribe-link&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D0ef6bb98-4c=
+6b-40ae-b416-1eb36b1e5373
+
+>> Alle Job-Alarme abbestellen <<
+https://=
+www.jobs.ch/de/job-alert/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.e=
+yJleHAiOjE2MTcwNzYwNTEsInVzZXIiOiIwODJmOGE4ZC01NzA1LTQ4YzgtYjRjOS03ZTRkNDNk=
+ODlkMDIiLCJzZWFyY2hfcHJvZmlsZSI6ImFsbCJ9.nA6rFcjhp-eInG0YaAm8OQEFSEmK7aqkwM=
+GQHSBb026lpMj4W6wIlxX3thTmmjpz4V_oSVElq323HzZpciOVoQ
+
+Hast du eine Frag=
+e? info@jobs.ch +41 44 254 69 00
+
+jobs.ch
+
+
+--_=_swift_1601437651_e43a77467c62dfb60fe8d480e9af4cef_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+   =20
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http=
+://www.w3.org/TR/html4/loose.dtd">
+<html lang=3D"de">
+
+  <head>
+   =
+ <meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">=
+
+    <meta content=3D"width=3Ddevice-width,initial-scale=3D1.0" name=3D"v=
+iewport">
+    <meta content=3D"telephone=3Dno" name=3D"format-detection">=
+
+
+    <style type=3D"text/css">
+    .ReadMsgBody {
+  width: 100%;=
+
+  background-color: #efefef;
+}
+
+.ExternalClass {
+  width: 100%;=
+
+  background-color: #efefef;
+}
+
+.ExternalClass * {
+  line-height=
+: 100%;
+}
+
+body {
+  -webkit-text-size-adjust: none;
+  -ms-text-si=
+ze-adjust: none;
+  margin: 0;
+  padding: 0;
+}
+
+a,
+a:link,
+a:v=
+isited {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover,=
+
+a:active {
+  text-decoration: underline !important;
+}
+
+.apple-li=
+nk-white a {
+  text-decoration: none !important;
+  color: #FFFFFF !impo=
+rtant;
+}
+
+.apple-link-copy a {
+  text-decoration: none !important;=
+
+  color: #393941 !important;
+}
+
+.apple-link-head a {
+  text-deco=
+ration: none !important;
+  color: #393941 !important;
+}
+
+table {
+=
+  border-spacing: 0;
+  mso-table-lspace: 0;
+  mso-table-rspace: 0;
+}=
+
+
+img {
+  border: 0;
+  height: auto;
+  line-height: 100%;
+  out=
+line: none;
+  text-decoration: none;
+  -ms-interpolation-mode: bicubic;=
+
+}
+
+h2 {
+  color: #393941 !important;
+}
+
+.yshortcuts a {
+  =
+border-bottom: none !important;
+}
+
+@media screen and (max-width: 600p=
+x) {
+  table[class=3D"container"] {
+    width: 90% !important;
+  }
+=
+  td[class=3D"force-col"] {
+    display: block;
+  }
+  .app-info {
+ =
+   background: #f7f7f7 url(http\3A \2F \2F cdn\2E jobs\2E local\2F assets\2=
+F img\2F mail\2F email\2D appinfo\2D bottom\2D de\2E gif) no-repeat bottom =
+right !important;
+    padding-bottom: 145px !important;
+  }
+}
+
+@m=
+edia screen and (max-width: 480px) {
+  .header {
+    padding-top: 10px =
+!important;
+    padding-bottom: 10px !important;
+  }
+  .header-gap {=
+
+    padding: 0 !important;
+  }
+}
+    </style>
+
+    <title>jobs=
+.ch</title>
+  </head>
+
+  <body bgcolor=3D"#efefef" leftmargin=3D"0" m=
+arginheight=3D"0" marginwidth=3D"0" style=3D"margin:0; padding:0; backgroun=
+d-color: #efefef;" topmargin=3D"0">
+          <div style=3D"display:none;=
+font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;op=
+acity:0;overflow:hidden;">
+        Process Expert =E2=80=93 external manu=
+facturing, Managing Director of the ETH Future Computing Laboratory - EFCL,=
+ Finance Director 100% (w/m)
+    </div>
+   =20
+    <!-- wrap -->
+  <t=
+able bgcolor=3D"#efefef" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" h=
+eight=3D"100%" width=3D"100%">
+    <tr>
+      <td align=3D"center" bgco=
+lor=3D"#efefef" style=3D"background-color: #efefef;" valign=3D"top">
+
+ =
+       <!-- container -->
+        <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"container" width=3D"600">
+
+          <!-- pad=
+ding top -->
+          <tr>
+            <td class=3D"header-gap" style=
+=3D"padding:5px 0; line-height:1em;">&nbsp;</td>
+          </tr>
+      =
+    <!-- /padding top -->
+
+          <!-- head -->
+          <tr>
+ =
+           <td align=3D"left" bgcolor=3D"#" class=3D"container-padding"
+ =
+               style=3D"background-color: #004099; background: linear-gradi=
+ent(135deg, #0088CC 0%, #004099 100%); border-top-left-radius: 3px; border-=
+top-right-radius: 3px; text-align: left;">
+              <center>
+     =
+           <!--[if gte mso 1]>
+                <v:rect xmlns:v=3D"urn:sch=
+emas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"mso-width-p=
+ercent:500"
+                        fillcolor=3D"#004099">
+            =
+      <v:fill type=3D"gradient" color2=3D"#0088CC" angle=3D"90"/>
+       =
+           <v:textbox style=3D"mso-fit-shape-to-text:true" inset=3D"0,0,0,0=
+">
+                    <center>
+                <![endif]-->
+        =
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+                  <tr>
+                    <td class=3D"header"
+=
+                        style=3D"font-family: Arial, sans-serif; font-size:=
+13px; line-height: 1.5em; padding:20px 30px;">
+                      <a h=
+ref=3D"https://www.jobs.ch/de/?utm_source=3Dautomail-job-push&amp;utm_mediu=
+m=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%=
+3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djobs-logo&amp;uid=
+=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-3=
+5d8659567ca" style=3D"border:0;" target=3D"_blank">
+                     =
+   <img alt=3D"jobs.ch" height=3D"35" src=3D"https://www.jobs.ch/asset/img/=
+mail/jobs-ch.gif" style=3D"border:0;" width=3D"160">
+                    =
+  </a>
+                    </td>
+                  </tr>
+            =
+    </table>
+                <!--[if gte mso 9]>
+                </cent=
+er>
+                </v:textbox>
+                </v:rect>
+          =
+      <![endif]-->
+              </center>
+            </td>
+        =
+  </tr>
+          <!-- /head -->
+
+          <!-- content -->
+      =
+   =20
+<tr>
+  <td align=3D"left" bgcolor=3D"#efefef;" class=3D"container-=
+padding" style=3D"background-color: #efefef; font-size: 13px; font-family: =
+'Helvetica Neue', Arial, sans-serif; line-height: 1.5em; text-align: left; =
+width: 600px;">
+    <div style=3D"background-color: #ffffff; padding: 30p=
+x 30px 0 30px;">
+      <br/>
+      <h3 style=3D"font-size: 18px; line-h=
+eight: 27px; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:=
+normal; color: #393941; margin:0; text-align:left;"><b>Wir haben neue Jobs =
+f=C3=BCr dich</b></h3>
+      <br/>
+    </div>
+   =20
+                =
+
+                                   =20
+        <table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff;" style=3D"background-col=
+or: #ffffff; width: 100%; padding: 0 30px; border-top: 15px solid #efefef;"=
+>
+            <tr>
+                <td colspan=3D"2" align=3D"center" s=
+tyle=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:norma=
+l; font-size: 18px; text-align: left; padding-right: 20px; padding-bottom: =
+20px; padding-top: 20px; border-bottom: 1px solid #5a6272;" valign=3D"middl=
+e">
+                    <b>1 neuer Job</b> f=C3=BCr biologe
+           =
+     </td>
+            </tr>
+                                          =
+                              <tr>
+                    <td align=3D"cente=
+r" height=3D"60" width=3D"60" style=3D"font-family: 'Helvetica Neue', Arial=
+, sans-serif; font-weight:normal; text-align: left; padding-right: 25px; pa=
+dding-bottom: 20px; padding-top: 20px; border-bottom: 1px solid #e5e5e6;" v=
+align=3D"middle">
+                            <img src=3D"https://img.job=
+s.ch/www/img/toplogos/39882.jpeg" alt=3D"Tillotts Pharma AG" style=3D"max-w=
+idth: 80%">
+                    </td>
+                    <td align=3D"=
+center" height=3D"60" style=3D"font-family: 'Helvetica Neue', Arial, sans-s=
+erif; font-weight:normal; text-align: left; padding-bottom: 20px; padding-t=
+op: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+         =
+               <p style=3D"font-size: 16px; line-height: 1.414em; margin: 0=
+ 0 4px 0;">
+                            <a href=3D"https://www.jobs.ch/de=
+/stellenangebote/detail/9924121/?hash=3Df5cf61fd49cb69022a206f1de805ed3e&am=
+p;profile-id=3D5a448599-f544-490c-9d92-2787f7efeadd&amp;reference-date=3D20=
+20-09-29&amp;source=3Djob_alert&amp;pid=3D1&amp;utm_source=3Dautomail-job-p=
+ush&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aw=
+w%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djo=
+b-link&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-ae=
+fc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-decoration: none;"=
+>
+                                Process Expert =E2=80=93 external manuf=
+acturing
+                            </a>
+                        </p>=
+
+                        <p style=3D"font-size: 14px; line-height: 1.414e=
+m; margin: 0;">
+                            Tillotts Pharma AG, Rheinfeld=
+en
+                        </p>
+                    </td>
+           =
+     </tr>
+                                    </table>
+        <table =
+border=3D"0" cellspacing=3D"0" style=3D"background-color: #ffffff; padding:=
+ 0 30px; width: 100%;">
+            <tr class=3D"emailButton primary">
+=
+                <td align=3D"center"
+                    class=3D"email-b=
+utton"
+                    style=3D"color: #FFFFFF; line-height: 33px; te=
+xt-align: center; border-radius: 3px; display: block; padding-left: 15px; p=
+adding-right: 15px; background-color: #C42695;" valign=3D"middle">
+      =
+              <a href=3D"https://www.jobs.ch/de/stellenangebote/?search-pro=
+file=3D5a448599-f544-490c-9d92-2787f7efeadd&amp;reference-date=3D2020-09-29=
+&amp;source=3Djobmail&amp;pid=3D1&amp;utm_source=3Dautomail-job-push&amp;ut=
+m_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ad=
+e%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Dlandingpage-=
+btn&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-=
+4919-8919-35d8659567ca" style=3D"font-family: 'Helvetica Neue', Arial, sans=
+-serif; font-size:14px; font-weight: bold; color: #ffffff !important; text-=
+decoration:none; line-height: 33px; width:100%; display:inline-block;" targ=
+et=3D"_blank">
+                                                Alle Jobs =
+aus diesem Job-Alarm
+                    </a>
+                </td>
+ =
+           </tr>
+            <tr>
+                <td colspan=3D"2" sty=
+le=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; te=
+xt-align: left; padding: 15px 0;" valign=3D"middle">
+                    =
+<a href=3D"https://www.jobs.ch/de/job-alert/5a448599-f544-490c-9d92-2787f7e=
+feadd/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2MTcwNzYw=
+NTEsInVzZXIiOiIwODJmOGE4ZC01NzA1LTQ4YzgtYjRjOS03ZTRkNDNkODlkMDIiLCJzZWFyY2h=
+fcHJvZmlsZSI6IjVhNDQ4NTk5LWY1NDQtNDkwYy05ZDkyLTI3ODdmN2VmZWFkZCJ9.p5LNyJ-j2=
+MbYE3gk3h8GpFGeKC1nZxA6WaDvhJfyP9tTklZDzbBiVrmV-D_HMFPq5CImaybU-pl9_Vy0VZrM=
+uQ" style=3D"color: #0088cc; text-decoration: none;" target=3D"_blank">
+ =
+                       Abbestellen
+                    </a>
+           =
+     </td>
+            </tr>
+        </table>
+   =20
+                =
+                   =20
+                                                    =
+                                                                           =
+                                                                           =
+             =20
+        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" bgcolor=3D"#ffffff;" style=3D"background-color: #ffffff; width: 100%=
+; padding: 0 30px; border-top: 15px solid #efefef;">
+            <tr>
+ =
+               <td colspan=3D"2" align=3D"center" style=3D"font-family: 'He=
+lvetica Neue', Arial, sans-serif; font-weight:normal; font-size: 18px; text=
+-align: left; padding-right: 20px; padding-bottom: 20px; padding-top: 20px;=
+ border-bottom: 1px solid #5a6272;" valign=3D"middle">
+                  =
+  <b>64 neue Jobs</b> f=C3=BCr Director
+                </td>
+         =
+   </tr>
+                                                                =
+        <tr>
+                    <td align=3D"center" height=3D"60" width=
+=3D"60" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-wei=
+ght:normal; text-align: left; padding-right: 25px; padding-bottom: 20px; pa=
+dding-top: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+  =
+                          <img src=3D"https://img.jobs.ch/www/img/toplogos/=
+24354.png" alt=3D"ETH Z=C3=BCrich" style=3D"max-width: 80%">
+            =
+        </td>
+                    <td align=3D"center" height=3D"60" styl=
+e=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; =
+text-align: left; padding-bottom: 20px; padding-top: 20px; border-bottom: 1=
+px solid #e5e5e6;" valign=3D"middle">
+                        <p style=3D=
+"font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+            =
+                <a href=3D"https://www.jobs.ch/de/stellenangebote/detail/99=
+24651/?hash=3Dc51fe4de2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9-67=
+0c-404a-81ec-99482a056f85&amp;reference-date=3D2020-09-23&amp;source=3Djob_=
+alert&amp;pid=3D1&amp;utm_source=3Dautomail-job-push&amp;utm_medium=3Demail=
+&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-vie=
+ws%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a8d-=
+5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca"=
+ style=3D"color: #0088cc; text-decoration: none;">
+                      =
+          Managing Director of the ETH Future Computing Laboratory - EFCL=
+
+                            </a>
+                        </p>
+      =
+                  <p style=3D"font-size: 14px; line-height: 1.414em; margin=
+: 0;">
+                            ETH Z=C3=BCrich, Z=C3=BCrich
+       =
+                 </p>
+                    </td>
+                </tr>=
+
+                                                                        =
+    <tr>
+                    <td align=3D"center" height=3D"60" width=3D"=
+60" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:=
+normal; text-align: left; padding-right: 25px; padding-bottom: 20px; paddin=
+g-top: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+      =
+                      <img src=3D"https://img.jobs.ch/www/img/toplogos/6939=
+8.jpeg" alt=3D"Vistra Z=C3=BCrich AG" style=3D"max-width: 80%">
+         =
+           </td>
+                    <td align=3D"center" height=3D"60" s=
+tyle=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:norma=
+l; text-align: left; padding-bottom: 20px; padding-top: 20px; border-bottom=
+: 1px solid #e5e5e6;" valign=3D"middle">
+                        <p style=
+=3D"font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+         =
+                   <a href=3D"https://www.jobs.ch/de/stellenangebote/detail=
+/9925841/?hash=3Dc51fe4de2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9=
+-670c-404a-81ec-99482a056f85&amp;reference-date=3D2020-09-23&amp;source=3Dj=
+ob_alert&amp;pid=3D1&amp;utm_source=3Dautomail-job-push&amp;utm_medium=3Dem=
+ail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-=
+views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a=
+8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567=
+ca" style=3D"color: #0088cc; text-decoration: none;">
+                   =
+             Finance Director 100% (w/m)
+                            </a>=
+
+                        </p>
+                        <p style=3D"font-=
+size: 14px; line-height: 1.414em; margin: 0;">
+                          =
+  Vistra Z=C3=BCrich AG, Z=C3=BCrich
+                        </p>
+     =
+               </td>
+                </tr>
+                            =
+                                                <tr>
+                    =
+<td align=3D"center" height=3D"60" width=3D"60" style=3D"font-family: 'Helv=
+etica Neue', Arial, sans-serif; font-weight:normal; text-align: left; paddi=
+ng-right: 25px; padding-bottom: 20px; padding-top: 20px; border-bottom: 1px=
+ solid #e5e5e6;" valign=3D"middle">
+                            <img src=
+=3D"https://img.jobs.ch/www/img/toplogos/73781.jpeg" alt=3D"OK JOB AG" styl=
+e=3D"max-width: 80%">
+                    </td>
+                    <td=
+ align=3D"center" height=3D"60" style=3D"font-family: 'Helvetica Neue', Ari=
+al, sans-serif; font-weight:normal; text-align: left; padding-bottom: 20px;=
+ padding-top: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">=
+
+                        <p style=3D"font-size: 16px; line-height: 1.414e=
+m; margin: 0 0 4px 0;">
+                            <a href=3D"https://ww=
+w.jobs.ch/de/stellenangebote/detail/9924557/?hash=3Dc51fe4de2a8dfa93be05160=
+e7c205dd8&amp;profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85&amp;referen=
+ce-date=3D2020-09-23&amp;source=3Djob_alert&amp;pid=3D1&amp;utm_source=3Dau=
+tomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3A=
+b2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_=
+content=3Djob-link&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=
+=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-deco=
+ration: none;">
+                                ICT Supporter 100% (m/w/d=
+)
+                            </a>
+                        </p>
+     =
+                   <p style=3D"font-size: 14px; line-height: 1.414em; margi=
+n: 0;">
+                            OK JOB AG, Raum Bern
+              =
+          </p>
+                    </td>
+                </tr>
+      =
+                                                                      <tr>=
+
+                    <td align=3D"center" height=3D"60" width=3D"60" styl=
+e=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; =
+text-align: left; padding-right: 25px; padding-bottom: 20px; padding-top: 2=
+0px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+              =
+              <img src=3D"https://img.jobs.ch/www/img/toplogos/24354.png" a=
+lt=3D"ETH Z=C3=BCrich" style=3D"max-width: 80%">
+                    </td=
+>
+                    <td align=3D"center" height=3D"60" style=3D"font-fa=
+mily: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; text-align: =
+left; padding-bottom: 20px; padding-top: 20px; border-bottom: 1px solid #e5=
+e5e6;" valign=3D"middle">
+                        <p style=3D"font-size: =
+16px; line-height: 1.414em; margin: 0 0 4px 0;">
+                        =
+    <a href=3D"https://www.jobs.ch/de/stellenangebote/detail/9923988/?hash=
+=3Dc51fe4de2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9-670c-404a-81e=
+c-99482a056f85&amp;reference-date=3D2020-09-23&amp;source=3Djob_alert&amp;p=
+id=3D1&amp;utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_ca=
+mpaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An=
+%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a8d-5705-48c8-b=
+4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"c=
+olor: #0088cc; text-decoration: none;">
+                                S=
+cientific Programmer Atmospheric High-Performance Computing
+             =
+               </a>
+                        </p>
+                      =
+  <p style=3D"font-size: 14px; line-height: 1.414em; margin: 0;">
+       =
+                     ETH Z=C3=BCrich, Z=C3=BCrich
+                       =
+ </p>
+                    </td>
+                </tr>
+               =
+                                                             <tr>
+       =
+             <td align=3D"center" height=3D"60" width=3D"60" style=3D"font-=
+family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; text-align=
+: left; padding-right: 25px; padding-bottom: 20px; padding-top: 20px; borde=
+r-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+                        =
+    <img src=3D"https://img.jobs.ch/www/img/toplogos/24354.png" alt=3D"ETH =
+Z=C3=BCrich" style=3D"max-width: 80%">
+                    </td>
+      =
+              <td align=3D"center" height=3D"60" style=3D"font-family: 'Hel=
+vetica Neue', Arial, sans-serif; font-weight:normal; text-align: left; padd=
+ing-bottom: 20px; padding-top: 20px; border-bottom: 1px solid #e5e5e6;" val=
+ign=3D"middle">
+                        <p style=3D"font-size: 16px; line=
+-height: 1.414em; margin: 0 0 4px 0;">
+                            <a hre=
+f=3D"https://www.jobs.ch/de/stellenangebote/detail/9923987/?hash=3Dc51fe4de=
+2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9-670c-404a-81ec-99482a056=
+f85&amp;reference-date=3D2020-09-23&amp;source=3Djob_alert&amp;pid=3D1&amp;=
+utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb=
+%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob=
+-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d=
+89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088=
+cc; text-decoration: none;">
+                                Scientific P=
+rogrammer Weather and Climate Simulations
+                            </a=
+>
+                        </p>
+                        <p style=3D"font=
+-size: 14px; line-height: 1.414em; margin: 0;">
+                         =
+   ETH Z=C3=BCrich, Z=C3=BCrich
+                        </p>
+          =
+          </td>
+                </tr>
+                                 =
+                                           <tr>
+                    <td a=
+lign=3D"center" height=3D"60" width=3D"60" style=3D"font-family: 'Helvetica=
+ Neue', Arial, sans-serif; font-weight:normal; text-align: left; padding-ri=
+ght: 25px; padding-bottom: 20px; padding-top: 20px; border-bottom: 1px soli=
+d #e5e5e6;" valign=3D"middle">
+                            <img src=3D"ht=
+tps://img.jobs.ch/www/img/toplogos/24354.png" alt=3D"ETH Z=C3=BCrich" style=
+=3D"max-width: 80%">
+                    </td>
+                    <td =
+align=3D"center" height=3D"60" style=3D"font-family: 'Helvetica Neue', Aria=
+l, sans-serif; font-weight:normal; text-align: left; padding-bottom: 20px; =
+padding-top: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+=
+                        <p style=3D"font-size: 16px; line-height: 1.414em; =
+margin: 0 0 4px 0;">
+                            <a href=3D"https://www.j=
+obs.ch/de/stellenangebote/detail/9923986/?hash=3Dc51fe4de2a8dfa93be05160e7c=
+205dd8&amp;profile-id=3D61c9edb9-670c-404a-81ec-99482a056f85&amp;reference-=
+date=3D2020-09-23&amp;source=3Djob_alert&amp;pid=3D1&amp;utm_source=3Dautom=
+ail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c=
+%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_con=
+tent=3Djob-link&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05=
+224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-decoratio=
+n: none;">
+                                Scientific Programmer and Clim=
+ate Data Specialist
+                            </a>
+                  =
+      </p>
+                        <p style=3D"font-size: 14px; line-heig=
+ht: 1.414em; margin: 0;">
+                            ETH Z=C3=BCrich, Z=
+=C3=BCrich
+                        </p>
+                    </td>
+   =
+             </tr>
+                                                      =
+                      <tr>
+                    <td align=3D"center" heigh=
+t=3D"60" width=3D"60" style=3D"font-family: 'Helvetica Neue', Arial, sans-s=
+erif; font-weight:normal; text-align: left; padding-right: 25px; padding-bo=
+ttom: 20px; padding-top: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D=
+"middle">
+                            <img src=3D"https://img.jobs.ch/www=
+/img/toplogos/20012.png" alt=3D"Scout24 Schweiz AG" style=3D"max-width: 80%=
+">
+                    </td>
+                    <td align=3D"center" h=
+eight=3D"60" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; fon=
+t-weight:normal; text-align: left; padding-bottom: 20px; padding-top: 20px;=
+ border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+                  =
+      <p style=3D"font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;=
+">
+                            <a href=3D"https://www.jobs.ch/de/stellena=
+ngebote/detail/9848570/?hash=3Dc51fe4de2a8dfa93be05160e7c205dd8&amp;profile=
+-id=3D61c9edb9-670c-404a-81ec-99482a056f85&amp;reference-date=3D2020-09-23&=
+amp;source=3Djob_alert&amp;pid=3D1&amp;utm_source=3Dautomail-job-push&amp;u=
+tm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3A=
+de%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link&am=
+p;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8=
+919-35d8659567ca" style=3D"color: #0088cc; text-decoration: none;">
+     =
+                           Director of Software Development (f/m/d)
+     =
+                       </a>
+                        </p>
+              =
+          <p style=3D"font-size: 14px; line-height: 1.414em; margin: 0;">=
+
+                            Scout24 Schweiz AG, Flamatt or Zurich
+    =
+                    </p>
+                    </td>
+                </tr=
+>
+                                                                       =
+     <tr>
+                    <td align=3D"center" height=3D"60" width=3D=
+"60" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight=
+:normal; text-align: left; padding-right: 25px; padding-bottom: 20px; paddi=
+ng-top: 20px; border-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+     =
+                       <img src=3D"https://img.jobs.ch/www/img/toplogos/106=
+038.gif" alt=3D"HAFIDA Treuhand AG" style=3D"max-width: 80%">
+           =
+         </td>
+                    <td align=3D"center" height=3D"60" sty=
+le=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal;=
+ text-align: left; padding-bottom: 20px; padding-top: 20px; border-bottom: =
+1px solid #e5e5e6;" valign=3D"middle">
+                        <p style=
+=3D"font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+         =
+                   <a href=3D"https://www.jobs.ch/de/stellenangebote/detail=
+/9925430/?hash=3Dc51fe4de2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9=
+-670c-404a-81ec-99482a056f85&amp;reference-date=3D2020-09-23&amp;source=3Dj=
+ob_alert&amp;pid=3D1&amp;utm_source=3Dautomail-job-push&amp;utm_medium=3Dem=
+ail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-=
+views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a=
+8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567=
+ca" style=3D"color: #0088cc; text-decoration: none;">
+                   =
+             Mandatsleiter Treuhand 50 - 70% m/w - mit Entwicklungsm=C3=
+=B6glichkeiten zur STV Gesch=C3=A4ftsf=C3=BChrerin
+                      =
+      </a>
+                        </p>
+                        <p styl=
+e=3D"font-size: 14px; line-height: 1.414em; margin: 0;">
+                =
+            HAFIDA Treuhand AG, Zumikon
+                        </p>
+  =
+                  </td>
+                </tr>
+                         =
+                                                   <tr>
+                 =
+   <td align=3D"center" height=3D"60" width=3D"60" style=3D"font-family: 'H=
+elvetica Neue', Arial, sans-serif; font-weight:normal; text-align: left; pa=
+dding-right: 25px; padding-bottom: 20px; padding-top: 20px; border-bottom: =
+1px solid #e5e5e6;" valign=3D"middle">
+                            <img s=
+rc=3D"https://img.jobs.ch/www/img/toplogos/106983.jpeg" alt=3D"Wieds Ecoche=
+m Schweiz GmbH" style=3D"max-width: 80%">
+                    </td>
+   =
+                 <td align=3D"center" height=3D"60" style=3D"font-family: '=
+Helvetica Neue', Arial, sans-serif; font-weight:normal; text-align: left; p=
+adding-bottom: 20px; padding-top: 20px; border-bottom: 1px solid #e5e5e6;" =
+valign=3D"middle">
+                        <p style=3D"font-size: 16px; l=
+ine-height: 1.414em; margin: 0 0 4px 0;">
+                            <a =
+href=3D"https://www.jobs.ch/de/stellenangebote/detail/9924075/?hash=3Dc51fe=
+4de2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9-670c-404a-81ec-99482a=
+056f85&amp;reference-date=3D2020-09-23&amp;source=3Djob_alert&amp;pid=3D1&a=
+mp;utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=
+=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%=
+3Ajob-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e=
+4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: =
+#0088cc; text-decoration: none;">
+                                Verkauf=
+ Aussendienst
+                            </a>
+                        =
+</p>
+                        <p style=3D"font-size: 14px; line-height: 1.=
+414em; margin: 0;">
+                            Wieds Ecochem Schweiz Gmb=
+H, Luzern,Obwalden,Nidwalden, Uri,Berner Oberland
+                       =
+ </p>
+                    </td>
+                </tr>
+               =
+                                                             <tr>
+       =
+             <td align=3D"center" height=3D"60" width=3D"60" style=3D"font-=
+family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; text-align=
+: left; padding-right: 25px; padding-bottom: 20px; padding-top: 20px; borde=
+r-bottom: 1px solid #e5e5e6;" valign=3D"middle">
+                        =
+    <img src=3D"https://img.jobs.ch/www/img/toplogos/1819.jpeg" alt=3D"Sunr=
+ise Communications AG" style=3D"max-width: 80%">
+                    </td=
+>
+                    <td align=3D"center" height=3D"60" style=3D"font-fa=
+mily: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; text-align: =
+left; padding-bottom: 20px; padding-top: 20px; border-bottom: 1px solid #e5=
+e5e6;" valign=3D"middle">
+                        <p style=3D"font-size: =
+16px; line-height: 1.414em; margin: 0 0 4px 0;">
+                        =
+    <a href=3D"https://www.jobs.ch/de/stellenangebote/detail/9857414/?hash=
+=3Dc51fe4de2a8dfa93be05160e7c205dd8&amp;profile-id=3D61c9edb9-670c-404a-81e=
+c-99482a056f85&amp;reference-date=3D2020-09-23&amp;source=3Djob_alert&amp;p=
+id=3D1&amp;utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_ca=
+mpaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An=
+%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link&amp;uid=3D082f8a8d-5705-48c8-b=
+4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"c=
+olor: #0088cc; text-decoration: none;">
+                                R=
+eact Web Developer (f/m) 100%
+                            </a>
+        =
+                </p>
+                        <p style=3D"font-size: 14px;=
+ line-height: 1.414em; margin: 0;">
+                            Sunrise C=
+ommunications AG, Glattpark
+                        </p>
+              =
+      </td>
+                </tr>
+                                    <=
+/table>
+        <table border=3D"0" cellspacing=3D"0" style=3D"background=
+-color: #ffffff; padding: 0 30px; width: 100%;">
+            <tr class=3D=
+"emailButton primary">
+                <td align=3D"center"
+           =
+         class=3D"email-button"
+                    style=3D"color: #FFFF=
+FF; line-height: 33px; text-align: center; border-radius: 3px; display: blo=
+ck; padding-left: 15px; padding-right: 15px; background-color: #C42695;" va=
+lign=3D"middle">
+                    <a href=3D"https://www.jobs.ch/de/st=
+ellenangebote/?search-profile=3D61c9edb9-670c-404a-81ec-99482a056f85&amp;re=
+ference-date=3D2020-09-23&amp;source=3Djobmail&amp;pid=3D1&amp;utm_source=
+=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7C=
+tg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp=
+;utm_content=3Dlandingpage-btn&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d=
+02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"font-family: 'H=
+elvetica Neue', Arial, sans-serif; font-size:14px; font-weight: bold; color=
+: #ffffff !important; text-decoration:none; line-height: 33px; width:100%; =
+display:inline-block;" target=3D"_blank">
+                               =
+                 Weitere 54 Jobs anzeigen
+                    </a>
+    =
+            </td>
+            </tr>
+            <tr>
+                =
+<td colspan=3D"2" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif=
+; font-size: 16px; text-align: left; padding: 15px 0;" valign=3D"middle">=
+
+                    <a href=3D"https://www.jobs.ch/de/job-alert/61c9edb9=
+-670c-404a-81ec-99482a056f85/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMi=
+J9.eyJleHAiOjE2MTcwNzYwNTEsInVzZXIiOiIwODJmOGE4ZC01NzA1LTQ4YzgtYjRjOS03ZTRk=
+NDNkODlkMDIiLCJzZWFyY2hfcHJvZmlsZSI6IjYxYzllZGI5LTY3MGMtNDA0YS04MWVjLTk5NDg=
+yYTA1NmY4NSJ9.ZrqvpqP-EnhDTg3b27J2tFWSYvHipAU63eyBDHelk83yB6mHbANcaie4gKA2v=
+54Kc9lolh3yNCf0E-WPMrhD0g" style=3D"color: #0088cc; text-decoration: none;"=
+ target=3D"_blank">
+                        Abbestellen
+               =
+     </a>
+                </td>
+            </tr>
+        </table>
+=
+        <div style=3D"font-size: 14px; text-align: center;">
+        <a h=
+ref=3D"https://www.jobs.ch/de/konto/job-alarm?utm_source=3Dautomail-job-pus=
+h&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%=
+7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Dedit=
+-link&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aef=
+c-4919-8919-35d8659567ca" class=3D"center-xs" style=3D"color: #0088cc; padd=
+ing:10px 0; display: block;">
+            Job-Alarm bearbeiten
+        =
+</a>
+    </div>
+            <table border=3D"0" cellspacing=3D"0" style=
+=3D"width: 100%; padding: 30px 30px 0 30px; background-color: #efefef;">
+=
+            <tr>
+                <td colspan=3D"2" align=3D"center" style=
+=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; f=
+ont-size: 18px; text-align: center; padding-right: 20px; padding-bottom: 20=
+px; padding-top: 20px;" valign=3D"middle">
+                  <b>Nicht ver=
+passen! Diese Jobs sind immer noch online:</b>
+                </td>
+  =
+          </tr>
+        </table>
+        <table class=3D"boosted-table"=
+ border=3D"1" cellpadding=3D"20" style=3D"width: 100%; border: 1px solid #e=
+fefef;">
+                            <tr>
+                    <td valig=
+n=3D"top" style=3D"background-color: #fff; border-top: 4px solid #efefef; b=
+order: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">
+             =
+           <div class=3D"boosted" style=3D"padding: 20px;">
+             =
+                                           <div class=3D"boosted-logo" styl=
+e=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: normal;=
+ text-align: left; min-height: 36px; display: table-cell; vertical-align: m=
+iddle;">
+                                    <img src=3D"https://img.jobs=
+.ch/www/img/toplogos/5955.gif" alt=3D"Mercuri Urval, Bern" style=3D"max-wid=
+th: 80%">
+                            </div>
+                          =
+  <div class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue', Arial=
+, sans-serif; font-weight: normal; text-align: left; display: table-cell; p=
+adding-left: 40px; vertical-align: middle;">
+                            =
+    <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; overflow:=
+ hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+    =
+                                <a href=3D"https://www.jobs.ch/de/stellenan=
+gebote/detail/9872590/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=
+=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7C=
+tg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp=
+;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d0=
+2&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; =
+text-decoration: none;">
+                                        Chief Ex=
+ecutive Officer 100% (m/w/d)
+                                    </a>
+ =
+                               </p>
+                                <p cl=
+ass=3D"sponsored-text-worklocation" style=3D"max-height: 40px; overflow: hi=
+dden; font-size: 14px; line-height: 1.414em; margin: 0;">
+               =
+                     Mercuri Urval, Bern, Bern
+                          =
+      </p>
+                            </div>
+                         =
+                           </div>
+                    </td>
+           =
+     </tr>
+                            <tr>
+                    <td val=
+ign=3D"top" style=3D"background-color: #fff; border-top: 4px solid #efefef;=
+ border: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">
+           =
+             <div class=3D"boosted" style=3D"padding: 20px;">
+           =
+                                             <div class=3D"boosted-logo" st=
+yle=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: norma=
+l; text-align: left; min-height: 36px; display: table-cell; vertical-align:=
+ middle;">
+                                    <img src=3D"https://img.jo=
+bs.ch/www/img/toplogos/912.gif" alt=3D"Raiffeisen Banken" style=3D"max-widt=
+h: 80%">
+                            </div>
+                           =
+ <div class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue', Arial,=
+ sans-serif; font-weight: normal; text-align: left; display: table-cell; pa=
+dding-left: 40px; vertical-align: middle;">
+                             =
+   <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; overflow: =
+hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+     =
+                               <a href=3D"https://www.jobs.ch/de/stellenang=
+ebote/detail/9873689/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=
+=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7C=
+tg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp=
+;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d0=
+2&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; =
+text-decoration: none;">
+                                        Vorsitze=
+nder der Bankleitung (w/m/d)
+                                    </a>
+ =
+                               </p>
+                                <p cl=
+ass=3D"sponsored-text-worklocation" style=3D"max-height: 40px; overflow: hi=
+dden; font-size: 14px; line-height: 1.414em; margin: 0;">
+               =
+                     Raiffeisen Banken, Turbenthal ZH
+                   =
+             </p>
+                            </div>
+                  =
+                                  </div>
+                    </td>
+    =
+            </tr>
+                            <tr>
+                    =
+<td valign=3D"top" style=3D"background-color: #fff; border-top: 4px solid #=
+efefef; border: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">
+    =
+                    <div class=3D"boosted" style=3D"padding: 20px;">
+    =
+                                                    <div class=3D"boosted-l=
+ogo" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight=
+: normal; text-align: left; min-height: 36px; display: table-cell; vertical=
+-align: middle;">
+                                    <img src=3D"https:/=
+/img.jobs.ch/www/img/toplogos/1011.jpeg" alt=3D"J=C3=B6rg Lienert AG" style=
+=3D"max-width: 80%">
+                            </div>
+               =
+             <div class=3D"boosted-text" style=3D"font-family: 'Helvetica N=
+eue', Arial, sans-serif; font-weight: normal; text-align: left; display: ta=
+ble-cell; padding-left: 40px; vertical-align: middle;">
+                 =
+               <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px=
+; overflow: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px =
+0;">
+                                    <a href=3D"https://www.jobs.ch/d=
+e/stellenangebote/detail/9846951/?source=3Djob_alert_promo&amp;pid=3D1&amp;=
+utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb=
+%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob=
+-alert&amp;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7=
+e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color:=
+ #0088cc; text-decoration: none;">
+                                      =
+  CEO Privatbank - Vorsitzende/r der Gesch=C3=A4ftsleitun...
+            =
+                        </a>
+                                </p>
+     =
+                           <p class=3D"sponsored-text-worklocation" style=
+=3D"max-height: 40px; overflow: hidden; font-size: 14px; line-height: 1.414=
+em; margin: 0;">
+                                    J=C3=B6rg Lienert AG=
+, Kanton Bern
+                                </p>
+                    =
+        </div>
+                                                    </div>=
+
+                    </td>
+                </tr>
+                    =
+        <tr>
+                    <td valign=3D"top" style=3D"background-c=
+olor: #fff; border-top: 4px solid #efefef; border: 0; border-bottom: 8px so=
+lid #efefef;" colspan=3D"3">
+                        <div class=3D"booste=
+d" style=3D"padding: 20px;">
+                                            =
+            <div class=3D"boosted-logo" style=3D"font-family: 'Helvetica Ne=
+ue', Arial, sans-serif; font-weight: normal; text-align: left; min-height: =
+36px; display: table-cell; vertical-align: middle;">
+                    =
+                <img src=3D"https://img.jobs.ch/www/img/toplogos/29522.jpeg=
+" alt=3D"Cognizant Technology Solutions AG" style=3D"max-width: 80%">
+   =
+                         </div>
+                            <div class=3D=
+"boosted-text" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; f=
+ont-weight: normal; text-align: left; display: table-cell; padding-left: 40=
+px; vertical-align: middle;">
+                                <p class=3D=
+"boosted-text-jobtitle" style=3D"max-height: 45px; overflow: hidden; font-s=
+ize: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+                   =
+                 <a href=3D"https://www.jobs.ch/de/stellenangebote/detail/9=
+887162/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=3Dautomail-job-=
+push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3A=
+ww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Dj=
+ob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D0522=
+4c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-decoration:=
+ none;">
+                                        Program Director
+     =
+                               </a>
+                                </p>=
+
+                                <p class=3D"sponsored-text-worklocation"=
+ style=3D"max-height: 40px; overflow: hidden; font-size: 14px; line-height:=
+ 1.414em; margin: 0;">
+                                    Cognizant Tech=
+nology Solutions AG, Z=C3=BCrich
+                                </p>
+ =
+                           </div>
+                                       =
+             </div>
+                    </td>
+                </tr>
+ =
+                           <tr>
+                    <td valign=3D"top" st=
+yle=3D"background-color: #fff; border-top: 4px solid #efefef; border: 0; bo=
+rder-bottom: 8px solid #efefef;" colspan=3D"3">
+                        <=
+div class=3D"boosted" style=3D"padding: 20px;">
+                         =
+                               <div class=3D"boosted-logo" style=3D"font-fa=
+mily: 'Helvetica Neue', Arial, sans-serif; font-weight: normal; text-align:=
+ left; min-height: 36px; display: table-cell; vertical-align: middle;">
+ =
+                                   <img src=3D"https://img.jobs.ch/www/img/=
+toplogos/20012.png" alt=3D"Scout24 Schweiz AG" style=3D"max-width: 80%">
+=
+                            </div>
+                            <div class=
+=3D"boosted-text" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif=
+; font-weight: normal; text-align: left; display: table-cell; padding-left:=
+ 40px; vertical-align: middle;">
+                                <p class=
+=3D"boosted-text-jobtitle" style=3D"max-height: 45px; overflow: hidden; fon=
+t-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+                =
+                    <a href=3D"https://www.jobs.ch/de/stellenangebote/detai=
+l/9848570/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=3Dautomail-j=
+ob-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn=
+%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=
+=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D=
+05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-decorat=
+ion: none;">
+                                        Director of Software=
+ Development (f/m/d)
+                                    </a>
+         =
+                       </p>
+                                <p class=3D"s=
+ponsored-text-worklocation" style=3D"max-height: 40px; overflow: hidden; fo=
+nt-size: 14px; line-height: 1.414em; margin: 0;">
+                       =
+             Scout24 Schweiz AG, Flamatt or Zurich
+                      =
+          </p>
+                            </div>
+                     =
+                               </div>
+                    </td>
+       =
+         </tr>
+                            <tr>
+                    <td=
+ valign=3D"top" style=3D"background-color: #fff; border-top: 4px solid #efe=
+fef; border: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">
+       =
+                 <div class=3D"boosted" style=3D"padding: 20px;">
+       =
+                                                 <div class=3D"boosted-logo=
+" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: n=
+ormal; text-align: left; min-height: 36px; display: table-cell; vertical-al=
+ign: middle;">
+                                    <img src=3D"https://im=
+g.jobs.ch/www/img/toplogos/81563.png" alt=3D"Idorsia Pharmaceuticals Ltd" s=
+tyle=3D"max-width: 80%">
+                            </div>
+           =
+                 <div class=3D"boosted-text" style=3D"font-family: 'Helveti=
+ca Neue', Arial, sans-serif; font-weight: normal; text-align: left; display=
+: table-cell; padding-left: 40px; vertical-align: middle;">
+             =
+                   <p class=3D"boosted-text-jobtitle" style=3D"max-height: =
+45px; overflow: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 =
+4px 0;">
+                                    <a href=3D"https://www.jobs.=
+ch/de/stellenangebote/detail/9885066/?source=3Djob_alert_promo&amp;pid=3D1&=
+amp;utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=
+=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%=
+3Ajob-alert&amp;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b=
+4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"c=
+olor: #0088cc; text-decoration: none;">
+                                 =
+       Director HR Shared Services
+                                    </=
+a>
+                                </p>
+                               =
+ <p class=3D"sponsored-text-worklocation" style=3D"max-height: 40px; overfl=
+ow: hidden; font-size: 14px; line-height: 1.414em; margin: 0;">
+         =
+                           Idorsia Pharmaceuticals Ltd, Allschwil
+       =
+                         </p>
+                            </div>
+      =
+                                              </div>
+                    =
+</td>
+                </tr>
+                            <tr>
+        =
+            <td valign=3D"top" style=3D"background-color: #fff; border-top:=
+ 4px solid #efefef; border: 0; border-bottom: 8px solid #efefef;" colspan=
+=3D"3">
+                        <div class=3D"boosted" style=3D"padding: =
+20px;">
+                                                        <div clas=
+s=3D"boosted-logo" style=3D"font-family: 'Helvetica Neue', Arial, sans-seri=
+f; font-weight: normal; text-align: left; min-height: 36px; display: table-=
+cell; vertical-align: middle;">
+                                    <img =
+src=3D"https://img.jobs.ch/www/img/toplogos/853.gif" alt=3D"PwC" style=3D"m=
+ax-width: 80%">
+                            </div>
+                    =
+        <div class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue',=
+ Arial, sans-serif; font-weight: normal; text-align: left; display: table-c=
+ell; padding-left: 40px; vertical-align: middle;">
+                      =
+          <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; ove=
+rflow: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">=
+
+                                    <a href=3D"https://www.jobs.ch/de/st=
+ellenangebote/detail/9901468/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_=
+source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Aj=
+obs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-ale=
+rt&amp;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d4=
+3d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #00=
+88cc; text-decoration: none;">
+                                        Se=
+nior Manager/Director - Life Sciences, Pharma Co...
+                     =
+               </a>
+                                </p>
+              =
+                  <p class=3D"sponsored-text-worklocation" style=3D"max-hei=
+ght: 40px; overflow: hidden; font-size: 14px; line-height: 1.414em; margin:=
+ 0;">
+                                    PwC, Z=C3=BCrich
+            =
+                    </p>
+                            </div>
+           =
+                                         </div>
+                    </td>=
+
+                </tr>
+                            <tr>
+             =
+       <td valign=3D"top" style=3D"background-color: #fff; border-top: 4px =
+solid #efefef; border: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">=
+
+                        <div class=3D"boosted" style=3D"padding: 20px;">=
+
+                                                        <div class=3D"bo=
+osted-logo" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font=
+-weight: normal; text-align: left; min-height: 36px; display: table-cell; v=
+ertical-align: middle;">
+                                    <img src=3D"=
+https://img.jobs.ch/www/img/toplogos/10673.jpeg" alt=3D"Accenture" style=3D=
+"max-width: 80%">
+                            </div>
+                  =
+          <div class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue=
+', Arial, sans-serif; font-weight: normal; text-align: left; display: table=
+-cell; padding-left: 40px; vertical-align: middle;">
+                    =
+            <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; o=
+verflow: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;"=
+>
+                                    <a href=3D"https://www.jobs.ch/de/s=
+tellenangebote/detail/9894714/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm=
+_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3A=
+jobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-al=
+ert&amp;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d=
+43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0=
+088cc; text-decoration: none;">
+                                        D=
+irector, Experience Strategy (all genders) Basel
+                        =
+            </a>
+                                </p>
+                 =
+               <p class=3D"sponsored-text-worklocation" style=3D"max-height=
+: 40px; overflow: hidden; font-size: 14px; line-height: 1.414em; margin: 0;=
+">
+                                    Accenture, Basel
+               =
+                 </p>
+                            </div>
+              =
+                                      </div>
+                    </td>
+=
+                </tr>
+                            <tr>
+                =
+    <td valign=3D"top" style=3D"background-color: #fff; border-top: 4px sol=
+id #efefef; border: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">
+=
+                        <div class=3D"boosted" style=3D"padding: 20px;">
+=
+                                                        <div class=3D"boost=
+ed-logo" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-we=
+ight: normal; text-align: left; min-height: 36px; display: table-cell; vert=
+ical-align: middle;">
+                                    <img src=3D"htt=
+ps://img.jobs.ch/www/img/toplogos/20012.png" alt=3D"Scout24 Schweiz AG" sty=
+le=3D"max-width: 80%">
+                            </div>
+             =
+               <div class=3D"boosted-text" style=3D"font-family: 'Helvetica=
+ Neue', Arial, sans-serif; font-weight: normal; text-align: left; display: =
+table-cell; padding-left: 40px; vertical-align: middle;">
+               =
+                 <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45=
+px; overflow: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4p=
+x 0;">
+                                    <a href=3D"https://www.jobs.ch=
+/de/stellenangebote/detail/9785216/?source=3Djob_alert_promo&amp;pid=3D1&am=
+p;utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3D=
+wb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Aj=
+ob-alert&amp;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9=
+-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"colo=
+r: #0088cc; text-decoration: none;">
+                                    =
+    Head of Product Design ImmoScout24 w/m/d in 80-100...
+               =
+                     </a>
+                                </p>
+        =
+                        <p class=3D"sponsored-text-worklocation" style=3D"m=
+ax-height: 40px; overflow: hidden; font-size: 14px; line-height: 1.414em; m=
+argin: 0;">
+                                    Scout24 Schweiz AG, Flama=
+tt oder Z=C3=BCrich
+                                </p>
+              =
+              </div>
+                                                    =
+</div>
+                    </td>
+                </tr>
+              =
+              <tr>
+                    <td valign=3D"top" style=3D"backgr=
+ound-color: #fff; border-top: 4px solid #efefef; border: 0; border-bottom: =
+8px solid #efefef;" colspan=3D"3">
+                        <div class=3D"=
+boosted" style=3D"padding: 20px;">
+                                      =
+                  <div class=3D"boosted-logo" style=3D"font-family: 'Helvet=
+ica Neue', Arial, sans-serif; font-weight: normal; text-align: left; min-he=
+ight: 36px; display: table-cell; vertical-align: middle;">
+              =
+                      <img src=3D"https://img.jobs.ch/www/img/toplogos/1819=
+.jpeg" alt=3D"Sunrise Communications AG" style=3D"max-width: 80%">
+      =
+                      </div>
+                            <div class=3D"bo=
+osted-text" style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font=
+-weight: normal; text-align: left; display: table-cell; padding-left: 40px;=
+ vertical-align: middle;">
+                                <p class=3D"bo=
+osted-text-jobtitle" style=3D"max-height: 45px; overflow: hidden; font-size=
+: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+                      =
+              <a href=3D"https://www.jobs.ch/de/stellenangebote/detail/9906=
+785/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=3Dautomail-job-pus=
+h&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%=
+7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djob-=
+link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c3=
+2-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-decoration: no=
+ne;">
+                                        Web Developer (f/m) 100%
+=
+                                    </a>
+                                =
+</p>
+                                <p class=3D"sponsored-text-worklocat=
+ion" style=3D"max-height: 40px; overflow: hidden; font-size: 14px; line-hei=
+ght: 1.414em; margin: 0;">
+                                    Sunrise Co=
+mmunications AG, Opfikon
+                                </p>
+         =
+                   </div>
+                                               =
+     </div>
+                    </td>
+                </tr>
+         =
+                   <tr>
+                    <td valign=3D"top" style=3D"b=
+ackground-color: #fff; border-top: 4px solid #efefef; border: 0; border-bot=
+tom: 8px solid #efefef;" colspan=3D"3">
+                        <div clas=
+s=3D"boosted" style=3D"padding: 20px;">
+                                 =
+                       <div class=3D"boosted-logo" style=3D"font-family: 'H=
+elvetica Neue', Arial, sans-serif; font-weight: normal; text-align: left; m=
+in-height: 36px; display: table-cell; vertical-align: middle;">
+         =
+                           <img src=3D"https://img.jobs.ch/www/img/toplogos=
+/54142.jpeg" alt=3D"PartnerRe Holdings Europe Limited" style=3D"max-width: =
+80%">
+                            </div>
+                            <d=
+iv class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue', Arial, sa=
+ns-serif; font-weight: normal; text-align: left; display: table-cell; paddi=
+ng-left: 40px; vertical-align: middle;">
+                                =
+<p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; overflow: hid=
+den; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+        =
+                            <a href=3D"https://www.jobs.ch/de/stellenangebo=
+te/detail/9871706/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=3Dau=
+tomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3A=
+b2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_=
+content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp=
+;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; text-=
+decoration: none;">
+                                        Senior Underw=
+riter Specialty Casualty Europe
+                                    </a>=
+
+                                </p>
+                                <=
+p class=3D"sponsored-text-worklocation" style=3D"max-height: 40px; overflow=
+: hidden; font-size: 14px; line-height: 1.414em; margin: 0;">
+           =
+                         PartnerRe Holdings Europe Limited, Z=C3=BCrich
+ =
+                               </p>
+                            </div>
+=
+                                                    </div>
+              =
+      </td>
+                </tr>
+                            <tr>
+  =
+                  <td valign=3D"top" style=3D"background-color: #fff; borde=
+r-top: 4px solid #efefef; border: 0; border-bottom: 8px solid #efefef;" col=
+span=3D"3">
+                        <div class=3D"boosted" style=3D"paddi=
+ng: 20px;">
+                                                        <div =
+class=3D"boosted-logo" style=3D"font-family: 'Helvetica Neue', Arial, sans-=
+serif; font-weight: normal; text-align: left; min-height: 36px; display: ta=
+ble-cell; vertical-align: middle;">
+                                    <=
+img src=3D"https://img.jobs.ch/www/img/toplogos/2506.jpeg" alt=3D"1201 F. H=
+offmann-La Roche AG" style=3D"max-width: 80%">
+                          =
+  </div>
+                            <div class=3D"boosted-text" style=3D=
+"font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: normal; tex=
+t-align: left; display: table-cell; padding-left: 40px; vertical-align: mid=
+dle;">
+                                <p class=3D"boosted-text-jobtitle"=
+ style=3D"max-height: 45px; overflow: hidden; font-size: 16px; line-height:=
+ 1.414em; margin: 0 0 4px 0;">
+                                    <a hre=
+f=3D"https://www.jobs.ch/de/stellenangebote/detail/9871186/?source=3Djob_al=
+ert_promo&amp;pid=3D1&amp;utm_source=3Dautomail-job-push&amp;utm_medium=3De=
+mail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob=
+-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djob-link-promo&amp;uid=
+=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-3=
+5d8659567ca" style=3D"color: #0088cc; text-decoration: none;">
+          =
+                              Research Associate - Neurobiology
+         =
+                           </a>
+                                </p>
+  =
+                              <p class=3D"sponsored-text-worklocation" styl=
+e=3D"max-height: 40px; overflow: hidden; font-size: 14px; line-height: 1.41=
+4em; margin: 0;">
+                                    1201 F. Hoffmann-La=
+ Roche AG, Basel, CH-BS
+                                </p>
+          =
+                  </div>
+                                                =
+    </div>
+                    </td>
+                </tr>
+          =
+                  <tr>
+                    <td valign=3D"top" style=3D"ba=
+ckground-color: #fff; border-top: 4px solid #efefef; border: 0; border-bott=
+om: 8px solid #efefef;" colspan=3D"3">
+                        <div class=
+=3D"boosted" style=3D"padding: 20px;">
+                                  =
+                      <div class=3D"boosted-logo" style=3D"font-family: 'He=
+lvetica Neue', Arial, sans-serif; font-weight: normal; text-align: left; mi=
+n-height: 36px; display: table-cell; vertical-align: middle;">
+          =
+                          <img src=3D"https://img.jobs.ch/www/img/toplogos/=
+1597.png" alt=3D"Thoma &amp; Partner Management Consulting AG" style=3D"max=
+-width: 80%">
+                            </div>
+                      =
+      <div class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue', A=
+rial, sans-serif; font-weight: normal; text-align: left; display: table-cel=
+l; padding-left: 40px; vertical-align: middle;">
+                        =
+        <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; overf=
+low: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+=
+                                    <a href=3D"https://www.jobs.ch/de/stell=
+enangebote/detail/9876346/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_sou=
+rce=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs=
+%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&=
+amp;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d8=
+9d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088c=
+c; text-decoration: none;">
+                                        Pharm=
+Tech: Sales Rep/Specialist; KAM | PM | Medica...
+                        =
+            </a>
+                                </p>
+                 =
+               <p class=3D"sponsored-text-worklocation" style=3D"max-height=
+: 40px; overflow: hidden; font-size: 14px; line-height: 1.414em; margin: 0;=
+">
+                                    Thoma &amp; Partner Management Con=
+sulting AG, D-Schweiz o. Suisse romande
+                                <=
+/p>
+                            </div>
+                                =
+                    </div>
+                    </td>
+                </=
+tr>
+                            <tr>
+                    <td valign=3D"=
+top" style=3D"background-color: #fff; border-top: 4px solid #efefef; border=
+: 0; border-bottom: 8px solid #efefef;" colspan=3D"3">
+                  =
+      <div class=3D"boosted" style=3D"padding: 20px;">
+                  =
+                                      <div class=3D"boosted-logo" style=3D"=
+font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: normal; text=
+-align: left; min-height: 36px; display: table-cell; vertical-align: middle=
+;">
+                                    <img src=3D"https://img.jobs.ch/w=
+ww/img/toplogos/5606.jpeg" alt=3D"TRIMBLE SWITZERLAND GMBH" style=3D"max-wi=
+dth: 80%">
+                            </div>
+                         =
+   <div class=3D"boosted-text" style=3D"font-family: 'Helvetica Neue', Aria=
+l, sans-serif; font-weight: normal; text-align: left; display: table-cell; =
+padding-left: 40px; vertical-align: middle;">
+                           =
+     <p class=3D"boosted-text-jobtitle" style=3D"max-height: 45px; overflow=
+: hidden; font-size: 16px; line-height: 1.414em; margin: 0 0 4px 0;">
+   =
+                                 <a href=3D"https://www.jobs.ch/de/stellena=
+ngebote/detail/9910858/?source=3Djob_alert_promo&amp;pid=3D1&amp;utm_source=
+=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7C=
+tg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp=
+;utm_content=3Djob-link-promo&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d0=
+2&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca" style=3D"color: #0088cc; =
+text-decoration: none;">
+                                        Sales En=
+gineerIn =E2=80=93 Software Geb=C3=A4udetechnik - Schwe...
+              =
+                      </a>
+                                </p>
+       =
+                         <p class=3D"sponsored-text-worklocation" style=3D"=
+max-height: 40px; overflow: hidden; font-size: 14px; line-height: 1.414em; =
+margin: 0;">
+                                    TRIMBLE SWITZERLAND GMBH=
+, Horgen
+                                </p>
+                         =
+   </div>
+                                                    </div>
+  =
+                  </td>
+                </tr>
+                    </tab=
+le>
+      </td>
+</tr>
+<tr>
+    <td>
+        <!-- separator table =
+-->
+        <table border=3D"0" cellspacing=3D"0" style=3D"width: 100%; b=
+ackground-color: #efefef;">
+            <tr>
+                <td style=
+=3D"padding:4px 0; line-height:1em; background-color: #efefef;">&nbsp;</td>=
+
+            </tr>
+        </table>
+        <!-- end separator table =
+-->
+    </td>
+</tr>
+<tr>
+    <td align=3D"left" bgcolor=3D"#efefef;=
+" class=3D"container-padding" style=3D"background-color: #efefef; font-size=
+: 13px; font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.5e=
+m; text-align: left; width: 600px;">
+
+        <div style=3D"background-=
+color: #ffffff; padding: 30px 30px 0 30px;">
+            <br/>
+        =
+    <h3 style=3D"font-size: 18px; line-height: 27px; font-family: 'Helvetic=
+a Neue', Arial, sans-serif; font-weight:normal; color: #393941; margin:0; t=
+ext-align:left;"><b>Lerne diese Arbeitgeber kennen</b></h3>
+            <=
+br/>
+            Folgende Firmen haben offene Jobs, die auf deine Suchpro=
+file passen:
+        </div>
+    </td>
+</tr>
+<tr>
+    <td align=3D=
+"left" bgcolor=3D"#ffffff" style=3D"padding: 20px 0; background-color: #fff=
+fff; border-bottom: 1px solid #dfdfe0; border-radius: 3px; font-size: 13px;=
+ font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.5em; text=
+-align: left;">
+        <table class=3D"boosted-table" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0"
+               style=3D"width: 100%; backg=
+round-color: #ffffff;">
+            <tr>
+                <td align=3D"l=
+eft" valign=3D"top" style=3D"padding:10px 30px 10px 30px;">
+             =
+                        <!--[if !mso]><!-- -->
+                    <table=
+ class=3D"boosted" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=
+=3D"left"
+                           style=3D"border: 1px solid #dadbdd; =
+margin-bottom: 10px">
+                        <!--<![endif]-->
+        =
+                <!--[if (gte mso 9)|(IE)]>
+                        <table=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"600" align=3D"left" style=3D"=
+border: 1px solid #dadbdd;">
+                        <![endif]-->
+     =
+                   <tr>
+                            <!--[if !mso]><!-- --=
+>
+                            <td class=3D"boosted-logo" align=3D"center"=
+ height=3D"60" width=3D"60"
+                                style=3D"font=
+-family: 'Helvetica Neue', Arial, sans-serif; font-weight:normal; text-alig=
+n: left; padding:20px 25px 20px 20px;"
+                                va=
+lign=3D"middle">
+                                                        =
+            <img src=3D"https://img.jobs.ch/www/img/toplogos/1819.jpeg" alt=
+=3D"Sunrise Communications AG" width=3D"60">
+                            =
+                                </td>
+                            <!--<![=
+endif]-->
+                            <!--[if (gte mso 9)|(IE)]>
+      =
+                      <td class=3D"boosted-logo" align=3D"center" height=3D=
+"60" width=3D"60"
+                                style=3D"font-family: '=
+Helvetica Neue', Arial, sans-serif; font-weight:normal; text-align: left; p=
+adding:20px;"
+                                valign=3D"middle">
+      =
+                                                          <img src=3D"https=
+://img.jobs.ch/www/img/toplogos/1819.jpeg" alt=3D"Sunrise Communications AG=
+" width=3D"60">
+                                                         =
+   </td>
+                            <![endif]-->
+                     =
+       <td class=3D"boosted-text" align=3D"center" height=3D"60"
+        =
+                        style=3D"font-family: 'Helvetica Neue', Arial, sans=
+-serif; font-weight:normal; text-align: left; padding-bottom: 20px; padding=
+-top: 20px; width: 100%;"
+                                valign=3D"middl=
+e">
+                                <p class=3D"boosted-text-company"
+ =
+                                  style=3D"font-size: 16px; line-height: 1.=
+414em; margin: 0 0 4px 0;">
+                                    <a href=
+=3D"https://www.jobs.ch/de/firmen/1819-sunrise-communications-ag/stellenang=
+ebote/?utm_source=3Dautomail-job-push&amp;utm_medium=3Demail&amp;utm_campai=
+gn=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Cc=
+d%3Ajob-alert&amp;utm_content=3Deb_basic_company_link&amp;source=3Deb_basic=
+&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-491=
+9-8919-35d8659567ca"
+                                       style=3D"font=
+-weight:bold; color: #0088cc; text-decoration: none;">
+                  =
+                      Sunrise Communications AG
+                         =
+           </a>
+                                </p>
+                  =
+              <p class=3D"boosted-text-location"
+                        =
+           style=3D"font-size: 13px; line-height: 1.414em; margin: 0 0 5px =
+0;">
+                                    <a href=3D"https://www.jobs.ch/d=
+e/firmen/1819-sunrise-communications-ag/stellenangebote/?utm_source=3Dautom=
+ail-job-push&amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c=
+%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_con=
+tent=3Deb_basic_jobs_link&amp;source=3Deb_basic&amp;uid=3D082f8a8d-5705-48c=
+8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8659567ca"
+     =
+                                  style=3D"font-weight:bold; color: #0088cc=
+; text-decoration:none;" target=3D"_blank">
+                             =
+                                                       83 Jobs
+          =
+                                                                  </a>
+  =
+                                  -
+                                    Z=
+=C3=BCrich                                </p>
+                          =
+  </td>
+                        </tr>
+                    </table>
+  =
+                               </td>
+            </tr>
+        </table>=
+
+    </td>
+</tr>
+
+                              <!-- /content -->=
+
+
+                       =20
+<tr>
+  <td class=3D"header-gap" style=3D=
+"padding:2px 0; line-height:1em;">&nbsp;</td>
+</tr>
+<tr>
+  <td align=
+=3D"left" bgcolor=3D"#004099" class=3D"container-padding cv-info" style=3D"=
+background-color: #004099; padding-left: 30px; padding-right: 30px; padding=
+-top: 30px; padding-bottom: 30px; border-radius: 3px; background-color:#004=
+099; text-align:left;">
+    <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0">
+      <colgroup>
+        <col>
+        <col width=3D"40%"=
+>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td valign=
+=3D"middle">
+            <table>
+              <tbody>
+              =
+  <tr>
+                  <td><h3 class=3D"apple-link-white" style=3D"font=
+-size: 18px; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:=
+normal; color: #ffffff; text-align:left; margin:0; padding:0 0 0.9em 0;"><s=
+trong>Nutzt du alle Jobs.ch Tools?</strong></h3></td>
+                </t=
+r>
+
+                <tr>
+                  <td>
+                   =
+ <table cellspacing=3D"0" cellpadding=3D"0">
+                      <tbody=
+>
+                        <tr>
+                          <td width=3D"1=
+2" align=3D"left" valign=3D"top" style=3D"font-size:15px; line-height:14px;=
+ font-weight:bold; font-family: 'Helvetica Neue', Arial, sans-serif; color:=
+#CCD9EA; padding-bottom:3px; padding-left:2px; text-align:left;">&bull;</td=
+>
+                          <td align=3D"left" valign=3D"top" style=3D"fo=
+nt-size:13px; line-height: 1.5em; font-family: 'Helvetica Neue', Arial, san=
+s-serif; color:#CCD9EA; padding-bottom:3px; text-align:left;">
+          =
+                  Job-Alarm: Informiert bleiben zu neuesten Jobs.
+       =
+                   </td>
+                        </tr>
+                =
+        <tr>
+                          <td width=3D"12" align=3D"left" va=
+lign=3D"top" style=3D"font-size:15px; line-height:14px; font-weight:bold; f=
+ont-family: 'Helvetica Neue', Arial, sans-serif; color:#CCD9EA; padding-bot=
+tom:3px; padding-left:2px; text-align:left;">&bull;</td>
+                =
+          <td align=3D"left" valign=3D"top" style=3D"font-size:13px; line-h=
+eight: 1.5em; font-family: 'Helvetica Neue', Arial, sans-serif; color:#CCD9=
+EA; padding-bottom:3px; text-align:left;">
+                            1-=
+Klick-Bewerbung: Effizient, auch via Smartphone.
+                        =
+  </td>
+                        </tr>
+                        <tr>
+  =
+                        <td width=3D"12" align=3D"left" valign=3D"top" styl=
+e=3D"font-size:15px; line-height:14px; font-weight:bold; font-family: 'Helv=
+etica Neue', Arial, sans-serif; color:#CCD9EA; padding-bottom:3px; padding-=
+left:2px; text-align:left;">&bull;</td>
+                          <td ali=
+gn=3D"left" valign=3D"top" style=3D"font-size:13px; line-height: 1.5em; fon=
+t-family: 'Helvetica Neue', Arial, sans-serif; color:#CCD9EA; padding-botto=
+m:3px; text-align:left;">
+                            Profil: Gefunden we=
+rden statt suchen.
+                          </td>
+                    =
+    </tr>
+                      </tbody>
+                    </table>=
+
+                  </td>
+                </tr>
+              </tbody>=
+
+            </table>
+          </td>
+        </tr>
+      </tbody>=
+
+    </table>
+  </td>
+</tr>
+             =20
+<!-- promo app -->
+<=
+tr>
+  <td class=3D"header-gap" style=3D"padding:2px 0; line-height:1em;">=
+&nbsp;</td>
+</tr>
+<tr>
+  <td class=3D"container-padding app-info" ali=
+gn=3D"left" bgcolor=3D"#f7f7f7" style=3D"font-size: 13px; font-family: 'Hel=
+vetica Neue', Arial, sans-serif; border-radius: 3px; background:#f7f7f7 url=
+('https://www.jobs.ch/asset/img/mail/email-appinfo.png') no-repeat top righ=
+t; box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1); -webkit-box-shadow: 0 1px 1p=
+x 0 rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1); te=
+xt-align:left;">
+
+    <!--[if gte mso 9]>
+    <v:rect xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:60=
+0px;height:210px;">
+    <v:fill type=3D"frame" src=3D"https://www.jobs.ch=
+/asset/img/mail/email-appinfo.png" color=3D"#f7f7f7" />
+    <v:textbox st=
+yle=3D"mso-fit-shape-to-text:true" inset=3D"0,0,0,0">
+    <![endif]-->
+=
+
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+      <tb=
+ody>
+        <tr>
+          <td align=3D"left" style=3D"padding-right: =
+30px; padding-top: 30px; padding-bottom: 30px;">
+            <h3 class=3D=
+"apple-link-head" style=3D"font-size: 18px; font-family: 'Helvetica Neue', =
+Arial, sans-serif; color: #393941; text-align:left; margin:0; margin-left: =
+30px; padding:0 0 0.9em 0;">Hol dir jetzt die jobs.ch App</h3>
+          =
+  <table cellspacing=3D"0" cellpadding=3D"0" style=3D"margin-left : 30px">=
+
+              <tbody>
+                <tr>
+                  <td ali=
+gn=3D"left" valign=3D"top" style=3D"font-size:13px; line-height: 1.5em; fon=
+t-family: 'Helvetica Neue', Arial, sans-serif; color:#393941; padding-botto=
+m:3px; text-align:left;">Verpasse keine Jobangebote mehr.</td>
+          =
+      </tr>
+              </tbody>
+            </table>
+
+          =
+  <table style=3D"margin-left : 30px">
+              <tr>
+             =
+   <td align=3D"left" style=3D"font-size:13px; line-height: 18px; font-fami=
+ly: 'Helvetica Neue', Arial, sans-serif; padding-top:20px; text-align:left;=
+"><a href=3D"https://www.jobs.ch/de/mobile/?utm_source=3Dautomail-job-push&=
+amp;utm_medium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7C=
+lg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Dapp-te=
+aser" target=3D"_blank"><img src=3D"https://img.jobs.ch/www/DESIGN-jobs-ch/=
+img/email/playstore-badge-de.png" height=3D"33" width=3D"110" alt=3D"Google=
+ Play" style=3D"border:0;"></a></td>
+                <td style=3D"font-si=
+ze:13px; line-height: 18px; font-family: 'Helvetica Neue', Arial, sans-seri=
+f; padding-top:20px; text-align:left;">&nbsp;</td>
+                <td al=
+ign=3D"left" style=3D"font-size:13px; line-height: 18px; font-family: 'Helv=
+etica Neue', Arial, sans-serif; padding-top:20px; text-align:left;"><a href=
+=3D"https://www.jobs.ch/de/mobile/?utm_source=3Dautomail-job-push&amp;utm_m=
+edium=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7=
+Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Dapp-teaser" tar=
+get=3D"_blank"><img src=3D"https://img.jobs.ch/www/DESIGN-jobs-ch/img/email=
+/appstore-badge-de.png" height=3D"33" width=3D"110" alt=3D"AppStore" style=
+=3D"border:0;"></a></td>
+              </tr>
+            </table>
+   =
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!--[=
+if gte mso 9]>
+    </v:textbox>
+    </v:rect>
+    <![endif]-->
+  </=
+td>
+</tr>
+<!-- promo app -->
+         =20
+          <!-- footer -->=
+
+          <tr>
+            <td align=3D"center" class=3D"container-pad=
+ding" style=3D"padding: 20px 30px 30px 30px; line-height: 0.5em; text-align=
+:center;">
+              <!-- footer_free_text block -->
+              =
+                <!-- /end footer_free_text block -->
+
+              <!-=
+- footer_registered_as block -->
+                                        =
+  <div style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-size=
+: 12px; color: #5F6062; line-height: 1.5em;">
+                           =
+             Du bist bei jobs.ch als <a href=3D"mailto:news@rainer-warth.eu=
+" style=3D"color: #0088cc; text-decoration: none;">news@rainer-warth.eu</a>=
+ registriert.
+                </div>
+                <br>
+           =
+                             <!-- /end footer_registered_as block -->
+
+=
+              <!-- footer_unsubscribe block -->
+                         =
+                     <div style=3D"font-family: 'Helvetica Neue', Arial, sa=
+ns-serif; font-size: 12px; color: #5F6062; line-height: 1.5em;">
+        =
+            <a href=3D"https://www.jobs.ch/de/konto/einstellungen?utm_sourc=
+e=3Dautomail-job-push&utm_medium=3Demail&utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2=
+c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&utm_conten=
+t=3Dunsubscribe-link&uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&mid=3D05224=
+c32-aefc-4919-8919-35d8659567ca">E-Mail-Einstellungen</a> anpassen
+      =
+          </div>
+                <br>
+                                 =
+           <!-- /end footer_unsubscribe block  -->
+
+              <!-- =
+footer job alarm unsubscribe -->
+                  <div style=3D"font-fam=
+ily: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: #5F6062; =
+line-height: 1.5em;">
+        Alle Job-Alarme <a href=3D"https://www.jobs=
+.ch/de/job-alert/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiO=
+jE2MTcwNzYwNTEsInVzZXIiOiIwODJmOGE4ZC01NzA1LTQ4YzgtYjRjOS03ZTRkNDNkODlkMDIi=
+LCJzZWFyY2hfcHJvZmlsZSI6ImFsbCJ9.nA6rFcjhp-eInG0YaAm8OQEFSEmK7aqkwMGQHSBb02=
+6lpMj4W6wIlxX3thTmmjpz4V_oSVElq323HzZpciOVoQ">abbestellen</a>
+    </div>=
+
+    <br>
+              <!-- /end footer job alarm unsubscribe -->
+=
+
+              <!-- footer_contact block -->
+                          =
+    <div style=3D"font-family: 'Helvetica Neue', Arial, sans-serif; font-si=
+ze: 12px; color: #5F6062; line-height: 1.5em;">Hast du eine Frage?&nbsp;&nb=
+sp;
+                  <nobr>
+                    <a href=3D"mailto:info=
+@jobs.ch" style=3D"color: #0088cc; text-decoration: none;">
+             =
+           info@jobs.ch
+                    </a>=C2=B7&nbsp;
+          =
+          <a href=3D"+41442546900" style=3D"color: #0088cc; text-decoration=
+: none;">+41 44 254 69 00</a>
+                  </nobr>
+               =
+ </div>
+                <br>
+                <br>
+                <br=
+>
+                            <!-- /end footer_contact block -->
+
+   =
+           <!-- /logo -->
+              <div>
+                <a href=
+=3D"https://www.jobs.ch/de/?utm_source=3Dautomail-job-push&amp;utm_medium=
+=3Demail&amp;utm_campaign=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3=
+Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&amp;utm_content=3Djobs-logo&amp;uid=3D=
+082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919-8919-35d8=
+659567ca"><img src=3D"https://www.jobs.ch/asset/img/mail/logo-jobs-grey.png=
+" style=3D"border:0;" height=3D"24" width=3D"120"></a>
+              </di=
+v>
+              <!-- end logo -->
+
+              <!-- footer_unsubsc=
+ribe block -->
+                                                      <img=
+ style=3D"border: 0" height=3D"1" width=3D"1"
+         src=3D"https://www=
+.google-analytics.com/collect?v=3D1&amp;tid=3DUA-18570029-7&amp;t=3Devent&a=
+mp;ec=3Demail&amp;ea=3Dopen&amp;cm=3Demail&amp;ni=3Dtrue&amp;dp=3D%2F_email=
+%2Fjob-alert&amp;cn=3Dwb%3Ajobs%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-v=
+iews%7Cpd%3An%7Ccd%3Ajob-alert&amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d=
+02&amp;cd14=3D05224c32-aefc-4919-8919-35d8659567ca&amp;dt=3D65%20neue%20Ste=
+llenangebote%20gefunden"/>
+        <img style=3D"border: 0" height=3D"1" =
+width=3D"1"
+         src=3D"https://www.jobs.ch/api/v1/public/email-track=
+ing/open?document_path=3D%2F_email%2Fjob-alert&amp;utm_campaign=3Dwb%3Ajobs=
+%7Ctg%3Ab2c%7Ccn%3Aww%7Clg%3Ade%7Cmg%3Ajob-views%7Cpd%3An%7Ccd%3Ajob-alert&=
+amp;uid=3D082f8a8d-5705-48c8-b4c9-7e4d43d89d02&amp;mid=3D05224c32-aefc-4919=
+-8919-35d8659567ca&amp;send_ts=3D2020-09-30T05%3A47%3A31.745%2B02%3A00"/>=
+
+
+                            </td>
+          </tr>
+          <!-- =
+/footer -->
+
+        </table>
+        <!-- /container -->
+
+      =
+  <br>
+        <br>
+      </td>
+    </tr>
+  </table>
+  <!--/wrap =
+-->
+  </body>
+</html>
+
+
+--_=_swift_1601437651_e43a77467c62dfb60fe8d480e9af4cef_=_--
+

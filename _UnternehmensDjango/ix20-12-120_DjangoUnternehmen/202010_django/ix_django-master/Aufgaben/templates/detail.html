@@ -1,0 +1,114 @@
+{% extends '_base.html' %}
+
+{% load static %}
+{% load crispy_forms_tags %}
+{% load django_tables2 %}
+
+{% block anlegen_active %}
+    active
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="col d-lg-none text-center my-auto pt-0 mt-0">
+            <h3>{{ TITLE_KURZ }}</h3>
+        </div>
+        <div class="col d-none d-lg-block text-center my-auto pt-0 mt-0">
+            <h2>{{ TITLE_LANG }}</h2>
+        </div>
+    </div>
+    <!--
+    <div class="row">
+        <div class="col px-5">
+            {% crispy form %}
+        </div>
+    </div>
+    -->
+    <div class="row">
+        <div class="col">
+            <form id="Aufgabe_create" action="" method="post">
+                {% csrf_token %}
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row mx-2 mt-2">
+                                        <div class="col">
+                                            {{ form.kurztext|as_crispy_field }}
+                                        </div>
+                                    </div>
+                                    <div class="row mx-2 mt-2">
+                                        <div class="col">
+                                            {{ form.langtext|as_crispy_field }}
+                                        </div>
+
+                                    </div>
+                                    <div class="row mx-2 mt-2">
+                                        <div class="col">
+                                            {{ form.vorlage_datum|as_crispy_field }}
+                                        </div>
+                                        <div class="col">
+                                            {{ form.status|as_crispy_field }}
+                                        </div>
+                                        <div class="col">
+                                            {{ form.liste|as_crispy_field }}
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Aktions Buttons -->
+                <div class="row  mx-0 mt-2">
+                    <div class="col bg-light py-2 px-4 m-1">
+                        <ul class="navbar-nav navbar-expand align-items-center justify-content-end">
+                            <li class="nav-item pl-3">
+                                <button type="button" class="btn btn-secondary" data-toggle="modal"
+                                        data-target="#cancelPopup">
+                                    Abbrechen
+                                </button>
+                            </li>
+                            <li class="nav-item pl-3 mr-3">
+                                <button type="submit" class="btn btn-primary">Speichern</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="cancelPopup" tabindex="-1" role="dialog" aria-labelledby="cancelPopupLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="cancelPopupLabel">Wirklich abbrechen?</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    Eingaben werden verloren gehen. Möchten Sie die Eingabe beenden?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary"
+                            data-dismiss="modal">Fortsetzen
+                    </button>
+                    <a class="btn btn-primary " href="{% url 'main' %}">
+                        Beenden
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}

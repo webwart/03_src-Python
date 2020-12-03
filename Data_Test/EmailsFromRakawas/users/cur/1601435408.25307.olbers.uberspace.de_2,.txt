@@ -1,0 +1,1741 @@
+Return-Path: <bounces+324454-ef25-news=rainer-warth.eu@mail.jw.de>
+Delivered-To: rakawas-news@rainer-warth.eu
+Received: (qmail 25291 invoked by uid 498); 30 Sep 2020 03:10:08 -0000
+Received: from o1.mail.jw.de (o1.mail.jw.de [50.31.59.250])
+	by olbers.uberspace.de (Haraka/2.8.25) with ESMTPS id B079502C-003C-410E-9E32-B93CEEF88FB2.1
+	envelope-from <bounces+324454-ef25-news=rainer-warth.eu@mail.jw.de>
+	(cipher=ECDHE-RSA-AES256-GCM-SHA384);
+	Wed, 30 Sep 2020 05:10:01 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=jw.de;
+	h=from:subject:mime-version:content-type:list-archive:list-unsubscribe:
+	list-id:to;
+	s=m1; bh=e3fwgjWCozN17B4D5hpoAYjQJ+Gf2Wf3XiiQ0Stn/CE=;
+	b=QKjNAgKpYmu4yC7F+JaZggZc7mTi9bYF+7FQt8zbOEc0XEkcZTmMMIQFikoASZa3rGwh
+	jTLik0hC25URL/CYVadxgCFtW5/DX1ssiPjo7hnjnRSwcT9ffq4A7G9H/jJgzl85vFypYw
+	dLHIwXHYQWKcLn5CqAdPdFHMZ1wJeLH1g=
+Received: by filterdrecv-p3mdw1-5dd6bc5999-rg6hh with SMTP id filterdrecv-p3mdw1-5dd6bc5999-rg6hh-18-5F73F700-2E
+        2020-09-30 03:09:53.102314087 +0000 UTC m=+709877.356671900
+Received: from relay2.jobware.net (unknown)
+	by ismtpd0006p1lon1.sendgrid.net (SG) with ESMTP id PTTS-9G8QmeU7luVYKa93A
+	for <news@rainer-warth.eu>; Wed, 30 Sep 2020 03:09:52.836 +0000 (UTC)
+Received: from mailing-66d4d549f7-szgjn (unknown [192.168.12.7])
+	by relay2.jobware.net (Postfix) with ESMTP id 8FF5C1001A9
+	for <news@rainer-warth.eu>; Wed, 30 Sep 2020 05:09:52 +0200 (CEST)
+Date: Wed, 30 Sep 2020 03:09:53 +0000 (UTC)
+From: Frankfurter Allgemeine Zeitung Jobmailer <jobmail@faz.jw.de>
+Message-ID: <340071048.187676.1601435392583@mailing-66d4d549f7-szgjn>
+Subject: Wir haben 30 aktuelle Stellenangebote zu Ihrer Suchanfrage
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_187674_884513757.1601435392576"
+List-Archive: https://faz.jw.de/suchergebnis?jw_jobname=innovation&jw_chl_seg=JOBMAIL-056f1ca2-7efc-40cb-9eff-f16306ba53bf
+List-Unsubscribe: <mailto:056f1ca2-7efc-40cb-9eff-f16306ba53bf-unsubscribe@faz.jw.de?subject=Unsubscribe>,<https://faz.jw.de/?optOutToken=056f1ca2-7efc-40cb-9eff-f16306ba53bf>
+List-Id: jobmail.faz.jw.de
+Precedence: bulk
+X-SG-EID: 
+ =?us-ascii?Q?Uj3aYg52c+LLQjRSx2kNrpxaSwxID2QN85SnoXbF1LlyMABoYnfKWSVTS2HpB3?=
+ =?us-ascii?Q?R+4bBZV2jqIiqA8KEkBUbibqJQ4DsVQfMwv5=2F5L?=
+ =?us-ascii?Q?BdksT+EeCqSZduYmSlKddvcpALGfgR6S=2FVnrkB5?=
+ =?us-ascii?Q?y9kSUlCSODOQFOLb0tq=2FAR7zUY0hGdlJdUVbTEO?=
+ =?us-ascii?Q?faTV2xp1uhgVXgQAKYBxyXDgST9+FvIaMfIzt9+?=
+ =?us-ascii?Q?ojYqciF4mGc6o+TV3VsD6W=2FqDTGMId=2FszO04UUW?=
+ =?us-ascii?Q?QwI6pqBdKo+yExrKERuPBAL=2FrJuhQxysHqXpt21?=
+ =?us-ascii?Q?VBQ=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb8raWjw0ZPf1VmjsCkspi=2FIQPtxNeFvw5AMOUfzb+w?=
+ =?us-ascii?Q?ivgELiCytubTWrU79qnYUAqr17gX1T0Bhd5Z6Eh?=
+ =?us-ascii?Q?j0JhrcwTvNN8XS1povHXTwmY7tFSyxfXcEha55f?=
+ =?us-ascii?Q?copyMjbDbDWGjaV4x3k4JCo0uRLLV041QhNiXLX?=
+ =?us-ascii?Q?MfjtO=2FSgarSCNOEv5MhNV=2F8q6FKymfLWQFTfUo2?=
+ =?us-ascii?Q?I6gsLID0cazers7JjfcD5SLuxh6EJabt15zfgio?=
+ =?us-ascii?Q?40tFSwEJzRgfJKkZES745gk4j8bknsfzsPDdPWo?=
+ =?us-ascii?Q?7yS=2FsoYH4G4bBYXXoOTdQY2c?=
+To: news@rainer-warth.eu
+X-Rspamd-Bar: --
+X-Rspamd-Report: R_SPF_ALLOW(-0.2) CTYPE_MIXED_BOGUS(1) DMARC_POLICY_ALLOW(-0.5) FORGED_SENDER(0.3) R_DKIM_ALLOW(-0.2) UNPARSEABLE_RELAY(0.001) MIME_GOOD(-0.1) HAS_LIST_UNSUB(-0.01) BAYES_HAM(-3) MIME_HTML_ONLY(0.1) MID_RHS_NOT_FQDN(0.5)
+X-Rspamd-Score: -2.109
+
+------=_Part_187674_884513757.1601435392576
+Content-Type: multipart/related; 
+	boundary="----=_Part_187675_866291576.1601435392576"
+
+------=_Part_187675_866291576.1601435392576
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+    <!--<![endif]-->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+    <title></title>
+
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+        table {border-collapse: collapse !important;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+        .wrapper { width: 100% !important }
+        .appleLinks a { color: #999999; text-decoration: none }
+        a.footerLinks {color:#c60000; font-weight: bold;}
+
+        @media screen and (max-width: 600px) {
+            .nl-bodytable {border: 0px !important; min-width: 320px}
+            .nl-jobmail-modify-2 .column {max-width: 100% !important; }
+            .nl-jobmail-modify-2 .column1 .inner {padding-bottom: 0px !impo=
+rtant}
+        }
+
+        @media screen and (max-width: 480px) {
+            .nl-intro span {font-size: 16px !important}
+            .nl-intro br {display: none !important}
+            .nl-list .contents table, .nl-list .contents tbody, .nl-list .c=
+ontents tr, .nl-list .contents td {display: block; width: 100% !important; =
+box-sizing: border-box}
+            .nl-list .contents table td.column1 {width: 100% !important}
+            .nl-list .contents table td.column2 {display: none }
+            .nl-abbinder a {display: inline-block}
+        }
+
+        .nl-bt-table a:hover {text-decoration: none; }
+        [owa] .nl-list .contents table td.column2 {display: none }
+        [owa] .nl-jobmail-modify-2 .column {max-width: 100% !important}
+        [owa] .nl-jobmail-modify-2 .column1 .inner {padding-bottom: 0px !im=
+portant}
+
+    </style>
+</head>
+<body style=3D"Margin:0 !important;padding-top:0;padding-bottom:0;padding-r=
+ight:0;padding-left:0;background-color:#ffffff;" >
+
+<center class=3D"wrapper" style=3D"width:100% !important;table-layout:fixed=
+;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" >
+    <div class=3D"webkit" style=3D"max-width:602px;Margin:0 auto;" >
+
+        <!--[if (gte mso 9)|(IE)]>
+        <table width=3D"602" align=3D"center" style=3D"border-spacing:0;fon=
+t-family:sans-serif;color:#323e45;font-size:14px;border-collapse:collapse;t=
+able-layout:fixed;" >
+            <tr>
+                <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;" >
+        <![endif]-->
+
+        <table class=3D"outer" align=3D"center" style=3D"border-spacing:0;b=
+order-collapse:collapse;table-layout:fixed;Margin:0 auto;width:100%;" >
+
+            <!-- nl-logo Start-->
+            <tr>
+                <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0">
+                    <table class=3D"nl-logo-row" width=3D"100%" style=3D"bo=
+rder-spacing:0;border-collapse:collapse;table-layout:fixed;">
+                        <tr>
+                            <td class=3D"one-column nl-logo" style=3D"paddi=
+ng-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+                                <table width=3D"100%" style=3D"border-spaci=
+ng:0;border-collapse:collapse;table-layout:fixed;" >
+                                    <tr>
+                                        <td class=3D"inner contents" style=
+=3D"padding-top:15px;padding-bottom:20px;padding-right:0px;padding-left:0px=
+;text-align:left;float:left;">
+										    <img src=3Dhttps://stellenmarkt.faz.net/resources/img/viewer-=
+logo.png alt=3D""/>
+										</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- nl-logo Ende-->
+
+            <tr>
+                <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;" >
+                    <table class=3D"nl-bodytable" style=3D"border-spacing:0=
+;border-collapse:collapse;table-layout:fixed;Margin:0 auto;width:100%;borde=
+r-width:1px;border-style:solid;border-color:#e3e3e3;max-width:602px;backgro=
+und-color:#fff;" >
+
+                        <!-- nl-header Start-->
+                        <!--tr>
+                            <td class=3D"one-column nl-header"  bgcolor=3Df=
+fffff style=3D"font-family: sans-serif; border-left-style: solid; color: #2=
+22222; border-left-width: 1px; border-left-color: #e2e2e2; border-right-sty=
+le: solid; border-right-width: 1px; border-right-color: #e2e2e2; border-top=
+-style: solid; border-top-width: 1px; border-top-color: #e2e2e2; padding: 1=
+5px 20px 0px; border-top: 1px solid #e2e2e2;" >
+                                <div class=3D"column">
+                                    <table>
+                                        <tr>
+                                            <td class=3D"inner" style=3D"te=
+xt-align:center;">
+                                                <table class=3D"contents">
+                                                    <tr style=3D"font-famil=
+y: sans-serif; font-size: 18px; text-align:center;">
+																											Neue Jobs f=FCr Sie!
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr-->
+                        <!-- nl-header Ende-->
+
+                        <!-- nl-jobs-list intro Start-->
+                        <tr>
+                            <td class=3D"one-column nl-intro"  bgcolor=3Dff=
+ffff style=3D"border-left-style: solid; border-left-width: 1px; border-left=
+-color: #e2e2e2; border-right-style: solid; border-right-width: 1px; border=
+-right-color: #e2e2e2; padding-left: 20px; padding-right: 20px; padding-top=
+: 0px; padding-bottom: 5px;" >
+                                <table>
+                                    <tr>
+                                        <td>
+                                          	<p style=3D"font-family: sans-se=
+rif; font-size:18px;text-align:left;">
+                                              Neue Jobs f=FCr Sie!
+                                            </p>
+                                            <p style=3D"font-family: sans-s=
+erif; font-size:14px;text-align:left;">
+										      										Sehr geehrte Abonnentin, sehr geehrter Abonnent d=
+es Frankfurter Allgemeine Zeitung Jobmailers, <br/>
+											  											in dieser E-Mail finden Sie =20
+                                              30 neue Stellenanzeigen
+zu Ihrem Suchprofil                                                  <b>inn=
+ovation</b>.                                              <br/>
+																						</p>
+																						<p style=3D"font-family: sans-serif; font-size:14px; =
+text-align:left;"> =20
+											  											Wir w=FCnschen Ihnen viel Erfolg bei Ihrer Job-Such=
+e
+																						</p>
+																				</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!-- nl-jobs-list intro Ende-->
+					=09
+                        <!-- nl-jobs-list Start-->
+                    =20
+					   <tr>
+                            <td class=3D"one-column nl-list" style=3D"paddi=
+ng-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+                                <table width=3D"100%" style=3D"border-spaci=
+ng:0;border-collapse:collapse;table-layout:fixed;" >
+                                    <tr>
+                                        <td class=3D"inner contents" style=
+=3D"font-family:sans-serif;padding-bottom:10px;padding-right:10px;padding-l=
+eft:10px;width:100%;text-align:left;padding-top:0;" >
+                                            <table width=3D"100%" style=3D"=
+border-spacing:0;font-family:sans-serif;font-size:15px;border-collapse:coll=
+apse;table-layout:fixed;" >
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhp=
+vIp-2BMj-2FnHKoyThdxKO9Cew27jEYyY6PqDMAKeH8npmRsHEA-2B3LnExVsMf-2BpRvaec-2F=
+Vi3XaAdGyr7JOpguMqk8-2Barf7AC-2FBpuuP9YU-2BVWqpbIy6TofIznWwz3Lc-2BjPBtMG7uA=
+-2FJqiBzv4puinZEOVM-2FeX9MuvD9HGoTnxgzh8VG4C08cluswx8pzSv0TbHOmZbev-2B3ww4x=
+U-2BLteidHzXiatCtO50Txlt6qQOshz-2FImDAs-2FEYrA8bEj31BIOKiKWA8d600bTV-2FxAF6=
+PzvlH90xsUlP7mkrSKcqlALY4KBPHAP0QU3mhLGp7pxtps-2FF57-2BaR4www9-2BGer3BikXoY=
+qpo0Witu-2Bw0ju5Dev2QhP0MiWeyZO3GkCbQU9cLj8RR49nSAfSF0yeKRtTd-2B8EtMSE-2F1M=
+wDjTqUlta0O3Oo67zBZxLV60q4mKlWqYoMPgKdDlILo6DYE8jnR0KLPfWOOJGo9UlgImtE7Y9yC=
+FbMUilQmSJJYNhTbCOjZ-2BLdUvMEfSpxw55I69enVIH3Y9wfrn1HCTCk-2FACe4DhknUTMHgJL=
+XfubdZjGcqzfVIkPrhKxjgQzCYv1pCaiD456yLKDkfifQ7FFbDFGBe-2F6HmU5E621w7VVsBEr9=
+IxGXPniks0naH8-3Dn0Ts_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhc=
+WzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5=
+NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7=
+ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8=
+EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0J=
+oZs1UM8b4xDOE-2FPsA8AWYiSuFJwtQypVc1uM2ELclfbCJrPeK1i-2Bw-2Bvtu79IV900ZUJlM=
+iiEiQmE3Xj1gLKcAqVIZ-2BCsNvuT9ONiTLK-2Fjwc9PZBqccpddoLKIQJZ02lVE3CKU9aFLWde=
+-2F6lpGsFWbJ1HnnFtnOnQ-3D" target=3D"_blank" style=3D"text-decoration:none;=
+ font-weight: bold;" ><span class=3D"jobtitle" style=3D" line-height:22px;c=
+olor:#c60000;" >Verk=E4ufer (m/w/d) 20 Wochenstunden oder auf Minijob-Basis=
+</span></a><br />
+															<span class=3D"jobcompany"  >Le Creuset GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Baden-Baden</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/241/017129241/017129241/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjh=
+QoAeYw8XB3KEhYuE1FjmSg7Cb-2Fy-2FsI-2FrRwrLyJaj0Qi6AP29UvI3A0R4LKQeZctXrLYs-=
+2BDmTns4jIHE86YCgjWE9PPR8ImQWMYvIrOuri5gXslyYJSzrhgwO-2BKo-2Bryk5-2B9fbghbq=
+5czVpquRTTvWlhxjQQ6iRixvbGvSB1z7CVz-2BRtXFLBWQj3OBBBuOyWK3L-2BEa6xdLa5HvzUh=
+Wl7YocZv0VeXuv9Ef3QY0RCQMHsKjbp1xeS4sCjg1rCPDCW9F1jSfExOwF-2Bj1-2Ff754jwEvz=
+FKJPE5Na0nXmixyuE0vi2ysowQN6Tym227aynczvsF-2Bmap6xjNocRPp1sFCIuNflsDn3g-2Bq=
+K40W8P2j5-2F53QQczTKah6cSvyrJKQLuoxVu-2F5haXCv4gJvIszxtY1igypyVdmjnQ-2FvRCU=
+87cwF1g2Tlg7wLxT-2BWNqh-2BfEFpFdNCQQoMoyE36XhRVnQhZp7WKRm-2BE3S4gbKDhWQMeNs=
+xEHs9-2FJguESOxpHyXLeLdSqA-2FbamfhxqdvWaVY04VnkxF3N5Qzy476VgfbC5zt4CQlkDJV-=
+2BMSG8MtvcdrxzIg5mB6T9VeU6s3H20yqe3qBDXMA-2FsQHT2V-2BW6l4WbUYIDNjQ-3D-3DYrP=
+V_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPue=
+p75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7B=
+J8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojF=
+b-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk=
+5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xG7zUP7ZOw8=
+nRDnQ3dDn115BZ8IzYAiiUAgQypUn7-2B1fVftea6KCh3I-2FF2alb7Yk20DPhXdKbeE-2FogN-=
+2FnyH0UoR-2BzsF9FARdmoB5ufAXXGHvQyLmaS2bDDxkxlCz6WOHn5-2BnqEfNc7ui0z-2FutkL=
+Vv5s-3D" target=3D"_blank" style=3D"text-decoration:none; font-weight: bold=
+;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Sa=
+les Coordinator (m/w/d) Vertriebsinnendienst</span></a><br />
+															<span class=3D"jobcompany"  >hummel sport & leisure Warenhan=
+delsgesellschaft mbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Hamburg</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/454/017129454/017129454/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDic=
+uhRKin9lhGLmdexcIqBRRGNZ1qCjgpGXxmzTOS4RtDQf2ZMysvV8tcHtNpg0b9FpVs0BzHe-2BD=
+HqPxNtcAHVPpPgLUBH-2FYmwFNx5AoFKKeEctWZ105PZm6HgSSlUaBQJzMvxvhP2ax4a-2BIHQG=
+velp2vJcqU-2FzWHBGNvytamZQSqMHP-2FCtvksuviF64SuzEVCwpF5-2BNW7YrqRn1gqB-2BHN=
+XDEXoRxModJdT9XIBzYuMFQP85FaxJaPfAPCN3Xvo8UbjwX4g5TevaX0gA1aDUkSTsFE86Gi1ld=
+vxzaUbxIW39IfRsX1ndu7lZut9OFos0M1E8vwHCpxYP-2B0JWAlSP81ctc27mXsXFY-2Bp9-2FE=
+4zD7aecPJ93nbm7AnlTDxwejsGRwMiXCBV3CLFGHjfWRwLnc6nSiUYw46WbffDK996t-2FNwygt=
+C10-2FiYn5eBN7fJLU6WML3jyNLlTf2JOqhAm0rEbRoMXdrs78VQTsIO-2FyhwrVECLO-2FyJNs=
+h991rj105TmNwgWEC93Vbb-2FWUTHto6fCNSrMInryqmxsUFbXkXuoiwOWq2rDpuLDxMzFbvDZ1=
+q1Qd4-3DRRkR_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH=
+-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6f=
+vdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIA=
+xxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WY=
+mZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4=
+xAswiU-2B8dDWiBgyow3UBnENyhp3hdEU3mgiirJVF0fi-2FkiHoWs7HzVIXA4OorE055c-2BU8=
+7WZW6A6EV0euDL3FbuT-2BBkA3-2FwvUfB2eW65v1AC5w149-2BHVD8WURG52av9DdnoQuYtwDd=
+vTkgHNgZEBtYo-3D" target=3D"_blank" style=3D"text-decoration:none; font-wei=
+ght: bold;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60=
+000;" >Controller (w/m/d)</span></a><br />
+															<span class=3D"jobcompany"  >Sonova Deutschland GmbH</span><=
+br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Fellbach</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/180/017129180/017129180/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDiF=
+LfJ4uq-2BrflVOSYtyVA6ExakDK1xlX2oA1SQMMvs4-2FVvBLoSIUD1pAqKa6I3068vQ6POsQvr=
+uKA3hC5o6AIQ-2BTptHUMPLAYGJl-2F1Qa6A1WniynCYs2PbDwvVMRAq9J0A-2BeJmi2RHE5S5g=
+xoTaKn4bbtFzsJp7uiojyLjLVducH9Kz-2BtUqIjcqsJGZHeeVwsNZI7yDzfglOXo0UeEY24hYg=
+pgwAEH-2F1-2BvvY3NuEFzth34w06ZLxxsgTGEqvuMmQ3bRlZ2rZKXODA0sNuILJfOD4MFPJBtY=
+93zm6KuksnSUbaL9o7lTPWicdqFOvz0RRWhXdJN9Deada69Aa61Lcy0DHUP4-2BM2EC34SkNDDF=
+IQMOHO8au0MoBo863sYTGlh9eBmHnczqhSNVui7IclYcKkyZ5rgxiZUz78nHrq9iepiRu2o68Qt=
+OLK9Hv2DTvuT9gTuLkUI-2F2djgyIHveP87XF8GaURRpVB8PqnqdFX9lvry0-2BncquKkEE7Uhr=
+1I-2FM7Ta6d8ZwZXdCgVmu65wkRTRAhckPJ-2Fdwmo-2FcwQUEoS3kyRG4jTQwAGqOgXGcFdzfX=
+J35DnchiM7GcRgNcjWfraiUZfQI7uveD6ZvN5R7dNzBPDwSBZrqyDnALuWY-2FCA9ltow-3DiV1=
+S_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPue=
+p75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7B=
+J8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojF=
+b-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk=
+5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xHxImNTa9wg=
+42EwxmU65Rlu8VlFgnrk2Mg2wzrlvoBxSmPJwBYlOg-2BhG-2F4eyP0vOCN3CAInVMZ0PREKr2B=
+7T34iDot7KyCAd7cySllGLZo8SVT0i5zFJNHVE-2F1wU3mE5554kOgwLUKq593md3-2BI4chA-3=
+D" target=3D"_blank" style=3D"text-decoration:none; font-weight: bold;" ><s=
+pan class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Verkaufs=
+sachbearbeiter (m/w/d) Fahrradbranche / Umformtechnik</span></a><br />
+															<span class=3D"jobcompany"  >Sch=FCrmann Umformtechnik GmbH =
+& Co. KG</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Leopoldsh=F6he</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/816/017129816/017129816/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjj=
+TEaxIy6pYkI41KSOPxgAHV6DZRG3-2BvPkhApaYm1u9eigIcjSAM1u-2FCX9Eo4htaGXnyyJBH3=
+Rr6eubHEnIvIyKAy9qjProU-2FApdL-2F0cVPGy2KDxRRIEmKAInvAkfTrWpVfE4DgsWeOigaVe=
+6bVH56LBaP-2F36rOxEvUGQM6o-2B-2FilX2V9UTBQKJSOz1Bs7KgD7Akzt-2BjC7qen2zrVw37=
+eV9vlcsBIZ6KUByVnvRqb3aoS50fxLq48bUced3YMl1fsWT7sNv23PX70KPuD4kf5kWPLof1Eo-=
+2F5FRsyx5rk-2FC9i3a5uuCMug3gicf86ydEYBHEMRu3Jl-2BBf7hXP-2BEmfURgQM0pdgtk7nL=
+cN4PrZCevPF6SgUK8VMmvrPqcOYFBPt2FSlP5Zx9OVbPPtmXyLWOZOSDxBZ47mcHbinWgBHH2J2=
+BugwTSk1bEr3pn16pQHekmRitxPZ-2B1MJWgJ51Yz1VsC4cH2fiWNNiz54ILK-2Bvb1djFg7KcD=
+a4-2BORwWt4Hk-2B9MbENITJZ7BhfYpPldmugZc0CecA6BWcpciT2xI3wjQdXBAM6nZ3UWokRoq=
+4nLPD2MtpLXtJVhUV3CQOuXUCKafQ2x-2FaGxEvOwwJQ0QvSJhug-3D-3Dp1Jx_7H2tvCCsb7ZL=
+VNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZp=
+oazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunD=
+cipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzE=
+gvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLV=
+pVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xKmTyBfNzI-2Fe3fWPyScz4EX=
+X02lfeZTeCyAq7beTxEhvSys2kg-2BoMuTUD-2BODHITqStV08gjEFxUMcrMsYHKZIejFYjhQxO=
+FejnQmXIYbM2TUXzmNeD5VF0NInj2lwBRs7AzAQpboB-2BhckvjtkWESoNA-3D" target=3D"_=
+blank" style=3D"text-decoration:none; font-weight: bold;" ><span class=3D"j=
+obtitle" style=3D" line-height:22px;color:#c60000;" >Mitarbeiter (m/w/d) St=
+ammdatenpflege in Teilzeit</span></a><br />
+															<span class=3D"jobcompany"  >GRUNER AG</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Wehingen Bei Villingen-Schwenningen</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/124/017129124/017129124/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDiv=
+Umk0-2BWY4tm7t7QPyc6b2iNG9gftG4f9dBj-2FP99p3sgdvuf8izm6jtqPgCwJviB1cFFIamh1=
+TIbQQBIqFiAFyqzku4ELS0TNIDv7WFrzHNvpwNmhA19yuCTnEELgWHg-2BXkVezzUddtqXXdkaJ=
+f1GwzLdlqFxZmPc60Ga2t-2BcveycYZVB3ut8x5P-2FYm-2Fcc6DO-2BstLkALfYu-2FDeT0mNw=
+ovELHQNXAoZri9-2FUw2Xs0CPDUxMh48tasX42RfIw9jLH5fMW44EDLspbFMHDDvaTOuS1X7BmZ=
+j4-2BTfF7wbZ6KGqWAnvD-2FXi5FJgyouCEr9BHeuCuy1QM2HHvGKSVogmLL0-2BJFrX9yup2PF=
+ZyYdoN8DNGy66nC-2F0UlrdDk-2F9ciwN7iQPnES2bQYlG-2BZHwf5TaEQeNJXKeG8Bwc00-2Bz=
+MRfs9KFakoIdFe8Z7dLAoMjJlRMzIs3CkgcL0o-2F61wNpZXHETxJeMeKkhp5yPwrgLitwZbmdu=
+i2lAyF-2BDUqtqTX07LD2fTyJ5sS6beK0Iyab0EfBXB-2B5k6EtRoa4zqKzfsJgaP1zg6UMARF0=
+wpdcZtNwkua1fEnWmtqKD7uwLAfq6CvTQr7ngbaoa8ciTU0Yx7qg0GywYBX6WJURNabTYnXoRcC=
+tGHok01gzBYiU4ms3HNT8ty9GEx_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vO=
+UWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q=
+9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-=
+2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhB=
+OwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh=
+9uiT0JoZs1UM8b4xFyO6ANvGIywUZrbExU-2Bb-2BEj6EpY-2Fhw7wFR8-2FHzTy2D9cTZHpLlt=
+DozLR9KP8Zuh5dVeKVhPSbSn2C2DMZ2V0m5SRUSOyeJb95sQp6F20V6HpHpnctfzZmsSqMMblqw=
+NdNIoSkMXLvTiNZXxC-2BOZtxM-3D" target=3D"_blank" style=3D"text-decoration:n=
+one; font-weight: bold;" ><span class=3D"jobtitle" style=3D" line-height:22=
+px;color:#c60000;" >Meister (m/w/d) Installateur und Heizungsbau als Betrie=
+bsleiter (m/w/d) Gas / Wasser</span></a><br />
+															<span class=3D"jobcompany"  >enwas GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Kirchheimbolanden</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/866/017129866/017129866/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhg=
+936Qm-2BYmcwQMN7mqDCYZUB-2FdJ91bETC8ZQxt77nXrCYyLZod0-2FcYM0bcEpE-2BBNROK5o=
+FFtM-2Fl7pR-2FNqYib2yEPJejepRXWDM4efzi-2Biw7AJWfsO3gSbJV6-2BOSaYbopSSaPYKed=
+1WWixJ5u9YsTzU-2FCsm94FX9pQR2-2FF5-2BwFVYcMxkiyir4wnBOzWjglLDbkcTQ6oNBRJMyH=
+RX1Iofsdqk3A7RNrqmw-2BY9H5rwkFU-2FK8b3MFb6xVQewzIBedxzAwypEPwNU7PyCBLuENsQk=
+7ClqJxcWKIFOUk48oW4rPZMjvzDOpQ6IEXYxZNi2c7tKox3lsRh2p3ALJ3B7pLvQMyedyb7LjxF=
+Sd-2Fh3P-2FmoIcezCm8vwewUvLDPe7iAUpo-2FJE-2FgOivW6JEU5-2BW-2BPWdRbhsg0Qmqpr=
+VqYtu-2Bb3CnlW18csnW3u6KiDwRPcLfpdBq6ILk67PkDLwxh5OCyMw1djZ5vnXXAZGbprG6fIp=
+XnWGeN9kUS75e8qrp4WPP6GiY35nykVE0jiOCFCaogAEPlx-2BXaUgrMVC2NMxvo5zdjeJAgUkH=
+JUYnaJ-2BOxsGodE1MfxGhgnnDz0TWAj7LIk7WNmAWJH1XWETMIQZJbA0C-2BzFg-3D-3DUJls_=
+7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep7=
+5YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8=
+PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-=
+2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5m=
+pj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xKukz38vFT4ti=
+7eDCUPyz7mFgwEqlLxv7Y0de9FwlYGXZLXdVjxgL-2BmfirhOFJ-2Bv2DXF8HzL447oS5g0jk6l=
+5yNKiFtku1mzi0eGeyTyLs9XDUUKN9zdvXUwOVlh3igY8VdCFl9ylN05zP6su1Ly4Ps-3D" tar=
+get=3D"_blank" style=3D"text-decoration:none; font-weight: bold;" ><span cl=
+ass=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Abteilungsleit=
+ung (m/w/d) Krankenversicherung</span></a><br />
+															<span class=3D"jobcompany"  >Fonds Finanz Maklerservice GmbH=
+</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >M=FCnchen</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/362/017129362/017129362/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDix=
+lOiQ7yf2GV-2FGY2UOxiYyrBhfdc0joaOmQ09z25llniS476stiRAo7bZjR10oQDm6oRsRdBNyY=
+KHdlXl0I4KPH5eplsK9PSGhfLl0cWia7VI2o30YtplyqO7ITTnR6PrhLYwJ7a0eO6qrcGTwRUg3=
+C8xJmkULd86AIcE9vWAhvtVxehlYsdMKb8B-2Bv17Xikh3GRoEZs3aQeqtD0-2Fa8gSWEm8xrEF=
+1LM2yNIfZrmuVAHIn5Vy3lSFl5pEvsIFxABpPP-2BgVn-2FROuVrus2wMMagGsd6id59G6ixnmj=
+0hJeyY-2BvCKYLMV8z3Jx8de-2F2iJJXwvWlN5Q9HJKi4R5NckCWiT-2BLQScQ3w9En0Y6J-2B1=
+Lfe3vN0ujWkG6XRpDtvWm6btWp2SIRuF6Cgpr265XsaDe61PNwrNGeKuZIQwQiMSaOR8-2Fq1eN=
+fuUAiUIQ23-2FolZQqY3nZw8ETPWc3xxtgrpPimAbRL5xAY0iNF5aSN-2BhVh7EL2fDapL85UzC=
+CbaqUmljB633W-2F8sy03HJL2vrSKOrO0vNr4WNJrA5wok9QkgXqLb1Va0ObA9LbMCx1n0N0Yj3=
+5Rp9wv-2BCGSqnPKvimtJzA03pN3HfHv8s2Vg5KJQLsUIQ-3D-3DNevj_7H2tvCCsb7ZLVNdm9R=
+NUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHb=
+fQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYm=
+cDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDE=
+Gf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-=
+2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xD2wyvPghUHNQllgiAftrp5VhN-2FMk=
+2Ql-2FWH6HppFMQ-2BOPWWt4EC-2Fb6N3YD-2BigCDNPyDVhYxvxZh5IYm2aW6PED5qtSlUFKyd=
+0NQq0SR3c4T2ji1HUM-2B-2FHwFutdxXWb0XcdLvpyw1gS2GWG74BQkjDkE-3D" target=3D"_=
+blank" style=3D"text-decoration:none; font-weight: bold;" ><span class=3D"j=
+obtitle" style=3D" line-height:22px;color:#c60000;" >Control Center Electri=
+cian (m/w/d) Schwerpunkt SCADA</span></a><br />
+															<span class=3D"jobcompany"  >BELECTRIC GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Kolitzheim (Zwischen W=FCrzburg Und Schweinfurt)</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/348/017129348/017129348/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDix=
+Tuv5xqdUo21zmrWNjoEQtUSGAwj0zTpch0L6PxOlRUnmj1xj-2FycBucJ8t9QPBv1Mbc2PTIDev=
+FpfVB1ebWxxD39DufEe9rdD9KodhJLNlAWksPZHFCU8Nvn0rT8Kv6kFLBwijzNro8Nt56q2NF8e=
+f-2BmEyqoRHddnLDjSJW19Qnnl2W7T6J5sDz5MaPhW549BjuxN3xQt4fp2N0Ae7UBRbEQmmrCJm=
+iRLAYA2EwHbhIHjpz2gVXvHdBDD2b9TZ4teN3EONIc24gE2Vi4guUHn6wrs4305jT8obsoWXFV0=
+2rP1M65cRxRwhChDmtv4U5UX89llvIlDXf8OvJB1MOsN5GGkpt1KFlvXbi1Usqs5Xhp4EYWVIYS=
+Ouz4NzvwirCqR2hJgUa7Izo0Y5Qx7uRvlI-2FKvu7IAWb6Y0DoOPnmP0TTqq7UrL74yYe5N-2FB=
+ZcqowZ7htqYD5BfR5lHYY5hpqcEfI8LMJWGimIQhFVOrovQpqgvk8VU4LiVwgNpEGBUzXtb7mvX=
+64UobSLUWu-2B2h7tAHbJsM916VrGZ8TqCHg5LNO2FE0CmC8Ymeh3bt2hX6qoNjIca-2Fojy-2F=
+eAtFoIU9gKsfsz_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcF=
+qH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n=
+6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJv=
+IAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4=
+WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8=
+b4xBUlqa0sX2RVAmTmuk0111yAF9djP7Gc67YU8r9jhAEnPlbzVAmfg1hKLxpk7mAbHb82TZqFU=
+wdV-2BwHPnx0oAnmvwoaWSAd8Cn0yPmupT9-2BqxsUzDPqYRC-2BJQYkDizD58FVQNhX9fjkEx3=
+maTx60asE-3D" target=3D"_blank" style=3D"text-decoration:none; font-weight:=
+ bold;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;=
+" >Systemadministrator (m/w/d) Netzwerke</span></a><br />
+															<span class=3D"jobcompany"  >BELECTRIC GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Kolitzheim (Zwischen W=FCrzburg Und Schweinfurt)</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/505/017129505/017129505/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhq=
+RWdDcctnwrAup-2BdvbG36o8Du4EYFF27NFYziukjlq7JfT0UDvuqDmZhhWl11Q0sh0nFuyxKvV=
+fVe-2BALccRxopIPIFxKHIz7mPPYgpeA7x8FGJjP8ZDlA4e-2FoRvRVFe-2BhHN0XuvqswBblB5=
+V1G6rjJ-2FbziYSKjIGA-2FyapYib-2Bl6E5Wl8jhq7YQweLxsGKKQa9mbtW6adDx3N3-2B0UtA=
+i7hRTyllXllpHOPi4gPbz20rnzfrwbt0FgPFKP5NIw1aHROhNTZSiJFf4GEhVmFLTYnpZ-2FcNs=
+N0D7tfLNDWs7ZN2EKNra5hXQG3IpezFAxCiLVgBIneliKkPWLc6Q6j4Ki3OXyU4jJaa6T2R5sVF=
+2FuN-2BdCpCX7oJ5Vt5SUwgm6yvgQHcV8mOXxSx2tKoI1Mo-2BYhWWTUN3yDnoKfHnGabWgq7is=
+9uLFCQqB-2FkP12Bh4IJdWnxEbA9ImoUcu5z7rCjR8HIzh6odlh2pEwOzIfz6jmdyhnMY7dYuy1=
+CIJvoHNPDJlw8d7AIhcs88vtByHBWMZ58dgwBBs-2Flk3eI-2F-2B-2FYnQi3RmgGwV1TtYhojB=
+lw14NocThdE5zdUsCoI3CoMywD1SL644JL3FqCCm2X29YkRi3w-3D-3Dfdsz_7H2tvCCsb7ZLVN=
+dm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoa=
+zQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDci=
+pcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgv=
+UDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpV=
+BGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xJXxUQoWlVObZwYB4zjl1HW5RNx=
+qZgyzeDnAcT8lnTZnzBmUEc3QduVz5mWbP83TfJ83W1-2Bo4kyH1SFI0D-2FyeVqTl1XrWi4coZ=
+PCM8WgbCuarWAgVQJIIMG5Qw0lJKohvqUJWmANBylUiahOY2SoGMg-3D" target=3D"_blank"=
+ style=3D"text-decoration:none; font-weight: bold;" ><span class=3D"jobtitl=
+e" style=3D" line-height:22px;color:#c60000;" >Senior IT Systems Engineer E=
+nterprise Storage (m/w/d)</span></a><br />
+															<span class=3D"jobcompany"  >noris network AG</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >N=FCrnberg, M=FCnchen, Aschheim, Berlin</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/logo/511/43511/961/001094961/27/12037_4_160x80.gif" alt=3D"Unte=
+rnehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDij=
+xQM-2FRsIGpKw3od2F00oKZwdXnaO15IGj99TOmm-2FGwN1isC6ZFxd76jZUVaaH-2F-2BfgKgZ=
+THk7CESYBwu8sA6SVCAObhFEbOftfeSID-2FnQwmwRJBK4nDT4xPIWkK0o1moEIo0ynnoMgl5Ic=
+rLgZZEPoe4105oCkPdTq9a8Z96Dmvpwt132qL4XVIYMKMzxzkw30WQ10Qs6QIhR-2FKfSuxfzi6=
+BWKxAVhtFyKmpnowIF84LppBR-2Fu4tDaoEglw4xDCCNTWrcPXzHa7-2B00Z-2BmY2YJPG2vanX=
+w8i4GY6KrQIibhBH8Scn1YWJlYn4Ki7MB54RjIEqWtQf48tdCBKD8Y9RetBa4D4GdtRsL0nhUI5=
+lsyYnDBZ5SpCUrct-2BINxaFiADbbYqdbtx6W9cuMuSmZ3MBqurE2m67VxkGE9FNdXQdvHa5b0L=
+rP1M1WpVw02A8WWX9Tu7qK6e3-2F33rRKgWwDX5AVEFkgpgzQKCqYD7CS5fX15VSVOlLcdZhzZt=
+9NBMbPzdFuWwrJjAvxoeHATCkJF9lxnJlbwK-2BbiUHEeRIktFSB21E225EuZMl8EX-2FMRj-2F=
+qR-2F9OeJQQsl-2BA8xUd94gz-2FHajXTvjO18p-2FzPqfKjIHcyUhs1-2BxeQ1JhviB-2BAM-2=
+BJSlI6SKAQG7Ppr18eKA7aPAlXepa0kyCU2RxHbYhx8kSEb8g-3D-3DE89R_7H2tvCCsb7ZLVNd=
+m9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoaz=
+QHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcip=
+cYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvU=
+DDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVB=
+Gw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xBvWz-2FxlVigNIkaKt-2Bd8RM6r=
+XYGbLp0jBZSgMLXbNUPbEoTApqhKMuFEGDSEJl0g1jrzrvJCJKAb7WIc22nyFDl0G52m3R0nsqH=
+JCCWCIbUrJ4iwOOb-2BS-2FaA24G-2BgM8wBz4447uAHJMzeGl-2FiqDWDyI-3D" target=3D"=
+_blank" style=3D"text-decoration:none; font-weight: bold;" ><span class=3D"=
+jobtitle" style=3D" line-height:22px;color:#c60000;" >(Senior) Business Dev=
+eloper mit Schwerpunkt Konsumg=FCterindustrie und Maschinenbau (all genders=
+)</span></a><br />
+															<span class=3D"jobcompany"  >Z=FChlke Engineering GmbH</span=
+><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Frankfurt am Main,Hannover</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/logo/400/1400/128/001399128/61/Zuehlke_160x80.gif" alt=3D"Unter=
+nehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhq=
+RWdDcctnwrAup-2BdvbG36o8Du4EYFF27NFYziukjlqzGaeiU9si5L9aTi3ZUr-2BHkHe-2FQtT=
+u4rtLp1uhHfvnEbaQq9IsaXJv6sDQYWsFpQzp0fdIkuf24Sf3zLuHozIEDe-2FG0V-2Bhefttb-=
+2FZKVfs3Wbv6dKggIi95XXL-2FYVMK8-2B-2F1kfYC0uFdxvcOVtPfbI9w7oxzz1zCLN3cXb34p=
+IZVDSTYVL4c-2FgjgM9mCaM0otWEgvbr3lVo0aOoXVFo4DBGfWRy9cMqLxcJB89kzCNLjU-2BXo=
+gK48FOeqYPk8D3q02nQePDCsJxQ7e1GGg-2Fy-2B62THznd1WZzxT-2FMgyrzTPofQUvTJeab08=
+nXDbPk-2BjFAe84MaIu3GK7oGFfJffC37Co5CXEPRnB1Ff4swlE8KTZi-2F-2Fzn72ELIW-2Bof=
+MenTxGFUgXZP5i4XiL57itOv4oPbjAEKHytf61piSlQu4CGFVeX9OMnFzylK2I2Mp8VJmGIuF0v=
+QJMmTtuVgx-2BPUN5EhtgG3Qh9-2FpEOivWD8qqwnMGqVCgaynruWyR6foUNlqqFrIq-2FRa4Q4=
+3f52ChYyxI2iVhzhSopTQ9YpWp8f2YbA7E2IvwXNLWRHnQ9ydgGM5D4sN-2Ftw-3D-3Dfwhe_7H=
+2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75Y=
+Hv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQ=
+Obo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2F=
+Mm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj=
+-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xF72-2FIymN8jBn=
+WUYx7TWroaWJUwAArTVsUelWU4rGqjPOnV3Wh8uxbl3j1sHHp9W-2FcTiOuOHNWM-2BqbNZdrhi=
+7NehGilQ57IMsvRb1j-2BzLODP9bGG4Ebna6SBwzDG6uXGqkM1mFM07Q44kyYWdMS-2FsG4-3D"=
+ target=3D"_blank" style=3D"text-decoration:none; font-weight: bold;" ><spa=
+n class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Senior IT =
+Systems Engineer Virtualisierung (m/w/d)</span></a><br />
+															<span class=3D"jobcompany"  >noris network AG</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >M=FCnchen, Aschheim (bei M=FCnchen), N=FCrnberg, Berlin (Remo=
+te-Office m=F6glich)</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/logo/511/43511/961/001094961/27/12037_4_160x80.gif" alt=3D"Unte=
+rnehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjA=
+hbZidP29jpB0G4OLHB9ZXDn3n8D01rNQL-2BtJ5pT8M54mNt91hKCXkBFA-2FzssuaBpzflbdOZ=
+Qw0e533ST3TkIYfjByuUUSfxfm7ks3drdBMxWLj7IrAqB5KAxH9Xopf6GS0XzmxL3R6cXI2Grah=
+RhpvZPImQBFBuFVxG8-2B9gkfmQdfmvuOZ7WN6NM8IL8-2B4DSB11kys9959MspFFPeEazH6yow=
+y3gd3SPu9K3qs7AkoPuMKgFjLncp-2FFyjU52XBrWpRH42x-2FdxZx7WNrGPWE9BQm-2Be-2FPn=
+uemc6MFiw5U5Yf2aNlGtIIZig4IUds9m4-2FEHu9E2Qh-2F4pNA0tL7XkhWaYQRk-2FPpPzij7-=
+2FPcetTno0MSvGf0PhWDUOt5aT1kM8xtWzgqjOZxwgILqnx98CpvFcVEbDepdkxjZYpxFC6jc8P=
+5c-2F5iW4QYTj5MmtpX8mfC94KI6fC1Ea9q8Ecf6JV1jA5qwrtQdirIZfqLHKTVwbJlMxhuYpi4=
+C2DTK-2BqYj-2BXpfa8JrRlFPJ1SN5Z6-2BVSL3Jy5N8aNatrwieC9dOre-2Fio8X8niFPEqmP9=
+8nGXDw3lY8a-2B6ZB-2BMsH6v4c8S5CiewHSTL5a9CvnIgicc-2FkBMvnA-3D-3Da8WP_7H2tvC=
+Csb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0O=
+i3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8=
+jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A=
+6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2Bm=
+Lu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xEaeLyMiaZa5PLPb1Qk=
+e-2BZv0gne0Kb0NWobNsQMHR-2FKrSxqhqlWp2jsJsaQDjVcNo7jGrxPwITEKMeDSv4JpTyzwkO=
+WEFehTvrXIaY5PHOM8uDKPo0kw9X5fI7nWmleEQ9w5xthSHhV7tnC2jXxVJNQ-3D" target=3D=
+"_blank" style=3D"text-decoration:none; font-weight: bold;" ><span class=3D=
+"jobtitle" style=3D" line-height:22px;color:#c60000;" >Projektleiter (m/w/d=
+) Qualit=E4tsmanagement</span></a><br />
+															<span class=3D"jobcompany"  >Hansgrohe SE</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Schiltach</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/165/017129165/017129165/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDiw=
+79YJ2RHTh17BcR1DNM3W8oODx8u-2Fyv-2FlJegYh7I7LUP-2FxXeXZMKoCkpZuThDotzPjBhbJ=
+jtQjyqiBO5Jk0J1smTPKXMBGJpqgD4NE-2FYDilPCd1-2BPw329e1qloDvZ0kL1Mop4hI5b5mFz=
+0c3AfMvn8SDKco0uzD2dX8BCLIBtwC52rPOAmLTQQVAp5Lui7vm8iw1padw2bIEnaFxQ-2FR2eD=
+B8rW6H9vprpTaPV2UUTBaqKTRpAbtoda5U49jwKkJgUGyNSwb5L0qhqKajG85BWdxHLAkNWwdyv=
+7ZKx69TQ6uxGyaTB1ONSpO2A04Ni7fiNKyZtdOPUaZ9fv7sOJjkxFF8rvtzRXnEBItLw9iTPYzS=
+xXXNx5atV4CPN9c8qykrJeOEF00PWW1PPZR3Z9YSN5WoYbmw3WeFYwMZfnTAwaZa-2B4h2y2M7y=
+SKFizAVrTqkOGaSZ1axPp3AQ5vXovGbOAniHIzFdRcRetMwEze5E7iiitnaezVc4Espfgh87vzn=
+sljPwGhLSW1WklziveYI5dq1RZ5-2FzP5VnFwmRiVWc-2FNR-2BzbDfiPHiRLxVC4xX06tiLr1B=
+9SswoaVT-2FIJCE5L9F0vB4E79JppAY7EKFhG2gw-3D-3DeoJw_7H2tvCCsb7ZLVNdm9RNUCeC0=
+QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-=
+2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9=
+VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld=
+0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV=
+8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xPP2lJYLNbYedPyW60YbqmweSsZDuZo6trNgc=
+Qq89btvvwHXCsY-2BPK5NA2r2LhTM7ojq01GwGEAiUlealzRNYMCrXCE-2Fpu8wCLW0NC28hlui=
+Mnax0fBh2Oah-2BOVJ5zn-2FH9OL10k7vpfZtW9WtmfMmVs-3D" target=3D"_blank" style=
+=3D"text-decoration:none; font-weight: bold;" ><span class=3D"jobtitle" sty=
+le=3D" line-height:22px;color:#c60000;" >Projektmanager (m/w/d) Kraftwerks=
+=ADregelung</span></a><br />
+															<span class=3D"jobcompany"  >BELECTRIC GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Kolitzheim (Zwischen W=FCrzburg Und Schweinfurt)</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/487/017129487/017129487/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDh3=
+UDJ7cJ9Y9lgQwzk-2FfuT4fM2ngwuF7Wc-2FM-2F0l0U-2B4hZQs7B5yw3N6MchoBB910-2FOGu=
+GwNDsssfEsI0K1Q9QlGtRJeQy8F-2FsAuDQXvBTl0uEie71HssVVsIidEkXzoR35WfIWRIysJv3=
+7Hkajn4pq-2BqU6NDQhBiZj50WBc5FcAMa9gQL9SliXJgTTK-2FyKkPGsiPiS-2BJKwQM12giRg=
+b9hLGG9FID5LD2778QYV4n759TIW5q6ZIuXFP3gOD6cQkSgqQ8kWy-2BSNQr44Fp8gkL6RIzUgv=
+AVzYOXoknZ65hvKUBUdVVVRO5UdsEb33RCQePB5vA51MxEgvNoE0NiS4BRoiMmzvZG6YyfqquY7=
+69-2BYVqEmyyBdP4EPRmJ0j0VBQ9ZJbHQlsgp6TZR-2B4Lt167ftm2SN1F7-2FcLyZ-2BSlO8ju=
+e8WBP8c2l53-2B9jxrIoTuz144EIeAZ2Iquye4UcBowg5dP-2BSF3etDubqP7H9o2amiSGVUXbo=
+3392RFpR0RW561jDW244CxBpbiB3-2FcSp-2BC8By6I5L1ZUIHtSOgawMVQ2-2BHuA51uBsla8a=
+-2BjhWR-2FyoqkasVDSiC2Uc6FaCZXM-2Fg-2FjGgvrQRf_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZ=
+b1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBm=
+t-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-=
+2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp=
+4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeM=
+XGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xO8OQDvr1ID9n9WU87kXzag9M-2B4yTa-2FDd0Bzv=
+EWjZ55SAGoDAMcyVDOajDonT-2FoPKEmXTOddCaL9weuyOivwU1wdqZam3ufVRF1D4kwU971ZwI=
+LrtSvonuwrnSyc5czjdvTMVGkSQsmEKcjVQ1wK-2FeE-3D" target=3D"_blank" style=3D"=
+text-decoration:none; font-weight: bold;" ><span class=3D"jobtitle" style=
+=3D" line-height:22px;color:#c60000;" >Softwareentwickler (m/w/d) Angular 2=
++</span></a><br />
+															<span class=3D"jobcompany"  >BELECTRIC GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Kolitzheim (Zwischen W=FCrzburg Und Schweinfurt)</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/369/017107369/017107369/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDgw=
+mC4A5w4jXTlPirR1KTiyeNzOm6mOfsO5iOH1GZ-2BpQabXww-2BeC2QfrTY2mpyjmYDAdlQIQO7=
+5MHRVVdaCz1TAMvzerlx-2BOGI2Nf03MeL8EcoIl5jEYcNHLyYv0GVpVujuj9ow9DFsKJHcJkTt=
+lFXiaTBR7-2F4z6T1DJgG27yZCmDtvrZuC3MXOGQtZfMsRi01aCHCpsOZ5ZqAlJnlUiKz45QhKa=
+YjvkXNMfYBqRXYyJZIjkP99twcDXT0CdSZXYMTjzRa3wtT4UxywXA1WDJpZInY9Zbph0EjExx3s=
+BObb-2ByNStozHhwCQCVbAN468H3zMK-2FEPcScCHx-2FW3TdEK-2FkEUodCBkwfjzkfrcN7SiA=
+cWppY6stM-2FomRs4LJjaOeocyTiNdVcVMj5WFPy83Dh26TP-2FqvUvd79labSb3EUVH-2BmieN=
+18-2F0sOQC7OxgrBTG-2BnyvdlgjtJ5BIibIU0ZwMkdJWuNPxzQqAK3GrYupazVusZSbIiqDqil=
+rQMTH0PHgnd9Yd48cRDCJdXNTdqy-2BHimDlufDwoGGrywdGj7mfcwCom-2F2Ag1DcYe-2BGqiQ=
+hmhbVCauhM3LBPf6ldiDbnF4nQ2-2F1K7C_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZ=
+Z22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZ=
+ii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxd=
+Se6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx=
+5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWE=
+JX80efh9uiT0JoZs1UM8b4xMiFxA-2BDry-2BRe5bWf2jzKLyzN1osqoIzVhPkHM-2FNf4xn88o=
+m1kqjUetLz24TxMjhQ8nTz2v2-2ByydLE1A8vuPRpkdjtZbt3POtwV8Ud2pu45v5iFbIoc8sUJm=
+ekVxDil2EifM-2BK-2B19II078umV96m6FM-3D" target=3D"_blank" style=3D"text-dec=
+oration:none; font-weight: bold;" ><span class=3D"jobtitle" style=3D" line-=
+height:22px;color:#c60000;" >HR  Consultant (m/w/d) International</span></a=
+><br />
+															<span class=3D"jobcompany"  >Hansgrohe SE</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Schiltach</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/115/017106115/017106115/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjM=
+sE-2Fci2z6gbrGj77Y1RhDdjtkeFkSj8BwiQPTK-2FwRjjo4YCdzzJ7p5OWrmUa9KiqqGXEbfH-=
+2FHg9GvxI61bi4EH-2FuewyfCrZH9r7M0hqC2EwnQT6UKs79jJIWznfeDOT-2FYhUQhMY0nRIbl=
+Sd996Uex4evoW30WqWbJKqlsKQILxGfoRbag47utvesohSVWWFYs9sT4y8inejXi-2FaZL-2FqV=
+AAuYsukv28fhj6yhKVSzffortVjUuXrUsQsHcDBvBttZV3aPJLUhN0EScs4KrX2bgmI1wsaGSB4=
+o-2Fb-2FN6yemZ-2BC2dq-2BlWZnrg0cvhbHW-2FuJWQqUgBscveYDmtqoH840yXVqZ4QyR-2Fm=
+dif-2FEmD4XjsE1sih3jBcynnh6ge9ULy02iMF-2FL-2FCzoENeKOIKtiVVFu6YtcVgWPMblHBt=
+grHY5YFPODYQmZOSIqLCEKm2RzeDVbCJhFnSuHguRpwiKnWp7CPQZWvO85RGFe2o9EkeovxFkYs=
+QdrPJ1vhbHTxB8xu1w11Tv9179V4z8cgSQ6b1iTRUb5Lya-2Bp0tuAB1kVeoBzhJfhSqWu-2Bgf=
+OzyRUatios4Yq15p2e-2FRy1HoRWCLFRvVFwGJPcWYzqxMmXE6ZBvxy8f8-2BXrRC1jWn3uY0mB=
+Jjdo-3DJHJk_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-=
+2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fv=
+dkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAx=
+xgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYm=
+Z1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4x=
+GAG3Gou2n6MIfroJwNNZ-2BvSrL3XI2Wnysph4lYSS1c7gYbM5awpIFspEw3RnW6j3J1uxtkcJB=
+dlB-2BSCcp6LHtpvU0Ke1t8gXPP1ReR8s9XOgZQeOm7tHyXTqCdu7Is9lRL5YNrcW2n2yXjZx3Y=
+9AFo-3D" target=3D"_blank" style=3D"text-decoration:none; font-weight: bold=
+;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Ku=
+ndendienstmonteur - Fachbereich K=E4lte / ServiceInstandhaltung (m/w/d)</sp=
+an></a><br />
+															<span class=3D"jobcompany"  >Ludwig Hammer GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Frankfurt am Main</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/651/016517651/016517651/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhk=
+gEyPu7wRf8qxDjfIu2uU7-2BBOF0wIF-2BtHY8-2BM60R3pCuYaBNeQZDzF51NBoKnDvBrijFwn=
+qsKt5IE4NL-2FotgyMSxWi4FQIwIL2txM9DOfzeLupvMR8eh1jbeLcwcXi4WYyUU37ZdJw9tr7w=
+CbhOh38A6R8-2Bku4TAIoK4q2QuROaMwN1J-2FlgIk88EE5JQPVMqdBaH0jMMuURwZdo7-2BRJj=
+nCwJqtTH4rPHVMi87AYhQoWNuHT7QfNouv2jcpDjCXSp2CVviQcnnrLxILoAcH8veIxWQzwmgYQ=
+q4fYUYk-2FP2RAN6MEsVqW0kEnlv1sYRJX-2BEBLsypcH82eJj-2F2nG2OwzFdOK4KTYNHwX5NT=
+DfTsTVPEZyk-2BVNSHi5YuHHr9Ac3FCmpJFIcxKH9g-2FuuUU0Vw9P0sys-2BKXmq4DmZjR-2BD=
+8ChzDwmnMLF-2FoTSMA8ZxSxPxNwkAqjJ9htjT9G7vcPkY0-2B9zKsDRFEfIlN46hjZfVY1Apfm=
+wZpLb8HKUlojnqMqsN6VDP9v-2FuqkDLElCVeo3E1n-2BlWCx8XlzAc3fQOtRTWbeP5LONVt2TP=
+M1-2FY4Jphh8Y-3DSTVc_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcW=
+zqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5N=
+vrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7i=
+hYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8E=
+Z-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0Jo=
+Zs1UM8b4xDpTiEC4nue8fifa-2F4QUyP3fNgApH0Jqa-2BK9lzVXl-2F3AmIV9rWvJE1XZTCOPI=
+v-2FNz-2FtocKqya345x-2BR3L8t3szoRers35GZarJAzGMJQ8RGATu3fdWe9e4wM0asyZiWSbT=
+GirGFtd8yuyOPUEZLfD3I-3D" target=3D"_blank" style=3D"text-decoration:none; =
+font-weight: bold;" ><span class=3D"jobtitle" style=3D" line-height:22px;co=
+lor:#c60000;" >Offsetdrucker (m/w/d)</span></a><br />
+															<span class=3D"jobcompany"  >AR Packaging Hannover GmbH</spa=
+n><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Hannover</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/995/016502995/016502995/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDj-=
+2FARwWIu0EHg80Dj1l69PzwgS2YMddKKDa8uho3-2BATEAac9tgWf8lpvEH68EAjINUpdQlO-2F=
+63wwsdcaikux87cjwBk-2Fv6F34JvP4Ww0elCNyC2jGLWiCynlkdPRgclI1Y6RdsRoyrh-2Bk9R=
+aEflm6ZtdqcTnYnmvddho8R2iyW2ZOBRyuJyXwlLl4LYVT0tlv3A3TVxciUYJ0t3hhKWAueJRaT=
+nS6oyGgblld-2FC0BCYucyDdx4WJ4YLdDAJZi-2FC7870MiAPS43OyLvTNCYTOgt1NKHvTzzDSQ=
+PgvhhvmE2M8cUxy04OM-2FJXMoSkHE6zmjHLuBxMEkYGMqCWf8NxLohzbiUtG0eDsrde4YYNJOA=
+Nh0B1f-2FOXsflcDVaaYcPAbitpaWHpuwAaiGuYSGHCKOlaRdnkSZgXFkVmiYP1WsZA7vnJViqU=
+fYa3Oj8bJDwk2KIGFA9PFknYo1BnmPolZIhLZAWYJxdD2CVANuVSanLG7ODW94Bm0Sjc6hLjURL=
+sMPdWHvgLGIR7c9T6DrjcvM74613BXc4v6p1g64cKDGe-2FvKSkOZ0HIsgkqVIwiDu77RyMu9eE=
+Pa4wSp-2Bio6CoDE-2ByN9SsM-2BrPb7huRzTcKO544Q-3D-3DHzpp_7H2tvCCsb7ZLVNdm9RNU=
+CeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQ=
+yck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcD=
+tZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf=
+4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2B=
+sZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xJc4Z-2B-2FIykp2bb3RoJkViKljLBjQ2=
+Kiv1nOgK6eZ9uxKXkxsN-2FTsEY-2Bv2EeW8NZJdKUpODBxeWTxXNLFZOh420p-2FFvNmIRZPBq=
+P-2BEfLu7KADax6xZZ4IrxmAcOLebC-2BAENLDSz7kdsppvKYr1LTEpsc-3D" target=3D"_bl=
+ank" style=3D"text-decoration:none; font-weight: bold;" ><span class=3D"job=
+title" style=3D" line-height:22px;color:#c60000;" >Referent Konsolidierung =
+und Group Reporting (m/w/d)</span></a><br />
+															<span class=3D"jobcompany"  >WEDI GMBH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Emsdetten</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/916/016517916/016517916/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjA=
+hbZidP29jpB0G4OLHB9ZVB8sV1mJtC8ozI1Bq1Z9YoPPFO7mZEsGtfuMv2WmYF822ukq4Db3sq-=
+2B4QJtsTbvS11tMI6CtUfiJOEd9T5cMhbW4p0Qq0b7mBAk7EYSQuO3P41dN-2FH-2FgEhnNcjNh=
+-2BKLSfa10W1u6-2BEx921cmB1WBVE6shXW56tJqUmGSEVzVRHujilmtPiKXkj-2FSxHO9AjWF5=
+gckQ7A6ZKYkFnS1-2F-2BkrrU8zGrIXpcihQDd-2BH-2FCP2YARkMJ7JI4EDFkKUvUwakF5Irux=
+7uUATH-2FBqheXr-2FGlQ2u3DuCJ5-2FyNLI8h7rx4OF19qCp5-2FxnmER4veMztJZOcPj4poCS=
+OrPCw2Zntt1oL9l2-2FbXQGu1q6oBV8X6hOcfZ6aXwLCsNE8dRNy0PzA4C3VpSo-2BuREQB7yZy=
+-2BOcUsfuLCQLmzCSiIaXCiPL4CIlOyNBVtVf6UBm0zIVPpGsamXl1I5DIDJTiILAeKrIUWXqmr=
+ffaZISe7FC4rRzwXvVBkcjUKNZdV069eAMMAg-2F5VHbTNOMpXV7a9cgIM46RSn2UbLSEtNEnQG=
+e-2Bn47EnpWm9TG42MFTwxP9VQ-2BE9f17MwOiDg_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4Rd=
+P-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1=
+-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku=
+6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50=
+YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP=
+4GliWEJX80efh9uiT0JoZs1UM8b4xG2rcT4ZUJSP63LCHPSToiGWMK19CaFDuOx0DmHGOkmFAn9=
+WGjVs3nsF-2F0ys9zjnU-2BUDEXC6GoygG1wu2uGCCvZbXW9hPT3twLk-2FxVRatYORTYvr5laY=
+zXos7HfxqZBh7wwskL6ZGWJNqTI4WEW-2FHKk-3D" target=3D"_blank" style=3D"text-d=
+ecoration:none; font-weight: bold;" ><span class=3D"jobtitle" style=3D" lin=
+e-height:22px;color:#c60000;" >Projektleiter (m/w/d) Neuprodukte</span></a>=
+<br />
+															<span class=3D"jobcompany"  >Hansgrohe SE</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Schiltach</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/284/017105284/017105284/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjO=
+GxCnygoPb-2BkU7Qysn-2B-2Bonn-2BzCPUe4ixA2FB-2FpAyBhHgZaShpfX-2BhWThsUpqzDNb=
+yo0GlWFFaU62ciTMlVa3YRnU0tJN9kIZiHy5EYcWAHtL5TaqON-2BwUzyEBZ23YzmJZ-2Fv2r94=
+5EqcnNsg38oVoaCNRaugSLdL1aBKfJTSE9-2FBB6CZ5tZytJh72p3akcGam-2Bj03msjBIBiHo5=
+qulnoDroxiBZR9sqf58Mm7FlRXv2oQca54yFz-2BYchvw-2Bo2BCASTQhLgzpyr5VD7P9Ijza24=
+xde0o5XY8aegIqpSKaKwRUsUay6dBGptq5oVU2THf8E3fUGME8Zar8LWkPMGCOP2hL1a57Pjc-2=
+FY5LM-2F9oMsMjud8k5bUa6i6qGkO4tLe9-2FYR00VDWVZ8MZ3NvB-2Brtje3nP7nRVNG8PqPxR=
+tf2cbJ88F7rHneKVXEzefRUn6C62IXaIZh2ojkgbZSfdH2U68UMTmE-2Bl26q3mStpCVicK2CFD=
+WXuyKhkdxFw60Amxu6nhDby5WPIvBMrU49N2yBt-2BM7GPQAYcQKDmWSqeB6LWOFnw555Gf38Op=
+9wyrsC-2FMYkUdKhsyoXTGbH9ctir4pb43uDqA_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-=
+2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2=
+BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6C=
+wFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJ=
+jjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4G=
+liWEJX80efh9uiT0JoZs1UM8b4xASwMw-2BqokHvnZHdJDR2nRbCzSb7itNq4No9u82NBalk-2B=
+NhDNPoz6VfdZ7wJ-2Bz-2Bf6SR0obELv5GJaMWlnCeIP4SOaS2xPcHvobcuyIQ4KEdwjeJHtyNI=
+lMxDb6cvd-2Bz7VZ9JgW7xOQihq4aqLnZIhK8-3D" target=3D"_blank" style=3D"text-d=
+ecoration:none; font-weight: bold;" ><span class=3D"jobtitle" style=3D" lin=
+e-height:22px;color:#c60000;" >Finanzbuchhalter (w/m/d)</span></a><br />
+															<span class=3D"jobcompany"  >Sonova Deutschland GmbH</span><=
+br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Fellbach</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/966/017107966/017107966/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDh3=
+UDJ7cJ9Y9lgQwzk-2FfuT47wGJKB0JKZK-2B2SvZuhUMaF06JcAx5EbCVl8QcYlAsiUmCtwvLfB=
+hjQCM6DiILtoAB-2FKjp3RvmWSzJc5dF3bo0ddxGzBElAXC-2F876zlsxwAiwL-2F9tQ2UQMg8g=
+S3-2BGIGM4eQ7NE75RwDCRcjKEJBJPtuaJnGAA77rJx2YgidP6SU5smfn1ng0d1YEgF4Uu3jptK=
+2TZiGX8m52jYWxq37yNMOoHtc6IqNvFYpLaNO3nPDTMdjjPmAkUMklXDzyQqeG2jTgs0RjZGvX9=
+7FpLKYe9lyRiaR5Kr6N-2FShzfvR415Z9XiHJJQ6zrirSx-2BKte1YSj3YPmrs-2FTfTBKqfANk=
+N8PwBuJi-2F4n3-2BE4-2BWcW7efGQG28Q1VYYPbCMbC65YrqL6spupl5Ky5GtmMpI7TWLpBZbb=
+HpHNQ3x2-2FmnpRoScxbQNevhxKSi6zPaAWZSlcMMvOMHRLIe3jA4RQNg-2Fu2ELinoaDAgPRCg=
+ufOaWUxtahZMF65qhb-2FePhmByRmgmc2FFQJuop8L5PZC7edaiIEcPWrBTYxIpw25-2FYtvRFz=
+0a2bzx-2BM8WSv1zqLveOtPNkT-2FhTH9SL6MY-2BlFodrPP8VGVdycg-3D-3DnwzR_7H2tvCCs=
+b7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3=
+sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jM=
+uunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K=
+7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu=
+4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xCPJFqFixc-2B5Jvw-2FA=
+hkzeOke-2FiqnVB-2B2lkHyEX9-2FzTC9-2FkOEAFCpimwQyjFcA1X6NdRncLi6Vrpj7fQk-2Bo=
+-2FGjsNRV4jmtTYuvD7eZNa3K8UmwGzalBueYpQQ9-2Fx2-2FdhYb2hT4XZVGm3CXBB-2Bs-2FQ=
+8fIs-3D" target=3D"_blank" style=3D"text-decoration:none; font-weight: bold=
+;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >So=
+ftwareentwickler / Trainer Java (m/w/d)</span></a><br />
+															<span class=3D"jobcompany"  >Cloudogu GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Braunschweig</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/774/017109774/017109774/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjO=
+GxCnygoPb-2BkU7Qysn-2B-2Bonn-2BzCPUe4ixA2FB-2FpAyBhOIOaSpBFef2rKAB0yHdGCOXs=
+ga-2FHrCBTWQlXkdEEt9q1uQsSBxrXDTbDq8XE3-2FW6jlpspq-2FprN2M8xGcjmQNjhQyzqS3o=
+eLFvPE0YGkQ-2BzOPPjPTvYzoRoZYsQsDAmDc-2FmNgE-2FN1H5z6I6aZkWJeqtuqegBsfkIIt3=
+LdSRTaZGjuVfwgGFhXYhPQnLJaMdiCb32wHHNHjXj0BaRjUmw55f-2BEy7ECEOEaJ-2FCqn7OzD=
+v1oiDCkBAIulBYp7xPhohTIxDoeoH21EpIFhCMWgNv4DcbaGgkElVQi-2BZOtoVAZRedHg-2B9d=
+7hSXFlcmeCEeEJl-2F59NP7hKcMGuaBVL-2FAo09YR5TihDtxzlout-2Fqm60mFiIqUTL-2Bx5g=
+yhOYHTgTdC3wNGHm03rDK-2FJ8h-2FoeuEOfWPfqLTlaaomeNltMRJIKvj7EnP7-2Fbw2EWmKDD=
+acitwhSy6LquDzBUhKu3vsdzOEBk5N8pQffi2YGQPZdgkmpXxFgPvCt80ZFipVyWwCupxtQ4t6K=
+O0xowY2YfG6sx0huxnU4FavAsjfP0kx5jJmaz8uaRTZp_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1=
+e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-=
+2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2F=
+o9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r=
+5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXG=
+MKoP4GliWEJX80efh9uiT0JoZs1UM8b4xJjX76-2FjlLYaSvODDifcXIq4uZS2-2BqFV-2FKNnL=
+uYeX3pR8kQdWfx7IOQbyjyyorFw5vuhyNL7A6Amw8abLjet2stHY-2FD9Jq4iWKPuRc2uDbIlW2=
+-2Fdq0KsHXeJ6qO5NY79Tu35ANmkYhl19bFM3j3aNw0-3D" target=3D"_blank" style=3D"=
+text-decoration:none; font-weight: bold;" ><span class=3D"jobtitle" style=
+=3D" line-height:22px;color:#c60000;" >Finanzbuchhalter (w/m/d)</span></a><=
+br />
+															<span class=3D"jobcompany"  >Sonova Deutschland GmbH</span><=
+br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Fellbach</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/465/017105465/017105465/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhS=
+eGZkVhYBWOkObrLK94d-2F3jbAN7lCO7gP89lYvzB2oHnaUqMyjL9DIsxnfTHLSaR2mCZ3mfcTe=
+5GD-2BMSScYU-2Brg2Z9FvIOCB3aqqEa2HL15XmzLhNhLmnbtsrXaKEyG-2FxJsxcWs5tAOankb=
+SixpGSWsXBS0SS1roxhRMWKPLYPol1c11jBRxL7wmUDMYIGBR73bS-2BU5iy-2BVkqB7qfTqYiJ=
+6634XOAsSdbmZnhzS6CNcFwNxbbVxwMEoG5-2F2nN6ssrgA9UdepdZI22W6IGKaHyCIJtcW9uMd=
+BRq-2BjLDVpsedkB-2BKmxj-2B2ss4Qz2V4NGzCU-2BjEcik1sxy687wMaAibaDnbQUAJNLfwYW=
+ChuuQ68iPbpl4PD7bFElUlZwlGB7wYdp4TBtA225uMcEMtvIPkSyPkgKhT69m-2BbY5y6IV-2Bb=
+n0mNBoKX5Y6-2FjN-2BlHYj7BKK9myXaDBGEPw14UvI-2BS6fLxy00HOQHPJCe1FoxHwPzLsMjt=
+3pDqWCAGGQwGkiZnL3Km0R2gLTqiWdQqBbvsYzVk3m-2FqREJyfupJ3FqT-2F4jUrxAKXBboNai=
+ggUWzzi7dGUdji0kQU19SIhAx0o1yySmZgJpYCf2YrnkGbj1NLzPTdKwJYGUpmV-2BGLNYqGw3l=
+WfCvL1XJWNQ95NwS4UOa-2BX4rT1e6Eo6UEMQ2cY1I8HoTwkS5FBdqiO-2BcSIUHFElfsEkQs75=
+n-2B8QDS1fHh-2BqS25AbZgF_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWF=
+khcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3=
+Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BO=
+jJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwq=
+uE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9ui=
+T0JoZs1UM8b4xB4ZNTkTKfWA5dITGi8tD-2Fgjf21tr5PeuFbzg621eSiZPmcQTYNYGwWMeS5Ul=
+LVDNhou07yLwzNgwJRvfjFHfLMehfZ7l0eXGwauzE2ErMTC4pOW5vqknzZAolv-2F406y-2BSEu=
+kblihGipHYhZ7Ym-2BC3c-3D" target=3D"_blank" style=3D"text-decoration:none; =
+font-weight: bold;" ><span class=3D"jobtitle" style=3D" line-height:22px;co=
+lor:#c60000;" >Industriemeister (m/w/d) - Pharmazie in Metropolregion Hambu=
+rg im Bereich Verpackung (Konfektionierung) fester Arzneiformen</span></a><=
+br />
+															<span class=3D"jobcompany"  >Nordmark Arzneimittel GmbH & Co=
+. KG</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Uetersen</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/202/017129202/017129202/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDgb=
+yyiWhOAtLmjvpARasOaDZsocAjZg2PVu-2B5wJP9LNJdoLpp2nJPGE2w-2BJvXy2q7WjMrn6oSR=
+AS7SVFDQI3I6hlAV1ZtDMNeoMzxldW0xhzZ2gw-2BeO6NB-2BpqW4BB8LPmWaOLXUTez67p2FuH=
+TFjfWALVo7cNK34jxeynBEmBPpqwGkjbLyTxdSvoPrh5mJKPHL5SLXzOLtwDUgCeNkJD-2BkR0x=
+KG18Q34jAtQ97nH53kw6VVz8VeIehfINx2dUPdsb25UWuRojAgAEMn8w9CZuWocaVFqrMqvcpVZ=
+h9iWM3fqnvhjCgdTF0ZA5JWnoIzvsA98eguM43naH0v-2B3lhEjwiuKcO6PzprN0yHfr24MrGbp=
+PKNIjDNRY8Nhz0HYq29gDQcdlCcaohndblni0A9kcVOQCjFnPdU1Uf3WrxGVJO2nj08ayjoHHdu=
+FWkQxkDq3xNHi9SDl-2BwVtznCTMP4PwwufeqF19Cm7Z3R4DR-2BtyFFa3SIna6-2Bz9VUrT6E3=
+gYXstL7HXP4BFxL2su-2B19cBKLFj8Gs2bsvc7q3yKafOUqmEO9f35S710tfNZPTVCXWaE-3DZQ=
+DC_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPu=
+ep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7=
+BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdoj=
+Fb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqS=
+k5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xCWk22BDEj=
+xKldLrpl-2Brp6lgILJw2C4ixhHS-2FUjO4PDPGyk4GwP1vBQlSkXai6ZtKd-2F3fyjSXz4snG-=
+2Ftm4GzgZPKsVAKdcl5tNFRkMzte3-2BWZE-2BxGl00rC7ACo4OuTEHRbv1kDWy3AnF5QpM-2Fo=
+hbeHU-3D" target=3D"_blank" style=3D"text-decoration:none; font-weight: bol=
+d;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >B=
+uchhalter (w/m/d)</span></a><br />
+															<span class=3D"jobcompany"  >AVT STOYE GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >K=F6ln In Nordrhein-Westfalen</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/578/017129578/017129578/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDgZ=
+aoUuVnClYHiPKpoR-2F-2FZSPW1NaGBRdsJcAl35zieXV3q6lAjI2nzToKexAnY9U6J6Z33cFkS=
+5vbFgxpfOeEF7K-2FeGzG98afy7RyEUiPe8LmyNm8mxZ4jTWhsMLk1-2BrR6qlRJLUxab6Dn9-2=
+BBWs4JziIOx2tKL2FyziMnPKGQuP4m9HsE6ZK82RyaV2YbInfp3fYjKIjhifxhU1JIyULvsDNdR=
+OtQQP2yhwbMwACR0ppcWejRlo82d4-2BvD75qf-2FKDJhkCTfQSnTaGHL1PM1K6lShXUvIAFB6z=
+ol4Ylf00JZMN9P8Q-2FS6QxGxDgZoJdrCoV21fOAO1kQKkfDApurWH-2FhBzyEJa6PgXSAdSS5H=
+oYLDFYi6izL9TYI9ueY7-2BUOM0cwISNFZgq-2F-2F6S-2Fpay7SytafhaPaAAb-2Bj38ZmKNxN=
+XSo-2Bu9Tf7MZ-2BCENVM4pBXz7kR3EnMY4bSZpQEXMP0fNGYXZ1CGAs1qfAyNSX-2Bc2qKCdic=
+XiwwO-2BD4CJal-2Fpy-2FQuDx2lzfKLq016aNsIBzqJQo3ayw22QGOzLYYFtvl9UOiNnYpPFFC=
+L7mH2y-2BFp-2FrihTFrCF1e24bkKe2-2BVoMvXH0-2BzFsE_7H2tvCCsb7ZLVNdm9RNUCeC0QN=
+cZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2B=
+Bmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VF=
+c-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0R=
+Gp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8K=
+eMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xFeiOzJfNXS-2FjGEfdbBKssKNsw8PHFs9u6cr1=
+xPHz0F4ehy7yGlS8EMW1ji-2BrJyBDLD-2BhU9eFK3W0gc3hijpYnUZsYtGMXImuntnPgxBtMNh=
+f6ecHdv2Jfz6EUlqNND7ZlxM6hIHFB3J8IZ9lK2mdm4-3D" target=3D"_blank" style=3D"=
+text-decoration:none; font-weight: bold;" ><span class=3D"jobtitle" style=
+=3D" line-height:22px;color:#c60000;" >Business Analyst (m/w/d)</span></a><=
+br />
+															<span class=3D"jobcompany"  >Deutsche R=FCckversicherung AG =
+/ V=F6V R=FCckversicherung K=F6R</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >D=FCsseldorf</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/329/60329/156/016503156/016503156/jw_tl_logo.png" alt=3D"Un=
+ternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDjE=
+W8mMUCoAqum7E2po3lQ-2BIJChYkO5tS1iyqeU7yXoi-2FSzqjhnL-2BU8qUYCNaaWnqDJt3W5E=
+Xnl9EyHJwy-2B1anRTn5lk5BF3MILmXmc9pDGcezWRp-2B4dKT6rBgOJWUz5llFk2Vfp729AQmE=
+r6MW43sEQebQ67xs300GP1efsqSgkjvN-2Bb4iwNophMrTXXsPbVMFlpSOvHB1W2IOIUWUUMfyR=
+qoGHNOYrOX1EWmf-2F-2Fm-2FDftJoPn1SdVjNtfoetB5v3Q45rLXRJ3TcftSoNqRaXr1BDMLLB=
+vyTDhQ-2FWFZsrF5MdYWS4YAQLlzNKbPidjs2zjZw9oWYE0-2BfPIi1Viose9CFmZWO5rSrex92=
+n4-2B4p9LGx53GlBiZeBmBVaiRmSwMox46Xw-2Fgfq8xWZ138wfuQY55vxWSdZIOaNlY9fo85VH=
+3sqXJl6OBFI9WKX6tGyC3-2FBjffxfbmSTvKRnROiL7h3Au6YFzWc3qH92TULBmpp0m8rBQkkvs=
+DOdTb-2BxAjt4RW4hfYgaPdijp9Vbraf6iOwQuncwa7Fx7K6tb7AjsCDYVMr-2BFdYPdc5v9w9j=
+nahJlYE-3DQ1e5_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcF=
+qH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n=
+6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJv=
+IAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4=
+WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8=
+b4xCmiqGtyGKaPWNViF0CvbFN7uyqm27j3bl-2FHnDCsxSy5Ib2qwa5ksnJf026ANX6jCl33www=
+OPzET1nvcpY-2FbAIE1QrzYeWebF0TxLkl737QSFSu-2BgQsdBPa3GCpBo2o86bf8TfhKOV7EpW=
+JT2BN0SH8-3D" target=3D"_blank" style=3D"text-decoration:none; font-weight:=
+ bold;" ><span class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;=
+" >SCADA Engineer (m/w/d)</span></a><br />
+															<span class=3D"jobcompany"  >BELECTRIC GmbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Kolitzheim (Zwischen W=FCrzburg Und Schweinfurt)</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/722/017107722/017107722/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDiw=
+79YJ2RHTh17BcR1DNM3WGfg0Wxx-2FLbQq-2FX1kHD-2B8nVTDBTNezTAFcjqS8vSsoyugcmftX=
+zjg6sslrK9lpe-2FaXazjj-2BhYM2tbqV5lGNGUwNamOvfx1LFp5UaE9RwH916BSl4pJsGMmKoN=
+EyUS70q2zehST6HgVwpDs4M-2BBNk7k5xf2tDn-2BvX2-2FABcvoj3mLtcsCanvSf6Sc5Zdpgge=
+9CseBzTG8fCwYgdK3f-2FYN3tzK66Fg4zKxmvMwkboALXBBtO1YM3FUDbyR2Q93dlYVZXCmSSSS=
+8nsbNDI2jE-2FmTev3U3mNp5GnEWOMwMwOteahg8ddu-2F5eIfqSdCHyu4FzpBol-2BnrraQP36=
+0pqW0JFt4kXbZyyi-2F2a5hRuAPGMjIiqpoVf4TH5XjctM6onI40H3-2BxCFC-2FcK5ADsXxmym=
+hr3P1sbj0-2Fu12K-2Bsw5Ru7eIK20cbaJ2M4TZNBrfxFcpHvpyyBhQTvP59uTfp7gIjzAeN-2B=
+UhgHuLSZZccMoFxWJ2OhEROvRo6tMld1GNoG7JgZn0VhikZ-2FUsMvgnCUSEP24Lj1CN6sk3AEX=
+5xTz0igLvBUfmxkEeFcDAEL3BxZX7e8enxT2zAG-2FLMTrmGwQ40w1dgsw-3D-3Dfal8_7H2tvC=
+Csb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0O=
+i3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8=
+jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A=
+6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2Bm=
+Lu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xC8gYai-2BOXp-2BWL-=
+2BKW9sA8Z2C7tAcZDCrS8s4eYJgRZTJ5vqTUDCh6aGZYGKklOpY1mwax1ukgqdimlAjS-2F9l-2=
+Fg4vF-2FkLT8gP6K3m7QfsDdckIJ4MGRxVElZTlk6lT5hLxzfYF6B7KGxx6mvP1OnAkIk-3D" t=
+arget=3D"_blank" style=3D"text-decoration:none; font-weight: bold;" ><span =
+class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Projektmanag=
+er/in / Junior-Projektmanager/in</span></a><br />
+															<span class=3D"jobcompany"  >IfB Unternehmensberatung</span>=
+<br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Leichlingen</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/logo/610/774610/006/016337006/1/160.gif" alt=3D"Unternehmen Log=
+o" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhU=
+setnSFsbRtuqUKMvMleo2vVMGiLLJUDThD9da9CrM6dhe0H2a0f3-2BFs05jVGjB9t41YyRNv5h=
+iRbUZsaGuxB9FXxU70tdXkrBolF2Geah1ODFufYRux2pa-2B-2F7tBmiRB-2Bpiga-2Bw9MnFTl=
+31DxCcHBR5hoxWVAFootsv4cKTaAqXzNeb6jEGp8O3JxnlHYRxbpWowJ4liG9PAtt2yEqcr-2Fw=
+hdCKy7e06SGNK-2F-2Bjh6iVPnQLRkBOauzed2JaPgTOOU9m9BxJ-2FDAlqFqOuiNxPkqC5tSrt=
+pxPmfxu90mBah6NpndpEEClBURuTaDVjmzD-2Fi5hF2tlbeAdhRk-2F13EqNLrQzrDV8QCRdEVL=
+5LErVtCUlbNYyUHBrqCc1q2ctMlzjRM8XfxI2GdVx7h8Yhmmy7Y2oaVRTiA-2FnWra8KkRfH1sL=
+4tilyMYSmStg7DHNTp0dyvf3kuNbX4XPQcuJ2UnAX9srCb7HJ5hD6fYachPdraqyfA6eI3CUdFG=
+3crW5qBGfjOmepu796QgAItrnEY-2B6bxtjRC-2BaU-2FN6l5kpTLoinYJ5ZOgrdI8GcSNmksY8=
+qCuc5U14ijX4L9Qsm5pQezdMzKHtVHCyAtjj5jyIQJOg90Pg-3D-3DSrUv_7H2tvCCsb7ZLVNdm=
+9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQ=
+HbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipc=
+YmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUD=
+DEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBG=
+w-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xD9HuZpG1T7Sev8sWikz-2F9-2Fm2=
+0tn3cwKxFTGY4WUGADEtV2BSUfq2UHb4FYzjhsKpenKYviMXFWHsgBUzGrE6eaAzSITlbN7V-2B=
+cCTF902tw9tpnXQ08mhw0pY5Crw6YkLSpA4HW0tlyEJ6FpxVDUvo8-3D" target=3D"_blank"=
+ style=3D"text-decoration:none; font-weight: bold;" ><span class=3D"jobtitl=
+e" style=3D" line-height:22px;color:#c60000;" >Werkzeugaufbereiter (m/w/d) =
+Schmiede / Werkzeugbau</span></a><br />
+															<span class=3D"jobcompany"  >Bharat Forge Aluminiumtechnik G=
+mbH</span><br />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >Brand-Erbisdorf</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/300/017129300/017129300/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                                    <tr class=3D"nl-list-ro=
+w" valign=3D"top">
+                                                        <td class=3D"column=
+1" style=3D"padding-top:20px;padding-bottom:20px;padding-right:10px;padding=
+-left:10px;vertical-align:top;line-height:20px;border-bottom: 1px dotted #e=
+2e2e2;" >
+                                                            <a href=3D"http=
+://link.jw.de/ls/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDh3=
+UDJ7cJ9Y9lgQwzk-2FfuT4fM2ngwuF7Wc-2FM-2F0l0U-2B4hcie18qF5H7rYGwVJEiAywIWsia=
+sKYO63qksxl7QYTSbCXL-2FqLodsRQvCa0b-2FR0tsocxY-2FoM6N4wPY3rMTM3vQNxENI-2F-2=
+FUgBQJ3UyYmL9Kb4aXAwpkrsfP3GsccWW5NJ1aLLRNZcAQzFmdExJ8654ujFS6hfDvX-2FgrUi7=
+QlNIt231aVpzfT5j4HWzuISQ06r4L4Ft9KhYEAKjBAJtACEkC-2BtqW2EO-2Fprsz9a-2BTHOfK=
+ST-2B-2FhsSj0sguJHf4wXpR1Nk38bksXFCyU1Fk5jIYdQW-2FbJ-2FRboO53oBxdXBEIhl6-2B=
+mv2gytDqtX47nT-2FslPlkcZEXPkV3PH2ox3fCUkrxXDN2reDWq-2FfCJLKZ66YXiuLYPx3Iash=
+jwmJuVGs0eq1CbQB7mkASruuCflanJXIYqUSHUiPqYeEmwvMZHPjrV95bIRfWV-2F5aR6Y0WWQ5=
+Nt5zLoAR-2B9wpCFp7q3n9hm8tzHzeRfgKgJHdYcu-2B64Qp111JdFlo4jGa26CWt2Ait9S56jR=
+0I4EhL3g9vOPUXybqX7F-2FuVk-2FFr1wXMeeqTE280OJrMF4NmU54E2DDF9bTRWS5sQ-3D-3DY=
+Frj_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zP=
+uep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j=
+7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdo=
+jFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroq=
+Sk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xHJRxIUz0=
+0IlwBVbTkIf5f9u9Q95vSCy0sAVeUs8G1Vzgzwjqwb8azles52oS9PL-2FKrxZPz5qWTROXW05t=
+szJNHnSGOz-2FoSdqVOKK-2FdMYPpddgZiXy3cra8AGFtQdNgJ34Q4CovNCMBKL5b3N9DdaOk-3=
+D" target=3D"_blank" style=3D"text-decoration:none; font-weight: bold;" ><s=
+pan class=3D"jobtitle" style=3D" line-height:22px;color:#c60000;" >Software=
+entwickler (m/w/d) Dynamics NAV</span></a><br />
+															<span class=3D"jobcompany"  >Konditorei Junge GmbH</span><br=
+ />
+															<span class=3D"joblocation" style=3D"font-weight:bold; font-=
+size: 13px;" >L=FCbeck</span>
+														</td>
+														<td class=3D"column2" style=3D"padding-top:20px; padding-bott=
+om:20px; padding-right:10px; padding-left:10px; vertical-align:top; width:1=
+12px; max-width:112px;border-bottom: 1px dotted #e2e2e2;" >
+                                 <img src=3D"https://stellenmarkt.faz.net/j=
+obresources/job/047/161047/479/017129479/017129479/jw_tl_logo.png" alt=3D"U=
+nternehmen Logo" width=3D"90" height=3D"45" style=3D"border-width:0;"/>
+                             =20
+                             =20
+														</td>
+                                                    </tr>                  =
+                             =20
+                                            </table>
+                                        </td>
+                                    </tr>
+       =20
+                                </table>    =20
+                            </td>
+                        </tr>=09
+                        <!-- nl-jobs-list Ende-->
+            		         =20
+                     <!-- nl-jobmail-anpassen Start-->
+            <tr bgcolor=3Dffffff>
+              <td class=3D"two-column nl-jobmail-modify nl-jobmail-modify-2=
+" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;te=
+xt-align:left;font-size:0;background-color:#ffffff;background-image:none;ba=
+ckground-repeat:repeat;background-position:top left;background-attachment:s=
+croll;" ><!--[if (gte mso 9)|(IE)]>
+                                <table width=3D"100%" style=3D"border-spaci=
+ng:0;font-family:verdana, helvetica, sans-serif;font-size:14px;border-colla=
+pse:collapse;table-layout:fixed;color:#c60000;" >
+                                    <tr>
+                                        <td width=3D"50%" style=3D"padding-=
+top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+                                <![endif]-->
+               =20
+                <div class=3D"column column1" style=3D"vertical-align:top;d=
+isplay:inline-block;width:100%;max-width:300px;" >
+                  <table width=3D"100%" style=3D"border-spacing:0;border-co=
+llapse:collapse;table-layout:fixed;" >
+                    <tr>
+                      <td class=3D"inner" style=3D"padding-top:20px;padding=
+-bottom:20px;padding-right:10px;padding-left:10px;text-align:center;" ><tab=
+le class=3D"contents" style=3D"border-spacing:0;border-collapse:collapse;ta=
+ble-layout:fixed;width:100%;color:#999999;font-size:12px;Margin:auto;" >
+                          <tr>
+                            <td style=3D"padding-top:0;padding-bottom:0;pad=
+ding-right:0;padding-left:0;" ><div class=3D"nl-bt-box" style=3D"padding-to=
+p:0px;padding-bottom:0px;padding-right:0;padding-left:0;width:100%;Margin-t=
+op:0;" >
+                                <table class=3D"nl-bt-table" style=3D"borde=
+r-spacing:0;border-collapse:collapse;table-layout:fixed;width:100%;height:3=
+5px;Margin-top:0; font-family:verdana, helvetica, sans-serif;">
+                                  <tr>
+                                    <td bgcolor=3D"#c60000" style=3D"paddin=
+g-top:0;padding-bottom:0;padding-right:0;padding-left:0;-webkit-border-radi=
+us:5px;-moz-border-radius:5px;border-radius:5px;display:block;transition-du=
+ration:0.2;" align=3D"center" height=3D"35"><a href=3D"http://link.jw.de/ls=
+/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhNkW0PVo5YQimxmkUY=
+4uSrhmKADHTIcbsrgO-2FHc-2Fm2MCnUq9ygBL0yk8y-2FHfFVwnJF9jGy7m61ux0fFAWaUI38d=
+Zl2-2BODgWUy-2BfrIGahUaYZW7Fz9BKUa69ZumgR1LQNE-3DYv9Z_7H2tvCCsb7ZLVNdm9RNUC=
+eC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sDZpoazQHbfQy=
+ck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuunDcipcYmcDt=
+ZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4=
+gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4vLVpVBGw-2Bs=
+ZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xDC2QoatlqS30pqzrmaDUpGLs3YV0-2Bqk=
+aEFIfYF-2BOH-2Fy5hvO9DtddbNCwfNHGIrXFDVTZrtozN-2Bw7K-2Fsq12xdJT4LzKBxOte1SS=
+VmjfXxKAZmKowD6k-2B-2Fpr8o3k3tbUrqdGzfHrjrk8VwZ5VzPIijKA-3D" target=3D"_bla=
+nk" style=3D"text-decoration:none; line-height:35px; width: 100%; display: =
+inline-block;"> <span class=3D"nl-bt-inner" style=3D"color:#ffffff; font-si=
+ze:16px; line-height:35px;">Jobs zum Profil</span></a></td>
+                                  </tr>
+                                </table>
+                              </div></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                </div>
+               =20
+                <!--[if (gte mso 9)|(IE)]>
+                                </td><td width=3D"50%" align=3D"right" styl=
+e=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+                                <![endif]-->
+               =20
+                <div class=3D"column column2" style=3D"vertical-align:top;d=
+isplay:inline-block;width:100%;max-width:300px;" >
+                  <table width=3D"100%" style=3D"border-spacing:0;border-co=
+llapse:collapse;table-layout:fixed;color:#999999;" >
+                    <tr>
+                      <td class=3D"inner" style=3D"padding-top:20px;padding=
+-bottom:20px;padding-right:10px;padding-left:10px;text-align:center;" ><tab=
+le class=3D"contents" style=3D"border-spacing:0;border-collapse:collapse;ta=
+ble-layout:fixed;width:100%;color:#999999;font-size:12px;Margin:auto;" >
+                          <tr>
+                            <td style=3D"padding-top:0;padding-bottom:0;pad=
+ding-right:0;padding-left:0;" ><div class=3D"nl-bt-box" style=3D"padding-to=
+p:0px;padding-bottom:0px;padding-right:0;padding-left:0;width:100%;Margin-t=
+op:0;" >
+                                <table class=3D"nl-bt-table" style=3D"borde=
+r-spacing:0;border-collapse:collapse;table-layout:fixed;width:100%;height:3=
+5px;Margin-top:0; font-family:verdana, helvetica, sans-serif;">
+                                  <tr>
+                                    <td bgcolor=3D"#c60000" style=3D"paddin=
+g-top:0;padding-bottom:0;padding-right:0;padding-left:0;-webkit-border-radi=
+us:5px;-moz-border-radius:5px;border-radius:5px;display:block;transition-du=
+ration:0.2;" align=3D"center" height=3D"35"><a href=3D"http://link.jw.de/ls=
+/click?upn=3DKRxHwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDh3WTKg2kBHgyjLgwgf=
+ezv-2FkADd_7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2=
+BmSD9zPuep75YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvd=
+kWHpX9j7BJ8PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxx=
+gZeEfdojFb-2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ=
+1WIJroqSk5mpj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xN=
+MHOSsZ-2BDt6nNm7XfT8VaoSD3POaz2Ex4sWr60-2BGSrVTckYWBkNKNxPW-2BmlgsDIsJRS4kZ=
+dmynPD7Msmcp7oQ4C4EuALv9YGC9tdGNIWB2mZ4pf64QdW6CvssNc5UERDeOpy1N88QaXDUsc0n=
+-2BWuPg-3D" target=3D"_blank" style=3D"text-decoration:none; line-height:35=
+px; width: 100%; display: inline-block;"> <span class=3D"nl-bt-inner" style=
+=3D"color:#ffffff; font-size:16px; line-height:35px;">Direkt zur Jobsuche</=
+span></a></td>
+                                  </tr>
+                                </table>
+                              </div></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                </div>
+               =20
+                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]--></td>
+            </tr>
+            <!-- nl-jobmail-anpassen Ende-->
+         =20
+
+                        <!-- nl-abbinder Start-->
+                        <tr>
+                        	<td class=3D"inner contents" bgcolor=3Dffffff styl=
+e=3D"padding: 15px 0px 20px 0px; font-family: sans-serif; font-size: 12px; =
+text-align: center;">
+                          	M=F6chten Sie k=FCnftig zu Ihrer Suche
+                           =20
+                              nach <b>innovation</b>
+
+
+                            vom 09.09.2020 um 16:18 Uhr
+                           =20
+                            keine weiteren Jobs erhalten, klicken Sie bitte=
+ hier: <br/>
+                            <a href=3D"http://link.jw.de/ls/click?upn=3DKRx=
+HwlR1yhKoRV-2FAdcpsrgLDHSVO2GlDb5gP34PeTDhUpAnFCoNLhF82nqfS0eSCR-2FPg-2FJyl=
+-2BcpQgq-2FmgMwXfjxRIJhvEE4cyrbZSVSiezUzBoYILI2WA2FS83BZ8xutE7ZU_7H2tvCCsb7=
+ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep75YHv0Oi3sD=
+ZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8PQObo8jMuu=
+nDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-2FMm1A6K7b=
+zEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5mpj-2BmLu4v=
+LVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xEEPcoKo4nN4HF9TKai0T6H=
+bYnA9pZtiYLa2jyBOxhweCZX3-2BVx9dRSPxrWtZfLdDx8yMQipQr2XR6l4NCjZEXF-2B9F-2BN=
+mcIdpqz5CRARPZTXhgClEGVonD7A-2Fz6HiKci5Ldo4-2B88ppmiS6SsqiZoZRs-3D" target=
+=3D"_blank" style=3D"color:#c60000; font-weight: bold;">Suchprofil l=F6sche=
+n</a>
+                          </td>
+                        </tr>
+                        <!-- nl-abbinder Ende-->
+
+                    </table>
+                </td>
+            </tr>
+
+            <!-- nl-footer Start-->
+            <tr>
+                <td class=3D"one-column nl-footer" >
+                    <table width=3D"100%" >
+                        <tr>
+                            <td class=3D"inner contents" style=3D"padding-t=
+op: 5px; font-family: sans-serif; font-size: 12px; text-align:center;">
+                                <div>Frankfurter Allgemeine Zeitung GmbH</d=
+iv>
+<div>Hellerhofstra=DFe 2-4</div>
+<div>60327 Frankfurt am Main</div>
+<div>Tel.: 0049 (0)69 7591-0</div>
+<div>E-Mail: Info@faz.net</div>
+<div>Handelsregister: HRB 7344</div>
+<div>Amtsgericht Frankfurt am Main USt.-IDNr.: DE 114 232 723</div>
+<div>Steuer-Nr.: 045 227 77055</div>
+<div>Gesch=E4ftsf=FChrer:</div>
+<div>Thomas Lindner (Vorsitzender), Dr. Volker Breid</div>
+<div><a href=3D"http://link.jw.de/ls/click?upn=3Dc98j2ZnFMkICvcbB-2BZDZk7uF=
+Vjs694mw0vKXW-2BDpKzHu8wpUimubvHfeK0Y9oNd7gGY4ztkH3mTTDpuyNkkSNA-3D-3D1Gx5_=
+7H2tvCCsb7ZLVNdm9RNUCeC0QNcZb1e4RdP-2FQZZ22u7vOUWFkhcWzqgIcFqH-2BmSD9zPuep7=
+5YHv0Oi3sDZpoazQHbfQyck-2BBmt-2FO1-2BXMZii7SY2Q9y3Ve5NvrqT7n6fvdkWHpX9j7BJ8=
+PQObo8jMuunDcipcYmcDtZU9VFc-2Fo9Ku6CwFxdSe6YDX-2BOjJ7ihYMCJvIAxxgZeEfdojFb-=
+2FMm1A6K7bzEgvUDDEGf4gld0RGp4r5y50YJjjvx5Cd3FhBOwquE8EZ-2Bt4WYmZ1WIJroqSk5m=
+pj-2BmLu4vLVpVBGw-2BsZhV8KeMXGMKoP4GliWEJX80efh9uiT0JoZs1UM8b4xDnvqO4xxB5Cg=
+PTSTQbEJkbGs2Kg1JxJAwTCVXP5PY4MOMD2SwIRuEO5Rus0xQfYOLjCJHu25pPRo2R4cgttUuYH=
+yQ-2F9qte-2FyTftopuoaNB36bS-2FGOSNLBo2Q-2B99IkP4PcRy9v08FQwSWDBrpRvm7ZI-3D"=
+ class=3D"footerLinks">Datenschutzerkl=E4rung</a></div>
+							</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- nl-footer Ende-->
+
+        </table>
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+
+    </div>
+</center>
+<img src=3D"http://link.jw.de/wf/open?upn=3DETM1ECJ550WL7lrADCKkJcnSZy8KN-2=
+B81coIIePbDIhVitkR6wDrPlG-2BAqOXWomCT8Dqf8l4diq1tfnwyglxmcv2ypQlRRD-2FmoW9I=
+Gz3Y-2FXulRGfVaIFBNskhXvLkiJ9MHF7w3WoUfHCTsPAMPbx-2FjDvxScZX8BoXSyjVygD9sKE=
+Dnp1FcOds-2BHsj-2B-2FAnCKe-2FGmQxQy1aKR4QKJwMYk3DFFv7KLt1yXe5OmBfhC2V-2B0-2=
+F7df9P2NSE4K9rhzhtRRDZ1z30YKViAwXYjX1nMmugoj-2B-2BYMrTAKLJx4A84V2U2zE1snz0Y=
+YKhgRcsJDS7ubvDrUh6au-2B3XnbewwPUB6natogHtHOVyimurXF5fYydQQUApzHqF8xz8wElbT=
+K4CQzXZ6jv-2BOQ9dL-2BaUgSHCCqQw8dHTP4zd3olGtjurnwA5LZ9Twn-2Fj4wlKmtwDURbJw4=
+yU9ipE3ze0gc12LtIqGPsZ1QmUPSoRS1iGgw0lFBuQicExeZa6BU7Xkp2KvSEtIWL" alt=3D""=
+ width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;"/></body>
+</html>
+------=_Part_187675_866291576.1601435392576--
+
+------=_Part_187674_884513757.1601435392576--
