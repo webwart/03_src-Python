@@ -34,8 +34,6 @@ def write_f_inSubDir(prevLastLine  , b_line , lineBlock):
     with open(file, 'w') as nf:
         nf.write(lineBlock)
 
-
-
 def read_f_all(f): 
     ''' Reads and returns the content in a list '''
     pass

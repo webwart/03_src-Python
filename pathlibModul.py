@@ -35,6 +35,8 @@ print("::: List subdirectories :::")
 p = Path('.')
 print([x for x in p.iterdir() if x.is_dir()])
 
+print([x for x in p.iterdir() if x.is_file()])
+
 #
 # Listing Python source files in this directory tree, where this file stored)
 #

@@ -312,7 +312,7 @@ Sion-Desk - I will install both software. Both might also be availabe as protabl
 
 Created directroy for excises from the book Programming Python from Mark Lutz (Calibre). I learned today how to use the interactive window and jupyther notbook in VScode. 
 
-C:\Users\Public\03_src\python\Book-LearningProgrammingPython
+C:\Users\Public\03_src\python\Topics\Book-ProgrammingPython
 
 ### Tue 24-11-2020
 -1- Another eMail read article: https://murhabazi.com/read-emails-python/
@@ -327,3 +327,6 @@ PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wi
 ### THU 27-11-2020
 -1- Refactoring and documention of template.py. I started adding type hints. I found links to python documentation advices on realpython. 
 >N: Get a set-up to learn the use of docstrings with python.
+
+### SAT 05-12-2020
+-1- I did change/create the files fileDir_Get and filedDir_Set. I use pathlib to create files and directories and get a list of file tree.

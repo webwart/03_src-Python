@@ -146,13 +146,16 @@ def write_jsonFile_CorrectedDictios(subDir , filename_CorDictio , list_w_correct
     
     return f"I wrote the above content to {filename_CorDictio}"
 
-def fn_timestemp( io_tag , part_1 , extension):
-    ''' return: string , to be used as filename
-        import: from datetime import datetime
-        part_1:  <yymmdd>_<part_1>_<source>.<ext>
-        extension:  extension of the filename. e.g.  .rst , .txt , .md
-        The function creates a timestemp string.
-    '''
+def fn_timestemp( io_tag: str , part_1: str , extension: str) -> str:
+    """[summary]
+    return: string , to be used as filename
+    import: from datetime import datetime
+    part_1:  <yymmdd>_<part_1>_<source>.<ext>
+    extension:  extension of the filename. e.g.  .rst , .txt , .md
+    The function creates a timestemp string.
+    :return: [description]
+    :rtype: str
+    """        
     now = datetime.now()
     fn_timestemp = now.strftime("%y%m%d-%H%M")
     fn_center = part_1
@@ -240,5 +243,4 @@ def main():
 
     write_jsonFile_CorrectedDictios(dn_Data , fn_dictioJson_JobLinkCorrect , list_correctDictios_Joblinks )
 
-if __name__ == "__main__":
-    main()
+                    

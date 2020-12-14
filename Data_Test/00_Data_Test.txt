@@ -1,0 +1,4 @@
+# Data_Test - to practice programming
+
+>Ref:  PUB\04_dev\02_eMail-Parser\eMail-Data
+>Ref:  PUB\01_data

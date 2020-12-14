@@ -1,6 +1,4 @@
-This is 6th lineno no no no no no This is 6th lineno no no no no no This is 6th line
-no no no no no no This is 6th line
-no\ no\ no\ no\ no\ no\ This is 6th line
+This is 6th line
 no 
  no 
  no 
@@ -8,6 +6,13 @@ no
  no 
  no 
  This is 6th line
+no 
+ no 
+ no 
+ no 
+ no 
+ no 
+ APPEND - This is 6th line
 no 
  no 
  no 

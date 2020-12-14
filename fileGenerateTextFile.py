@@ -30,9 +30,9 @@ print ("Name of the file: ", fo.name)
 # This is 4th line
 # This is 5th line
 
-str = "This is 6th line\n"
+str = "APPEND - This is 6th line\n"
 # Write a line at the end of the file.
-line = fo.write( str )
+fo.write( str )
 
 # Now read complete file from beginning.
 
