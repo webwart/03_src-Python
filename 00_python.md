@@ -330,3 +330,4 @@ PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wi
 
 ### SAT 05-12-2020
 -1- I did change/create the files fileDir_Get and filedDir_Set. I use pathlib to create files and directories and get a list of file tree.
+
