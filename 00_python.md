@@ -49,7 +49,10 @@ In VScode I can try to use SQLtools.
 
 ## Structure and procedures
 
->SP:
+>SP: python environment
+use conda from CLI
+conda update --all # updates all packages in the current environment
+conda update       # updates the conda 
 
 ## Referennce
 
@@ -331,3 +334,5 @@ PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wi
 ### SAT 05-12-2020
 -1- I did change/create the files fileDir_Get and filedDir_Set. I use pathlib to create files and directories and get a list of file tree.
 
+### SAT 20-12-2020
+-1- Progressed nicely with realpython django tutorial: _awesome-website and _personal_portfolio.
