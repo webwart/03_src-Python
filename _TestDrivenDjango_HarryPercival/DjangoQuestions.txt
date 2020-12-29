@@ -1,0 +1,20 @@
+How can you enable filtering in Django ?
+Add a list_filter list.
+
+When customizing a form, what should you use to create groups ?
+False: field groups, group controls, 
+
+How can you enable search in Django ?
+Add a search field array.
+
+Which command line tool can you use to create users ?
+manage.py
+
+Which command line should you use to register the Track data type ?
+False: Admin.site.register(Track)
+
+Which keyword should you use to hide fields ?
+False: Hidden, None, 
+
+What is the simplest way to control a list display in Django?
+Override __str__

@@ -58,6 +58,8 @@ conda update       # updates the conda
 
 1. PUB\Public\04_dev\01_DevOps contains the set-up information for my Conda VScode Numpy Django Sphinx environment.
 2. [Data Structures & Algrorithm](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) -> Data Structures and Algorithms - teaches classes , linked lists
+3. [Conda Documentation](https://docs.conda.io/en/latest/)
+4. Conda Cheetsheet C:/Users/raine/Downloads/conda-cheatsheet.pdf
 
 ## Journal
 
@@ -336,3 +338,19 @@ PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wi
 
 ### SAT 20-12-2020
 -1- Progressed nicely with realpython django tutorial: _awesome-website and _personal_portfolio.
+
+### SUN 27-12-2020
+-1- I finished _awesome-website. Here I have the links to the 3 Part Django tutorial. I would use it to translate into German and understand in Detail how it works.
+
+https://realpython.com/get-started-with-django-1/
+https://realpython.com/django-user-management/
+https://realpython.com/django-view-authorization/
+
+I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Details I find here.
+https://docs.djangoproject.com/en/3.1/releases/3.1/
+
+### TUE 29-12-2020
+
+-1- I further improved my Django set-up. TDD Django from Harry Percival. Furthermore, I installed Geckodriver in and selenium in the env_DjBs environment.
+
+>N: https://www.obeythetestinggoat.com/
