@@ -74,3 +74,7 @@ https://docs.djangoproject.com/en/3.1/howto/upgrade-version/
 
 -4- Downloaded geckodriver for win64 and placed it  env_NuDjBs/script folder. in same env i installed conda install selenium.
 
+### MON 02-01-2021
+
+-1-	Today I finished section 04. In VScode I start Django dev-server and can change html, thereafter test with test_functional, which is using selenium. I also learned that without running the Django dev-sever I can run test.py. The functional tests are interestig since I manupilate Firefox browser, which I might be able to use for job-workbench.
+>N: 
