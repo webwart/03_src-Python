@@ -78,3 +78,16 @@ https://docs.djangoproject.com/en/3.1/howto/upgrade-version/
 
 -1-	Today I finished section 04. In VScode I start Django dev-server and can change html, thereafter test with test_functional, which is using selenium. I also learned that without running the Django dev-sever I can run test.py. The functional tests are interestig since I manupilate Firefox browser, which I might be able to use for job-workbench.
 >N: 
+
+### MON 05-01-2021
+
+-1- Here another explanatinon how I can use functiona and unit test with Django server
+
+a) Django server running:
+I can start Django server and do a manuel test, then perform the functional test and the unit test.
+>ANKI: Django server , manual test (any browser), functional test (firefox) ,  unit test
+
+
+b) Django server stopped:
+When I stop the Djnago server I can **not** run the functional test, since it is like a user operating the webbrowser (in my set-up firefox). Since the Django server is not running the web-browser cannot connect to a web-site. Consequently, the test will fail with “Message: Reached error page: …. However the unit test (test.py) will still work.
+>ANKI: Django server , unit test
