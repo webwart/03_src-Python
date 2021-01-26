@@ -16,7 +16,8 @@ Goal:
 ----------------------------------------------
 
 Main goal is to advance with the TDD goat book from Harry.
-Learn the use of Django and Python.
+Learn the use of Django a
+nd Python.
 
 I created the /note/ directory where I have the code from TDD goat. I use there a locl git repo.
 Here I want to use github repo.
@@ -91,3 +92,7 @@ I can start Django server and do a manuel test, then perform the functional test
 b) Django server stopped:
 When I stop the Djnago server I can **not** run the functional test, since it is like a user operating the webbrowser (in my set-up firefox). Since the Django server is not running the web-browser cannot connect to a web-site. Consequently, the test will fail with “Message: Reached error page: …. However the unit test (test.py) will still work.
 >ANKI: Django server , unit test
+
+### FRI 22-01-2021
+
+-1- After almost two weeks I checked back and I almost remebered nothing. However, I found with >N where I left. I hope I can soon reserve time to pick up. 
