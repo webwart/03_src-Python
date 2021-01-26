@@ -35,7 +35,7 @@ file:///C:/Users/Public/Documents/PUB-Biblio/Doc-Django-Pyton/DjangoDoc/docs.dja
 
 
 
-SUN  23-12-2018
+### SUN  23-12-2018
 I did start the project mysite as shown in the Django documentation. The directroy structure is different comparing the VScode with the Django tutorial. Django tutorial:
 \mysite\
     db.sqlite3
@@ -71,7 +71,7 @@ manage.py
 I can work on the Django tutorial in the set-up shown above. 
 file:///C:/Users/Public/Documents/PUB-Biblio/Doc-Django-Pyton/DjangoDoc/docs.djangoproject.com/en/2.1/intro/tutorial02/index.html
 
-THU  03-01-2019
+### THU  03-01-2019
 I can start the application with this SP:
 CHANGE:  to \mysite\
 TYPE:   python manage.py runserver
@@ -79,14 +79,14 @@ OPEN:   bowser http://127.0.0.1:8000/polls/
 >N: 
 https://docs.djangoproject.com/en/2.1/intro/tutorial02/
 
-FRI 04-01-2019
+### FRI 04-01-2019
 BROWSER OPEN https://docs.djangoproject.com/en/2.1/intro/tutorial02/
 SCROLL TO   Creating an admin user¶
             First we’ll need to create a user who can login to the admin site. Run the following command:
 admin <> Nervi56-Ad
 
 
-SAT 05-01-2019
+### SAT 05-01-2019
 I learned that the admin superuser has immediately access to the data models created. The interface creates automatically web pages to add questions and choises. In addition I have the appy to automatically upload data on the command line.
 
 TYPE in the (env) bash shell in mysite. python manage.py runserver. This will keep the servr running and each time I save a file and I reload or load a new page. the changes are immediately visible. This speeds up things a lot !
@@ -95,24 +95,24 @@ I use render when I want to use a template. I use httpreponse, when I send text 
 
 https://docs.djangoproject.com/en/2.1/intro/tutorial03/#raising-a-404-error
 
-MON 07-01-2019 
+### MON 07-01-2019 
 I learned django.shortcuts provides the method render() and let_get_404errror(), which replaces try: catch:. These shortcuts are usefull, but hide a bit what is going on.
 https://docs.djangoproject.com/en/2.1/intro/tutorial03/#removing-hardcoded-urls-in-templates
 
-WED 09-01-2019
+### WED 09-01-2019
 I did not master the previous section, where the HTML forms are introduced. I need to redo it. However I will first finish the section below, since this might correct the errors I made before. (see 10-01-2019)
 https://docs.djangoproject.com/en/2.1/intro/tutorial04/#use-generic-views-less-code-is-better
 
-THU 10-01-2019
+### THU 10-01-2019
 07:45 I did correct the errors from yesterday. I forgot to save files and had the imports wrong. I did read ahead athe section about generic views. I will try it later today. I plan to keep the files with the non-generic-views and create new files for the generic-view code.
 
 https://docs.djangoproject.com/en/2.1/intro/tutorial04/#use-generic-views-less-code-is-better
 
-FRI 11-10-2019
+### FRI 11-10-2019
 I could do the changes for the generic view quiete easily, but my understanding of it is not very clear. 
 https://docs.djangoproject.com/en/2.1/intro/tutorial05/#writing-your-first-django-app-part-5
 
-SAT 12-10-2019
+### SAT 12-10-2019
 I can start the environement within VScode within a bash terminal. use
 source c:/Users/Public/src/djangoVSC_MMdoc/env/Scripts/activate
 once I am done I can close the env with deactivate.
@@ -124,36 +124,36 @@ https://developer.mozilla.org/en-US/ -> Nice Django and web technologies tutoria
 
 https://docs.djangoproject.com/en/2.1/intro/tutorial05/#test-a-view
 
-SUN 13-01-2019
+### SUN 13-01-2019
 I forgot almost the log-in for localhost/admin/  Here it is:  admin <> Nervi56-Ad
 
 I made could use the shell and run the tests as shown in the tutorial. However, when I changed the code in tests.py I could not successfully run the program.
 >N: correct the changes I made before
 https://docs.djangoproject.com/en/2.1/intro/tutorial05/#testing-the-detailview
 
-MON 14-01-2019
+### MON 14-01-2019
 Could not resolve the problem.
 
-TUE 15-01-2019
+### TUE 15-01-2019
 Could not resolve the problem
 
-WED 16-01-2019
+### WED 16-01-2019
 I could run the application. The indention in polls/veiws.py class IndexView def get_queryset(self) was wrong.
  However, I still have to tests, which fail. 
 >N: Try to use the debugger of VScode. Why are two tests failing ? Is this okay ?
 https://docs.djangoproject.com/en/2.1/intro/tutorial05/#testing-the-detailview
 
-SUN 20-01-2019
+### SUN 20-01-2019
 Only the test with future questions fail. I still have in the test.py in def create_question the object Question underlined in VScode.
 I could easily go throught the chapter with the static files. However, I selected the images such that I can hardly see the list of questions. Here it needs more estathics.
 >N: https://docs.djangoproject.com/en/2.1/intro/tutorial07/
 
-TUE  22-01-2019
+### TUE  22-01-2019
 
 In the admin.py file I can also change the appearance of the fields. It feels like I can this should be in the view.py file. However, I will accept that the admin.py file I can use to format appearance of the page. 
 >N: https://docs.djangoproject.com/en/2.1/intro/tutorial07/#adding-related-objects
 
-FRI  25-01-2019
+### FRI  25-01-2019
 I did finish the django tutorial. Now I am working on the advanced topics. I will learn how to package a django application. I do have pip and setuptools installed, which are prerequisits for the following tutorial.
 
 
@@ -162,12 +162,12 @@ https://docs.djangoproject.com/en/2.1/intro/reusable-apps/#packaging-your-app
 
 source c:/Users/Public/src/djangoVSC_MMdoc/env/Scripts/activate
 
-TUE 05-02-2019
+### TUE 05-02-2019
 I plan to transfer the poll application on an uberspace account. I can build on this tutorial.
 https://lab.uberspace.de/guide_django.html
 
 
-MON 19-02-2019
+### MON 19-02-2019
 I decided to install java 11 and Mavaon on Naples. Accordingly, I added all VScode extensions offered for Java Development. I can use java and spring to learn how to publish on Azure. However, at this stage I need to understand the following results.
 
 $ java -version
@@ -185,7 +185,7 @@ Java version: 11.0.2, vendor: Oracle Corporation, runtime: C:\Program Files\Java
 Default locale: de_CH, platform encoding: Cp1252
 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
-WED 20-02-2019
+### WED 20-02-2019
 -1- Python¦Uberspace¦Django
 To activate the environment for python and Django, I 
 .> cd Django/env/bin/
@@ -202,7 +202,7 @@ Django docs set-up: mysite (project) and polls-app are on different levels
 
 ENTER:  hyb <> t uttle ; rak <> o lbers ; web <> w olf
 
-# SAT  23-02-2019
+### SAT  23-02-2019
 
 Set-up of Django did not work. Might the 
 https://lab.uberspace.de/guide_django.html
@@ -212,7 +212,7 @@ curl -I localhost:62252
 When I used the description provided by uperlabs. Thinks worked out.
 
 
-# SAT 09-03-2019
+### SAT 09-03-2019
 
 -1- DevOps¦
 I numbered my files for development.
@@ -221,5 +221,5 @@ I numbered my files for development.
 In usgw\MyDjangoProject.ini I changed to
 http = 0.0.0.0:62252
 
-# SAT 14-04-2019
+### SAT 14-04-2019
 In the future I might switch from src to jnb director. I need to learn if I need to open a folder or workbench.
