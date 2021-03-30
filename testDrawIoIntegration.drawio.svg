@@ -1,0 +1,92 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="601px" height="415px" viewBox="-0.5 -0.5 601 415" content="&lt;mxfile&gt;&lt;diagram id=&quot;X5q7bf8NwnInSL1QefuX&quot; name=&quot;Page-1&quot;&gt;7Zpdb5swFIZ/TS43Yb7SXjYfay+2m7XSrt3ggDWDmTlpyH79jsGEUIiSSoFOIVGk4Bd/4Of18YmVTJx5nD8qmkY/ZMDExLaCfOIsJrZNLNfDD63sSuWO3JdCqHhgKtXCM//LqpZG3fCAZY2KIKUAnjbFlUwStoKGRpWS22a1tRTNUVMaspbwvKKirf7iAURmFva01p8YD6NqZOKb+cW0qmxmkkU0kNsDyVlOnLmSEsqrOJ8zoeFVXMp2347c3T+YYgmc08AuG7xRsTFzM88Fu2qy24gDe07pSpe3aOjEmUUQCywRvKRZWiJe85xhr7M1F2IuhVRFc8e36D2Zop6Bkr/ZwR17MfUtS7eQCRzo6+KFupJAgcsEZVf3YJ6VKWD50fmSPUVcfkzGDNQOq5gGe/Bm5RHXlLe1j8Q3WnToYSVSs3bCfd81XrwwhLtpOx20fQEGgV6JJWVU/2z0Epg9UkVjmQS10jCnEnXzL1kRJw9YwfbS/LCFH+rPZQJM4d0XlkM1Lj5xOXRZpWU+6LoNv5s2JjJh7zw3EhU81M4JttY9aNc4RtCDkWMeBHqQWdfyUnKTBHoxLazL2O41XXf8tuu225fr7ukYw20g1ZdAXwsoB7y7+GRAFZhtURPCfQ4oT5gybVZSCJpmvOisrBFxEXynO7mBapiqdAm+LnkH2B4SsHc+YJwScCp+4pZFk/Ac1m2WgZLpC1UhAyOkkuvQWr4hrcxoHREBMjU3y5goLl8lgIxNQRkw+04LKN4M34hpbn31Jh7OZo5lUpfxrasr3EMTjE5cCLoPRjPYsuxsg91ug08Z6F7AP7/l3xPX+1TEFLuok8W3AVo7KZHJWhT5N8L9iCWXMO4s2t5J2l1J6BKwp/0Gy3+POG/iHYD43Y140aAjJ/SF/P6GvGhwNxzy6hvALQv3kIV3TZ+GSMqEjCWGiNUNfYigOeP8fd2Qh0/HpOsUPkbmQyZk8oFD8HVDHzIl3w7GvafkDjv7S8ntg/K1BtHnnY/JaA7IxyB/QkoezRH5BPNBU/JoDsmnoA+Ykit/bym5v5TcFUS95WR7NMdk+8gX2yGiZjTH5GOQh8/JnT9Wj5H5kDn5I78VXzf0/nIyFuv/1xT3Dv6l5Cz/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="170" y="33" width="160" height="160" fill="#60a917" stroke="#2d7600" transform="rotate(47,250,113)" pointer-events="all"/>
+        <rect x="0" y="253" width="240" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 238px; height: 1px; padding-top: 333px; margin-left: 2px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font face="Garamond" style="font-size: 25px">
+                                    Enter Text
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="337" fill="#000000" font-family="Helvetica" font-size="12px">
+                    Enter Text
+                </text>
+            </switch>
+        </g>
+        <rect x="360" y="213" width="240" height="160" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 360 253 L 600 253" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 293 L 600 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 333 L 600 333" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 420 213 L 420 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 480 213 L 480 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 540 213 L 540 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 213 M 600 213 M 600 253 M 360 253" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="360" y="213" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 213 M 420 213 M 420 253 M 360 253" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 233px; margin-left: 361px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; max-height: 36px; overflow: hidden; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Hi There
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="390" y="237" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Hi There
+                </text>
+            </switch>
+        </g>
+        <rect x="420" y="213" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 420 213 M 480 213 M 480 253 M 420 253" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="480" y="213" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 480 213 M 540 213 M 540 253 M 480 253" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="540" y="213" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 540 213 M 600 213 M 600 253 M 540 253" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 253 M 600 253 M 600 293 M 360 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="360" y="253" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 253 M 420 253 M 420 293 M 360 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="253" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 420 253 M 480 253 M 480 293 M 420 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="480" y="253" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 480 253 M 540 253 M 540 293 M 480 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="540" y="253" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 540 253 M 600 253 M 600 293 M 540 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 293 M 600 293 M 600 333 M 360 333" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="360" y="293" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 293 M 420 293 M 420 333 M 360 333" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="293" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 420 293 M 480 293 M 480 333 M 420 333" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="480" y="293" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 480 293 M 540 293 M 540 333 M 480 333" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="540" y="293" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 540 293 M 600 293 M 600 333 M 540 333" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 333 M 600 333 M 600 373 M 360 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="360" y="333" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 333 M 420 333 M 420 373 M 360 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="333" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 420 333 M 480 333 M 480 373 M 420 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="480" y="333" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 480 333 M 540 333 M 540 373 M 480 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="540" y="333" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 540 333 M 600 333 M 600 373 M 540 373" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
