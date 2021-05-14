@@ -23,16 +23,12 @@ When I push to gitlab I need to give credentials: r.w@hot.ch 56-Gi
 
 - SQL databases
 
-To work with data in the SQL databases I need SQL clients: 
+To work with data in the SQL databases I need SQL clients:
 
-SQLite database is ideal for local development. To see the data I use SQLiteDatabaseBrowserPortable
-
-MySQL is use with Wordpress. To see the data I use SQLuirrel
-
-MS SQL Server is use for .NET core development. To see the data I use MS SQL studio.
-
-In VScode I can try to use SQLtools.
-
+- SQLite database is ideal for local development. To see the data I use SQLiteDatabaseBrowserPortable
+- MySQL is use with Wordpress. To see the data I use SQLuirrel
+- MS SQL Server is use for .NET core development. To see the data I use MS SQL studio.
+- In VScode I can try to use SQLtools.
 
 ## Getting started
 
@@ -51,9 +47,12 @@ In VScode I can try to use SQLtools.
 ## Structure and procedures
 
 >SP: python environment
+
+``` text
 use conda from CLI
 conda update --all # updates all packages in the current environment
 conda update       # updates the conda 
+```
 
 ## Referennce
 
@@ -96,11 +95,11 @@ I go throught the files update them and evaluate how to organize them in the fut
 
 ### MON  02-03-2020
 
--1- Python system wide
+-1- Python system wide  
 I added python 3.7 to Sion-Desk. I can use py launcher to switch between 3.7 and 3.8 on the command line. VScode does also recognize the 3.7.
 I learned to update python with patches and add new minor versions.
 
--2- Reevalutaion¦new Header
+-2- Reevalutaion¦new Header  
 Advanced further and delete some files.
 >N: Pandas_Edx.py --OKAY--
 
@@ -321,40 +320,45 @@ Created directroy for excises from the book Programming Python from Mark Lutz (C
 C:\Users\Public\03_src\python\Topics\Book-ProgrammingPython
 
 ### Tue 24-11-2020
--1- Another eMail read article: https://murhabazi.com/read-emails-python/
--2- Refactored the names of files and directories in 03_src/python 
+
+-1- Another eMail read article: [eMail Read](https://murhabazi.com/read-emails-python/)
+-2- Refactored the names of files and directories in 03_src/python.
 
 ### THU 26-11-2020
--1- How to use PyQt  by HEISE https://www.heise.de/ratgeber/Programmieren-mit-Python-Bedienoberflaeche-via-PyQt-erstellen-4949489.html  . Downloaded article .pdf and .docx.
-PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wird. Es gibt noch GTK, aber es wird nicht von allen Sprachen unterstüzts. Eclipese benute SWT, was ein angepasstes Swing ist, Swing sollte aber JavaFX ersetzt werden. Kivy is a GUI framework for python for touch devices.https://dev.to/amigosmaker/pyqt-vs-kivy-german-5483 And then is python and electron combinatoin see: https://www.ahmedbouchefra.com/connect-python-3-electron-nodejs-build-desktop-apps/
 
--2- Bodo Schoenfeld Blog offers good help for python MS-Access, Qt, and reading data and more. https://bodo-schoenfeld.de/python/
+-1- How to use [PyQt HEISE](https://www.heise.de/ratgeber/Programmieren-mit-Python-Bedienoberflaeche-via-PyQt-erstellen-4949489.html)  . Downloaded article .pdf and .docx.
+PyQt is open source.  Es gibt noch PySide was von der Qt Company unterstützt wird. Es gibt noch GTK, aber es wird nicht von allen Sprachen unterstüzts. Eclipese benute SWT, was ein angepasstes Swing ist, Swing sollte aber JavaFX ersetzt werden. Kivy is a GUI framework for python for touch devices. [Kivy](https://dev.to/amigosmaker/pyqt-vs-kivy-german-5483) And then is python and electron combinatoin see: [python electron](https://www.ahmedbouchefra.com/connect-python-3-electron-nodejs-build-desktop-apps/)
+
+-2- Bodo Schoenfeld Blog offers good help for python MS-Access, Qt, and reading data and more. [MS-Access and python](https://bodo-schoenfeld.de/python/)
 
 ### THU 27-11-2020
--1- Refactoring and documention of template.py. I started adding type hints. I found links to python documentation advices on realpython. 
+
+-1- Refactoring and documention of template.py. I started adding type hints. I found links to python documentation advices on realpython.  
 >N: Get a set-up to learn the use of docstrings with python.
 
 ### SAT 05-12-2020
+
 -1- I did change/create the files fileDir_Get and filedDir_Set. I use pathlib to create files and directories and get a list of file tree.
 
 ### SAT 20-12-2020
--1- Progressed nicely with realpython django tutorial: _awesome-website and _personal_portfolio.
+
+-1- Progressed nicely with realpython django tutorial: awesome-website and _personal_portfolio.
 
 ### SUN 27-12-2020
+
 -1- I finished _awesome-website. Here I have the links to the 3 Part Django tutorial. I would use it to translate into German and understand in Detail how it works.
 
-https://realpython.com/get-started-with-django-1/
-https://realpython.com/django-user-management/
-https://realpython.com/django-view-authorization/
+[Get started Django, realpython](https://realpython.com/get-started-with-django-1/)
+[User management Django, realpython](https://realpython.com/django-user-management/)
+[View authorization, realpython](https://realpython.com/django-view-authorization/)
 
-I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Details I find here.
-https://docs.djangoproject.com/en/3.1/releases/3.1/
+I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Details I find [here](https://docs.djangoproject.com/en/3.1/releases/3.1/)
 
 ### TUE 29-12-2020
 
 -1- I further improved my Django set-up. TDD Django from Harry Percival. Furthermore, I installed Geckodriver in and selenium in the env_DjBs environment.
 
->N: https://www.obeythetestinggoat.com/
+>N: [Obey the testing goat](https://www.obeythetestinggoat.com/)
 
 ### TUE 07-05-2020
 
