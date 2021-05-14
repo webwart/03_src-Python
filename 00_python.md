@@ -11,7 +11,8 @@ This is the top-directory of my python code learning area. The first 4 month of 
 
 ## Set-up
 
-- python system-wide uses python 3.8.
+- Naples-Desk has conda env py3p8
+- python system-wide uses python 3.8., -> currently not available
 - python user Sion-Desk/RAI has access to my favorite Conda-VScode-Numpy-AI-Django-Sphinx ***env_numAiDjango** environment. See Reference 1. details.
 - use Git with [remote repository](https://github.com/webwart/03_src-Python) , keepass r.w at hm.ch - N56 - Gi
 - I FSY  between Sion-Desk and A500GbSaT3, but not with Naples-Lab
@@ -354,3 +355,8 @@ https://docs.djangoproject.com/en/3.1/releases/3.1/
 -1- I further improved my Django set-up. TDD Django from Harry Percival. Furthermore, I installed Geckodriver in and selenium in the env_DjBs environment.
 
 >N: https://www.obeythetestinggoat.com/
+
+### TUE 07-05-2020
+
+-1- Created new conda environment with python 3.8.8 named py3p8
+>N: Add Sphinx, Django, numpy etc. to env py3p8
