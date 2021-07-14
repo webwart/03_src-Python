@@ -29,3 +29,7 @@ for n in range(1 , 2):
                         print("Move this block in")     # Shift + Tab
         print("Replace n with x")    #   CTRL + h     
         print("Add all occurences" + "chamgeMe")    #  CTRL + D
+
+
+# %%
+
