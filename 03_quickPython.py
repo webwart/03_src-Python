@@ -22,9 +22,9 @@ for n in range(1 , 2):
     print("Swith from a file open in VScode to angother")       # CONTRL + Tab
     print("Add all occurences" + "chamgeMe")    #  CTRL + D  adds a curser a next occurence and moves it to the end.
     print("Add all occurences" + "chamgeMe")    #  CTRL + D
-    print("Move this line up or down" + n) # I can move line up or down with Alt + arrow key
-                    print("Move this block out") # Ctrl + Tab     
-                    print("Move this block out") # Ctrl + Tab
+    print("Move this line up or down" + n)      # I can move line up or down with Alt + arrow key
+    print("Move this block out")                # Ctrl + Tab     
+    print("Move this block out") # Ctrl + Tab
                         print("Move this block in")    # Shift + Tab
                         print("Move this block in")     # Shift + Tab
         print("Replace n with x")    #   CTRL + h     
