@@ -25,11 +25,11 @@ for n in range(1 , 2):
     print("Move this line up or down" + n)      # I can move line up or down with Alt + arrow key
     print("Move this block out")                # Ctrl + Tab     
     print("Move this block out") # Ctrl + Tab
-                        print("Move this block in")    # Shift + Tab
-                        print("Move this block in")     # Shift + Tab
-        print("Replace n with x")    #   CTRL + h     
-        print("Add all occurences" + "chamgeMe")    #  CTRL + D
+    print("Move this block in")    # Shift + Tab
+    print("Move this block in")     # Shift + Tab
+    print("Replace n with x")    #   CTRL + h     
+    print("Add all occurences" + "chamgeMe")    #  CTRL + D
 
 
-# %%
+
 
