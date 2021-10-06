@@ -4,13 +4,15 @@
 #  Porject: LEARN - template to read files and save file in the Data_Test or Data_Real directory. 
 #         : The files names can be defined with the fn_timestamp function, which takes io-tag, filename, file-extension
 #   Author: Rainer Warth
-#  Version: 26-11-2020 Previous: -- First: --
+#  Version: 06-10-2021 Previous: -- First: --
 #    Goals: Create a very generic template for reading and saving files to the data directory.
 #      Ref: https://realpython.com/documenting-python-code/
 #      Ref: https://realpython.com/lessons/type-hinting/
 #      Ref: https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc
 #    Satus: runs - <bug (false output , script does not run)> - <broken (link, module, file is missing)> 
 #    Satus: runs (use VScode Outline to refactor)
+#   DevOps: Installed python 3.10 on Naples-Lap. I can use python for 3.9 and py for 3.10. Github repo. FSY vio github.
+#   Tested: Win10 Python 3.9
 #       >N: Refactor functions remove not needed functions, introduce type hints
 
 import pathlib as pl
