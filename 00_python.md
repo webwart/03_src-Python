@@ -364,3 +364,7 @@ I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Detai
 
 -1- Created new conda environment with python 3.8.8 named py3p8
 >N: Add Sphinx, Django, numpy etc. to env py3p8
+
+### TUE 07-05-2020
+
+-1- Installed python 3.10 on Naples-Lap. I can use python for 3.9 and py for 3.10 and created newFeaturesPy3p10.py and newFeaturesPy3p9.py
