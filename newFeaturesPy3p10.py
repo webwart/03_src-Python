@@ -18,6 +18,17 @@
 #  Brandt Bucher
 
 
+def doIt():
+
+    user = { "name": {"first": "Pablo", "last": "Galindo Salgado"},
+            "title": "Python 3.10 release manager",
+            }
+
+    match user:
+        case {"name": {"first": first_name}}:
+            pass
+
+    print(first_name)
 
 if __name__ == '__main__':
-  
+    doIt()
