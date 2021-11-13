@@ -368,3 +368,14 @@ I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Detai
 ### TUE 07-05-2020
 
 -1- Installed python 3.10 on Naples-Lap. I can use python for 3.9 and py for 3.10 and created newFeaturesPy3p10.py and newFeaturesPy3p9.py
+
+### TUE 09-11-2021
+
+-1- Documentation ¦ I am cleaning out old pyhton Video class from Eric Camlin. I can probably find them on EDX. I  used the classes in 2018.
+[Robust Python, Eric Camplin,edx](https://coursesplanet.com/courses/introduction-to-python-creating-scalable-robust-interactive-code)
+
+### TUE 09-11-2021
+-1- April moved for luxury fashion to Python coding. 
+[https://www.vogueandcode.com/](https://www.vogueandcode.com/about)
+[Setting up VS Code for Python Beginners](https://www.youtube.com/watch?v=7FltByLPnrg)
+[ZoomIt, nice tool for demos](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
