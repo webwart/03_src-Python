@@ -13,6 +13,10 @@
 
 
 from selenium import webdriver
+import time
 
 browser = webdriver.Firefox()
-browser.get('http://seleniumhq.org/')
+browser.get('https://www.selenium.dev/')
+
+time.sleep(5)
+browser.quit()

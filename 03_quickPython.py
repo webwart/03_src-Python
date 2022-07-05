@@ -24,10 +24,8 @@ for n in range(1 , 2):
     print("Swith from a file open in VScode to angother")       # Ctrl + Tab
     print("Add all occurences" + "chamgeMe")    #  Ctrl + D  adds a curser a next occurence and moves it to the end.
     print("Move this line up or down" + n)      # I can move line up or down with Alt + arrow key
-    print("Move this block out")                # Ctrl + Tab     
-    print("Move this block out") # Ctrl + Tab
-    print("Move this block in")    # Shift + Tab
-    print("Move this block in")     # Shift + Tab
+    print("Move this block out") # Tab
+    print("Move this block in")  # Shift + Tab
     print("Replace n with x")    #   CTRL + h     
     print("Add all occurences" + "chamgeMe")    #  CTRL + D
     print("Comment out a code block with # before each line")       # Select code block ith mouse , Ctrl+ K , Ctrl + C

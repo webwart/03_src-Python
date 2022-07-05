@@ -379,3 +379,7 @@ I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Detai
 [https://www.vogueandcode.com/](https://www.vogueandcode.com/about)
 [Setting up VS Code for Python Beginners](https://www.youtube.com/watch?v=7FltByLPnrg)
 [ZoomIt, nice tool for demos](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+
+### TUE 06-07-2022
+
+-1- I prepare my set-up for youtube recordings. Have fun
