@@ -279,7 +279,7 @@ RST and asciidoctor(FX) and pandoc remain to be compared.
 -2- Found a nice way to compare see the parsing results in notepad+ using the RIGHT KLICk > "in zweite Ansicht verschieben"
 
 -2- In dictionaryJobUrl.py I have managed to have a list with dictionaries. Each dictionary represents a record.
->N-OKAY: Print the list nicely in to .json file -OKAY- 
+>N-OKAY: Print the list nicely in to .json file -OKAY-
 
 [linkToJson](https://moonbooks.org/Articles/How-to-save-a-dictionary-in-a-json-file-with-python-/)
 
@@ -315,7 +315,7 @@ Sion-Desk - I will install both software. Both might also be availabe as protabl
 
 ### SAT 21-11-2020
 
-Created directroy for excises from the book Programming Python from Mark Lutz (Calibre). I learned today how to use the interactive window and jupyther notbook in VScode. 
+Created directroy for excises from the book Programming Python from Mark Lutz (Calibre). I learned today how to use the interactive window and jupyther notbook in VScode.
 
 C:\Users\Public\03_src\python\Topics\Book-ProgrammingPython
 
@@ -375,7 +375,8 @@ I am using Django 3.1.xx ,which is different to 3.0 in the use of pathlib. Detai
 [Robust Python, Eric Camplin,edx](https://coursesplanet.com/courses/introduction-to-python-creating-scalable-robust-interactive-code)
 
 ### TUE 09-11-2021
--1- April moved for luxury fashion to Python coding. 
+
+-1- April moved for luxury fashion to Python coding.
 [https://www.vogueandcode.com/](https://www.vogueandcode.com/about)
 [Setting up VS Code for Python Beginners](https://www.youtube.com/watch?v=7FltByLPnrg)
 [ZoomIt, nice tool for demos](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
